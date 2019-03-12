@@ -1,14 +1,13 @@
 # Welcome to Star Sailors
 
-<div class="codegena_iframe"><iframe src="http://allianceofdroids.org.au/aod/star-sailorsembed/" height="353" width="600"  style="background:url('//codegena.com/wp-content/uploads/2015/09/loading.gif') white center center no-repeat;border:0px;"></iframe></div><style>.codegena_iframe{position:relative;padding-bottom:56.25%;height:0;overflow: hidden;max-width:100%;}.codegena_iframe iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style>
-
+<div class="codegena_iframe" data-src="https://allianceofdroids.org.au/aod/star-sailors-embed/" style="height:353px;width:600px;" data-responsive="true" data-img="http://blog.allianceofdroids.org.au/wp-content/uploads/2019/02/ACORD.v1.png" data-css="background:url('//codegena.com/wp-content/uploads/2015/09/loading.gif') white center center no-repeat;border:0px;"></div><script src="https://rawgit.com/shaneapen/Codegena/master/async-iframe.js"></script>
 
 
 # Header 1
 ## Header 2
 ### Header 3
 
-<div class="codegena_iframe"><iframe src="https://afl.com.au" height="235" width="400"  style="background:url('//codegena.com/wp-content/uploads/2015/09/loading.gif') white center center no-repeat;border:0px;"></iframe></div><style>.codegena_iframe{position:relative;padding-bottom:56.25%;height:0;overflow: hidden;max-width:100%;}.codegena_iframe iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style>
+
 
 - Bulleted
 - List
