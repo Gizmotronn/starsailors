@@ -2,6 +2,8 @@
 
 <div class="codegena_iframe"><iframe src="http://allianceofdroids.org.au/aod/star-sailorsembed/" height="353" width="600"  style="background:url('//codegena.com/wp-content/uploads/2015/09/loading.gif') white center center no-repeat;border:0px;"></iframe></div><style>.codegena_iframe{position:relative;padding-bottom:56.25%;height:0;overflow: hidden;max-width:100%;}.codegena_iframe iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style>
 
+<div class="codegena_iframe"><iframe src="https://afl.com.au" height="235" width="400"  style="background:url('//codegena.com/wp-content/uploads/2015/09/loading.gif') white center center no-repeat;border:0px;"></iframe></div><style>.codegena_iframe{position:relative;padding-bottom:56.25%;height:0;overflow: hidden;max-width:100%;}.codegena_iframe iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style>
+
 # Header 1
 ## Header 2
 ### Header 3
