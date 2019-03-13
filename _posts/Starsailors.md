@@ -62,7 +62,7 @@ In the manifest of a blog post, simply add an url as `image` and a CSS color as 
 ~~~yml
 layout: post
 title: Introducing Star Sailors
-image: https://qwtel.com/hydejack/assets/img/hyde.jpg
+image: http://blog.allianceofdroids.org.au/wp-content/uploads/2019/02/ACORD.v1.png
 color: '#949667'
 ~~~
 
