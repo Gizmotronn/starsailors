@@ -1,6 +1,6 @@
 ---
 title: Star Sailors
-image: /assets/img/blog/150914161740-09-ana-star-wars.jpg
+image: <img src="assets/img/blog/150914161740-09-ana-star-wars.jpg" alt="hi" class="inline"/>
 description: >
   ACORD Robotics is embarking on a science-filled gaming journey set in space full of Robots, Experiments, and star ship fun!
 published: true
