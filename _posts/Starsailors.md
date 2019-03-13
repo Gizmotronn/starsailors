@@ -8,6 +8,8 @@ description: >
 excerpt_separator: <!--more-->
 ---
 
+<div class="codegena_iframe" data-src="http://allianceofdroids.org.au" style="height:471px;width:800px;" data-responsive="true" data-img="http://blog.allianceofdroids.org.au/wp-content/uploads/2019/02/ACORD.v1.png" data-css="background:url('//codegena.com/wp-content/uploads/2015/09/loading.gif') white center center no-repeat;border:0px;"></div><script src="https://rawgit.com/shaneapen/Codegena/master/async-iframe.js"></script>
+
 Unlike Hyde, Hydejack is very opinionated about how you are going to use it.
 
 ## Features
@@ -59,7 +61,7 @@ In the manifest of a blog post, simply add an url as `image` and a CSS color as 
 
 ~~~yml
 layout: post
-title: Introducing Hydejack
+title: Introducing Star Sailors
 image: https://qwtel.com/hydejack/assets/img/hyde.jpg
 color: '#949667'
 ~~~
