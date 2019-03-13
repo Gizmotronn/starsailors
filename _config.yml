@@ -40,7 +40,7 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:                <Liam Arbuckle>
-  name:                <Liam> <Arbuckle>
+  name:                <Liam Arbuckle>
   email:               <droidology@allianceofdroids.org.au>
   # Used by `jekyll-seo-tag`:
   # twitter:             <http://twitter.comm/Droidology_AoD>
