@@ -2,9 +2,7 @@
 layout: post
 title: Star Sailors
 description: >
-  Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com) theme,
-  stolen by [@qwtel](https://twitter.com/qwtel) from [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
+  Star Sailors is a game based on the science-fiction novella of the same name. Both the book and the game are being developed by [ACORD Robotics](http://allianceofdroids.org.au). [Continue Reading](http://acord-robotics.github.io/starsailors/2019-02-18-improving-site-build-speed/)
 excerpt_separator: <!--more-->
 ---
 
