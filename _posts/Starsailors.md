@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Hydejack (v3)
+title: Star Sailors
 description: >
   Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com) theme,
   stolen by [@qwtel](https://twitter.com/qwtel) from [Hyde](http://hyde.getpoole.com).
@@ -9,55 +9,6 @@ excerpt_separator: <!--more-->
 ---
 
 <div class="codegena_iframe" data-src="http://allianceofdroids.org.au" style="height:471px;width:800px;" data-responsive="true" data-img="http://blog.allianceofdroids.org.au/wp-content/uploads/2019/02/ACORD.v1.png" data-css="background:url('//codegena.com/wp-content/uploads/2015/09/loading.gif') white center center no-repeat;border:0px;"></div><script src="https://rawgit.com/shaneapen/Codegena/master/async-iframe.js"></script>
-
-Unlike Hyde, Hydejack is very opinionated about how you are going to use it.
-
-## Features
-Features include:
-
-* Touch-enabled sidebar / drawer for mobile, including fallback when JS is disabled.
-* Github Pages compatible tag support based on [this post][tag].
-* Customizable link color and sidebar image, per-site, per-tag and per-post.
-* Optional author section at the bottom of each post.
-* Optional comment section powered by Disqus.
-* Layout for posts grouped by year
-* Wide array of social media icons on sidebar.
-* Math blocks via [KaTeX](https://khan.github.io/KaTeX/).
-
-<!--more-->
-
-**NOTE**: This post is outdated and only included for legacy reasons.
-See the [Documentation][docs]{:.heading.flip-title} for up-to-date instructions.
-{:.message}
-
-## Download
-Hydejack is developed on and hosted with GitHub. Head to the [GitHub repository](https://github.com/qwtel/hydejack)
-for downloads, bug reports, and feature requests.
-
-## Sidebar
-I love the original Hyde theme, but unfortunately the layout isn't as great on small screens.
-Since the sidebar moves to the top, the user has to scroll down just to read the title of a blog post.
-
-By using a drawer component I was able to retain the original two column layout.
-It's possible to move the drawer via touch input (with the help of a little JavaScript).
-
-Since the background image contributes to the feel of the page I'm letting it peek over the edge a bit.
-This also provides a hint to the user that an interaction is possible.
-
-## Manual
-
-### Configuration
-You can configure important aspects of the theme via
-[`_config.yml`](https://github.com/qwtel/hydejack/blob/v3/_config.yml).
-This includes:
-
-* the blog description in the sidebar
-* the (optional) author description and photo
-* default image and link color of the blog
-* the github and twitter usernames
-
-### How to Change the Image and Color of a Post
-In the manifest of a blog post, simply add an url as `image` and a CSS color as `color`:
 
 ~~~yml
 layout: post
