@@ -1,6 +1,6 @@
 ---
 title: Star Sailors
-image: http://blog.allianceofdroids.org.au/wp-content/uploads/2019/02/ACORD.v1.png
+image: /assets/img/blog/150914161740-09-ana-star-wars.jpg
 description: >
   ACORD Robotics is embarking on a science-filled gaming journey set in space full of Robots, Experiments, and star ship fun!
 published: true
