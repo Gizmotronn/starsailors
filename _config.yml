@@ -39,7 +39,7 @@ keywords:              []
 logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
-author:                <Liam Arbuckle>
+author:                <firstname> <lastname>
   name:                <Liam Arbuckle>
   email:               <droidology@allianceofdroids.org.au>
   # Used by `jekyll-seo-tag`:
