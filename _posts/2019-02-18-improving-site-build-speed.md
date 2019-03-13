@@ -1,5 +1,5 @@
 ---
-title: Welcome to Star Sailors
+title: StarSailors.md
 image: /assets/img/blog/wade-lambert.jpg
 description: >
   Hydejack 8.4.0 introduces new options to bring Hydejack's build time in line
