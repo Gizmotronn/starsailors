@@ -8,7 +8,7 @@ favicon: 'assets/images/logo.png'
 baseurl: '/template-pintereso-bootstrap-jekyll'
 avatar: 'assets/images/sal.jpg'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'droidology@allianceofdroids.org.au'
 
 include: ["_pages"]
 permalink: /:title/
