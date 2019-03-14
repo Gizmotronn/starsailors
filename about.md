@@ -14,8 +14,8 @@ My name is Liam & I'm the Chairman of ACORD Robotics.
 [Code Repo](http://github.com/acord-robotics/starsailors)
 [Python tutorials](http://irisdroidology.github.io/droidos-python)
 [DroidOS Portal](http://allianceofdroids.org.au/aod/star-sailors/droidos/)
-[Star Sailors Planning](http://acord-robotics.github.io/star-sailors/planning)
-
+[Star Sailors Planning](http://acord-robotics.github.io/starsailors/planning)
+					    
 
 # ACORD Robotics
 Founded in December 2015, ACORD (formerly known as the Alliance of Droids) is a company that creates robots and software for different uses. Our primary robotic projects are to do with exploration and improving the lives of those with disabilities. We have other, secondary projects. One of these is Star Sailors.
