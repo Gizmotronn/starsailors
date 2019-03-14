@@ -15,6 +15,7 @@ My name is Liam & I'm the Chairman of ACORD Robotics.
 [Python tutorials](http://irisdroidology.github.io/droidos-python)
 [DroidOS Portal](http://allianceofdroids.org.au/aod/star-sailors/droidos/)
 [Star Sailors Planning](http://acord-robotics.github.io/starsailors/planning)
+[DroidOS Rainmeter](http://github.com/acord-robotics/droidos-rainmeter)
 					    
 
 # ACORD Robotics
