@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 author1:
   name:              Liam Arbuckle
-  email:             droidology@allianceofdroids.org.au
+  email:             irisdroidology@allianceofdroids.org.au
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -31,7 +31,7 @@ author1:
   social:
     twitter:         Droidology_AoD
     github:          IrisDroidology
-    # email:           droidology@allianceofdroids.org.au
+    # email:           irisdroidology@allianceofdroids.org.au
     # rss:             https://<url>/feed.xml
     # facebook:        Droidology
     # google:          <number>
