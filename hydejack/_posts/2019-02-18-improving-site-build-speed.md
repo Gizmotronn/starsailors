@@ -1,8 +1,8 @@
 ---
 title: Improving Hydejack's Build Speed
-image: /assets/img/blog/wade-lambert.jpg
+image: /assets/img/blog/150914161740-09-ana-star-wars.jpg
 description: >
-  Hydejack 8.4.0 introduces new options to bring Hydejack's build time in line with other Jekyll themes. 
+  Star Sailors by ACORD 
 ---
 
 Hydejack was designed with personal sites in mind, i.e. sites with around 100 pages. Because of this, build speed hasn't been a major concern during its development. When attempting to use Hydejack with thousands of pages this becomes very apparent, as build times go from seconds, to minutes, to hours. 
