@@ -22,8 +22,8 @@ author1:
     path:            https://vignette.wikia.nocookie.net/starwars/images/e/eb/ArtooTFA2-Fathead.png/revision/latest?cb=20161108040914
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+      1x:            https://vignette.wikia.nocookie.net/starwars/images/e/eb/ArtooTFA2-Fathead.png/revision/latest?cb=20161108040914
+      2x:            https://vignette.wikia.nocookie.net/starwars/images/e/eb/ArtooTFA2-Fathead.png/revision/latest?cb=20161108040914
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -31,7 +31,7 @@ author1:
   social:
     twitter:         Droidology_AoD
     github:          IrisDroidology
-    # email:           <mail@domain.tld>
+    # email:           droidology@allianceofdroids.org.au
     # rss:             https://<url>/feed.xml
     # facebook:        Droidology
     # google:          <number>
@@ -42,17 +42,17 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
-    # flickr:          <string@string>
+    # instagram:       droidology
+    # flickr:          163063357@N08
     # 500px:           <username>
     # dribbble:        <username>
     # behance:         <username>
     # deviantart:      <username>
     # ello:            <username>
     # twitch:          <username>
-    # steam:           <number>
-    # reddit:          <username>
-    # tumblr:          <username>
+    # steam:           droidology
+    # reddit:          limodroid
+    # tumblr:          limodroid
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
@@ -66,7 +66,7 @@ author1:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    # download:        <url>
+    # download:        http://github.com/acord-robotics/
 
 # Another author (optional)
 author2:
