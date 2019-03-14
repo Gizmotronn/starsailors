@@ -40,7 +40,8 @@ logo:                  starsailors/assets/icons/favicon.ico
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  email:               irisdroidology@allianceofdroids.org.au
+  download: 		   http://allianceofdroids.org.au/aod/star-sailors/
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
