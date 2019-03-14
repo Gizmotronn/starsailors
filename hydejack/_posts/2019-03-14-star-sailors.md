@@ -2,7 +2,7 @@
 layout: post
 title: Star Sailors by ACORD
 description: >
-  Star Sailors by ACORD is based off of the Star Sailors novella. Welcome to our galaxy
+  Star Sailors by ACORD is based off of the Star Sailors novella. Welcome to our galaxy. [Star Sailors](http://acord-robotics.github.io/starsailors/hyperspace/)
 ---
 
 Star Sailors was designed to be the future of science fiction gaming!
