@@ -1,6 +1,5 @@
 ---
-title: Improving Hydejack's Build Speed
-image: /assets/img/blog/150914161740-09-ana-star-wars.jpg
+title: Welcome to Star Sailors
 description: >
   Star Sailors by ACORD 
 ---
