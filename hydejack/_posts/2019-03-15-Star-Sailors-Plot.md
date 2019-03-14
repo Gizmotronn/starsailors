@@ -1,5 +1,5 @@
 ---
-title: The Star Sailors Plot (Prologue to Chapter 2)
+title: The Star Sailors Plot (Part 1)
 image: /assets/img/blog/star-wars-cyberpunk-ap.jpg
 description: >
   The current stage of Star Sailors development is the novella. There are 2 version: the ACORD version and the public version. I'm going to talk about the plot of the public version today. I'm also going to talk about what gave me the idea to write about Star Sailors. I hope you enjoy!
@@ -14,5 +14,10 @@ Opus begins to think what he'll do when he sets foot on Earth again. But he neve
 
 Gilbert McInstay, a friend of Opus's, is named temporary 2IC (2nd in command)and discovers a message from an extraterrestrial being.
 
-While the recovery of the fleet is being attempted in what was once the Sol System, aliens on the planet Midgardia are debating the event in the Galactic Parliament - the Midgard Legacy.
+While the recovery of the fleet is being attempted in what was once the Sol System, aliens on the planet Midgardia are debating the event in the Galactic Parliament - the Midgard Legacy. After the senators elect to do something about the situation, the leader of the fleet sends a message to McInstay, which is where Chapter 1 ends. 
+
+While the chapter structure of Star Sailors starts at the beginning and ends at the end, some of the book is written in reverse chronological order (for example, chapter 2 and chapter 1).
+
+## Why did I start writing Star Sailors?
+### Walk along Fremantle
 
