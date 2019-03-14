@@ -19,11 +19,11 @@ author1:
 
   # This photo will be used in the about section
   picture:
-    path:            https://vignette.wikia.nocookie.net/starwars/images/e/eb/ArtooTFA2-Fathead.png/revision/latest?cb=20161108040914
+    path:            /assets/img/blog/Snipping Tool.PNG
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://vignette.wikia.nocookie.net/starwars/images/e/eb/ArtooTFA2-Fathead.png/revision/latest?cb=20161108040914
-      2x:            https://vignette.wikia.nocookie.net/starwars/images/e/eb/ArtooTFA2-Fathead.png/revision/latest?cb=20161108040914
+      1x:            /assets/img/blog/Snipping Tool.PNG
+      2x:            /assets/img/blog/Snipping Tool.PNG
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
