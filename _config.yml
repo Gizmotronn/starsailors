@@ -15,7 +15,7 @@ url:                   http://acord-robotics.github.io
 baseurl:               '/starsailors'
 
 # Language of your content in 2-letter code, e.g.: en, de.
-# You may also provide a location, e.g.: en-us, de_AT.
+# You may also provide a location, e.g.: en-us, de_AT.c
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
@@ -78,7 +78,7 @@ paginate_path:         /blog/page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          starsailors/assets/img/blog/150914161740-09-ana-star-wars.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
