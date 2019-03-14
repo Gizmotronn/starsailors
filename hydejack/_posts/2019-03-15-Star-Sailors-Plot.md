@@ -21,3 +21,4 @@ While the chapter structure of Star Sailors starts at the beginning and ends at 
 ## Why did I start writing Star Sailors?
 ### Walk along Fremantle
 
+![Full-width image](https://fremantlestuff.info/parks/img/SFFC.jpg){:.lead data-width="800" data-height="100"}
