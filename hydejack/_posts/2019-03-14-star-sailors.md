@@ -1,8 +1,8 @@
 ---
 layout: post
-title: JavaScripten (v6)
+title: Star Sailors by ACORD
 description: >
-  Hydejack v6 adds a layer of JavaScript, effectively turning the whole site into a single page app.
+  Star Sailors by ACORD is based off of the Star Sailors novella. Welcome to our galaxy
 ---
 
 Star Sailors was designed to be the future of science fiction gaming!
