@@ -44,6 +44,7 @@ author:
   download: 		   http://allianceofdroids.org.au/aod/star-sailors/
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
+  # dowloads:			http://github.com/acord-robotics/
 
 # Add links to the sidebar.
 menu:
