@@ -27,9 +27,8 @@ description:           >
   "Best Jekyll Theme by a Mile".
   **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
 # A shorter description for the sidebar.
-tagline:       Star Sailors        >
-  ACORD-Robotics\Star Sailors.
-  The game based on the book. Acord.allianceofdroids.org.au
+tagline:              >
+  Star Sailors
 # A list of keywords for your blog
 keywords:              []
 
@@ -51,8 +50,8 @@ menu:
     url:               http://allianceofdroids.org.au
   - title:             Github
     url:               http://github.com/IrisDroidology
-  - title:             Documentation
-    url:               /docs/
+  - title:             Home
+    url:               http://acord-robotics.github.io/starsailors/
   - title:             About
     url:               /about/
 
