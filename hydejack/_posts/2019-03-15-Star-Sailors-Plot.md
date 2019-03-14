@@ -25,4 +25,4 @@ While the chapter structure of Star Sailors starts at the beginning and ends at 
 
 Fremantle. The port of Western Australia. And until recently, a place I visited at least once a month (on the weekends) with my family. Whether it was for Pancakes at the Chalky's cafe in the morning, or a set of Spanish Donuts at San Churros, Fremantle was a time to walk and talk with the family (and recently, the dog, Elsie, who we insist on bringing with us for walks).
 
-![Full-width image](https://www.instagram.com/p/BqBddqdBxgY/?utm_source=ig_web_button_share_sheet)(:.lead data-width="800" data-height="100")
+![Full-width image](https://instagram.com/p/BpypSnTgukS/)(:.lead data-width="800" data-height="100")
