@@ -2,28 +2,24 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Liam Arbuckle
+  email:             droidology@allianceofdroids.org.au
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    My name is Liam Arbuckle, and I'm the current Chairman & Co-Founder of ACORD Robotics, an Australian Robotics company. I'm currently working on a bunch of cool things, including the Star Sailors novella/game series.
 
-    Open `_data/authors.yml` to edit this text.
-
-    [Download Free][kit]
+    [View my Website][kit]
     -- or --
-    [Buy PRO][buy]
+    [Check out DroidOS][buy]
 
-    [kit]: https://github.com/qwtel/hydejack-starter-kit/archive/v8.1.1.zip
-    [buy]: https://app.simplegoods.co/i/NATYVLYT
+    [kit]: http://liam.allianceofdroids.org.au
+    [buy]: http://allianceofdroids.org.au/aod/droidos/
 
   # This photo will be used in the about section
   picture:
-    path:            https://placehold.it/128x128
+    path:            https://vignette.wikia.nocookie.net/starwars/images/e/eb/ArtooTFA2-Fathead.png/revision/latest?cb=20161108040914
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://placehold.it/128x128
@@ -33,11 +29,11 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
+    twitter:         Droidology_AoD
+    github:          IrisDroidology
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
-    # facebook:        <username>
+    # facebook:        Droidology
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
