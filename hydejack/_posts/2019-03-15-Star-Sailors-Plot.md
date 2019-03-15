@@ -29,4 +29,7 @@ While the chapter structure of Star Sailors starts at the beginning and ends at 
 
 Fremantle. The port of Western Australia. And until recently, a place I visited at least once a month (on the weekends) with my family. Whether it was for Pancakes at the Chalky's cafe in the morning, or a set of Spanish Donuts at San Churros, Fremantle was a time to walk and talk with the family (and recently, the dog, Elsie, who we insist on bringing with us for walks).
 
-![Me & Elsie](/assets/img/blog/Snipping Tool.PNG){:class="img-responsive"}
+It was way, way back in 2017. I was in year 9 at the time, and I was part of the junior writing club. I was walking along Fremantle with my dad, and we were talking about what sorts of sport could be played in space. We came up with something called Space Ball, which I'll talk about in the [ext post](http://acord-robotics.github.io/starsailors/hydejack/2019-03-16-space-ball/). That gave me the idea to write another science fiction story set in space.
+
+### Another Sci-Fi Story?
+Yes, over the years I've started - but never finished - many sci-fi stories. They've been about colonizing planets and protecting the Earth from an alien invasion. If you'd like to check them out, check out my [riting repo.](http://irisdroidology.github.io/writing-repo/). 
