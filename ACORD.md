@@ -1,6 +1,7 @@
 ---
 layout: about
 title: Star Sailors by ACORD
+cover: true
 description: >
   Star Sailors by ACORD is based off of the Star Sailors novella. Welcome to our
   galaxy. [Star
