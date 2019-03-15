@@ -1,7 +1,6 @@
 ---
 title: DroidOS Tech
 image: /assets/img/projects/hy-push-state.svg
-categories: [DroidOS]
 description: >
   DroidOS, the official operating system of ACORD Robotics, is undergoing a few
   changes at the moment. I'm going to be talking about the DroidOS Beta. I'm
