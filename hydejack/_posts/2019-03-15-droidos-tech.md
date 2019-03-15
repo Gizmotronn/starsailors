@@ -89,7 +89,9 @@ See the full list of specs [here](http://acord-robotics.github.io/starsailors/dr
 ## What will my PC be for?
 I earnt my computer for a good report card over 2018 and a good start to 2019. I'll be using it for gaming, coding, designing robots and writing. 
 
-While my PC will not be the most powerful I could afford, I don't need much more. I'll be playing very minimal games, with the most graphics-intensive games being Just Cause 3 and Space Engineers (their specifications will be below).
+While my PC will not be the most powerful I could afford, I don't need much more. I'll be playing very minimal games, with the most graphics-intensive games being Just Cause 3 and Space Engineers.
+
+I'll be doing my coding for Star Sailors as well as writing some of it on the PC. Finally, the designing of robots for ACORD will be the other thing I use it for.
 
 ## Games I'll be playing
 - Just Cause 3
