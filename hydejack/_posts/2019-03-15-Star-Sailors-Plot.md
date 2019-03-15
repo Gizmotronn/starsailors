@@ -32,7 +32,7 @@ Fremantle. The port of Western Australia. And until recently, a place I visited 
 It was way, way back in 2017. I was in year 9 at the time, and I was part of the junior writing club. I was walking along Fremantle with my dad, and we were talking about what sorts of sport could be played in space. We came up with something called Space Ball, which I'll talk about in [a future post](http://acord-robotics.github.io/starsailors/hydejack/2019-03-16-space-ball/). That gave me the idea to write another science fiction story set in space.
 
 ### Another Sci-Fi Story?
-Yes, over the years I've started - but never finished - many sci-fi stories. They've been about colonizing planets and protecting the Earth from an alien invasion. If you'd like to check them out, check out my [riting repo.](http://irisdroidology.github.io/writing-repo/). 
+Yes, over the years I've started - but never finished - many sci-fi stories. They've been about colonizing planets and protecting the Earth from an alien invasion. If you'd like to check them out, check out my [writing repo.](http://irisdroidology.github.io/writing-repo/). 
 
 ### In Orlando, Florida (2019)
 On the 23rd of December, 2018 (funnily enough, it was the 3rd ACORD Birthday) I touched down in New York at the JFK International airport. On the 2nd of January (2019), I touched down in Orlando. We spent 3 days at Universal Studios and my mum and I went to Disneyworld. 
