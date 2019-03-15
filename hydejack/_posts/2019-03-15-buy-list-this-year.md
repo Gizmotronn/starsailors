@@ -39,15 +39,44 @@ I've got Everton's 08-09 kit, but I'm looking to get 2 more kits this year:
 2018-19:
 ![Full-width image](https://www.soccerlord.se/wp-content/uploads/2018/05/Everton-Home-Football-Shirt-1819.jpg){:.lead data-width="800" data-height="100"}
 
-## More Coming Soon
+## Tech
+### Samsung Gear S3
+![Full-width image](https://images.samsung.com/is/image/samsung/au-gear-s3-frontier-r760-sm-r760ndaaxsa-000000001-front-black?$PD_GALLERY_L_JPG$){:.lead data-width="800" data-height="100"}
+I'm a sucker for watches. Especially smart watches. Currently, I have an iPhone 5s, however as you may know I will be getting a Samsung S8 in 14 days. While I currently have a very good watch, I'm looking to buy a smart watch, and the Gear S3 looks like a good choice. It's cheap and has all the Android Wear apps that I want and need.
 
 ## Prices:
 - Everton Shirts: $100
 - Lightsabers: $400-$600
 - R2-D2 Ring: $50
 - Gear Ring: $100-$400
+- Samsung Gear S3: $250
+- [Star Wars: Droid Works (1998)](https://www.amazon.com/Star-Wars-Droid-Works/dp/B00002SV6E)
+- New ACORD domain name (either acord.io or acord.org.au): $15-$30/year
+- R2-D2 Laptop skin: $30-$50
+- [Fisher Space Pen](https://www.spacepen.com/chromebulletwithspaceshuttle.aspx): $60
+- Planetary Society Curiosity Membership: $50
 
-- Total: $650-$1150
-All prices are in Australian Dollars. Currently 1 AUD = 0.72 USD
+- Total: $800-$1300
 
-More prices coming soon
+
+All prices are in Australian Dollars. Currently 1 AUD = 0.72 USD. Obviously I'm probably not going to be able to purchase all of this this year. I'm planning to spread this out.
+
+## The grand plan
+
+- First $200 I earn this year: Straight into my bank
+- Next $200: 70-30 ratio - 70% into bank, 30% spending money
+- Next $400: 50-50 ratio: 50% into bank, 50% spending money
+- Next $400: 30-70 ratio: 30% into bank, 70% spending money
+- After this: 20-80 ratio: 20% into bank, 80% spending money
+
+### Spending money plan
+- 90-10 ratio: 90% goes towards items listed above, 10% goes into food, movies, music, etc
+
+### 2019 Wishlist Ranks (What will I buy first?)
+- R2-D2 Ring
+- Planetary Society Membership
+- Lightsaber
+- Droid Works
+- Everton Shirts
+- Samsung Gear
+- 
