@@ -52,8 +52,8 @@ menu:
     url:               http://allianceofdroids.org.au
   - title:             Github
     url:               http://github.com/IrisDroidology
-  - title:             ACORD Reddit
-    url:               http://reddit.com/r/acordrobotics
+  - title:             Star Sailors: The Game
+    url:               http://acord-robotics.github.io/starsailors/acord/
   - title:             About
     url:               /about/
 
