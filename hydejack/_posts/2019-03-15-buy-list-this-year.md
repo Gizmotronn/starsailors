@@ -2,7 +2,8 @@
 title: 2019 Wishlist
 image: /assets/img/blog/star-wars-1231226__340.jpg
 description: >
-  I've got plenty of things I'm looking to buy this year, both for myself and ACORD as well. Let's have a look at them!
+  I've got plenty of things I'm looking to buy this year, both for myself and
+  ACORD as well. Let's have a look at them!
 published: true
 ---
 
@@ -27,4 +28,26 @@ The first one will have a green blade and have sound, and the second one will be
 
 If you want a lightsaber, go with Ultrasabers. They have an extremely fast shipping time and make great-quality products.
 
-## More to come soon!
+## Everton 18-19 & 86-87 kit
+Everton is a football club that plays in the top tier of the English Football Pyramid. They are the club that has spent the longest amount of time in the top flight, only being relegated twice. They're also the club I support.
+
+I've got Everton's 08-09 kit, but I'm looking to get 2 more kits this year:
+
+1986/87:
+![Full-width image](https://image2.kbobject.com/efc-63172.jpg?width=250&height=250&quality=80){:.lead data-width="800" data-height="100"}
+
+2018-19:
+![Full-width image](https://www.soccerlord.se/wp-content/uploads/2018/05/Everton-Home-Football-Shirt-1819.jpg){:.lead data-width="800" data-height="100"}
+
+## More Coming Soon
+
+## Prices:
+- Everton Shirts: $100
+- Lightsabers: $400-$600
+- R2-D2 Ring: $50
+- Gear Ring: $100-$400
+
+- Total: $650-$1150
+All prices are in Australian Dollars. Currently 1 AUD = 0.72 USD
+
+More prices coming soon
