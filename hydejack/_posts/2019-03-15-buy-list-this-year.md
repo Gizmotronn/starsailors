@@ -39,10 +39,17 @@ I've got Everton's 08-09 kit, but I'm looking to get 2 more kits this year:
 2018-19:
 ![Full-width image](https://www.soccerlord.se/wp-content/uploads/2018/05/Everton-Home-Football-Shirt-1819.jpg){:.lead data-width="800" data-height="100"}
 
+## New Guitar
+I've played guitar for 10 years now, and recently I've been looking for my first new guitar in 7 years. 
+![Full-width image](http://www.mooloolabamusic.com.au/assets/full/6042902.jpg){:.lead data-width="800" data-height="100"}
+
 ## Tech
 ### Samsung Gear S3
 ![Full-width image](https://images.samsung.com/is/image/samsung/au-gear-s3-frontier-r760-sm-r760ndaaxsa-000000001-front-black?$PD_GALLERY_L_JPG$){:.lead data-width="800" data-height="100"}
 I'm a sucker for watches. Especially smart watches. Currently, I have an iPhone 5s, however as you may know I will be getting a Samsung S8 in 14 days. While I currently have a very good watch, I'm looking to buy a smart watch, and the Gear S3 looks like a good choice. It's cheap and has all the Android Wear apps that I want and need.
+
+## New Stylus
+
 
 ## Prices:
 - Everton Shirts: $100
@@ -55,8 +62,10 @@ I'm a sucker for watches. Especially smart watches. Currently, I have an iPhone 
 - R2-D2 Laptop skin: $30-$50
 - [Fisher Space Pen](https://www.spacepen.com/chromebulletwithspaceshuttle.aspx): $60
 - Planetary Society Curiosity Membership: $50
+- Guitar: $150-$500
+- Stylus: $50-$100
 
-- Total: $800-$1300
+- Total: $1000-$1900
 
 
 All prices are in Australian Dollars. Currently 1 AUD = 0.72 USD. Obviously I'm probably not going to be able to purchase all of this this year. I'm planning to spread this out.
@@ -75,8 +84,28 @@ All prices are in Australian Dollars. Currently 1 AUD = 0.72 USD. Obviously I'm 
 ### 2019 Wishlist Ranks (What will I buy first?)
 - R2-D2 Ring
 - Planetary Society Membership
-- Lightsaber
+- Lightsaber (green)
 - Droid Works
 - Everton Shirts
 - Samsung Gear
-- 
+- Lightsaber (blue)
+- Laptop Skin
+- Gear ring
+
+### What will I aim to buy in 2019?
+- R2-D2 Ring
+- Planetary Society Membership
+- Lightsaber (green)
+- Droid Works
+
+Total Cost: $500
+
+Therefore I am aiming to earn $700 this year
+
+Expected income from family:
+- Birthday: $250
+- Christmas: $250
+
+Therefore I am to earn $200 from work this year
+
+Have a good day!
