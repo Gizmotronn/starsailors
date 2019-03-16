@@ -29,7 +29,7 @@ While the chapter structure of Star Sailors starts at the beginning and ends at 
 
 <div class="codegena_iframe" data-src="https://allianceofdroids.org.au" style="height:441px;width:750px;" data-responsive="true" data-img="https://blog.allianceofdroids.org.au/wp-content/uploads/2019/02/ACORD.v1.png" data-css="background:url('//codegena.com/wp-content/uploads/2015/09/loading.gif') white center center no-repeat;border:0px;"></div><script src="https://rawgit.com/shaneapen/Codegena/master/async-iframe.js"></script>
 
-Fremantle. ThFUCK GITHUB FUCK MY LIFE FUCK MEe port of Western Australia. And until recently, a place I visited at least once a month (on the weekends) with my family. Whether it was for Pancakes at the Chalky's cafe in the morning, or a set of Spanish Donuts at San Churros, Fremantle was a time to walk and talk with the family (and recently, the dog, Elsie, who we insist on bringing with us for walks).
+Fremantle. The port of Western Australia. And until recently, a place I visited at least once a month (on the weekends) with my family. Whether it was for Pancakes at the Chalky's cafe in the morning, or a set of Spanish Donuts at San Churros, Fremantle was a time to walk and talk with the family (and recently, the dog, Elsie, who we insist on bringing with us for walks).
 
 It was way, way back in 2017. I was in year 9 at the time, and I was part of the junior writing club. I was walking along Fremantle with my dad, and we were talking about what sorts of sport could be played in space. We came up with something called Space Ball, which I'll talk about in [a future post](http://acord-robotics.github.io/starsailors/hydejack/2019-03-16-space-ball/). That gave me the idea to write another science fiction story set in space.
 
