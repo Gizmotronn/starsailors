@@ -27,7 +27,6 @@ While the chapter structure of Star Sailors starts at the beginning and ends at 
 
 ![Full-width image](https://fremantlestuff.info/parks/img/SFFC.jpg){:.lead data-width="800" data-height="100"}
 
-<div class="codegena_iframe" data-src="https://allianceofdroids.org.au" style="height:441px;width:750px;" data-responsive="true" data-img="https://blog.allianceofdroids.org.au/wp-content/uploads/2019/02/ACORD.v1.png" data-css="background:url('//codegena.com/wp-content/uploads/2015/09/loading.gif') white center center no-repeat;border:0px;"></div><script src="https://rawgit.com/shaneapen/Codegena/master/async-iframe.js"></script>
 
 Fremantle. The port of Western Australia. And until recently, a place I visited at least once a month (on the weekends) with my family. Whether it was for Pancakes at the Chalky's cafe in the morning, or a set of Spanish Donuts at San Churros, Fremantle was a time to walk and talk with the family (and recently, the dog, Elsie, who we insist on bringing with us for walks).
 
