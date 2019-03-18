@@ -2,7 +2,9 @@
 title: I've purchased my PC
 image: /assets/img/blog/e948f73c3f04248f85aae14e838fcd4e.jpg
 description: >
-  I've just purchased my PC. I'm going to talk about that today, as well as the DroidOS skins I'm going to install and the schedule for my gaming videos on Youtube.
+  I've just purchased my PC. I'm going to talk about that today, as well as the
+  DroidOS skins I'm going to install and the schedule for my gaming videos on
+  Youtube.
 published: true
 ---
 
@@ -13,7 +15,7 @@ Last night, I purchased my PC. It has an AMD Ryzen 5 2600 2.3 ghz CPU, an Nvidea
 ## Minecraft Season 1
 Our 2019 Minecraft Season will be in a mushroom biome once again. We're going to attempt to have beaten the ender dragon by December. The original Mushlantis V2 will be retired, however it will continue to be played by ACORD members. We would like to take this time to thank the original Mushlantis seed.
 
-[Minecraft Seed]
+[Minecraft Seed](http://mcpedl.com/island-mushroom-spikes-seed/)
 
 ### What's the plan?
 Because of copyright issues with the term droid, I will be changing my name on Youtube to LimoArduino, showing my nickname (Limo) and a well-known and useful robotic part (the arduino). 
@@ -41,6 +43,12 @@ Minigames (LifeBoat)
 * 2019 Episode 1: 30th March 2019
 ![image-title-here](http://i.imgur.com/OsVoGxd.jpg){:class="img-responsive"}
 
+![image-title-here](https://preview.redd.it/3cutb30eza621.jpg?width=960&crop=smart&auto=webp&s=eddadf06489d0fc461649fc0f9e6b6f538ee03e6){:class="img-responsive"}
+
+![image-title-here](https://i.redd.it/cclsunul8w721.png){:class="img-responsive"}
+My layout for a critter/monster museum - I'll also be using the capture pod cupboard
+
+
 ### Just Cause 3
 * Gameplay Episode 1: 31st March 2019
 * Gameplay Episode 2: 8th April 2019
@@ -51,3 +59,5 @@ Minigames (LifeBoat)
 
 ## Rainmeter Skins
 Most skins are from http://reddit.com/r/rainmeter unless otherwise specified
+
+![image-title-here](https://preview.redd.it/w0f7tx8phll21.jpg?width=960&crop=smart&auto=webp&s=a991b0988b338f4e4aeae8f5b70b3862e5315d12){:class="img-responsive"}
