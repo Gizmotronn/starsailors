@@ -10,7 +10,8 @@ If you want to see my PC build, go to https://www.ple.com.au/Products/632549/PLE
 
 Last night, I purchased my PC. It has an AMD Ryzen 5 2600 2.3 ghz CPU, an Nvidea GTX 1050TI graphics card, a Deepcool White RPG Midtower Case, a Samsung monitor, and much more.
 
-
+## Minecraft Season 1
+Our 2019 Minecraft Season will be in an extreme hills biome. We're going to attempt to have beaten the ender dragon by December.
 
 ## Gaming Schedule
 ### Minecraft
