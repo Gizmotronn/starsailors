@@ -22,7 +22,7 @@ We'll be starting in a mushroom biome, which is connect to an Ice Plains Spike b
 
 I want to construct a village and an underwater base, but we'll start with making a simple base on the mushroom biome. I will be constructing an automatic chest sorter room which will go across many levels, and there will be a range of cool redstone devices. We're also going to attempt to build "mini-worlds" in Minecraft, which will be dioramas of the original worlds that I started on Youtube.
 
-https://www.google.com/search?client=firefox-b-d&q=minecraft+pe+combine+worlds
+[combining worlds](https://www.google.com/search?client=firefox-b-d&q=minecraft+pe+combine+worlds)
 
 ## Gaming Schedule
 Remember that this schedule is subject to change. Follow me on [Twitter](http://twitter.com/Droidology_AoD), [Facebook](http://fb.me/droidology) and [Instagram](http://instagram.com/droidology) to see any news about delays or bonus videos.
