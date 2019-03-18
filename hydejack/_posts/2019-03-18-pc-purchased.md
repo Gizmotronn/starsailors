@@ -44,10 +44,13 @@ Minigames (LifeBoat)
 ![image-title-here](http://i.imgur.com/OsVoGxd.jpg){:class="img-responsive"}
 
 ![image-title-here](https://preview.redd.it/3cutb30eza621.jpg?width=960&crop=smart&auto=webp&s=eddadf06489d0fc461649fc0f9e6b6f538ee03e6){:class="img-responsive"}
-
+I'll be making a planetarium on my ship.
 ![image-title-here](https://i.redd.it/cclsunul8w721.png){:class="img-responsive"}
 My layout for a critter/monster museum - I'll also be using the capture pod cupboard
 
+![image-title-here](https://i.imgur.com/BFscuZA.png){:class="img-responsive"}
+
+[House tutorial](https://community.playstarbound.com/threads/shinys-tutorial-on-how-to-build-a-rustic-house.120615/)
 
 ### Just Cause 3
 * Gameplay Episode 1: 31st March 2019
