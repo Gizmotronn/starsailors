@@ -10,6 +10,8 @@ If you want to see my PC build, go to https://www.ple.com.au/Products/632549/PLE
 
 Last night, I purchased my PC. It has an AMD Ryzen 5 2600 2.3 ghz CPU, an Nvidea GTX 1050TI graphics card, a Deepcool White RPG Midtower Case, a Samsung monitor, and much more.
 
+
+
 ## Gaming Schedule
 ### Minecraft
 * New series coming out: 7th April 2019
@@ -17,6 +19,7 @@ Last night, I purchased my PC. It has an AMD Ryzen 5 2600 2.3 ghz CPU, an Nvidea
 
 ### Starbound
 * 2019 Episode 1: 30th March 2019
+![image-title-here](http://i.imgur.com/OsVoGxd.jpg){:class="img-responsive"}
 
 ### Just Cause 3
 * Gameplay Episode 1: 31st March 2019
