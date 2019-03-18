@@ -13,6 +13,8 @@ Last night, I purchased my PC. It has an AMD Ryzen 5 2600 2.3 ghz CPU, an Nvidea
 ## Minecraft Season 1
 Our 2019 Minecraft Season will be in an extreme hills biome. We're going to attempt to have beaten the ender dragon by December. The original Mushlantis V2 will be retired, however it will continue to be played by ACORD members. We would like to take this time to thank the original Mushlantis seed.
 
+https://www.google.com/search?client=firefox-b-d&q=minecraft+pe+combine+worlds
+
 ## Gaming Schedule
 ### Minecraft
 * New series coming out: 7th April 2019
