@@ -11,14 +11,31 @@ If you want to see my PC build, go to [PLE](https://www.ple.com.au/Products/6325
 Last night, I purchased my PC. It has an AMD Ryzen 5 2600 2.3 ghz CPU, an Nvidea GTX 1050TI graphics card, a Deepcool White RPG Midtower Case, a Samsung monitor, and much more.
 
 ## Minecraft Season 1
-Our 2019 Minecraft Season will be in an extreme hills biome. We're going to attempt to have beaten the ender dragon by December. The original Mushlantis V2 will be retired, however it will continue to be played by ACORD members. We would like to take this time to thank the original Mushlantis seed.
+Our 2019 Minecraft Season will be in a mushroom biome once again. We're going to attempt to have beaten the ender dragon by December. The original Mushlantis V2 will be retired, however it will continue to be played by ACORD members. We would like to take this time to thank the original Mushlantis seed.
+
+[Minecraft Seed]
+
+### What's the plan?
+Because of copyright issues with the term droid, I will be changing my name on Youtube to LimoArduino, showing my nickname (Limo) and a well-known and useful robotic part (the arduino). 
+
+We'll be starting in a mushroom biome, which is connect to an Ice Plains Spike biome. The video will come out by the 7th of April. 
+
+I want to construct a village and an underwater base, but we'll start with making a simple base on the mushroom biome. I will be constructing an automatic chest sorter room which will go across many levels, and there will be a range of cool redstone devices. We're also going to attempt to build "mini-worlds" in Minecraft, which will be dioramas of the original worlds that I started on Youtube.
 
 https://www.google.com/search?client=firefox-b-d&q=minecraft+pe+combine+worlds
 
 ## Gaming Schedule
+Remember that this schedule is subject to change. Follow me on [Twitter](http://twitter.com/Droidology_AoD), [Facebook](http://fb.me/droidology) and [Instagram](http://instagram.com/droidology) to see any news about delays or bonus videos.
 ### Minecraft
-* New series coming out: 7th April 2019
-* Episode 2 - First mine: 13th April 2019
+Each video will hopefully be 15-20 minutes long
+* New series coming out: 7th April 2019. 10 minute long video, introducing the new season, creating map, moving around spawn.
+* Episode 2 - First mine: 13th April 2019 - Making our first mine
+* Episode 3 - Moving villagers: 15th April 2019 - Moving at least 1 villager to our future village
+* Episode 4 - TBA
+
+Minigames (LifeBoat)
+* Survival games 1 - 17th April 2019
+* Survival games 2 - 19th April 2019
 
 ### Starbound
 * 2019 Episode 1: 30th March 2019
@@ -26,9 +43,11 @@ https://www.google.com/search?client=firefox-b-d&q=minecraft+pe+combine+worlds
 
 ### Just Cause 3
 * Gameplay Episode 1: 31st March 2019
+* Gameplay Episode 2: 8th April 2019
+* Gameplay Episode 3: 13th April 2019
 
 ### Take on Mars
-* Episode 1 - Spamming Probes: 20th April 2019
+* Episode 1 - Spamming Probes: 24th April 2019
 
 ## Rainmeter Skins
 Most skins are from http://reddit.com/r/rainmeter unless otherwise specified
