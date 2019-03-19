@@ -3,7 +3,7 @@ title: Physics ATAR Experiment - Newton's Second Law
 image: /assets/img/blog/apple-newton-logo-wide.jpg
 description: >
   In Physics we recently did an experiment in regards to Newton's Second Law. I'm going to show you my report for it. Enjoy!
-published: false
+published: true
 ---
 
 Liam Arbuckle – Physics 2019 – Newton’s Second Law Experiment
