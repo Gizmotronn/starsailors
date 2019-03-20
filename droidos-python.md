@@ -122,6 +122,8 @@ title:  DroidOS - Python
 * Deleted variables can be reassigned
 
 ## In place operators
+* In-place operators allow you to write code like x = x+3 more concisely as x += 3
+* The same thing works for other operators as well.
 
 # Code Examples
 
