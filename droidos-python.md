@@ -125,6 +125,8 @@ title:  DroidOS - Python
 * In-place operators allow you to write code like x = x+3 more concisely as x += 3
 * The same thing works for other operators as well.
 
+*Completed Module 1 of Python on Sololearn*
+
 # Code Examples
 
 ## Your first program
