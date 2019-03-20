@@ -50,12 +50,12 @@ author:
 menu:
   - title:             ACORD Robotics
     url:               http://allianceofdroids.org.au
-  - title:             Github
-    url:               http://github.com/IrisDroidology
-  - title:             Star Sailors & ACORD
-    url:               http://acord-robotics.github.io/starsailors/acord/
   - title:             About
     url:               /about/
+  - title:             Star Sailors & ACORD
+    url:               http://acord-robotics.github.io/starsailors/acord/
+  - title:             Arduino & Raspberry Pi
+    url:               /limoarduino/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
