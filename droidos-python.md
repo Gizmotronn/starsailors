@@ -104,6 +104,18 @@ title:  DroidOS - Python
 * Another example of type conversion is turning user input (which is a string) to numbers (integers or floats), to allow for the performance of calculations.
 
 ## Variables
+* Variables play an important role in most programming languages, and Python is no exception
+* A variable allows you to store a variable by assigning it to a name, which can be used to refer to the value later in the program (see code examples\variables)
+* To assign a variable, we use an equals sign (=)
+* Unlike most lines of code we've looked at so far, it doesn't produce an output in the Python console
+* Variables can be reassigned as many times as you want in order to change their value
+* In Python, variables don't have specific types, so you can assign a string to a variable, and later assign an integer to the same variable
+* Variable names can't start with a number and can only contain numbers, letters and underscores
+* Trying to reference a variable you haven't assigned causes an error
+* You can use the del statement to remove a variable, which means the reference from the name to the value is deleted, and trying to reuse the variable causes an error
+* Deleted variables can be reassigned
+
+## In place operators
 
 # Code Examples
 
@@ -159,4 +171,13 @@ Enter a number: 40
 Enter another number: 2
 42.0
 ```
+
+## Variables
+>>>x = 7
+>>>print(x)
+7
+>>>print(x+3)
+10
+>>>print(x)
+7
 
