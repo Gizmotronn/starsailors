@@ -33,13 +33,13 @@ I'll be starting with Python for 2 reasons:
 Because of this, I'll be learning all about Python and how to use it. There are 2 repos that I will be sharing my knowledge, notes and basic code:
 
 [DroidOS Python Repo](http://irisdroidology.github.io/droidos-python)
-[Star Sailors Repo](http://acord-robotics.github.io/starsailors/python/)
+[Star Sailors Repo](http://acord-robotics.github.io/starsailors/droidos-python/)
 
 I'll be storing it here as well as on my personal Github account.
 
 ## Python Map (on this site)
-[Python Repo](http://acord-robotics.github.io/starsailors/python)
-[Basic Concepts](http://acord-robotics.github.io/starsailors/basicconcepts)
+[Python Repo](http://acord-robotics.github.io/starsailors/droidos-python)
+[Basic Concepts](http://acord-robotics.github.io/starsailors/droidos-python)
 
 ## What will I be using to learn Python?
 [Sololearn](http://sololearn.com)
