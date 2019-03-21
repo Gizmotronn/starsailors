@@ -20,3 +20,5 @@ There are literally hundreds of launchers on the Google Play Store, all with dif
 
 ![Full-width image](https://www.bleepstatic.com/content/posts/2018/07/06/microsoft-launcher.jpg){:.lead data-width="800" data-height="100"}
 
+![Full-width image](https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge_wm_brw/public/article_images/2016/12/star-wars-rogue-one-themes-hero.jpg?itok=OF4e5BTn){:.lead data-width="800" data-height="100"}
+
