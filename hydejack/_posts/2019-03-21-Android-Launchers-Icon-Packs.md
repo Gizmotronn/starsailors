@@ -17,3 +17,5 @@ Google definition: Launcher is the name given to the part of the Android user in
 Definition for laymen: The launcher is basically the Android user interface, and includes the home screen, app drawer, icons, notification center and much more. The stock Android launcher is created by google, who develop Android, while the manufacturers of Android phones (such as Samsung and Asus) create their own "skins" on top of this launcher (such as TouchWiz and Zen). Most things you do on your phone are part of the launcher, including launching apps and clearing notifications.
 
 There are literally hundreds of launchers on the Google Play Store, all with different levels of customization. Different launchers are useful for different people, for example Microsoft Launcher is useful for people that use microsoft products a lot on their phone, and Nova Launcher is the best launcher for those who want to customize their phones the most.
+
+![]({{site.baseurl}}/https://www.bleepstatic.com/content/posts/2018/07/06/microsoft-launcher.jpg)
