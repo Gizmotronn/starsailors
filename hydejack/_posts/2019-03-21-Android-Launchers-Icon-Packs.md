@@ -18,4 +18,5 @@ Definition for laymen: The launcher is basically the Android user interface, and
 
 There are literally hundreds of launchers on the Google Play Store, all with different levels of customization. Different launchers are useful for different people, for example Microsoft Launcher is useful for people that use microsoft products a lot on their phone, and Nova Launcher is the best launcher for those who want to customize their phones the most.
 
-![]({{site.baseurl}}/https://www.bleepstatic.com/content/posts/2018/07/06/microsoft-launcher.jpg)
+![Full-width image](https://www.bleepstatic.com/content/posts/2018/07/06/microsoft-launcher.jpg)){:.lead data-width="800" data-height="100"}
+
