@@ -4,6 +4,7 @@
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQ1gNSCghxex2ZzcwSJiM7APBb8G9emuwKlKq7WNMA7BTuyW6CqmCcU6xkKgEQu5butabBOwPcV1YQY/pub?embedded=true"></iframe>
 
 HTML Basics
+FROM SOLOLEARN
 Paragraphs
 To create a paragraph, type in the <p> tag
 <html>
@@ -1044,4 +1045,3 @@ Some other new input types include email, url, and tel:
 Try It Yourself
 
 These are especially useful when opening a page on a modern mobile device, which recognizes the input types and opens a corresponding keyboard matching the field's type:
-
