@@ -15,4 +15,4 @@ Star Sailors is going to be coded using a large number of coding languages, incl
 * C
 * and, of course, python
 
-The new branch on the [github page](http://github.com/acord-robotics/starsailors/)
+The new branch on the [github page](http://github.com/acord-robotics/starsailors/) will be the code for me testing out these coding languages for the start of the game, including the navigation and the menu.
