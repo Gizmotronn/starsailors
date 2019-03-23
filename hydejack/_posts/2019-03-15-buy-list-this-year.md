@@ -64,6 +64,15 @@ I'm a sucker for watches. Especially smart watches. Currently, I have an iPhone 
 - Planetary Society Curiosity Membership: $50
 - Guitar: $150-$500
 - Stylus: $50-$100
+* Samsung Tab S2 (8.0) case
+* Samsung S8 Case - [Case 1](https://www.etsy.com/au/listing/630999123/inspired-by-star-wars-iphone-xr-case?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=r2-d2+samsung+s8&ref=sr_gallery-1-2&organic_search_click=1&pro=1_) [Case 2](https://www.etsy.com/au/listing/265414073/star-wars-bb8-iphone-8-case-iphone-x?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=r2d2+case&ref=sr_gallery-1-47&organic_search_click=1) 
+* R2-D2 Gigapet [Amazon](https://www.ebay.com/p/1997-Tiger-Star-Wars-R2-d2-Giga-Pets-Vtg-90s-Lucas-Disney-Virtual-Pet/2255927100)
+* R2-D2 Sphero
+* Littlebits Curiosity & Marvel
+* Samsung Tab S4/S5e
+* ACORD Slapband USB
+* R2-D2 Action figure carry case [Amazon](https://www.amazon.com/Episode-Carryall-Playset-Exclusive-Destroyer/dp/B000XNM27I)
+* Lego Star Wars Droid Developer kit [Amazon](https://www.amazon.com/s?k=lego+mindstorms+star+wars+droid+developer+kit&crid=3LT7MQOQ8TO6K&sprefix=star+wars+lego+mindstorms%2Caps%2C761&ref=nb_sb_ss_i_1_25)
 
 - Total: $1000-$1900
 
