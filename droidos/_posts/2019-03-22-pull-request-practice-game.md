@@ -22,3 +22,8 @@ Star Sailors is going to be coded using a large number of coding languages, incl
 The new branch on the [github page](http://github.com/acord-robotics/starsailors/) will be the code for me testing out these coding languages for the start of the game, including the navigation and the menu.
 
 Thanks Sololearn Discussion!
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New <a href="https://twitter.com/hashtag/ACORDRobotics?src=hash&amp;ref_src=twsrc%5Etfw">#ACORDRobotics</a> Logo<br>- <a href="https://twitter.com/hashtag/LA7?src=hash&amp;ref_src=twsrc%5Etfw">#LA7</a><br><br>Liam Arbuckle | ACORD Chairman | Computer Scientist <a href="https://t.co/MHqsWXqDGg">pic.twitter.com/MHqsWXqDGg</a></p>&mdash; LimoDroid (@Droidology_AoD) <a href="https://twitter.com/Droidology_AoD/status/1109357188240175104?ref_src=twsrc%5Etfw">March 23, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Twitter has been fixed up - check it out!
