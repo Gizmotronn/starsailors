@@ -52,8 +52,8 @@ menu:
     url:               http://allianceofdroids.org.au
   - title:             About
     url:               /about/
-  - title:             Star Sailors & ACORD
-    url:               http://acord-robotics.github.io/starsailors/acord/
+  - title:             DroidOS
+    url:               /droidos/
   - title:             Arduino & Raspberry Pi
     url:               /limoarduino/
 
