@@ -8,6 +8,8 @@ My name is Liam & I'm the Chairman of ACORD Robotics.
 
 ![#ACORD Sq.PNG]({{site.baseurl}}/#ACORD Sq.PNG)
 
+Arduino & Raspberry Pi
+    url:               /limoarduino/
 
 # Navigation
 [Home](http://acord-robotics.github.io/starsailors)
