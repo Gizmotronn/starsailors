@@ -118,3 +118,15 @@ Expected income from family:
 Therefore I am to earn $200 from work this year
 
 Have a good day!
+
+
+
+
+## ACORD Buylist
+of that list, here's what we're going to be buying over the coming years for ACORD
+* Planetary Society
+8 SpaceX or Mars One membership
+* R2D2 sphere
+* Green lightsaber
+* Android Tablet
+more to come
