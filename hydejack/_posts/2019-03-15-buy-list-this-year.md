@@ -94,6 +94,7 @@ All prices are in Australian Dollars. Currently 1 AUD = 0.72 USD. Obviously I'm 
 - R2-D2 Ring
 - Planetary Society Membership
 - Lightsaber (green)
+- Elite Dangerous & other games
 - Droid Works
 - Everton Shirts
 - Samsung Gear
