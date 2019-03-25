@@ -8,3 +8,5 @@ description: >
   the idea to write about Star Sailors. I hope you enjoy!
 published: false
 ---
+
+https://hydejack.com/docs/print/
