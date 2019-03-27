@@ -20,6 +20,9 @@ Star Sailors was designed to be the future of science fiction gaming!
 ### HTML
 [HTML](http://acord-robotics.github.io/starsailors/html/)
 
+### C++
+[C++](http://acord-robotics.github.io/starsailors/cplusplus)
+
 ### CS
 I'm currently doing a computer science course at school, and I'm aiming to get into a Software Engineering course at university. To code Star Sailors, I'll be needing to learn the following coding languages:
 
