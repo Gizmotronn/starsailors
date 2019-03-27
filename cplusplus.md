@@ -16,6 +16,10 @@
 * The number sign (#) at the beginning of a line targets the compiler's pre-processor
 * In this case, #include tells the pre-processor to include the <iostream> header
 * *The <iostream> header defines the standard stream objects that input and output data*
+* The C++ compiler __ignores__ blank lines
+* *Whitespaces, tabs and newlines are also ignored but can be used to increase the attractiveness/readability of the code*
+* __using namespace std__ - tells the compiler to use the std (standard) namespace
+* Program execution begins with the main function *int main()*
 
 
 
