@@ -29,10 +29,10 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    github:      IrisDroidology
     flickr:			 https://www.flickr.com/photos/163063357@N08/
-    steam:		   http://acord-robotics.github.io/starsailors/acord
     reddit:			 https://www.reddit.com/user/LimoDroid
+    steam:		   http://acord-robotics.github.io/starsailors/acord
+    github:      IrisDroidology
     download:    http://github.com/acord-robotics/starsailors/archives/master.zip
     rss:		     https://steamcommunity.com/id/droidology/
     # email:           irisdroidology@allianceofdroids.org.au
