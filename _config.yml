@@ -53,7 +53,7 @@ menu:
   - title:             DroidOS
     url:               /droidos/
   - title:             ACORD Network
-    url:               /acordnetwork/
+    url:               http://acord-robotics.github.io/acordnews/
   - title:             Star Sailors Dev
     url:               /acorddevelopment/ 
 
