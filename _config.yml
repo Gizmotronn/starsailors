@@ -52,8 +52,6 @@ menu:
     url:               http://allianceofdroids.org.au  
   - title:             DroidOS
     url:               /droidos/
-  - title:             About
-    url:               /about/
   - title:             ACORD Network
     url:               /acordnetwork/
   - title:             Star Sailors Dev
