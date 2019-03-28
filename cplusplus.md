@@ -20,6 +20,9 @@
 * *Whitespaces, tabs and newlines are also ignored but can be used to increase the attractiveness/readability of the code*
 * __using namespace std__ - tells the compiler to use the std (standard) namespace
 * Program execution begins with the main function *int main()*
+* Main function - starting point for a computer program
+* In C++, streams are used to perform input and output operations
+* cout<<"Hello World"; - displays "Hello World" to the screen/console
 
 
 
