@@ -42,3 +42,9 @@ int main()
   
 ## Definitions
 * *Program environments* - also known as an *integrated/interactive development environment* - a software application that provides comprehensive facilities to computer programmers for software development. They usually consist of a source code editor, build automation tools and a debugger
+  
+## C++ Tutorials
+* [Khan Academy](http://khanacademy.org)
+* [CodeHS](http://codehs.com)
+* [Code.org](http://code.org)
+* [Sololearn](http://sololearn.com)
