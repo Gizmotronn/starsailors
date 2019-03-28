@@ -1,6 +1,6 @@
 # C++ DroidOS
 
-![]({{site.baseurl}}/https://www.gettingsmart.com/wp-content/uploads/2017/12/Program-Code-Feature-Image.jpg)
+![Coding](https://www.gettingsmart.com/wp-content/uploads/2017/12/Program-Code-Feature-Image.jpg){:class="img-responsive"}
 
 ## Sololearn
 
