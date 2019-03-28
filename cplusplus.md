@@ -1,5 +1,7 @@
 # C++ DroidOS
 
+![]({{site.baseurl}}/https://www.gettingsmart.com/wp-content/uploads/2017/12/Program-Code-Feature-Image.jpg)
+
 ## Sololearn
 
 ## Basic Concepts
@@ -23,7 +25,7 @@
 * Main function - starting point for a computer program
 * In C++, streams are used to perform input and output operations
 * cout<<"Hello World"; - displays "Hello World" to the screen/console
-
+* In most *program environments*
 
 
 ## Sololearn - Code Examples
@@ -36,3 +38,7 @@ int main()
   cout <<"Hello world!";
   return 0;
 }
+
+  
+## Definitions
+* *Program environments* - also known as an *integrated/interactive development environment* - a software application that provides comprehensive facilities to computer programmers for software development. They usually consist of a source code editor, build automation tools and a debugger
