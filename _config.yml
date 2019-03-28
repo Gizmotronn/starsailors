@@ -57,9 +57,7 @@ menu:
   - title:             ACORD Network
     url:               /acordnetwork/
   - title:             Star Sailors Dev
-    url:               /acorddevelopment/
-  - title:             Reddit
-    url:               http://reddit.com/user/limodroid/  
+    url:               /acorddevelopment/ 
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
