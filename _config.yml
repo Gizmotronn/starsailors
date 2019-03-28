@@ -50,12 +50,12 @@ author:
 menu:
   - title:             ACORD Robotics
     url:               http://allianceofdroids.org.au
+  - title:             ACORD Network
+    url:               /acordnetwork/  
   - title:             DroidOS
     url:               /droidos/
   - title:             About Star Sailors
     url:               /about/
-  - title: 			   ACORD Reddit
-  	url:			   http://reddit.com/user/Limodroid
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
