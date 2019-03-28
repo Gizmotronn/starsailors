@@ -49,13 +49,13 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             ACORD Robotics
-    url:               http://allianceofdroids.org.au
-  - title:             ACORD Network
-    url:               /acordnetwork/  
+    url:               http://allianceofdroids.org.au  
   - title:             DroidOS
     url:               /droidos/
   - title:             About
     url:               /about/
+  - title:             ACORD Network
+    url:               /acordnetwork/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
