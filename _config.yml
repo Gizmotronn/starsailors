@@ -56,6 +56,8 @@ menu:
     url:               /about/
   - title:             ACORD Network
     url:               /acordnetwork/
+  - title:             Star Sailors Dev
+    url:               /acorddevelopment/
   
 
 # Add links to the footer.
