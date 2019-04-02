@@ -7,3 +7,17 @@ Star Sailors is an online-RPG which will be bundled together with DroidOS in the
 # DroidOS
 ## Acord app
 * Laid out like *Terragenesis* App
+
+## Games
+### Terragenesis
+
+Terragenesis, developed by Edgeworks entertainment, is a space colonization game available for AnDroidOS and iDroidOS. In Terragenesis you pick a planet (for example Mars), and research technology that is used to make your planet more liveable, for example oxygen generators.
+
+The application is really nicely designed and will provide an inspiration for our application. For example, the menu system of Terragenesis will be copied into the DroidOS app. Once you’ve opened a planet in Terragenesis, you see the current state of the planet (for example, a green, lush globe), and this will also be used in the app. See the droid controller section for more.
+Droid Controllers
+
+Once youve opened the droid control part of the app, you’ll be able to select which model of Droid you want to control (including virtual droids.). Once you’ve selected your model, the droid will be slowly spinning around, with different parts of the droid corresponding to different functions (touching the feet will select the movement function, for example).
+ACORD Sites
+Education
+Virtual Droid
+Archives/Save-files
