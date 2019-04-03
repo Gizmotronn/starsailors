@@ -27,6 +27,7 @@
 * cout<<"Hello World"; - displays "Hello World" to the screen/console
 * In most *program environments*
 
+Check out our post about DroidOS and my new Samsung S10e
 
 https://youtu.be/vLnPwxZdW4Y
 ## Sololearn - Code Examples
