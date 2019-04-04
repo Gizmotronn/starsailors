@@ -29,7 +29,7 @@
 
 Check out our post about DroidOS and my new Samsung S10e
 
-https://youtu.be/vLnPwxZdW4Y
+
 ## Sololearn - Code Examples
 ### Hello, world!
 #include <iostream>
@@ -40,6 +40,12 @@ int main()
   cout <<"Hello world!";
   return 0;
 }
+  
+### Getting the tools
+  * You can run, save and share your __C++ Code on Sololearn Code Playground__
+  * You need an IDE and a compiler to build C++ programs
+  * IDE - Integrated Development Environment. Provides tools for writing source code. Any text editor can be used
+  * Compiler - compiles source code into an executable file. Try out GNU C/C++ Compiler
 
   
 ## Definitions
@@ -50,3 +56,4 @@ int main()
 * [CodeHS](http://codehs.com)
 * [Code.org](http://code.org)
 * [Sololearn](http://sololearn.com)
+* [Youtube tutorial](https://youtu.be/vLnPwxZdW4Y)  
