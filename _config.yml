@@ -56,6 +56,8 @@ menu:
     url:               http://acord-robotics.github.io/acordnews/
   - title:             Star Sailors Dev
     url:               /acorddevelopment/ 
+  - title:             Droids
+    url:               /droids/     
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -66,7 +68,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2018. All rights reserved.
+copyright:             © 2019. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
