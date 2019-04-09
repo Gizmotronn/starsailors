@@ -15,8 +15,17 @@ We recently hit our 6-day streak on Sololearn, meaning we had logged in and lear
 ## What tutorials will we be using for coding?
 I've already mentioned Sololearn, which is a free-to-use website/app that has really great content and gives tutorials for 13 different languages, including C++, C, C#, Python, and Java. I banged through the HTML course on the way back from Brisbane (when I went to the Australian Space Design Finals), and I made notes (see DroidOS Development), however it didn't really stick in my memory. I think this is because of the way I made my notes and how rushed I was. I still understand the basics, and I'm going to be redoing that course.
 
-I'm also looking for some other tutorial websites
-## Discord
+I'm also looking for some other tutorial websites and other possible languages (see below).
+
+## Code Languages
+[Dev.to](https://dev.to/kennethevans107/5-programming-languages-for-mobile-app-development--2ec5)
+
+<a href="https://dev.to/irisdroidology">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Liam Arbuckle's DEV Profile" height="30" width="30" />
+</a>
+
+
+# Discord
 ### Join our server!
 <iframe src="https://discordapp.com/widget?id=553041942439657492&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
