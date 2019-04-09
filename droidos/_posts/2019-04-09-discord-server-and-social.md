@@ -13,9 +13,9 @@ published: true
 We recently hit our 6-day streak on Sololearn, meaning we had logged in and learnt some code for 6 days in a row. Over that period, we've learnt more of C++, so we are now about half-way through the basic concepts for C++.
 
 ## What tutorials will we be using for coding?
-I've already mentioned Sololearn, which is a free-to-use website/app that has really great content and gives tutorials for 13 different languages, including C++, C, C#, Python, 
+I've already mentioned Sololearn, which is a free-to-use website/app that has really great content and gives tutorials for 13 different languages, including C++, C, C#, Python, and Java. I banged through the HTML course on the way back from Brisbane (when I went to the Australian Space Design Finals), and I made notes (see DroidOS Development), however it didn't really stick in my memory. I think this is because of the way I made my notes and how rushed I was. I still understand the basics, and I'm going to be redoing that course.
 
-
+I'm also looking for some other tutorial websites
 ## Discord
 ### Join our server!
 <iframe src="https://discordapp.com/widget?id=553041942439657492&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
