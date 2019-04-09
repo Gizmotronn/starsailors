@@ -48,8 +48,6 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             ACORD Robotics
-    url:               http://allianceofdroids.org.au  
   - title:             DroidOS
     url:               /droidos/
   - title:             ACORD Network
