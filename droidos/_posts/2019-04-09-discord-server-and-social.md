@@ -15,4 +15,6 @@ We recently hit our 6-day streak on Sololearn, meaning we had logged in and lear
 <iframe src="https://discordapp.com/widget?id=553041942439657492&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
 ## The future of DroidOS
-As we had to change our name from Alliance of Droids to ACORD Robotics because of the word droid being trademarked, we're planning to also change the name of DroidOS.
+As we had to change our name from Alliance of Droids to ACORD Robotics because of the word droid being trademarked, we're planning to also change the name of DroidOS. This name change will hopefully be in place by August across all platforms, however we've got a few possible names lined up:
+
+* 
