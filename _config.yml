@@ -218,7 +218,7 @@ hydejack:
   # This is an _experimental_ feature.
   # Only use if you know what Service Workers are and how they can impact your site!
   offline:
-    enabled:           false
+    enabled:           true
     cache_version:     1
 
 
@@ -237,6 +237,10 @@ collections:
   projects:
     permalink:         /projects/:path/
     output:            true
+  
+  robots:
+    permalink:        /robots/:path/
+    output:           true
 
 
 # File inclusion/exclusion
@@ -272,6 +276,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
+  - jekyll-gallery-generator
 
 # Theme
 # ---------------------------------------------------------------------------------------
@@ -293,7 +298,7 @@ plugins:
 
 # Used for Twitter cards
 # twitter:
-#   username:            <shortname>
+#   username:            Droidology_AoD
 
 # Used for Facebook open graph
 # facebook:
