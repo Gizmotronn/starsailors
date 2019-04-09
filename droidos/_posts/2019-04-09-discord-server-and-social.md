@@ -2,13 +2,19 @@
 title: Development News - DroidOS
 image: /assets/img/blog/1 BVbkQL6QjvhdrnvWgVCPpQ.jpeg
 description: >
-  We now have a discord server, some social media platforms are undergoing changes and we've got some development news for you, to do with this site as well as droidOS in general.
+  We now have a discord server, some social media platforms are undergoing
+  changes and we've got some development news for you, to do with this site as
+  well as droidOS in general.
 published: true
 ---
 
 # Dev News - DROIDOS
 ## Sololearn
 We recently hit our 6-day streak on Sololearn, meaning we had logged in and learnt some code for 6 days in a row. Over that period, we've learnt more of C++, so we are now about half-way through the basic concepts for C++.
+
+## What tutorials will we be using for coding?
+I've already mentioned Sololearn, which is a free-to-use website/app that has really great content and gives tutorials for 13 different languages, including C++, C, C#, Python, 
+
 
 ## Discord
 ### Join our server!
