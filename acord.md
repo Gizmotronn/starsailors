@@ -10,46 +10,8 @@ published: true
 
 Star Sailors was designed to be the future of science fiction gaming!
 
-<div><!--[if mso]>
-  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://acord-robotics.github.io/starsailors/" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="1000%" strokecolor="#1e3650" fillcolor="#000000">
-    <w:anchorlock/>
-    <center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">Go Home</center>
-  </v:roundrect>
-<![endif]--><a href="http://acord-robotics.github.io/starsailors/"
-style="background-color:#000000;border:1px solid #1e3650;border-radius:400px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">Go Home</a></div>
-
-<div><!--[if mso]>
-  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://acord-robotics.github.io/starsailors/robots" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="1000%" strokecolor="#1e3650" fillcolor="#263697">
-    <w:anchorlock/>
-    <center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">Check out our robots!</center>
-  </v:roundrect>
-<![endif]--><a href="http://acord-robotics.github.io/starsailors/robots"
-style="background-color:#263697;border:1px solid #1e3650;border-radius:400px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">Check out our robots!</a></div>
-
-<div><!--[if mso]>
-  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://acord-robotics.github.io/starsailors/galleries" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="1000%" strokecolor="#1e3650" fillcolor="#bb2a3f">
-    <w:anchorlock/>
-    <center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">View our galleries!</center>
-  </v:roundrect>
-<![endif]--><a href="http://acord-robotics.github.io/starsailors/galleries"
-style="background-color:#bb2a3f;border:1px solid #1e3650;border-radius:400px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">View our galleries!</a></div>
-
-<div><!--[if mso]>
-  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://acord-robotics.github.io/starsailors/games" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="1000%" strokecolor="#1e3650" fillcolor="#a62abb">
-    <w:anchorlock/>
-    <center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">DroidOS Games</center>
-  </v:roundrect>
-<![endif]--><a href="http://acord-robotics.github.io/starsailors/games"
-style="background-color:#a62abb;border:1px solid #1e3650;border-radius:400px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">DroidOS Games</a></div>
-
-<div><!--[if mso]>
-  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://acord-robotics.github.io/starsailors/droidos" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="1000%" strokecolor="#1e3650" fillcolor="#2abb2f">
-    <w:anchorlock/>
-    <center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">DroidOS News</center>
-  </v:roundrect>
-<![endif]--><a href="http://acord-robotics.github.io/starsailors/droidos"
-style="background-color:#2abb2f;border:1px solid #1e3650;border-radius:400px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">DroidOS News</a></div>
-
+<script type="text/javascript" src="//Menu16.com/U/0947E64C/1/MyMenu1.js?h=BC0E"></script>
+<div id="MyMenu1"></div>
 ## Computer Science
 
 ### HTML
