@@ -29,10 +29,10 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    reddit:			 http://reddit.com/user/LimoDroid
-    github:      IrisDroidology
-    paypal:			http://allianceofdroids.org.au/aod/droidlings/irisdroidology    
+    reddit:			 http://reddit.com/user/LimoDroid 
     steam:		   http://acord-robotics.github.io/starsailors/acord
+    github:      IrisDroidology    
+    paypal:			http://allianceofdroids.org.au/aod/droidlings/irisdroidology       
     flickr:      https://www.flickr.com/photos/163063357@N08/
     download:	 https://github.com/acord-robotics/archives/master/zip
     # email:           irisdroidology@allianceofdroids.org.au
