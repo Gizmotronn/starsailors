@@ -30,7 +30,7 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     reddit:			 http://reddit.com/user/LimoDroid
-    acord:			http://allianceofdroids.org.au/aod/droidlings/irisdroidology
+    paypal:			http://allianceofdroids.org.au/aod/droidlings/irisdroidology
     github:      IrisDroidology
     steam:		   http://acord-robotics.github.io/starsailors/acord
     flickr:      https://www.flickr.com/photos/163063357@N08/
@@ -69,7 +69,7 @@ author1:
     # blogger:         <number>
     # delicious:       <username>
     # stumbleupon:     <username>
-    # paypal:          <username>
+    # paypal:          http://allianceofdroids.org.au/aod/droidlings/irisdroidology/
     # download:        http://github.com/acord-robotics/
 
 # Another author (optional)
