@@ -10,7 +10,13 @@ published: true
 
 Star Sailors was designed to be the future of science fiction gaming!
 
-<a href="robots" class="btn btn-block btn-primary btn-success"><span class="glyphicon glyphicon-send"></span>Check out our robots!</a>
+<div><!--[if mso]>
+  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://acord-robotics.github.io/starsailors/robots" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="1000%" strokecolor="#1e3650" fillcolor="#263697">
+    <w:anchorlock/>
+    <center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">Check out our robots!</center>
+  </v:roundrect>
+<![endif]--><a href="http://acord-robotics.github.io/starsailors/robots"
+style="background-color:#263697;border:1px solid #1e3650;border-radius:400px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">Check out our robots!</a></div>
 
 ## Computer Science
 
