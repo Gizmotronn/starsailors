@@ -197,7 +197,7 @@ yelp:
   prepend: "https://www.yelp.com/user_details?userid="
 paypal:
   name: PayPal
-  icon: icon-github
+  icon: icon-steam
 download:
   name: Download
   icon: icon-box-add
