@@ -10,7 +10,7 @@ published: true
 
 Star Sailors was designed to be the future of science fiction gaming!
 
-<a href="(http://acord-robotics.github.io/starsailors/robots/)" class="btn btn-block btn-primary btn-success"><span class="glyphicon glyphicon-send"></span>Check out our robots!</a>
+<a href="robots" class="btn btn-block btn-primary btn-success"><span class="glyphicon glyphicon-send"></span>Check out our robots!</a>
 
 ## Computer Science
 
