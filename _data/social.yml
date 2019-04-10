@@ -202,3 +202,6 @@ paypal:
 download:
   name: Download
   icon: icon-box-add
+acord:
+  name: ACORD
+  icon: image2vector
