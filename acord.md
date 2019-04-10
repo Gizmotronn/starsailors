@@ -11,6 +11,14 @@ published: true
 Star Sailors was designed to be the future of science fiction gaming!
 
 <div><!--[if mso]>
+  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://acord-robotics.github.io/starsailors/" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="1000%" strokecolor="#1e3650" fillcolor="#000000">
+    <w:anchorlock/>
+    <center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">Go Home</center>
+  </v:roundrect>
+<![endif]--><a href="http://acord-robotics.github.io/starsailors/"
+style="background-color:#000000;border:1px solid #1e3650;border-radius:400px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">Go Home</a></div>
+
+<div><!--[if mso]>
   <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://acord-robotics.github.io/starsailors/robots" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="1000%" strokecolor="#1e3650" fillcolor="#263697">
     <w:anchorlock/>
     <center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">Check out our robots!</center>
