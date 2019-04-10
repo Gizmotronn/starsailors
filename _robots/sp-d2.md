@@ -1,5 +1,5 @@
 ---
-layout: robots
+layout: about
 title: Sp-D2
 class: 	Steampunk
 family: Astromech
