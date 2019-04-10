@@ -34,6 +34,14 @@ style="background-color:#bb2a3f;border:1px solid #1e3650;border-radius:400px;col
 <![endif]--><a href="http://acord-robotics.github.io/starsailors/games"
 style="background-color:#a62abb;border:1px solid #1e3650;border-radius:400px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">DroidOS Games</a></div>
 
+<div><!--[if mso]>
+  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://acord-robotics.github.io/starsailors/droidos" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="1000%" strokecolor="#1e3650" fillcolor="#2abb2f">
+    <w:anchorlock/>
+    <center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">DroidOS News</center>
+  </v:roundrect>
+<![endif]--><a href="http://acord-robotics.github.io/starsailors/droidos"
+style="background-color:#2abb2f;border:1px solid #1e3650;border-radius:400px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">DroidOS News</a></div>
+
 ## Computer Science
 
 ### HTML
