@@ -8,10 +8,11 @@ description: >
 published: true
 ---
 
-Star Sailors was designed to be the future of science fiction gaming!
-
 <script type="text/javascript" src="//Menu16.com/U/0947E64C/1/MyMenu1.js?h=BC0E"></script>
 <div id="MyMenu1"></div>
+
+Star Sailors was designed to be the future of science fiction gaming!
+
 
 
 
