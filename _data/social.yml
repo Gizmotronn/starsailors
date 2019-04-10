@@ -202,3 +202,7 @@ paypal:
 download:
   name: Download
   icon: icon-box-add
+acord:
+  name: ACORD Profile
+  icon: image2vector
+  prepend: "http://allianceofdroids.org.au/aod/droidlings/
