@@ -16,24 +16,6 @@ Star Sailors was designed to be the future of science fiction gaming!
 /* Generated via www.cssmenubuilder.com */
 
 
-<ul class="menu">
-  <li><a href="http://acord-robotics.github.io/starsailors" class="active"><span>Home</span></a></li>
-  <li><a href="http://acord-robotics.github.io/starsailors/photos"><span>Galleries</span></a></li>
-  <li><a href="http://acord-robotics.github.io/starsailors/robots"><span>Robots</span></a></li>
-  <li><a href="http://acord-robotics.github.io/starsailors/games"><span>DroidOS Games</span></a></li>
-  <li><a href="http://acord-robotics.github.io/acordnews"><span>ACORD News</span></a></li>
-  <li><a href="http://github.com/acord-robotics"><span>Github</span></a></li>
-  <li><a href="http://acord-robotics.github.io/starsailors/droidos"><span>Dev News</span></a></li>
-</ul>
-
-.menu{margin:0 auto; padding:0; height:30px; width:100%; display:block; background:url('topMenuImages.png') repeat-x;}
-.menu li{padding:0; margin:0; list-style:none; display:inline;}
-.menu li a{float:left; padding-left:15px; display:block; color:rgb(255,255,255); text-decoration:none; font:12px Verdana, Arial, Helvetica, sans-serif; cursor:pointer; background:url('topMenuImages.png') 0px -30px no-repeat;}
-.menu li a span{line-height:30px; float:left; display:block; padding-right:15px; background:url('topMenuImages.png') 100% -30px no-repeat;}
-.menu li a:hover{background-position:0px -60px; color:rgb(255,255,255);}
-.menu li a:hover span{background-position:100% -60px;}
-.menu li a.active, .menu li a.active:hover{line-height:30px; font:12px Verdana, Arial, Helvetica, sans-serif; background:url('topMenuImages.png') 0px -90px no-repeat; color:rgb(255,255,255);}
-.menu li a.active span, .menu li a.active:hover span{background:url('topMenuImages.png') 100% -90px no-repeat;}
 ## Computer Science
 
 ### HTML
