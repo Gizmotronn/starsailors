@@ -9,51 +9,7 @@ published: true
 ---
 
 Star Sailors was designed to be the future of science fiction gaming!
-<a class="button" href="http://acord-robotics.github.io/starsailors/robots/">Check out our robots</a>
-.button {
-    display: inline-block;
-    text-align: center;
-    vertical-align: middle;
-    padding: 12px 24px;
-    border: 1px solid #a12727;
-    border-radius: 8px;
-    background: #0d0909;
-    background: -webkit-gradient(linear, left top, left bottom, from(#0d0909), to(#992727));
-    background: -moz-linear-gradient(top, #0d0909, #992727);
-    background: linear-gradient(to bottom, #0d0909, #992727);
-    font: normal normal bold 20px arial;
-    color: #ffffff;
-    text-decoration: none;
-}
-.button:hover,
-.button:focus {
-    background: #100b0b;
-    background: -webkit-gradient(linear, left top, left bottom, from(#100b0b), to(#b62f2f));
-    background: -moz-linear-gradient(top, #100b0b, #b62f2f);
-    background: linear-gradient(to bottom, #100b0b, #b62f2f);
-    color: #ffffff;
-    text-decoration: none;
-}
-.button:active {
-    background: #080505;
-    background: -webkit-gradient(linear, left top, left bottom, from(#080505), to(#982727));
-    background: -moz-linear-gradient(top, #080505, #982727);
-    background: linear-gradient(to bottom, #080505, #982727);
-}
-.button:before{
-    content:  "\0000a0";
-    display: inline-block;
-    height: 24px;
-    width: 24px;
-    line-height: 24px;
-    margin: 0 4px -6px -4px;
-    position: relative;
-    top: 0px;
-    left: 0px;
-    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEf0lEQVRIiYWWXWxUVRDHf+fce3e33d22tA0UaNpCMJaiDaT4YApNYxCNxuCDQOijwUiEGEV8kRgTE2PUB4gPhASVhMQYKSEUDZEqBgkihlZatZCSQmBpKR/dte52t7v34xwf6G5u212c5OTmzPxn5s7/zNxzAWSxVfbe2c7Or640lbIDsuOLoY/l7h/30fVtSYzJQ1EziofSdbTac9wz0YD5A/BS5alJHE8vtz292nV1AM8dWTdp3DFF4g2UuoFGzsTwx1H+BHkFgESIhDSNnblM9LX2w4ldVwTPhU2eX2BKiaXI2ZLBsJOtm44ekOXB99U3W92Crz8OKDFHOQvUevyf1dNh2b8kLGQYhY1EeRrTyWIrSSzp2LGks9l9tfEkJUT6ntK/X3E2KZ0a45OWakM+6wxyKLybNqePp8tjHFuyh03ZHpoiZqCl0vzSOnRjSakz8PPlr0JJQefycrnRErDcjLM49C/L1E2qVJqIYVOrE2itqQ3J2scrrbd9/v5YRSkCoP231NeNIdHleOBMJmn0hrlqPYGLQd3UDe6phahQCOF5OK6a6B/PLM3seMydewamb1OQVedTVFqiFcR90OhoBddVmxnVqWrPsYlH6pNKmVlchQYsCatqAs2X4O85sWa16axzMQRt/qSHlx5vrsp8N6jv9pJNVb3zcvjykYJRQ8SS+U4qWoFf1NC6KENg+5Unxg66Go1GUaaz6ucNtXn73NacJaKYMi8ru2PoBZE9GWE8FVTTFZ3W7xtVapRLqZa+PzPLbpZpr7+pyvr06uaGUiEoOQcbT429FbUkQzLUnkG+0lZh0BKRfPRXGnIO5GxC2j3xYlP4l5Sj6H1h6f4i1cynaGV3DEPQuaLC2hc0hHvfFedu2dBSIXmmzqC+LMzwhM3+AZvFZWZ1Q8T8LOdp886x2ICnOeerRs3lTAIybIqO9kWhvaYQOEonJ2ydAMgqTcLW3E4rxqc9AO5NewlH6aQpBO2LQnvDpuigxKABqJbuWOuammBP1BIbNGT6JuxtyjJGABK25p6jWFAuqAsbAGRcNdI3YW/TkIlaYsOammBPS3es1UeTKiRo7o5VtVYHeurKjYqAFO7leG79xU31vXn76bsup2+m+XUsycCDTOGtLm6q770cz60PSOHWlRsVrdWBnuajsap8ksIZeEqvbYiYDRL4I2EfiOfUACA9hZ2a9lCeOnI6a4zaObCUu9AKB7c7SU8BMp5TA4MJ+8Da2uCbDRGzoX8itxb4eVYCAReuJ50P4zkVH8+4B4e3NCpAOko7yYyLl0geYseK8wDLziVXj0262510TgFc3dyg1NFb76Zdfb0mKGsEXMhTVEhwbWtj5hp8MKep5n2jALSejxne0mgPw+dzsf42LTlw/4N5pF/xG6306Bet6BG+qlj2WfeCKAIQMws0vH5Szlz683zhERTt/P525H7aPnN+YKTeu5uEyXQB05FKlt+aynJx/MGulKYLeBKYKlZaaYqEUICL442SzoySnp7KYyytk0GlfhJa5f38fxSz4vwHfWUUosrgIa8AAAAASUVORK5CYII=") no-repeat left center transparent;
-    background-size: 100% 100%;
-}
-
+<a href="#" class="btn btn-block btn-primary btn-success"><span class="glyphicon glyphicon-send"></span> Check out our robots!</a>
 
 ## Computer Science
 
