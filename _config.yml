@@ -52,8 +52,8 @@ menu:
     url:               /droidos/
   - title:             ACORD Network
     url:               http://acord-robotics.github.io/acordnews/
-  - title:             Star Sailors Dev
-    url:               /acorddevelopment/ 
+  - title:             Documentation
+    url:               /docs/ 
   - title:             Droids
     url:               /droids/     
 
@@ -237,7 +237,7 @@ collections:
     output:            true
   
   robots:
-    permalink:        /robots/
+    permalink:        /robots/:path/
     output:           true
 
 
