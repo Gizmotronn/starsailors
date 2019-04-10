@@ -34,6 +34,7 @@ author1:
     reddit:			http://allianceofdroids.org.au/aod/droidlings/irisdroidology       
     flickr:      https://www.flickr.com/photos/163063357@N08/
     download:	 https://github.com/acord-robotics/archives/master/zip
+    acord:       http://allianceofdroids.org.au/aod/droidlings/irisdroidology/
     # email:           irisdroidology@allianceofdroids.org.au
     # rss:             https://<url>/feed.xml
     # facebook:        Droidology
@@ -70,6 +71,7 @@ author1:
     # stumbleupon:     <username>
     # paypal:          http://allianceofdroids.org.au/aod/droidlings/irisdroidology/
     # download:        http://github.com/acord-robotics/
+    # acord:           http://allianceofdroids.org.au/aod/droidlings/irisdroidology/
 
 # Another author (optional)
 author2:
