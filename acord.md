@@ -23,7 +23,9 @@ Star Sailors was designed to be the future of science fiction gaming!
 		<!-- Start css3menu.com HEAD section -->
 	<link rel="stylesheet" href="CSS3 Menu.css3prj_files/css3menu1/style.css" type="text/css" /><style type="text/css">._css3m{display:none}</style>
 	<!-- End css3menu.com HEAD section -->
-
+</head>
+</html>  
+  
 	
 
 
