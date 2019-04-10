@@ -198,7 +198,6 @@ yelp:
 paypal:
   name: PayPal
   icon: acord-icon
-  prepend: "https://www.paypal.me/"
 download:
   name: Download
   icon: icon-box-add
