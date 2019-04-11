@@ -6,15 +6,12 @@ permalink: /docs/
 ---
 
 # Documentation
-Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
-Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
-Should you discover a mistake in the docs (or a bug in general) feel free to [open an issue](https://github.com/qwtel/hydejack/issues) on GitHub.
+Here you will be able to find out all about our robots and games, including how to install and use them, how to get involved, and how to get access to the source code.
 
-**NOTE**: While this manual tries to be beginner-friendly, as a user of Jekyll it is assumed that you are comfortable running shell commands and editing text files.
+**NOTE**: This section is not yet complete
 {:.message}
 
-Buyers of the PRO version can jump straight to [installation for PRO buyers](install.md#pro-version),
-or [upgrades for PRO buyers](upgrade.md#pro-version).
+Members of ACORD can go to the [members documentation](http://allianceofdroids.org.au/aod/docs)
 
 ## Getting started
 * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
