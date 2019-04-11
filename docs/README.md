@@ -13,10 +13,10 @@ Here you will be able to find out all about our robots and games, including how 
 
 Members of ACORD can go to the [members documentation](http://allianceofdroids.org.au/aod/docs)
 
-## Getting started
-* [Register]{:.heading.flip-title} --- Register for Star Sailors and start playing
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
+## Star Sailors - The Game
+* [Register]{:.heading.flip-title} --- Register for Star Sailors and start playing, as well as joining ACORD
+* [Spaceship]{:.heading.flip-title} --- How to use your spaceship, including travelling, building/buying and upgrading
+* [Living]{:.heading.flip-title} --- How to live in the Star Sailors universe, including colonising planets, finding venues/buildings, etc
 {:.related-posts.faded}
 
 ## Using Hydejack
@@ -34,8 +34,8 @@ Members of ACORD can go to the [members documentation](http://allianceofdroids.o
 {:.related-posts.faded}
 
 [register]: register.md
-[upgrade]: upgrade.md
-[config]: config.md
+[spaceship]: spaceship.md
+[living]: living.md
 [basics]: basics.md
 [writing]: writing.md
 [scripts]: scripts.md
