@@ -21,17 +21,8 @@ Members of ACORD can go to the [members documentation](http://allianceofdroids.o
 
 ## ACORD Robotics
 * [Buying a robot]{:.heading.flip-title} --- Where to buy our robots from and how to set them up. Currently showing how to support us (as we don't have any robots being mass produced for consumers) and the robots we're planning to build
-* [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
-* [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
-* [Build]{:.heading.flip-title} --- How to build the static files for deployment.
-* [Advanced]{:.heading.flip-title} --- Guides for more advanced tasks.
 {:.related-posts.faded}
 
-## Other
-* [LICENSE]{:.heading.flip-title} --- The license of this project.
-* [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
-* [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
-{:.related-posts.faded}
 
 [register]: register.md
 [spaceship]: spaceship.md
