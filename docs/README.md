@@ -33,7 +33,7 @@ Members of ACORD can go to the [members documentation](http://allianceofdroids.o
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded}
 
-[install]: install.md
+[register]: register.md
 [upgrade]: upgrade.md
 [config]: config.md
 [basics]: basics.md
