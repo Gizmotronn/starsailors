@@ -14,7 +14,7 @@ Here you will be able to find out all about our robots and games, including how 
 Members of ACORD can go to the [members documentation](http://allianceofdroids.org.au/aod/docs)
 
 ## Getting started
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
+* [Register]{:.heading.flip-title} --- Register for Star Sailors and start playing
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}
