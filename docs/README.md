@@ -19,8 +19,8 @@ Members of ACORD can go to the [members documentation](http://allianceofdroids.o
 * [Living]{:.heading.flip-title} --- How to live in the Star Sailors universe, including colonising planets, finding venues/buildings, etc
 {:.related-posts.faded}
 
-## Using Hydejack
-* [Basics]{:.heading.flip-title} --- How to add different types of content.
+## ACORD Robotics
+* [Buying a robot]{:.heading.flip-title} --- Where to buy our robots from and how to set them up. Currently showing how to support us (as we don't have any robots being mass produced for consumers) and the robots we're planning to build
 * [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
 * [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
 * [Build]{:.heading.flip-title} --- How to build the static files for deployment.
@@ -36,7 +36,7 @@ Members of ACORD can go to the [members documentation](http://allianceofdroids.o
 [register]: register.md
 [spaceship]: spaceship.md
 [living]: living.md
-[basics]: basics.md
+[buying a robot]: setting-up-robot.md
 [writing]: writing.md
 [scripts]: scripts.md
 [build]: build.md
