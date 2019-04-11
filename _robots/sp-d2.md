@@ -17,7 +17,10 @@ In 2015, I had started planning to make my first astromech droid replica. I had 
 ## Arriving in Mount Beauty
 
 ## Day 1-6
-
+### Day 1
+* Found bin, spray painted
+### Day 6
+* Found telescope, attached telescope to Sp-D2
 ## Aftermaths
 
 ## The future
