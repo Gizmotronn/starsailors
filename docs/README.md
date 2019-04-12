@@ -22,6 +22,7 @@ Members of ACORD can go to the [members documentation](http://allianceofdroids.o
 ## ACORD Robotics
 * [Buying a robot]{:.heading.flip-title} --- Where to buy our robots from and how to set them up. Currently showing how to support us (as we don't have any robots being mass produced for consumers) and the robots we're planning to build
 {:.related-posts.faded}
+* [Robots available]{:.heading.flip.title} --- You can find out all about the robots we will be making and what is currently in stock.
 
 
 [register]: register.md
@@ -30,7 +31,7 @@ Members of ACORD can go to the [members documentation](http://allianceofdroids.o
 [buying a robot]: setting-up-robot.md
 [writing]: writing.md
 [scripts]: scripts.md
-[build]: build.md
+[Robots available]: atock.md
 [advanced]: advanced.md
 [LICENSE]: ../LICENSE.md
 [NOTICE]: ../NOTICE.md
