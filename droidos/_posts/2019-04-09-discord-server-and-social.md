@@ -8,6 +8,8 @@ description: >
 published: true
 ---
 
+[![Gitter](https://badges.gitter.im/ACORD-Robotics/robosdev.svg)](https://gitter.im/ACORD-Robotics/robosdev?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # Dev News - DROIDOS
 ## Sololearn
 We recently hit our 6-day streak on Sololearn, meaning we had logged in and learnt some code for 6 days in a row. Over that period, we've learnt more of C++, so we are now about half-way through the basic concepts for C++.
