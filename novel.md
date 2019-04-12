@@ -10,6 +10,10 @@ published: true
 
 Star Sailors began development in 2017, when I was 14. See the story [here](https://acord-robotics.github.io/starsailors/hydejack/2019-03-15-Star-Sailors-Plot/) or scroll down -
 
+
+
+## Original Post - 15th March 2019 - Star Sailors Plot
+
 ![Full-width image](https://fremantlestuff.info/parks/img/SFFC.jpg){:.lead data-width="800" data-height="100"}
 
 
@@ -65,9 +69,7 @@ The map of every planet, moon, star system and colony in the galaxy, as well as 
 
 ### The RPG
 
-A guide to playing the RPG. Released every year
-
-Thanks for reading, have a good day!
+A guide to playing the RPG. Released every year.
 
 [Return Home](http://acord-robotics.github.io/starsailors)
 
