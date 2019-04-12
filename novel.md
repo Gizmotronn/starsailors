@@ -8,9 +8,9 @@ published: true
 
 # Star Sailors Novel
 
-Star Sailors began development in 2017, when I was 14. See the story [here](https://acord-robotics.github.io/starsailors/hydejack/2019-03-15-Star-Sailors-Plot/) or scroll down -
+Star Sailors began development in 2017, when I was 14. See the story [here](https://acord-robotics.github.io/starsailors/hydejack/2019-03-15-Star-Sailors-Plot/) or scroll down - 
 
-
+Star Sailors is a book and game series that is written by the Star Sailors team. The game will be 
 
 ## Original Post - 15th March 2019 - Star Sailors Plot
 
