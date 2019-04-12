@@ -10,7 +10,13 @@ published: true
 
 Star Sailors began development in 2017, when I was 14. See the story [here](https://acord-robotics.github.io/starsailors/hydejack/2019-03-15-Star-Sailors-Plot/) or scroll down - 
 
-Star Sailors is a book and game series that is written by the Star Sailors team. The game will be played online (via the [ACORD Website](http://acord.org.au)) and in the [ACORD App](http://acord-robotics.github.io/starsailors/)
+Star Sailors is a book and game series that is written by the Star Sailors team. The game will be played online (via the [ACORD Website](http://acord.org.au)) and in the [ACORD App](http://acord-robotics.github.io/starsailors/droidos). There will be a number of games within the game, but the main game will be an online RPG where players start off in an unknown universe. 
+
+The novel Star Sailors will be finished by May 2019, with "Rules of the Game" (the companion guide to the sport introduced in Star Sailors) coming in July-August, and will come in 2 different versions. [ACORD Members](http://github.com/acord-robotics) will get a special version with 
+
+## RPG PLOT
+
+
 
 ## Original Post - 15th March 2019 - Star Sailors Plot
 
