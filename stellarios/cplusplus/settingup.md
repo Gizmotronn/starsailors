@@ -11,6 +11,13 @@ title: "C++ - Installation"
 
 
 
+__Resources__
+
+* [CodeBlocks](https://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe/download) - Integrated Development Environment (Windows)
+*  [Visual Studio Code](http://code.visualstudio.com) - Text editor for Windows, by Microsoft
+
+
+
 # About
 
 C++, a coding language based off of C, is an incredibly popular language for developers and can be used to develop Windows & Android applications. This page is going to be talking about what I do when I start learning C++, including installing a text editor (I'm using Visual Studio), adding a compiler, etc.
