@@ -29,3 +29,8 @@ I'd recommend checking out this video here:
 
 To create and edit C++ files, we're going to need a text editor. I'm going to be using  [Visual Studio Code](https://code.visualstudio.com/). Any text editor will work, but I'd recommend against using Microsoft Word, or google docs. IDEs (Integrated Development Environments) are good text editors as well.
 
+We're also going to need a compiler - a C++ compiler. What a compiler does is it takes your code, and transforms it into a language that your computer can understand.
+
+### CodeBlocks
+
+[Codeblocks](http://codeblocks.org) is a free and open-source C++ compiler that can run on different platforms (including Windows, which is what I'm using.)
