@@ -42,3 +42,5 @@ We're also going to need a compiler - a C++ compiler. What a compiler does is it
 
 [Codeblocks](http://codeblocks.org) is a free and open-source C++ IDE that can run on different platforms (including Windows, which is what I'm using.)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vLnPwxZdW4Y?start=527" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
