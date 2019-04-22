@@ -17,4 +17,4 @@ Mission type: Space probe (basic probe)
 
 Location: Mars (Gusev, Victoria, Gale)
 
-No. Missions: 
+No. Missions: 10 (+4 se)
