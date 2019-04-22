@@ -15,7 +15,7 @@ designs for your robots. Link: http://mars.takeonthegame.com
 
 Mission type: Space probe (basic probe)
 
-Location: Mars (Lyot, Victoria, Gale)
+Location: Mars (Lyot, Kaiser, Victoria, Gale)
 
 No. Missions: 10 (+4 secondary)
 
