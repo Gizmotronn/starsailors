@@ -19,4 +19,4 @@ Location: Mars (Gusev, Victoria, Gale)
 
 No. Missions: 10 (+4 secondary)
 
-Research Required: 
+Research Required: none
