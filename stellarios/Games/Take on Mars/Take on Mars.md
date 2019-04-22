@@ -13,3 +13,6 @@ designs for your robots. Link: http://mars.takeonthegame.com
 
 ### Spamming Probes
 
+Mission type: Space probe (basic probe)
+
+Crat
