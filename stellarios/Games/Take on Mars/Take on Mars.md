@@ -15,4 +15,4 @@ designs for your robots. Link: http://mars.takeonthegame.com
 
 Mission type: Space probe (basic probe)
 
-Location: Mars (Gusev, Victo)
+Location: Mars (Gusev, Victoria, Gale)
