@@ -46,3 +46,5 @@ We're also going to need a compiler - a C++ compiler. What a compiler does is it
 
 ## Setup, HelloWorld
 
+When you open Codeblocks, you're going to see an interface that looks like this:
+
