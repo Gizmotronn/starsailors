@@ -49,3 +49,5 @@ We're also going to need a compiler - a C++ compiler. What a compiler does is it
 When you open Codeblocks, you're going to see an interface that looks like this:
 
 https://pbs.twimg.com/media/D4zaacsWsAAFCak.jpg
+
+We're going to click on
