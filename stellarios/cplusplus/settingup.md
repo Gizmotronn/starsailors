@@ -50,4 +50,4 @@ When you open Codeblocks, you're going to see an interface that looks like this:
 
 https://pbs.twimg.com/media/D4zaacsWsAAFCak.jpg
 
-We're going to click on the button that says "Create new project."
+We're going to click on the button that says "Create new project." A window will open up, and we'll click "Console"
