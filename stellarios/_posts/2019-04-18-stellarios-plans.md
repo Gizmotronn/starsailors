@@ -6,6 +6,15 @@ description: >
 published: true
 ---
 
+## Join the ACORD Network
+Australian Space Design (PMod):
+https://discord.gg/PzNrhsF
+
+ACORD:
+https://discord.gg/npYWfZK
+
+<iframe src="https://discordapp.com/widget?id=553041942439657492&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
 ## Timeline
 At the moment I'm going to be working with Grok, Sololearn and a youtube tutorial to learn C++. I'll be using codeblocks and visual studio to write the code
 
