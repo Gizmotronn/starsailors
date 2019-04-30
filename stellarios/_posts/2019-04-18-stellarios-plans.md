@@ -6,6 +6,9 @@ description: >
 published: true
 ---
 
+## Timeline
+At the moment I'm going to be working with Grok, Sololearn and a youtube tutorial to learn C++. I'll be using codeblocks and visual studio to write the code
+
 Stellarios
 
 Stellarios is the official operating system and app of ACORD. Stellarios will be designed to work on MacOS & Windows devices, and there will be apps created for Android, iOS & Linux devices. Stellarios is going to be a bundle of applications that will be used by ACORD Corporation members to perform certain operations.
