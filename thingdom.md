@@ -1,8 +1,6 @@
 ---
 layout: about
 title: "Stellarios Misc. Games"
-cover: true
-description: Stellarios includes a number of games that are either small (lightweight) or weren't made by us but still are worthy of being in the Stellarios package. Some of these games require adobe flash.
 published: true
 ---
 
@@ -10,3 +8,6 @@ published: true
 
 
 Note: this page is also in the root folder acord-robotics\starsailors
+
+cover: true
+description: Stellarios includes a number of games that are either small (lightweight) or weren't made by us but still are worthy of being in the Stellarios package. Some of these games require adobe flash.
