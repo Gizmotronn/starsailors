@@ -30,7 +30,6 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     facebook:   http://allianceofdroids.org.au
-    twitter:    http://twitter.com/Droidology_AoD
     steam:		   http://acord-robotics.github.io/starsailors/acord
     github:      IrisDroidology             
     download:	 https://github.com/acord-robotics/archives/master/zip
@@ -71,6 +70,7 @@ author1:
     # paypal:          http://allianceofdroids.org.au/aod/droidlings/irisdroidology/
     # download:        http://github.com/acord-robotics/
     # acord:           http://allianceofdroids.org.au/aod/droidlings/irisdroidology/
+    # twitter:         http://twitter.com/Droidology_AoD
 
 # Another author (optional)
 author2:
