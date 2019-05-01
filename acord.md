@@ -8,8 +8,7 @@ description: >
 published: true
 ---
 
-<script type="text/javascript" src="//Menu16.com/U/0947E64C/1/MyMenu1.js?h=BC0E"></script>
-<div id="MyMenu1"></div>
+
 
 Star Sailors was designed to be the future of science fiction gaming!
 
@@ -92,3 +91,7 @@ I'll be storing it here as well as on my personal Github account.
 
 ## ACORD Stuff
 * [ACORD Folder](https://1drv.ms/f/s!Ak1pvbWm73EpgSMgyjkY4sQ3BR6z)
+
+<script type="text/javascript" src="//Menu16.com/U/0947E64C/1/MyMenu1.js?h=BC0E"></script>
+<div id="MyMenu1"></div>
+Moved menu (need to fix)
