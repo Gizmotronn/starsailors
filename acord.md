@@ -8,8 +8,21 @@ description: >
 published: true
 ---
 
+# Stellarios
+## ACORD Navigation
+[Star Sailors](http://acord-robotics.github.io/starsailors/starsailors-embed)
+[Games](https://github.com/acord-robotics/starsailors/tree/master/stellarios/Games)
 
+## ACORD Games
+[Starbound](http://acord-robotics.github.io/starsailors/starbound)
+[Minecraft](http://acord-robotics.github.io/starsailors/minecraft)
+[Science Games](http://acord-robotics.github.io/starsailors/othergames)
 
+## Parts to this page
+Note: these pages will be in the root folder as well as the acord-robotics/starsailors/stellarios/pagebuild/ folder
+[Computer Science](http://acord-robotics.github.io/starsailors/computer-science)
+
+## Star Sailors
 Star Sailors was designed to be the future of science fiction gaming!
 
 
