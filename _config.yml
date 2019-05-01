@@ -24,8 +24,8 @@ title:                 Star Sailors
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+  "ACORD Robotics".
+  **ACORD** is an Australian Robotics Company.
 # A shorter description for the sidebar.
 tagline:              >
   by ACORD
@@ -161,7 +161,7 @@ hydejack:
   no_google_fonts:     false
 
   # Set to `true` if you don't want to show an icon indicating external links
-  no_mark_external:    true
+  no_mark_external:    false
 
   # Set to `true` if third party plugins fail to work with dynamically loaded pages
   no_push_state:       false
