@@ -5,7 +5,7 @@ description: >
   We now have a discord server, some social media platforms are undergoing
   changes and we've got some development news for you, to do with this site as
   well as droidOS in general.
-published: true
+published: false
 ---
 
 [![Gitter](https://badges.gitter.im/ACORD-Robotics/robosdev.svg)](https://gitter.im/ACORD-Robotics/robosdev?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
