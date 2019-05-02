@@ -49,7 +49,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Stellarios
-    url:               /droidos/
+    url:               /stellarios/
   - title:             ACORD Network
     url:               http://acord-robotics.github.io/acordnews/
   - title:             Documentation
