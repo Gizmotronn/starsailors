@@ -1,6 +1,7 @@
 ---
 layout: about
 title: "C++ - Installation"
+published: true
 ---
 
 
