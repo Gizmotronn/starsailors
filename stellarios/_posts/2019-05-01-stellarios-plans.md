@@ -34,6 +34,8 @@ Once you've selected your droid, you will find a cross-section diagram of your d
     Holoprojector = talk/message (http://replika.ai)
     Dome/Head = Programs
 
+Added post to Acord portal
+
 Dome
 
 Clicking on the dome will zoom in on the dome and give you a number of programs -
