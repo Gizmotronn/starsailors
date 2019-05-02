@@ -24,6 +24,9 @@ Members of ACORD can go to the [members documentation](http://allianceofdroids.o
 {:.related-posts.faded}
 * [Robots available]{:.heading.flip.title} --- You can find out all about the robots we will be making and what is currently in stock.
 
+## Development
+Coding is a big part of my life, and it's a big part of the work I do with ACORD
+* [Setting up for C++](http://acord-robotics.github.io/starsailors/cplusplus-settingup) - C++ is  one of the coding languages we'll be learning
 
 [register]: register.md
 [spaceship]: spaceship.md
