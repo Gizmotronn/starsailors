@@ -24,6 +24,24 @@ https://discord.gg/npYWfZK
 ## Timeline
 At the moment I'm going to be working with Grok, Sololearn and a youtube tutorial to learn C++. I'll be using codeblocks and visual studio to write the code. Check out [this page](http://acord-robotics.github.io/starsailors/docs) to see the code.
 
+__2015__
+* December 23: Formation of ACORD (formerly Alliance of Droids)
+
+__2016__
+* August 13: Creation of the ACORD website
+
+__2017__
+* December 1: CLPG Grant Approved!
+
+__2018__
+* January: Started physical work on A0-D2
+
+## Coding timeline
+* April 16: Started code tutorials (sololearn, youtube, freecodecamp)
+* May 4: Resumed freecodecamp (coming up)
+* June 4: Finished freecodecamp
+* June 4: Finished Star Sailors (book one)
+
 ## Stellarios
 
 Stellarios is the official operating system and app of ACORD. Stellarios will be designed to work on MacOS & Windows devices, and there will be apps created for Android, iOS & Linux devices. Stellarios is going to be a bundle of applications that will be used by ACORD Corporation members to perform certain operations.
