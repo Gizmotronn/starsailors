@@ -28,6 +28,7 @@ Members of ACORD can go to the [members documentation](http://allianceofdroids.o
 Coding is a big part of my life, and it's a big part of the work I do with ACORD
 * [Setting up for C++](http://acord-robotics.github.io/starsailors/cplusplus-settingup) --- C++ is  one of the coding languages we'll be learning
 * [Code Resources]{:.heading.flip.title} --- To create code for Stellarios, we use a number of resources, applications and tools. You can check them out here
+* [Sololearn]{:.heading.flip.title} --- Sololearn is a free-to-use site that teaches you how to code. I'll be compiling all my notes and practice code from Sololearn on this page. I'll be using Sololearn for CSS, HTML, Javascript, C++, and Python mainly
 
 [register]: register.md
 [spaceship]: spaceship.md
@@ -40,4 +41,5 @@ Coding is a big part of my life, and it's a big part of the work I do with ACORD
 [advanced]: advanced.md
 [LICENSE]: ../LICENSE.md
 [NOTICE]: ../NOTICE.md
+[Sololearn]: sololearn.md
 [CHANGELOG]: ../CHANGELOG.md
