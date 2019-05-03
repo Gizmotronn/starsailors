@@ -26,11 +26,13 @@ Members of ACORD can go to the [members documentation](http://allianceofdroids.o
 
 ## Development
 Coding is a big part of my life, and it's a big part of the work I do with ACORD
-* [Setting up for C++](http://acord-robotics.github.io/starsailors/cplusplus-settingup) - C++ is  one of the coding languages we'll be learning
+* [Setting up for C++](http://acord-robotics.github.io/starsailors/cplusplus-settingup) --- C++ is  one of the coding languages we'll be learning
+* [Code Resources]{:.heading.flip.title} --- To create code for Stellarios, we use a number of resources, applications and tools. You can check them out here
 
 [register]: register.md
 [spaceship]: spaceship.md
 [living]: living.md
+[Code Resources]: resources.md
 [buying a robot]: setting-up-robot.md
 [writing]: writing.md
 [scripts]: scripts.md
