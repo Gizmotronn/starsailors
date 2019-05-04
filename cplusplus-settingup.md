@@ -55,7 +55,16 @@ We're going to click on the button that says "Create new project." A window will
 
 Once we've created the project, we see that there is a file called "main.cpp". The .cpp part of the file is the extension that identifies it as a cplusplus project. See this part of the video for more: - https://youtu.be/vLnPwxZdW4Y?t=600. We're going to open this file, and we see that there is a bunch of code already there:
 
-```#include <iostream>
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello world!" << endl;
+    return 0;
+}
 
 ```
 
