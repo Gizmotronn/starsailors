@@ -79,3 +79,11 @@ This part of the program prints out "Hello World":
 }
 ```
 
+This part of the program identifies it as a C++ file:
+
+```cpp
+#include <iostream>
+
+using namespace std;
+```
+
