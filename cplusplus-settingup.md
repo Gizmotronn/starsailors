@@ -70,5 +70,12 @@ int main()
 
 
 
+This part of the program prints out "Hello World":
 
+```cpp
+{
+    cout << "Hello world!" << endl;
+    return 0;
+}
+```
 
