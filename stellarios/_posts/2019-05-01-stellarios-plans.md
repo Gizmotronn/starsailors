@@ -52,9 +52,11 @@ Our droids (companion, scientific, etc) will be able to be controlled from this 
 
 Once you've selected your droid, you will find a cross-section diagram of your droid with different parts highlighted -
 
-    Legs = movement
-    Holoprojector = talk/message (http://replika.ai)
-    Dome/Head = Programs
+```cpp
+Legs = movement
+Holoprojector = talk/message (http://replika.ai)
+Dome/Head = Programs
+```
 
 Added post to Acord portal
 
