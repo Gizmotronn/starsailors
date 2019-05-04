@@ -53,4 +53,4 @@ https://pbs.twimg.com/media/D4zaacsWsAAFCak.jpg
 
 We're going to click on the button that says "Create new project." A window will open up, and we'll click "Console". We then select C++ as the language we'll be using, instead of C. I've titled the project "Hello World" and saved it in Github/Acord-robotics/starsailors/stellarios/. After this there's a bunch of options to do with debugging and the compiler, we're just going to leave them how they are at the moment. We click finish, and we're into the project interface. - https://youtu.be/vLnPwxZdW4Y?t=600
 
-Once we've created the project, we s
+Once we've created the project, we se
