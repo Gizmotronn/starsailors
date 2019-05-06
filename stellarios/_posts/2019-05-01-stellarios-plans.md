@@ -111,3 +111,9 @@ As we had to change our name from Alliance of Droids to ACORD Robotics because o
 ## Cool Links
 https://usersnap.com/blog/gitlab-github/
 
+## Outsourced games
+Not all of the games we work on/endorse were made by ACORD. Here's a list of games/apps that are part of Stellarios, but we didn't make:
+* [Terragenesis](http://edgeworksentertainment.com/) --- A free game where you terraform over 50 planets and moons. Available for iOS & Android devices
+* [Replika.Ai](http://replika.ai) --- A companion artificial intelligence that aims to improve your wellbeing and mental health
+* [Dragonvale](http://backflipstudios.com) --- Made by Backflipstudios (Creators of Gizmonauts), Dragonvale is a game where you collect dragons and breed them to create rarer ones, all the while building habitats and decorations. Highly recommended (see below)
+* [Starbound](http://playstarbound.com) --- A PC only game, sort of a cross between Minecraft (also recommended) and Terraria, but in space!
