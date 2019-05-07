@@ -50,8 +50,6 @@ author:
 menu:
   - title:             Stellarios
     url:               /stellarios/
-  - title:             ACORD Network
-    url:               http://acord-robotics.github.io/acordnews/
   - title:             Documentation
     url:               /docs/ 
   - title:             Links
@@ -60,6 +58,8 @@ menu:
     url:               /novel/
   - title:             Stellarios Repo
     url:               http://github.com/acord-robotics/stellarios
+- title:             ACORD Network
+    url:               http://acord-robotics.github.io/acordnews/    
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
