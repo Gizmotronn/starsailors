@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url: http://acord-robotics.github.io
+url:                   http://acord-robotics.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -50,6 +50,8 @@ author:
 menu:
   - title:             Stellarios
     url:               /stellarios/
+  - title:             ACORD Network
+    url:               http://acord-robotics.github.io/acordnews/
   - title:             Documentation
     url:               /docs/ 
   - title:             Links
@@ -58,8 +60,6 @@ menu:
     url:               /novel/
   - title:             Stellarios Repo
     url:               http://github.com/acord-robotics/stellarios
-- title:             ACORD Network
-    url:               http://acord-robotics.github.io/acordnews/    
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
