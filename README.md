@@ -21,3 +21,9 @@ ACORD Sites
 Education
 Virtual Droid
 Archives/Save-files
+
+# Gitlab
+We're going to be using Gitlab as a secondary git client. Gitlab and Github will be filled up with more projects and people once we've got more active members (however we will be attempting to get 1 contribution each day on each git client). 
+
+* [Gitlab Group](http://gitlab.com/acord-robotics)
+* [Gitlab Profile](http://gitlab.com/irisdroidology)
