@@ -27,3 +27,5 @@ We're going to be using Gitlab as a secondary git client. Gitlab and Github will
 
 * [Gitlab Group](http://gitlab.com/acord-robotics)
 * [Gitlab Profile](http://gitlab.com/irisdroidology)
+
+* [Gitlab Repo](http://gitlab.com/acord-robotics/robodev/stellarios)
