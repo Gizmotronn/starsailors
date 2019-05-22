@@ -17,7 +17,8 @@ The application is really nicely designed and will provide an inspiration for ou
 Droid Controllers
 
 #### TG Stats
-* Mercury: 65% (beginner, daughters of gaia)
+* Mercury: 100% (beginner, daughters of gaia)
+* Venus: 10% (beginner, united nations)
 * Mars: 100% (beginner, daughters of gaia)
 * Moon: 100% (normal, biosphere, united nations)
 
@@ -26,6 +27,9 @@ ACORD Sites
 Education
 Virtual Droid
 Archives/Save-files
+
+### Star Wars Card Trader (Topps)
+http://acord.tech/stellarios-swct-1
 
 # Gitlab
 We're going to be using Gitlab as a secondary git client. Gitlab and Github will be filled up with more projects and people once we've got more active members (however we will be attempting to get 1 contribution each day on each git client). 
