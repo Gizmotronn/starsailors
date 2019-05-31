@@ -38,3 +38,8 @@ We're going to be using Gitlab as a secondary git client. Gitlab and Github will
 * [Gitlab Profile](http://gitlab.com/irisdroidology)
 
 * [Gitlab Repo](http://gitlab.com/acord-robotics/robodev/stellarios)
+
+# ACORD Portal
+## Plugins
+* [Buddypress custom background by BUDDYDEV](https://buddydev.com/plugins/bp-custom-background-for-user-profile/)
+* [ACORD Portal](http://gitlab.com/acord-robotics) - Still a wip
