@@ -4,6 +4,9 @@ ACORD Robotics, founded in December 2015, is currently creating robots, games, s
 
 Star Sailors is an online-RPG which will be bundled together with DroidOS in the ACORD app.
 
+# Star Sailors Novella Series
+Writing Repo: https://gitlab.com/acord-robotics/robodev/star-sailors
+
 # DroidOS
 ## Acord app
 * Laid out like *Terragenesis* App
