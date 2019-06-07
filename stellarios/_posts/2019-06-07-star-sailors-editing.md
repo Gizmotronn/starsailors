@@ -1,12 +1,8 @@
 ---
-title: Pull Request &  Python DroidOS
+title: Star Sailors Editing
 image: /assets/img/blog/mars-surface-astonaut-spaceship-stars-artwork.jpg
 description: >
-  Python, a popular programming language, is going to be the first language we
-  use for creating Star Sailors. We're going to see how much we can do in Star
-  Sailors, as well as completing Python.
-  [ACORD](http://acord-robotics.github.io/starsailors/acord/). Change category
-  to Pull Requests - DroidOS
+  Star Sailors is being edited atm
 published: true
 ---
 
