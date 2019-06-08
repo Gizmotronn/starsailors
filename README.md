@@ -1,3 +1,6 @@
+This repo has been moved to acord.tech/gitlab/acord-robotics/robodev/stellarios
+This repo on acord.tech/github will be used for jekyll only, however it will still be updated from gitlab
+
 # ACORD ROBOTICS/Star Sailors 
 
 ACORD Robotics, founded in December 2015, is currently creating robots, games, software and hardware for scientists and the public. One of these games is Star Sailors, based on the novella series of the same name, written by the ACORD chairman @IrisDroidology. 
