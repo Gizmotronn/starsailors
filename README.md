@@ -31,7 +31,7 @@ Droid Controllers
 
 #### TG Stats
 * Mercury: 100% (beginner, daughters of gaia)
-* Venus: 60% (beginner, united nations)
+* Venus: 95% (beginner, united nations)
 * Mars: 100% (beginner, daughters of gaia)
 * Moon: 100% (normal, biosphere, united nations)
 
