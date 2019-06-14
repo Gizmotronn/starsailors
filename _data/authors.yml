@@ -29,8 +29,10 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         Droidology_AoD
-    github:          IrisDroidology
+    facebook:   http://allianceofdroids.org.au
+    steam:		   http://acord-robotics.github.io/starsailors/acord
+    github:      IrisDroidology             
+    download:	 https://github.com/acord-robotics/starsailors/archive/master.zip
     # email:           irisdroidology@allianceofdroids.org.au
     # rss:             https://<url>/feed.xml
     # facebook:        Droidology
@@ -43,7 +45,7 @@ author1:
     # soundcloud:      <username>
     # lastfm:          <username>
     # instagram:       droidology
-    # flickr:          163063357@N08
+    # flickr:          https://www.flickr.com/photos/163063357@N08/
     # 500px:           <username>
     # dribbble:        <username>
     # behance:         <username>
@@ -51,7 +53,7 @@ author1:
     # ello:            <username>
     # twitch:          <username>
     # steam:           droidology
-    # reddit:          limodroid
+    # reddit:          http://allianceofdroids.org.au/aod/droidlings/irisdroidology
     # tumblr:          limodroid
     # pinterest:       <username>
     # foursquare:      <number>
@@ -65,8 +67,10 @@ author1:
     # blogger:         <number>
     # delicious:       <username>
     # stumbleupon:     <username>
-    # paypal:          <username>
+    # paypal:          http://allianceofdroids.org.au/aod/droidlings/irisdroidology/
     # download:        http://github.com/acord-robotics/
+    # acord:           http://allianceofdroids.org.au/aod/droidlings/irisdroidology/
+    # twitter:         http://twitter.com/Droidology_AoD
 
 # Another author (optional)
 author2:

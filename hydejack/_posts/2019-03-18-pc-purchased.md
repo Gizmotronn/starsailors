@@ -30,10 +30,10 @@ I want to construct a village and an underwater base, but we'll start with makin
 Remember that this schedule is subject to change. Follow me on [Twitter](http://twitter.com/Droidology_AoD), [Facebook](http://fb.me/droidology) and [Instagram](http://instagram.com/droidology) to see any news about delays or bonus videos.
 ### Minecraft
 Each video will hopefully be 15-20 minutes long
-* New series coming out: 7th April 2019. 10 minute long video, introducing the new season, creating map, moving around spawn.
-* Episode 2 - First mine: 13th April 2019 - Making our first mine
-* Episode 3 - Moving villagers: 15th April 2019 - Moving at least 1 villager to our future village
-* Episode 4 - TBA
+* New series coming out: 23rd March 2019. 10 minute long video, introducing the new season, creating map, moving around spawn.
+* Episode 2 - First mine: 23d March 2019 - Making our first mine
+* Episode 3 - Mushroom house: 24th March 2019
+* Episode 10 - Moving villagers: 15th April 2019 - Moving at least 1 villager to our future village
 
 Minigames (LifeBoat)
 * Survival games 1 - 17th April 2019
