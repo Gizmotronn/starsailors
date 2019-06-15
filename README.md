@@ -34,6 +34,7 @@ Droid Controllers
 #### TG Stats
 * Mercury: 100% (beginner, daughters of gaia)
 * Venus: 100% (beginner, united nations)
+* Earth: 20% (normal, biosphere, horizon corporation)
 * Mars: 100% (beginner, daughters of gaia)
 * Moon: 100% (normal, biosphere, united nations)
 
@@ -43,6 +44,10 @@ Education
 Virtual Droid
 Archives/Save-files
 
+### Backflip Studio Games
+Backflip studios have made a number of awesome games that I've played, including Dragonvale (World) and Gizmonauts (a space & robotics colony game). Backflip studio games emphasise collection of different objects (like dragons) of different types, and the housing of these objects in different habitats. Some stellarios games will follow this model as well, with robots &  aliens being collected, sorted, bred, etc.
+
+Backflip Photos: http://acord.tech/dragonvale
 
 ### Star Wars Card Trader (Topps)
 http://acord.tech/stellarios-swct-1
