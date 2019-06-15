@@ -7,12 +7,14 @@
 ACORD Robotics, founded in December 2015, is currently creating robots, games, software and hardware for scientists and the public. One of these games is Star Sailors, based on the novella series of the same name, written by the ACORD chairman @IrisDroidology.
 
 Star Sailors is an online-RPG which will be bundled together with StellariOS in the ACORD app.
-# Maintenance
-This repo has been moved to acord.tech/gitlab/acord-robotics/robodev/stellarios
-Any changes on github will be reflected in gitlab. Bitbucket? This is to ensure that online cloud-based IDE code editors can be used. Gitpod is currently our editor of choice
 
-This repo on acord.tech/github will be used for jekyll only, however it will still be updated from gitlab.
-Backing up: https://docs.gitlab.com/ee/raketasks/backup_restore.html#rsync, https://gitlab.com/acord-robotics/robodev/star-sailors/issues/9
+# ACORD Network
+* [Portal](http://allianceofdroids.org.au)
+* [Git](http://acord.tech/gitlab)
+* [Landing](http://acord.tech/acord)
+* [News](http://acord.tech/news)
+* [Chairman's Site](http://acord.tech/opus)
+* [Reddit](http://acord.tech/reddit)
 
 # Star Sailors Novella Series
 Writing Repo: https://gitlab.com/acord-robotics/robodev/star-sailors
@@ -31,7 +33,7 @@ Droid Controllers
 
 #### TG Stats
 * Mercury: 100% (beginner, daughters of gaia)
-* Venus: 95% (beginner, united nations)
+* Venus: 100% (beginner, united nations)
 * Mars: 100% (beginner, daughters of gaia)
 * Moon: 100% (normal, biosphere, united nations)
 
@@ -41,8 +43,27 @@ Education
 Virtual Droid
 Archives/Save-files
 
+
 ### Star Wars Card Trader (Topps)
 http://acord.tech/stellarios-swct-1
+
+# Stellarios
+Stellarios is a suite of applications that is made by ACORD. Coded in a variety of languages, these apps are games, robotic controllers, and much more.
+
+## App List
+* Star Sailors Game
+* Companion Robot Controler
+* S2-RD (A0-D2) Controller
+* ACORD Network (All sites, as well as Git)
+
+## Stellarios Photos
+A bunch of photos and media files for Stellarios apps, games, and products
+
+### Games
+#### Star Wars Card Trader
+* http://acord.tech/stellarios-swct-1
+
+
 
 # Gitlab
 We're going to be using Gitlab as a secondary git client. Gitlab and Github will be filled up with more projects and people once we've got more active members (however we will be attempting to get 1 contribution each day on each git client).
@@ -50,9 +71,17 @@ We're going to be using Gitlab as a secondary git client. Gitlab and Github will
 * [Gitlab Group](http://gitlab.com/acord-robotics)
 * [Gitlab Profile](http://gitlab.com/irisdroidology)
 
-* [Gitlab Repo](http://gitlab.com/acord-robotics/robodev/stellarios)
+* [Gitlab Repo](http://gitlab.com/acord-robotics/robodev/s2-rdstellarios)
+
+The github repository will be made private once we upgrade to a more expensive Github plan. Then both the gitlab and github clients will be private
 
 # ACORD Portal
 ## Plugins
 * [Buddypress custom background by BUDDYDEV](https://buddydev.com/plugins/bp-custom-background-for-user-profile/)
 * [ACORD Portal](http://gitlab.com/acord-robotics) - Still a wip
+# Maintenance
+This repo has been moved to acord.tech/gitlab/acord-robotics/robodev/stellarios
+Any changes on github will be reflected in gitlab. Bitbucket? This is to ensure that online cloud-based IDE code editors can be used. Gitpod is currently our editor of choice
+
+This repo on acord.tech/github will be used for jekyll only, however it will still be updated from gitlab.
+Backing up: https://docs.gitlab.com/ee/raketasks/backup_restore.html#rsync, https://gitlab.com/acord-robotics/robodev/star-sailors/issues/9
