@@ -44,10 +44,16 @@ Education
 Virtual Droid
 Archives/Save-files
 
+https://photos.app.goo.gl/EEHNaXFd3vKUZbLu6
+
 ### Backflip Studio Games
 Backflip studios have made a number of awesome games that I've played, including Dragonvale (World) and Gizmonauts (a space & robotics colony game). Backflip studio games emphasise collection of different objects (like dragons) of different types, and the housing of these objects in different habitats. Some stellarios games will follow this model as well, with robots &  aliens being collected, sorted, bred, etc.
 
 Backflip Photos: http://acord.tech/dragonvale
+
+https://photos.app.goo.gl/6Nt8rosFPX9j9fBf8
+### Minecraft
+Minecraft is a sandbox game for console, PC, Mac, and mobile devices that involves placing and destroying blocks. ACORD has our own Minecraft Bedrock server and world, with some mods available. Check it out at http://acord.tech/minecraft-acord and ACORD members can download our world/server at http://acord.tech/minecraft-world
 
 ### Star Wars Card Trader (Topps)
 http://acord.tech/stellarios-swct-1
@@ -90,6 +96,24 @@ Currently we are using the Aardvark theme by Ghostpool, however there are many o
 
 ## Resources
 You can find out how the portal works here: http://acord.tech/portal-help
+
+# OpusTheRobot
+My name is Liam, also known as Opus, and I'm the Chairman & Co-Founder of ACORD (formerly Alliance of Droids). I've got plenty of cool things that I will be sharing on this repo, including personal things:
+
+## Football
+### Photos
+* [Willetton vs Warnbro 2019](https://photos.app.goo.gl/YgUFbxNpfBCBkthN9]
+* [Willetton vs North Beach 2019](https://photos.app.goo.gl/stfY4uHwi9DmgbTS8]
+* [Willetton vs Coolbinia 2019](https://photos.app.goo.gl/oVMHrN6Se631qevS9)
+* [Willetton vs Kingsway 2019](https://photos.app.goo.gl/XPXjcRWdJPF5bZBZ8)
+
+__AFL__
+* [Essendon vs Melbourne 2019](https://photos.app.goo.gl/646E8gVnH3CkdfJH6)
+
+## Hobbies
+### Gaming
+* [Dream League Soccer](https://photos.app.goo.gl/cdAQ8FQmNZkc7q269)
+
 # Maintenance
 This repo has been moved to acord.tech/gitlab/acord-robotics/robodev/stellarios
 Any changes on github will be reflected in gitlab. Bitbucket? This is to ensure that online cloud-based IDE code editors can be used. Gitpod is currently our editor of choice
