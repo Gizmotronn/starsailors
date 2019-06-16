@@ -84,6 +84,12 @@ The github repository will be made private once we upgrade to a more expensive G
 ## Plugins
 * [Buddypress custom background by BUDDYDEV](https://buddydev.com/plugins/bp-custom-background-for-user-profile/)
 * [ACORD Portal](http://gitlab.com/acord-robotics) - Still a wip
+
+## Themes
+Currently we are using the Aardvark theme by Ghostpool, however there are many other cool themes like Buddyboss and Thrive (which we used last year.) We are always on the lookout for cool new themes, however right now Aardvark does the job well.
+
+## Resources
+You can find out how the portal works here: http://acord.tech/portal-help
 # Maintenance
 This repo has been moved to acord.tech/gitlab/acord-robotics/robodev/stellarios
 Any changes on github will be reflected in gitlab. Bitbucket? This is to ensure that online cloud-based IDE code editors can be used. Gitpod is currently our editor of choice
