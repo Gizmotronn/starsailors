@@ -102,8 +102,8 @@ My name is Liam, also known as Opus, and I'm the Chairman & Co-Founder of ACORD 
 
 ## Football
 ### Photos
-* [Willetton vs Warnbro 2019](https://photos.app.goo.gl/YgUFbxNpfBCBkthN9]
-* [Willetton vs North Beach 2019](https://photos.app.goo.gl/stfY4uHwi9DmgbTS8]
+* [Willetton vs Warnbro 2019](https://photos.app.goo.gl/YgUFbxNpfBCBkthN9)
+* [Willetton vs North Beach 2019](https://photos.app.goo.gl/stfY4uHwi9DmgbTS8)
 * [Willetton vs Coolbinia 2019](https://photos.app.goo.gl/oVMHrN6Se631qevS9)
 * [Willetton vs Kingsway 2019](https://photos.app.goo.gl/XPXjcRWdJPF5bZBZ8)
 
