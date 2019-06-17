@@ -91,6 +91,10 @@ The github repository will be made private once we upgrade to a more expensive G
 * [Buddypress custom background by BUDDYDEV](https://buddydev.com/plugins/bp-custom-background-for-user-profile/)
 * [ACORD Portal](http://gitlab.com/acord-robotics) - Still a wip
 
+## Portal Pages
+* [Stellarios Portal](http://allianceofdroids.org.au/aod/stellarios)
+* [Star Sailors Game](http://allianceofdroids.org.au/aod/star-sailors)
+
 ## Themes
 Currently we are using the Aardvark theme by Ghostpool, however there are many other cool themes like Buddyboss and Thrive (which we used last year.) We are always on the lookout for cool new themes, however right now Aardvark does the job well.
 
