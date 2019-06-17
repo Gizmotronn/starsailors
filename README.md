@@ -143,6 +143,6 @@ Any changes on github will be reflected in gitlab. Bitbucket? This is to ensure 
 This repo on acord.tech/github will be used for jekyll only, however it will still be updated from gitlab.
 Backing up: https://docs.gitlab.com/ee/raketasks/backup_restore.html#rsync, https://gitlab.com/acord-robotics/robodev/star-sailors/issues/9
 
-## Non-ACORD Stuff
+## ACORD Members Stuff
 __My Website__
 I'm currently using the "James Hamann" Jekyll (static site generator) theme for my website. I'm thinking about changing to the clean blog theme (https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll) or to a wordpress.org theme. Currently the James Hamann Portfolio theme works fine, it's just the blog has a sort of outdated look. Maybe I could change it up, or just use medium.
