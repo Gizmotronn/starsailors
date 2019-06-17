@@ -14,6 +14,10 @@
 * [Star Sailors](#star-sailors)
 * [ACORD Portal](#acord-portal)
 * [Gitlab](#gitlab)
+
+
+
+
 ACORD Robotics, founded in December 2015, is currently creating robots, games, software and hardware for scientists and the public. One of these games is Star Sailors, based on the novella series of the same name, written by the ACORD chairman @IrisDroidology.
 
 Star Sailors is an online-RPG which will be bundled together with StellariOS in the ACORD app.
