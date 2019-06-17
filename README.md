@@ -16,10 +16,10 @@ Star Sailors is an online-RPG which will be bundled together with StellariOS in 
 * [Chairman's Site](http://acord.tech/opus)
 * [Reddit](http://acord.tech/reddit)
 
-# Star Sailors Novella Series
-Writing Repo: https://gitlab.com/acord-robotics/robodev/star-sailors
 
-# DroidOS
+# Stellarios
+Stellarios is a suite of applications that is made by ACORD. Coded in a variety of languages, these apps are games, robotic controllers, and much more.
+
 ## Acord app
 * Laid out like *Terragenesis* App
 
@@ -58,25 +58,44 @@ Minecraft is a sandbox game for console, PC, Mac, and mobile devices that involv
 ### Star Wars Card Trader (Topps)
 http://acord.tech/stellarios-swct-1
 
-# Stellarios
-Stellarios is a suite of applications that is made by ACORD. Coded in a variety of languages, these apps are games, robotic controllers, and much more.
 
-## App List
+### Star Sailors
+#### Star Sailors Novella Series
+Writing Repo: https://gitlab.com/acord-robotics/robodev/star-sailors
+
+### App List
 * Star Sailors Game
 * Companion Robot Controler
 * S2-RD (A0-D2) Controller
 * ACORD Network (All sites, as well as Git)
 
-## Stellarios Photos
+### Stellarios Photos
 A bunch of photos and media files for Stellarios apps, games, and products
 
-### Games
-#### Star Wars Card Trader
+#### Games
+##### Star Wars Card Trader
 * http://acord.tech/stellarios-swct-1
 
 
+## ACORD Portal
+### Plugins
+* [Buddypress custom background by BUDDYDEV](https://buddydev.com/plugins/bp-custom-background-for-user-profile/)
+* [ACORD Portal](http://gitlab.com/acord-robotics) - Still a wip
 
-# Gitlab
+### Portal Pages
+#### Stellarios
+Stellarios is available for ACORD members on the portal. Every single application that has been created is on its own page:
+* [Stellarios Portal](http://allianceofdroids.org.au/aod/stellarios)
+* [Star Sailors Game](http://allianceofdroids.org.au/aod/stellarios/star-sailors)
+* [Minigames](http://allianceofdroids.org.au/aod/stellarios/minigames)
+
+### Themes
+Currently we are using the Aardvark theme by Ghostpool, however there are many other cool themes like Buddyboss and Thrive (which we used last year.) We are always on the lookout for cool new themes, however right now Aardvark does the job well.
+
+### Resources
+You can find out how the portal works here: http://acord.tech/portal-help
+
+### Gitlab
 We're going to be using Gitlab as a secondary git client. Gitlab and Github will be filled up with more projects and people once we've got more active members (however we will be attempting to get 1 contribution each day on each git client).
 
 * [Gitlab Group](http://gitlab.com/acord-robotics)
@@ -86,26 +105,11 @@ We're going to be using Gitlab as a secondary git client. Gitlab and Github will
 
 The github repository will be made private once we upgrade to a more expensive Github plan. Then both the gitlab and github clients will be private
 
-# ACORD Portal
-## Plugins
-* [Buddypress custom background by BUDDYDEV](https://buddydev.com/plugins/bp-custom-background-for-user-profile/)
-* [ACORD Portal](http://gitlab.com/acord-robotics) - Still a wip
-
-## Portal Pages
-* [Stellarios Portal](http://allianceofdroids.org.au/aod/stellarios)
-* [Star Sailors Game](http://allianceofdroids.org.au/aod/star-sailors)
-
-## Themes
-Currently we are using the Aardvark theme by Ghostpool, however there are many other cool themes like Buddyboss and Thrive (which we used last year.) We are always on the lookout for cool new themes, however right now Aardvark does the job well.
-
-## Resources
-You can find out how the portal works here: http://acord.tech/portal-help
-
-# OpusTheRobot
+## OpusTheRobot
 My name is Liam, also known as Opus, and I'm the Chairman & Co-Founder of ACORD (formerly Alliance of Droids). I've got plenty of cool things that I will be sharing on this repo, including personal things:
 
-## Football
-### Photos
+### Football
+#### Photos
 * [Willetton vs Warnbro 2019](https://photos.app.goo.gl/YgUFbxNpfBCBkthN9)
 * [Willetton vs North Beach 2019](https://photos.app.goo.gl/stfY4uHwi9DmgbTS8)
 * [Willetton vs Coolbinia 2019](https://photos.app.goo.gl/oVMHrN6Se631qevS9)
@@ -114,8 +118,8 @@ My name is Liam, also known as Opus, and I'm the Chairman & Co-Founder of ACORD 
 __AFL__
 * [Essendon vs Melbourne 2019](https://photos.app.goo.gl/646E8gVnH3CkdfJH6)
 
-## Hobbies
-### Gaming
+### Hobbies
+#### Gaming
 * [Dream League Soccer](https://photos.app.goo.gl/cdAQ8FQmNZkc7q269)
 
 # Maintenance
