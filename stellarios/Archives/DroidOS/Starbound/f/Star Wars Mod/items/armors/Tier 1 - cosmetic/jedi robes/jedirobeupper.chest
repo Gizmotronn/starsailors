@@ -1,0 +1,53 @@
+{
+  "itemName" : "SWM2jedirobeupper",
+  "price" : 2500,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "chestwear",
+  "description" : "Robes of a Jedi",
+  "shortdescription" : "Jedi Apprentice Robe",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+  
+
+   
+  "colorOptions" : [
+    // Original
+    { "774B3B" : "774B3B", "603B30" : "603B30", "56362B" : "56362B", "6f2919" : "1a1c51" },
+    // BLACK
+    { "774B3B" : "838383", "603B30" : "555555", "56362B" : "383838", "6f2919" : "151515" },
+    // GREY
+    { "774B3B" : "b5b5b5", "603B30" : "808080", "56362B" : "555555", "6f2919" : "303030" },
+    // WHITE
+    { "774B3B" : "e6e6e6", "603B30" : "b6b6b6", "56362B" : "7b7b7b", "6f2919" : "373737" },
+    // RED
+    { "774B3B" : "C64739", "603B30" : "d93a3a", "56362B" : "932625", "6f2919" : "601119" },
+    // ORANGE
+    { "774B3B" : "ffd495", "603B30" : "ea9931", "56362B" : "af4e00", "6f2919" : "6e2900" },
+    // YELLOW
+    { "774B3B" : "ffffa7", "603B30" : "e2c344", "56362B" : "a46e06", "6f2919" : "642f00" },
+    // GREEN
+    { "774B3B" : "b2e89d", "603B30" : "51bd3b", "56362B" : "247824", "6f2919" : "144216" },
+    // BLUE
+    { "774B3B" : "96cbe7", "603B30" : "5588d4", "56362B" : "344495", "6f2919" : "1a1c51" },
+    // PURPLE
+    { "774B3B" : "d29ce7", "603B30" : "a451c4", "56362B" : "6a2284", "6f2919" : "320c40" },
+    // PINK
+    { "774B3B" : "eab3db", "603B30" : "d35eae", "56362B" : "97276d", "6f2919" : "59163f" },
+    // BROWN
+    { "774B3B" : "774B3B", "603B30" : "603B30", "56362B" : "56362B", "6f2919" : "472b13" }
+  ]
+  }
+

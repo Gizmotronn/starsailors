@@ -1,0 +1,58 @@
+[
+{
+"op" : "add", "path" : "/speciesShips/wookie", "value" : ["/ships/wookie/humanT0.structure", "/ships/wookie/humanT1.structure", "/ships/wookie/humanT2.structure", "/ships/wookie/humanT3.structure", "/ships/wookie/humanT4.structure", "/ships/wookie/humanT5.structure", "/ships/wookie/humanT6.structure", "/ships/wookie/humanT7.structure", "/ships/wookie/humanT8.structure"]
+},
+
+{
+"op" : "add", "path" : "/speciesShips/toydarian", "value" : ["/ships/toydarian/humanT0.structure", "/ships/toydarian/humanT1.structure", "/ships/toydarian/humanT2.structure", "/ships/toydarian/humanT3.structure", "/ships/toydarian/humanT4.structure", "/ships/toydarian/humanT5.structure", "/ships/toydarian/humanT6.structure", "/ships/toydarian/humanT7.structure", "/ships/toydarian/humanT8.structure"]
+},
+
+{
+"op" : "add", "path" : "/speciesShips/utapaun", "value" : ["/ships/utapaun/humanT0.structure", "/ships/utapaun/humanT1.structure", "/ships/utapaun/humanT2.structure", "/ships/utapaun/humanT3.structure", "/ships/utapaun/humanT4.structure", "/ships/utapaun/humanT5.structure", "/ships/utapaun/humanT6.structure", "/ships/utapaun/humanT7.structure", "/ships/utapaun/humanT8.structure"]
+},
+
+{
+"op" : "add", "path" : "/speciesShips/rodian", "value" : ["/ships/rodian/humanT0.structure", "/ships/rodian/humanT1.structure", "/ships/rodian/humanT2.structure", "/ships/rodian/humanT3.structure", "/ships/rodian/humanT4.structure", "/ships/rodian/humanT5.structure", "/ships/rodian/humanT6.structure", "/ships/rodian/humanT7.structure", "/ships/rodian/humanT8.structure"]
+},
+
+{
+"op" : "add", "path" : "/speciesShips/tuskan", "value" : ["/ships/tuskan/humanT0.structure", "/ships/tuskan/humanT1.structure", "/ships/tuskan/humanT2.structure", "/ships/tuskan/humanT3.structure", "/ships/tuskan/humanT4.structure", "/ships/tuskan/humanT5.structure", "/ships/tuskan/humanT6.structure", "/ships/tuskan/humanT7.structure", "/ships/tuskan/humanT8.structure"]
+},
+
+{
+"op" : "add", "path" : "/speciesShips/zabrak", "value" : ["/ships/zabrak/humanT0.structure", "/ships/zabrak/humanT1.structure", "/ships/zabrak/humanT2.structure", "/ships/zabrak/humanT3.structure", "/ships/zabrak/humanT4.structure", "/ships/zabrak/humanT5.structure", "/ships/zabrak/humanT6.structure", "/ships/zabrak/humanT7.structure", "/ships/zabrak/humanT8.structure"]
+},
+
+{
+"op" : "add", "path" : "/speciesShips/togruta", "value" : ["/ships/togruta/humanT0.structure", "/ships/togruta/humanT1.structure", "/ships/togruta/humanT2.structure", "/ships/togruta/humanT3.structure", "/ships/togruta/humanT4.structure", "/ships/togruta/humanT5.structure", "/ships/togruta/humanT6.structure", "/ships/togruta/humanT7.structure", "/ships/togruta/humanT8.structure"]
+},
+
+{
+"op" : "add", "path" : "/speciesShips/ithorian", "value" : ["/ships/ithorian/humanT0.structure", "/ships/ithorian/humanT1.structure", "/ships/ithorian/humanT2.structure", "/ships/ithorian/humanT3.structure", "/ships/ithorian/humanT4.structure", "/ships/ithorian/humanT5.structure", "/ships/ithorian/humanT6.structure", "/ships/ithorian/humanT7.structure", "/ships/ithorian/humanT8.structure"]
+},
+
+{
+"op" : "add", "path" : "/speciesShips/mawg", "value" : ["/ships/mawg/humanT0.structure", "/ships/mawg/humanT1.structure", "/ships/mawg/humanT2.structure", "/ships/mawg/humanT3.structure", "/ships/mawg/humanT4.structure", "/ships/mawg/humanT5.structure", "/ships/mawg/humanT6.structure", "/ships/mawg/humanT7.structure", "/ships/mawg/humanT8.structure"]
+},
+
+{
+"op" : "add", "path" : "/speciesShips/droid", "value" : ["/ships/droid/humanT0.structure", "/ships/droid/humanT1.structure", "/ships/droid/humanT2.structure", "/ships/droid/humanT3.structure", "/ships/droid/humanT4.structure", "/ships/droid/humanT5.structure", "/ships/droid/humanT6.structure", "/ships/droid/humanT7.structure", "/ships/droid/humanT8.structure"]
+},
+
+{
+"op" : "add", "path" : "/speciesShips/twilek", "value" : ["/ships/twilek/humanT0.structure", "/ships/twilek/humanT1.structure", "/ships/twilek/humanT2.structure", "/ships/twilek/humanT3.structure", "/ships/twilek/humanT4.structure", "/ships/twilek/humanT5.structure", "/ships/twilek/humanT6.structure", "/ships/twilek/humanT7.structure", "/ships/twilek/humanT8.structure"]
+},
+
+{
+"op" : "add", "path" : "/speciesShips/bothan", "value" : ["/ships/bothan/humanT0.structure", "/ships/bothan/humanT1.structure", "/ships/bothan/humanT2.structure", "/ships/bothan/humanT3.structure", "/ships/bothan/humanT4.structure", "/ships/bothan/humanT5.structure", "/ships/bothan/humanT6.structure", "/ships/bothan/humanT7.structure", "/ships/bothan/humanT8.structure"]
+},
+
+{
+"op" : "add", "path" : "/speciesShips/sith", "value" : ["/ships/sith/humanT0.structure", "/ships/sith/humanT1.structure", "/ships/sith/humanT2.structure", "/ships/sith/humanT3.structure", "/ships/sith/humanT4.structure", "/ships/sith/humanT5.structure", "/ships/sith/humanT6.structure", "/ships/sith/humanT7.structure", "/ships/sith/humanT8.structure"]
+},
+
+{
+"op" : "add", "path" : "/speciesShips/diathim", "value" : ["/ships/diathim/humanT0.structure", "/ships/diathim/humanT1.structure", "/ships/diathim/humanT2.structure", "/ships/diathim/humanT3.structure", "/ships/diathim/humanT4.structure", "/ships/diathim/humanT5.structure", "/ships/diathim/humanT6.structure", "/ships/diathim/humanT7.structure", "/ships/diathim/humanT8.structure"]
+}
+
+]

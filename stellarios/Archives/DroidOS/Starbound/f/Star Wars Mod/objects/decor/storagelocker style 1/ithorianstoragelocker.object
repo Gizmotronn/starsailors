@@ -1,0 +1,34 @@
+{
+  "objectName" : "ithorianstoragelocker",
+  "colonyTags" : ["swrace", "storage"],
+  "rarity" : "Rare",
+  "category" : "storage",
+  "price" : 180,
+  "printable" : false,
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "Keep your things safe behind a force field.",
+  "shortdescription" : "Storage Locker Style 1",
+  "race" : "ithorian",
+  "health" : 1.5,
+
+  
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "ithorianstoragelocker.png:<color>.<key>",
+      "imagePosition" : [-16, -8],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/chest_small_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/chest_small_close.ogg" ],
+  "slotCount" : 48,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "openFrameIndex" : 4,
+  "autoCloseCooldown" : 3600
+}

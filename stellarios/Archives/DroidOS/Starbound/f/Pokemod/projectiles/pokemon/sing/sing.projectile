@@ -1,0 +1,13 @@
+{
+  "projectileName" : "sing",
+  "image" : "sing.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,  
+  "power" : 50,
+  "speed" : 25,
+  "damageKind" : "default",  
+   "damageKindImage" : "icon.png",
+  "statusEffects" : [
+    "sleep"
+  ]
+}

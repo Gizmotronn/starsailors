@@ -1,0 +1,13 @@
+{
+  "itemName" : "SWM2commandopants",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Republic Commando Leggings.",
+  "shortdescription" : "Republic Commando Pants",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}

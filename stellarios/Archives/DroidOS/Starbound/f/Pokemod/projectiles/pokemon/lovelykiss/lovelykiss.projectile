@@ -1,0 +1,20 @@
+{
+  "projectileName" : "lovelykiss",
+  "image" : "lovelykiss.png",
+  "physics" : "flame",
+  "animationCycle" : 1,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 1,
+  "power" : 0,
+  "speed" : 35,
+  "timeToLive" : 0.95,
+  "bounces" : 0,
+  "piercing" : false,
+  "damagePoly" : [ [-4.5, 0], [-3, -3], [0, -4.5], [3, -3], [4.5, 0], [3, 3], [0, 4.5], [-3, 3] ],
+  "damageKind" : "normal",
+  "emitters" : [ "lovelykisstrail" ],
+   "statusEffects" : [
+    "paralysis"
+  ]
+ 
+}

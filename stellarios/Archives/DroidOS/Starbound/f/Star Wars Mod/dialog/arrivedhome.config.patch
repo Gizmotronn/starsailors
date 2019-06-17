@@ -1,0 +1,383 @@
+[
+	{
+		"op": "add",
+		"path": "/beacon/wookie",
+		"value": {
+			"default": [
+				"Rwwwwwr?"
+			]
+			
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/wookie",
+		"value": {
+			"default": [
+				"Mhmmmm.",
+				"Mmmmm.",
+				"Vrrrrr."
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/beacon/sith",
+		"value": {
+			"default": [
+				"What are you doing poking around in my home?",
+				"What have you called me for?",
+				"Here I am. What is this about?",
+				"You wanted to talk to me?"
+			]
+			
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/sith",
+		"value": {
+			"default": [
+				"Your grace is noted.",
+				"I could give you anything else: Spice, creosol, mutonium, a flask of finest Merenzane ... But this is all I have.",
+				"I cobbled this together in my free time; I'm sure you could use it.",
+				"You wouldn't mind having some of this, would you?",
+				"What, you don't like it? why not try getting a Universal Uncrafter to break it down?"
+			]
+		}
+	},
+	
+	
+	{
+		"op": "add",
+		"path": "/beacon/togruta",
+		"value": {
+			"default": [
+				"I'm flattered to receive your house call. Now, what do you want?",
+        		"What have you called me for?",
+        		"You need me for something, my friend?",
+        		"What is it, my friend?",
+				"Can I help you?"
+			]
+			
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/togruta",
+		"value": {
+			"default": [
+				"I could give you anything else: Spice, creosol, mutonium, a flask of finest Merenzane ... But this is all I have.",
+				"I cobbled this together in my free time; I'm sure you could use it.",
+				"You wouldn't mind having some of this, would you?",
+				"I am happy to help."
+
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/beacon/toydarian",
+		"value": {
+			"default": [
+				"What are you doing poking around in my home?",
+				"Here I am. What is this about?",
+				"What have you called me for?",
+				"You needed me and I came, what can I do for you?",
+				"Couldn't this wait? why have you sent for me?",				
+				"Can I help you?"
+			]
+			
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/toydarian",
+		"value": {
+			"default": [
+				"What, you don't like it? why not try getting a Universal Uncrafter to break it down?",
+				"I spend so much time scraping all these Credits and gifts together, and here you are saying it's too little!",
+				"With so many of us barely making it, ya should be thankful ya had this comin' today."
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/beacon/utapaun",
+		"value": {
+			"default": [
+				"Here I am. What is this about?",
+				"What is it, my friend?",
+				"You wanted to talk to me?",
+				"What have you called me for?",
+				"You need me for something, my friend?",
+				"You needed me and I came, what can I do for you?",
+				"I'm flattered to receive your house call. Now, what do you want?",							
+				"Can I help you?"
+			]
+			
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/utapaun",
+		"value": {
+			"default": [
+				"I could give you anything else: Spice, creosol, mutonium, a flask of finest Merenzane ... But this is all I have.",
+				"I am happy to help."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/beacon/rodian",
+		"value": {
+			"default": [
+				"What are you doing poking around in my home?",
+				"I'm flattered to receive your house call. Now, what do you want?",
+				"Can I help you?"
+			]
+			
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/rodian",
+		"value": {
+			"default": [
+				"What, you don't like it? why not try getting a Universal Uncrafter to break it down?",
+				"I spend so much time scraping all these Credits and gifts together, and here you are saying it's too little!",
+				"With so many of us barely making it, you should be thankful you got anything at all.",
+				"I could give you anything else: Spice, creosol, mutonium, a flask of finest Merenzane ... But this is all I have.",
+				"I am happy to help."
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/beacon/tuskan",
+		"value": {
+			"default": [
+				"What are you doing poking around in my home?",
+				"Here I am. What is this about?",
+				"What have you called me for?",
+				"Be quick about it, I do not have all day.",
+				"You needed me and I came, what can I do for you?",
+				"Couldn't this wait? why have you sent for me?",
+				"Can I help you?"
+			]
+			
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/tuskan",
+		"value": {
+			"default": [
+				"I could give you anything else: Spice, creosol, mutonium, a flask of finest Merenzane ... But this is all I have.",
+				"What, you don't like it? why not try getting a Universal Uncrafter to break it down?",
+				"I spend so much time scraping all these Credits and gifts together, and here you are saying it's too little!",
+				"With so many of us barely making it, you should be thankful you got anything at all.",
+				"I cobbled this together in my free time; I'm sure you could use it.",
+				"You wouldn't mind having some of this, would you?",
+				"I am happy to help."
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/beacon/zabrak",
+		"value": {
+			"default": [
+				"What are you doing poking around in my home?",
+				"Here I am. What is this about?",
+				"What have you called me for?",
+				"Be quick about it, I do not have all day.",
+				"You needed me and I came, what can I do for you?",
+				"Couldn't this wait? why have you sent for me?",
+				"Can I help you?"
+			]
+			
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/zabrak",
+		"value": {
+			"default": [
+				"I could give you anything else: Spice, creosol, mutonium, a flask of finest Merenzane ... But this is all I have.",
+				"What, you don't like it? why not try getting a Universal Uncrafter to break it down?",
+				"I spend so much time scraping all these Credits and gifts together, and here you are saying it's too little!",
+				"With so many of us barely making it, you should be thankful you got anything at all.",
+				"I cobbled this together in my free time; I'm sure you could use it.",
+				"You wouldn't mind having some of this, would you?",
+				"I am happy to help."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/beacon/ithorian",
+		"value": {
+			"default": [
+				"I'm flattered to receive your house call. Now, what do you want?",
+        		"What have you called me for?",
+        		"You need me for something, my friend?",
+        		"What is it, my friend?",
+				"Can I help you?"
+			]
+			
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/ithorian",
+		"value": {
+			"default": [
+				"You wouldn't mind having some of this, would you?",
+				"I am happy to help."
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/beacon/mawg",
+		"value": {
+			"default": [
+				"What are you doing poking around in my home?",
+				"I'm flattered to receive your house call. Now, what do you want?",
+				"Somethin' on your mind?",
+        		"What can I do for ya'?",
+        		"You needin' to talk about something?",
+        		"What you need to talk about?",
+        		"You called and I came a-running.",
+				"Can I help you?"
+			]
+			
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/mawg",
+		"value": {
+			"default": [
+				"Here's a little somethin' for your troubles. Thank you kindly.",
+        		"It's a mighty fine place you've helped me secure. I gotta thank you for it.",
+        		"Thanks for helping me get by. You've earned this.",
+        		"Don't know how to thank you properly, but for now take this.",
+        		"That's for you, to do as you please with."
+			]
+		}
+	},
+	
+	
+	{
+		"op": "add",
+		"path": "/beacon/droid",
+		"value": {
+			"default": [
+				"Request acknowledged. Please state whatever issues need discussing.",
+				"A guest calls!",
+				"How may I be of service?",
+				"Do you require my assistance?",
+				"What are your orders?",
+				"I'm flattered to receive your house call. Now, what do you want?",
+				"Can I help you?"
+			]
+			
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/droid",
+		"value": {
+			"default": [
+				"Your cooperation is appreciated. Please accept this consideration as a token of appreciation.",
+				"I am glad to be of service.",
+				"Here is a gift for your assistance.",
+				"Please accept these resources, they will aid your greatly in your enterprises."
+
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/beacon/bothan",
+		"value": {
+			"default": [
+				"Here I am. What is this about?",
+				"What have you called me for?",
+				"Be quick about it, I do not have all day.",
+				"You needed me and I came, what can I do for you?",
+				"I'm flattered to receive your house call. Now, what do you want?",
+				"Can I help you?"
+			]
+			
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/bothan",
+		"value": {
+			"default": [
+				"I could give you anything else: Spice, creosol, mutonium, a flask of finest Merenzane ... But this is all I have.",
+				"I am happy to help."
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/beacon/twilek",
+		"value": {
+			"default": [
+				"Here I am. What is this about?",
+        		"You need me for something, my friend?",
+        		"You needed me and I came, what can I do for you?",
+        		"What is it, my friend?",
+				"I'm flattered to receive your house call. Now, what do you want?",
+				"Can I help you?"
+			]
+			
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/twilek",
+		"value": {
+			"default": [
+				"I could give you anything else: Spice, creosol, mutonium, a flask of finest Merenzane ... But this is all I have.",
+				"I cobbled this together in my free time; I'm sure you could use it.",
+				"You wouldn't mind having some of this, would you?",
+				"I am happy to help."
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/beacon/diathim",
+		"value": {
+			"default": [
+				"..."
+			]
+			
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/diathim",
+		"value": {
+			"default": [
+				"..."
+			]
+		}
+	}
+]

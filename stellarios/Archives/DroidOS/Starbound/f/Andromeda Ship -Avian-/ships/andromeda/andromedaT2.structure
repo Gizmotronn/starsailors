@@ -1,0 +1,24 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel"],
+	  "maxFuel" : 500,
+      "crewSize" : 2
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "andromedaT2.png",
+      "position" : [0,0],
+      "fullbright" : true
+    },
+    {
+      "image" : "andromedaT2lit.png",
+      "position" : [0,0]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "andromedaT2blocks.png"
+}

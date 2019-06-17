@@ -1,0 +1,253 @@
+{
+  "type" : "growlithe",
+  "shortdescription" : "growlithe",
+  "description" : "Very protective of its territory. It will bark and bite to repel intruders from its space.",
+
+  "categories" : [ "growlithe" ],
+  "parts" : [ "body" ],
+
+  "animation" : "growlithe.animation",
+
+  "dropPools" : [ { "default" : "firePokemonTreasure", "bow" : "hunting" } ],
+
+  "baseParameters" : {
+    "scripts" : [
+      "/monsters/monster.lua"
+    ],
+
+    "behavior" : "monster",
+
+    "behaviorConfig" : {
+      "damageOnTouch" : true,
+
+      "targetQueryRange" : 20,
+      "targetOnDamage" : true,
+      "keepTargetInSight" : true,
+      "keepTargetInRange" : 50,
+      "targetOutOfSightTime" : 2.5,
+
+      "foundTargetActions" : [ { "name" : "action-aggrohop" } ],
+
+      "fleeActions" : [],
+
+      "hostileActions" : [
+        
+        {
+          "name" : "action-fire",
+          "cooldown" : 2.5,
+          "parameters" : {
+            "requireLineOfSight" : true,
+            "maximumRange" : 40,
+            "maxXRange" : 40,
+            "maxYRange" : 40,
+            "minimumRange" : 0,
+            "windupState" : "",
+            "windupTime" : 0.0,
+
+            "projectileType" : "ember",
+           
+            "fireOffset" : [0, 0],
+            "aimAtTarget" : true,
+            "aimDirection" : [0, 0],
+            "inaccuracy" : 0,
+            "projectileCount" : 1,
+            "projectileInterval" : 0.00,
+            "fireState" : "",
+            "fireDelay" : 0.1,
+            "fireSound" : "",
+
+            "winddownState" : "fire",
+            "winddownTime" : 0.5
+          }
+        },
+		
+		{
+          "name" : "action-fire",
+          "cooldown" : 1.0,
+          "parameters" : {
+            "requireLineOfSight" : true,
+            "maximumRange" : 5,
+            "maxXRange" : 5,
+            "maxYRange" : 5,
+            "minimumRange" : 1,
+            "windupState" : "",
+            "windupTime" : 0.2,
+
+            "projectileType" : "pkmnbite",
+            "projectileParameters" : {
+              "speed" : 0.5,
+              "timeToLive" : 0.5
+            },
+            "fireOffset" : [2, 0],
+            "aimAtTarget" : true,
+            "aimDirection" : [0, 0],
+            "inaccuracy" : 0.0,
+            "projectileCount" : 1,
+            "projectileInterval" : 0.00,
+            "fireState" : "",
+            "fireDelay" : 0.1,
+            "fireSound" : "",
+
+            "winddownState" : "fire2",
+            "winddownTime" : 0.2
+          }
+        }
+      ],
+
+      "periodicActions" : [],
+
+      "approachActions" : [
+        {
+          "name" : "approach-walk",
+          "parameters" : {
+            "canJump" : true,
+            "run" : true
+          }
+        }
+      ],
+
+      "followActions" : [
+        {
+          "name" : "approach-teleport",
+          "parameters" : {
+          }
+        },
+        {
+          "name" : "approach-walk",
+          "parameters" : {
+            "canJump" : true
+          }
+        }
+      ],
+
+      "wanderActions" : [
+        {
+          "name" : "wander-walk",
+          "cooldown" : 6.0,
+          "parameters" : {
+            "wanderTime" : [5, 15]
+          }
+        }
+      ]
+    },
+
+    "touchDamage" : {
+      "poly" : [ [0.5, 1.125], [1, 0.625], [1, -0.625], [0.5, -1.125], [-0.5, -1.125], [-1, -0.625], [-1, 0.625], [-0.5, 1.125] ],
+      "damage" : 10,
+
+      "teamType" : "enemy",
+      "damageSourceKind" : "slash",
+      "knockback" : 20,
+      "statusEffects" : [ ]
+    },
+
+    "metaBoundBox" : [-4, -4, 4, 4],
+    "scale" : 1.0,
+
+    "movementSettings" : {
+      "collisionPoly" : [ [0.5, 1.125], [1, 0.625], [1, -0.625], [0.5, -1.125], [-0.5, -1.125], [-1, -0.625], [-1, 0.625], [-0.5, 1.125] ],
+
+      "mass" : 1.0,
+      "walkSpeed" : 3,
+      "runSpeed" : 5,
+
+      "airFriction" : 0,
+
+      "airJumpProfile" : {
+        "jumpSpeed" : 45.0,
+        "jumpInitialPercentage" : 1.0,
+        "jumpHoldTime" : 0.0
+      }
+    },
+
+    "bodyMaterialKind" : "organic",
+
+    "knockoutTime" : 0.3,
+    "knockoutAnimationStates" : {
+      "damage" : "stunned"
+    },
+    "deathParticles" : "deathPoof",
+    "knockoutEffect" : "",
+
+    "statusSettings" : {
+      "statusProperties" : {
+        "targetMaterialKind" : "organic"
+      },
+
+      "appliesEnvironmentStatusEffects" : false,
+      "appliesWeatherStatusEffects" : true,
+      "minimumLiquidStatusEffectPercentage" : 0.1,
+
+      "primaryScriptSources" : [
+        "/stats/monster_primary.lua"
+      ],
+      "primaryScriptDelta" : 5,
+
+      "stats" : {
+        "knockbackStunTime" : {
+          "baseValue" : 0.25
+        },
+        "knockbackThreshold" : {
+          "baseValue" : 9
+        },
+        "maxHealth" : {
+          "baseValue" : 300
+        },
+        "protection" : {
+          "baseValue" : 0.0
+        },
+        "healthRegen" : {
+          "baseValue" : 0.0
+        },
+        "powerMultiplier" : {
+          "baseValue" : 1.0
+        },
+        "physicalResistance" : {
+          "baseValue" : 0.0
+        },
+        "fireResistance" : {
+          "baseValue" : 80
+        },
+        "fireStatusImmunity" : {
+          "baseValue" : 0.0
+        },
+        "iceResistance" : {
+          "baseValue" : 0.0
+        },
+        "iceStatusImmunity" : {
+          "baseValue" : 0.0
+        },
+        "electricResistance" : {
+          "baseValue" : 0.0
+        },
+        "electricStatusImmunity" : {
+          "baseValue" : 0.0
+        },
+        "poisonResistance" : {
+          "baseValue" : 0.5
+        },
+        "poisonStatusImmunity" : {
+          "baseValue" : 1.0
+        }
+      },
+
+      "resources" : {
+        "stunned" : {
+          "deltaValue" : -1.0,
+          "initialValue" : 0.0
+        },
+        "health" : {
+          "maxStat" : "maxHealth",
+          "deltaStat" : "healthRegen",
+          "defaultPercentage" : 100
+        }
+      }
+    },
+
+    "mouthOffset" : [0, 0],
+    "feetOffset" : [0, 0],
+    "capturable" : true,
+    "captureHealthFraction" : 0.5,
+    "nametagColor" : [64, 200, 255]
+  }
+}

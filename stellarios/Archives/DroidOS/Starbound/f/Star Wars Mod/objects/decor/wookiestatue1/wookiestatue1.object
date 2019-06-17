@@ -1,0 +1,35 @@
+{
+  "objectName" : "wookiestatue1",
+  "colonyTags" : ["wookie","pretty","valuable"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 110,
+  "description" : "It's a bust of a female Wookie.",
+  "shortdescription" : "Wookie Bust Statue",
+  "race" : "wookie",
+
+  "wookieDescription" : "A crude representation of a Wookiee matriarch.",
+  "feneroxDescription" : "Stone statue. Wookiee statue. Female Wookiee. Still unnamed. Silence.",
+  "apexDescription" : "I'm not exactly sure what this Wookiee did to merit a statue.",
+  "avianDescription" : "A crudely done statue of a Wookiee, I think.",
+  "floranDescription" : "Sssilly sstone face.",
+  "glitchDescription" : "Unhappy. The history behind the Wookiee depicted here is unknown to me.",
+  "humanDescription" : "I wonder if this is to scale?",
+  "felinDescription" : "Cute. For a Wookie. Well, not quite.",
+  "hylotlDescription" : "Is this what a female Wookiee truly looks like?",
+  "novakidDescription" : "Cute. For a Wookie.",
+
+  "inventoryIcon" : "wookiestatue1icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "wookiestatue1.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

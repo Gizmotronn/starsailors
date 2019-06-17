@@ -1,0 +1,201 @@
+{
+  "metadata" : {
+    "name" : "invadedapexcity",
+    "species" : "apex",
+    "rules" : [
+    ],
+    "anchor" : [ "invadedapexcitybuilding2" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 20,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "invadedapexcityhouse1",
+      "rules" : [
+        [ "maxSpawnCount", [4] ],
+        [ "doNotConnectToPart", [ "invadedapexcityhouse1" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcityhouse1.json" ]
+    },
+    {
+      "name" : "invadedapexcityhouse2",
+      "rules" : [
+        [ "maxSpawnCount", [4] ],
+        [ "doNotConnectToPart", [ "invadedapexcityhouse2" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcityhouse2.json" ]
+    },
+    {
+      "name" : "invadedapexcityhouse3",
+      "rules" : [
+        [ "maxSpawnCount", [4] ],
+        [ "doNotConnectToPart", [ "invadedapexcityhouse3" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcityhouse3.json" ]
+    },
+    {
+      "name" : "invadedapexcityhouse4",
+      "rules" : [
+        [ "maxSpawnCount", [4] ],
+        [ "doNotConnectToPart", [ "invadedapexcityhouse4" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcityhouse4.json" ]
+    },
+    {
+      "name" : "invadedapexcityhouse5",
+      "rules" : [
+        [ "maxSpawnCount", [4] ],
+        [ "doNotConnectToPart", [ "invadedapexcityhouse5" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcityhouse5.json" ]
+    },
+    {
+      "name" : "invadedapexcitystore1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedapexcitystore1" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcitystore1.json" ]
+    },
+    {
+      "name" : "invadedapexcitystore1clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedapexcitystore1clue" ] ],
+        [ "doNotCombineWith", [ "invadedapexcitystore1", "invadedapexcitybuilding3clue", "invadedapexcitybuilding2clue", "invadedapexcitymansion2clue", "invadedapexcityflat2clue" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcitystore1clue.json" ]
+    },
+    {
+      "name" : "invadedapexcityoffice1",
+      "rules" : [
+        [ "maxSpawnCount", [4] ],
+        [ "doNotConnectToPart", [ "invadedapexcityoffice1" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcityoffice1.json" ]
+    },
+    {
+      "name" : "invadedapexcitybuilding1",
+      "rules" : [
+        [ "maxSpawnCount", [2] ],
+        [ "doNotConnectToPart", [ "invadedapexcitybuilding1" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcitybuilding1.json" ]
+    },
+    {
+      "name" : "invadedapexcitybuilding2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedapexcitybuilding2" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcitybuilding2.json" ]
+    },
+    {
+      "name" : "invadedapexcitybuilding2clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedapexcitybuilding2clue" ] ],
+        [ "doNotCombineWith", [ "invadedapexcitybuilding2", "invadedapexcitybuilding3clue", "invadedapexcitystore1clue", "invadedapexcitymansion2clue", "invadedapexcityflat2clue" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcitybuilding2clue.json" ]
+    },
+    {
+      "name" : "invadedapexcitybuilding3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedapexcitybuilding3" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcitybuilding3.json" ]
+    },
+    {
+      "name" : "invadedapexcitybuilding3clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedapexcitybuilding3clue" ] ],
+        [ "doNotCombineWith", [ "invadedapexcitybuilding3", "invadedapexcitybuilding2clue", "invadedapexcitystore1clue", "invadedapexcitymansion2clue", "invadedapexcityflat2clue" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcitybuilding3clue.json" ]
+    },
+    {
+      "name" : "invadedapexcitymansion2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedapexcitymansion2" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcitymansion2.json" ]
+    },
+    {
+      "name" : "invadedapexcitymansion2clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedapexcitymansion2clue" ] ],
+        [ "doNotCombineWith", [ "invadedapexcitymansion2", "invadedapexcitybuilding2clue", "invadedapexcitybuilding3clue", "invadedapexcitystore1clue", "invadedapexcityflat2clue" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcitymansion2clue.json" ]
+    },
+    {
+      "name" : "invadedapexcityflat1",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedapexcityflat1" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcityflat1.json" ]
+    },
+    {
+      "name" : "invadedapexcityflat2",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedapexcityflat2" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcityflat2.json" ]
+    },
+    {
+      "name" : "invadedapexcityflat2clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedapexcityflat2clue" ] ],
+        [ "doNotCombineWith", [ "invadedapexcityflat2", "invadedapexcitybuilding2clue", "invadedapexcitybuilding3clue", "invadedapexcitystore1clue", "invadedapexcitymansion2clue" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedapexcityflat2clue.json" ]
+    },
+    {
+      "name" : "invadedapexendleft1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "invadedapexendleft1.json" ] ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "invadedapexendright1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "invadedapexendright1.json" ] ],
+      "chance" : 0
+    }
+  ]
+}

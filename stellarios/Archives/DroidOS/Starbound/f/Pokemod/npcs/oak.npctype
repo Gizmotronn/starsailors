@@ -1,0 +1,75 @@
+{
+  "type" : "oak",
+  "baseType" : "base",
+  "npcname" : "Professor Oak",
+   "identity" : {
+    
+    "gender" : "male",
+    "hairGroup" : "hair",
+    "hairType" : "1"
+  },
+
+  "damageTeamType" : "assistant",
+  "damageTeam" : 1,
+
+  "persistent" : true,
+
+  "scriptConfig" : {
+    "behavior" : "villager",
+
+    "behaviorConfig" : {
+      "play" : true,
+      "chat" : true
+    },
+
+    "questGenerator" : {
+       "enableParticipation" : false 
+	  },
+
+    "turnInQuests" : [
+      "visitoak"
+    ],
+    "chatPortrait" : "/interface/chatbubbles/oaktalk.png:<frame>",
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "I'm working on creating a Pokedex. It will be used to catalog all the species of Pokemon you capture."
+          ]
+        }
+      }
+    }
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "human" : [
+      [0, [
+          {
+            "head" : [{ "name" : "oakhead"} ],
+            "chest" : [{ "name" : "oakchest" }],
+            "legs" : [{ "name" : "oaklegs"}	]
+          }
+          
+         
+        ] ]
+    ]
+  },
+
+  "statusControllerSettings" : {
+    "stats" : {
+      "maxHealth" : {
+        "baseValue" : 50.0
+      },
+      "powerMultiplier" : {
+        "baseValue" : 0.0
+      },
+      "protection" : {
+        "baseValue" : 1.0
+      },
+      "healthRegen" : {
+        "baseValue" : 0.0
+      }
+    }
+  }
+}

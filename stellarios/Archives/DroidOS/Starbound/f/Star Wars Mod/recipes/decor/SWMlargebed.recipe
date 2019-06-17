@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 25 }
+
+    
+  ],
+  "output" : { "item" : "SWMlargebed", "count" : 1 },
+  "groups" : [ "swm","decor" ]
+}

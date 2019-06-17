@@ -1,0 +1,9 @@
+{
+  "name" : "kabutops",
+  "category" : "kabutops",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "kabutops.png"
+  }
+}

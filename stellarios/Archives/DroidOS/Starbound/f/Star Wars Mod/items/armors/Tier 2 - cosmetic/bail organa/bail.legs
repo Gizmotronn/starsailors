@@ -1,0 +1,15 @@
+{
+  "itemName" : "SWM2bailpants",
+  "price" : 2500,
+  "inventoryIcon" : "icons.png:pants",
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "category" : "legwear",
+  "description" : "Bail Organa Pants",
+  "shortdescription" : "Bail Organa Pants",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+  
+}

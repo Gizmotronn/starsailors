@@ -1,0 +1,45 @@
+{
+  "objectName" : "templebed",
+  "colonyTags" : ["ithorian", "rodian", "mawg", "zabrak", "droid", "tuskan", "utapaun", "wookie", "sith", "bothan", "twilek", "diathim", "toydarian"],
+  "printable" : false,
+  "rarity" : "Uncommon",
+  "description" : "Bed used in Jedi temples.",
+  "shortdescription" : "Bed Style 18",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 300,
+
+  "apexDescription" : "Bed used in Jedi temples.",
+  "avianDescription" : "Bed used in Jedi temples.",
+  "floranDescription" : "Bed used in Jedi temples.",
+  "glitchDescription" : "Statement. Bed used in Jedi temples.",
+  "humanDescription" : "Bed used in Jedi temples.",
+  "hylotlDescription" : "Bed used in Jedi temples.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 13],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/decor/beds/bed style 18/templebedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "regeneration2"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "swtoricon3.png",
+  "orientations" : [
+    {
+      "dualImage" : "templebed.png:<color>",
+
+      "imagePosition" : [-24, 1],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

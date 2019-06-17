@@ -1,0 +1,20 @@
+{
+  "itemName" : "SWMdoubleviol",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "icon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A Double Viol.",
+  "shortdescription" : "Double Viol",
+  "largeImage" : "doubleviol.png",
+  "image" : "doubleviol.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "doubleviol.png",
+  "activeAngle" : -20,
+  "activeHandPosition" : [0.1, 0.1],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "nylonguitar"
+}

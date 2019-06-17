@@ -1,0 +1,20 @@
+{
+  "projectileName" : "psyball",
+  "image" : "psyball.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 3,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "flippable" : true,
+  
+  "statusEffects" : [ ],
+  "power" : 25,
+  "speed" : 0.2,
+  "damageKind" : "default",
+
+  "timeToLive" : 7,
+
+  "scripts" : [ "psyball.lua" ],
+  "delayTime" : 1.5,
+  "triggerSpeed" : 100
+}

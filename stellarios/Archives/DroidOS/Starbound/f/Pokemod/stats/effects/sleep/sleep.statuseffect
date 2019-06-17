@@ -1,0 +1,15 @@
+{
+  "name" : "sleep",
+  "blockingStat" : "stunImmunity",
+  "effectConfig" : {},
+  "defaultDuration" : 2.5,
+
+  "scripts" : [
+    "sleep.lua"
+  ],
+
+  "animationConfig" : "sleep.animation",
+
+  "label" : "Slow",
+  "icon" : "/interface/statuses/slow.png"
+}

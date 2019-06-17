@@ -1,0 +1,9 @@
+{
+  "name" : "growlithe",
+  "category" : "growlithe",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "growlithe.png"
+  }
+}

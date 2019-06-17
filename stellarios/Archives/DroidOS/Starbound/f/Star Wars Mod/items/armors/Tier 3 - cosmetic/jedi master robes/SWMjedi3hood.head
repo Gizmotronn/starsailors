@@ -1,0 +1,43 @@
+{
+  "itemName" : "SWM2jedi3hood",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "The true outfit of a Jedi master.",
+  "shortdescription" : "Jedi Master Hood",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  
+  
+ "colorOptions" : [
+    // Normal
+    { "AF573A" : "AF573A", "91492F" : "91492F", "6F2919" : "6F2919", "511E12" : "511E12" },
+    // BLACK
+    { "AF573A" : "838383", "91492F" : "555555", "6F2919" : "383838", "511E12" : "151515" },
+    // GREY
+    { "AF573A" : "b5b5b5", "91492F" : "808080", "6F2919" : "555555", "511E12" : "303030" },
+    // WHITE
+    { "AF573A" : "e6e6e6", "91492F" : "b6b6b6", "6F2919" : "7b7b7b", "511E12" : "373737" },
+    // RED
+    { "AF573A" : "f4988c", "91492F" : "d93a3a", "6F2919" : "932625", "511E12" : "601119" },
+    // ORANGE
+    { "AF573A" : "ffd495", "91492F" : "ea9931", "6F2919" : "af4e00", "511E12" : "6e2900" },
+    // YELLOW
+    { "AF573A" : "ffffa7", "91492F" : "e2c344", "6F2919" : "a46e06", "511E12" : "642f00" },
+    // GREEN
+    { "AF573A" : "b2e89d", "91492F" : "51bd3b", "6F2919" : "247824", "511E12" : "144216" },
+    // BLUE
+    { "AF573A" : "96cbe7", "91492F" : "5588d4", "6F2919" : "344495", "511E12" : "1a1c51" },
+    // PURPLE
+    { "AF573A" : "d29ce7", "91492F" : "a451c4", "6F2919" : "6a2284", "511E12" : "320c40" },
+    // PINK
+    { "AF573A" : "eab3db", "91492F" : "d35eae", "6F2919" : "97276d", "511E12" : "59163f" },
+    // BROWN
+    { "AF573A" : "AF573A", "91492F" : "91492F", "6F2919" : "6F2919", "511E12" : "511E12" }
+  ]
+}

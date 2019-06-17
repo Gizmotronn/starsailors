@@ -1,0 +1,67 @@
+{
+  "objectName" : "SWMhanginglight",
+  "colonyTags" : ["light", "swrace"],
+  "rarity" : "Common",
+  "description" : "A metallic ceiling lamp.",
+  "shortdescription" : "Hanging Light",
+  "race" : "human",
+
+  "wookieDescription" : "Maybe it was surplus from an old spaceport or something of that sort.",
+  "twilekDescription" : "A battered old lamp that could fit the basement seating area of an old cantina.",
+  "feneroxDescription" : "Strange lamp. Alien design. Feeling wary!",
+  "apexDescription" : "It's a lamp.",
+  "felinDescription" : "Won't fit the kind of decor that I find appealing, no.",
+  "hylotlDescription" : "A light source of a design entirely alien to this galaxy.",
+  "floranDescription" : "Sssstrange old lamp. At leassst it doessss not burn.",
+  "glitchDescription" : "Cheerful. The Glitch enjoy light.",
+  "humanDescription" : "This strangely designed lamp is ideal for lighting up open areas.",
+  "avianDescription" : "This lamp emits a dull light. Does it contain crystals?",
+  "novakidDescription" : "A lamp fastened up high. Nothin' special about it.",
+
+  "category" : "light",
+  "price" : 90,
+  "lightColor" : [229, 229, 210],
+  "pointLight" : true,
+  "pointBeam" : 2,
+  "beamAmbience" : 0.35,
+
+  
+  "inventoryIcon" : "hanginglight1icon.png",
+  "orientations" : [
+    {
+      "image" : "hanginglight1.png:<color>.<frame>",
+      "imagePosition" : [-8, -32],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ],
+      "lightPosition" : [0, -4],
+      "beamAngle" : 270
+    },
+    {
+      "image" : "hanginglight1.png:<color>.<frame>",
+      "imagePosition" : [-8, -32],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ],
+      "lightPosition" : [0, -4],
+      "beamAngle" : 270
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationParts" : {
+    "bg" : "hanginglight1.png",
+    "fg" : "hanginglight1lit.png"
+  },
+  "animationPosition" : [-8, -32],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : true,
+
+  "inputNodes" : [ [0, -3] ]
+}

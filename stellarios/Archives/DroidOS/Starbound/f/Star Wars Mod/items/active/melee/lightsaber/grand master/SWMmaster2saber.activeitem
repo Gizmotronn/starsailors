@@ -1,0 +1,82 @@
+{
+  "itemName" : "SWMmaster2saber",
+  "price" : 160,
+  "level" : 7,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Lightsaber crafted by a Force-Sensitive.",
+  "shortdescription" : " Lightsaber",
+  "tooltipKind" : "sword",
+  "category" : "broadsword",
+  "twoHanded" : true,
+  "itemTags" : ["weapon", "melee", "broadsword"],
+  "learnBlueprintsOnPickup" : [ "SWMmaster3saber" ],
+
+  "inventoryIcon" : "sabericon.png",
+
+  "animation" : "saber.animation",
+  "animationParts" : {
+    "blade" : "",
+    "handle" : ""
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/swing_lightsaber.ogg", "/sfx/melee/swing_lightsaber.ogg", "/sfx/melee/swing_lightsaber.ogg" ],
+      "fire2" : [ "/sfx/melee/swing_lightsaber.ogg", "/sfx/melee/swing_lightsaber.ogg", "/sfx/melee/swing_lightsaber.ogg" ],
+      "fire3" : [ "/sfx/melee/swing_lightsaber.ogg", "/sfx/melee/swing_lightsaber.ogg", "/sfx/melee/swing_lightsaber.ogg" ]
+    }
+  },
+
+  "scripts" : ["/items/active/weapons/melee/energymeleeweapon.lua"],
+
+  "activeTime" : 6.0,
+
+  "elementalType" : "physical",
+
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.83,
+    "baseDps" : 12.5,
+
+    "stances" : {
+      "fire1" : {
+        "duration" : 0.05
+      },
+      "wait1" : {
+        "duration" : 0.1
+      },
+      "fire2" : {
+        "duration" : 0.1
+      },
+      "wait2" : {
+        "duration" : 0.1
+      }
+    }
+  },
+
+  
+  "builder" : "/items/buildscripts/buildweapon.lua",
+  "builderConfig" : [{
+      "animationParts" : {
+      "blade" : {
+        "path" : "blade/<variant>.png",
+        "variants" : 12,
+        "paletteSwap" : false
+      },
+      "handle" : {
+        "path" : "handle/<variant>.png",
+        "variants" : 8,
+        "paletteSwap" : false
+      }
+    },
+    "altAbilities" : [
+      "risingslash",
+      "spinslash",
+      "superspinslash"
+    ],
+    "palette" : "/items/active/weapons/colors/melee.weaponcolors",
+    "iconDrawables" : [ "blade", "handle" ]
+  }]
+
+  
+}

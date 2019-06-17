@@ -1,0 +1,25 @@
+{
+  "itemName" : "SWMbfgumbo",
+  "rarity" : "Common",
+  "price" : 350,
+  "category" : "preparedFood",
+  "inventoryIcon" : "bfgumbo.png",
+  "description" : "A sticky, black, acrid stuff with nameless floating pale blobs that were the color of tree lichen.",
+  "shortdescription" : "Bottom-Feeder Gumbo",
+  "effects" : [ [
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 360
+    }
+  ] ],
+  "foodValue" : 40,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ]
+}

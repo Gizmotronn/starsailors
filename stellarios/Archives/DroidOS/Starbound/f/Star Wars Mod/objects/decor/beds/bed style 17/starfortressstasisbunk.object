@@ -1,0 +1,49 @@
+{
+  "objectName" : "starfortressstasisbunk",
+  "colonyTags" : ["ithorian", "rodian", "mawg", "zabrak", "droid", "tuskan", "utapaun", "wookie", "sith", "bothan", "twilek", "diathim", "toydarian"],
+  "printable" : false,
+  "rarity" : "rare",
+  "description" : "Star Fortress stasis bunk bed.",
+  "shortdescription" : "Bed Style 17",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 400,
+
+  "apexDescription" : "Star Fortress stasis bunk bed.",
+  "avianDescription" : "Star Fortress stasis bunk bed.",
+  "floranDescription" : "Star Fortress stasis bunk bed.",
+  "glitchDescription" : "Statement. Star Fortress stasis bunk bed.",
+  "humanDescription" : "Star Fortress stasis bunk bed.",
+  "hylotlDescription" : "Star Fortress stasis bunk bed.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 13],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/decor/beds/bed style 17/starfortressstasisbunkcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "regeneration2"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "lightColor" : [191, 232, 242],
+  "flickerDistance" : 0.5,
+  "flickerStrength" : 0.1,
+  
+  "inventoryIcon" : "swtoricon4.png",
+  "orientations" : [
+    {
+      "dualImage" : "starfortressstasisbunk.png:<color>",
+
+      "imagePosition" : [-24, 1],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

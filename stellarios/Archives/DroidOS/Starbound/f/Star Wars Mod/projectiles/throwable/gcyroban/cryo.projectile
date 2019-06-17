@@ -1,0 +1,24 @@
+{
+  "projectileName" : "gcyro",
+  "physics" : "grenade",
+   "bounces" : -1,
+  "timeToLive" : 5,
+  "image" : "gcyro.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "damageKind" : "iceplasmabullet",
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/snowballexplosion/snowballexplosion.config"
+    },
+    {
+      "action" : "applySurfaceMod",
+      "previousMod" : "metamod:none",
+      "newMod" : "snow",
+      "radius" : 1
+    }
+  ],
+  "power" : 30,
+  "emitters" : [ "defaultwhite" ]
+}

@@ -1,0 +1,75 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/wookie",
+		"value": [ "protectorate" ]
+	},
+	
+	
+	{
+		"op": "add",
+		"path": "/initialquests/sith",
+		"value": [ "protectorate" ]
+	},
+	
+	{
+		"op": "add",
+		"path": "/initialquests/togruta",
+		"value": [ "protectorate" ]
+	},
+	
+	{"op":"add", 
+	"path":"/initialquests/toydarian",
+	"value": [ "protectorate", "protectoratetoydarian", "itemspawn" ]
+	},
+	
+	{"op":"add", 
+	"path":"/initialquests/diathim",
+	"value": [ "protectorate", "protectoratetoydarian", "itemspawn" ]
+	},
+	
+	{"op":"add", 
+	"path":"/initialquests/utapaun",
+	"value": [ "protectorate"  ]
+	},
+	
+	{"op":"add", 
+	"path":"/initialquests/rodian",
+	"value": [ "protectorate"  ]
+	},
+	
+	{"op":"add", 
+	"path":"/initialquests/tuskan",
+	"value": [ "protectorate"  ]
+	},
+	
+	{"op":"add", 
+	"path":"/initialquests/zabrak",
+	"value": [ "protectorate"  ]
+	},
+	
+	{"op":"add", 
+	"path":"/initialquests/ithorian",
+	"value": [ "protectorate"  ]
+	},
+	
+	{"op":"add", 
+	"path":"/initialquests/mawg",
+	"value": [ "protectorate"  ]
+	},
+	
+	{"op":"add", 
+	"path":"/initialquests/droid",
+	"value": [ "protectorate"  ]
+	},
+	
+	{"op":"add", 
+	"path":"/initialquests/bothan",
+	"value": [ "protectorate"  ]
+	},
+	
+	{"op":"add", 
+	"path":"/initialquests/twilek",
+	"value": [ "protectorate"  ]
+	} 
+]

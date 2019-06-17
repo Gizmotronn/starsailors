@@ -1,0 +1,49 @@
+{
+  "objectName" : "yacheberryseed",
+  "colonyTags" : ["nature"],
+  "rarity" : "Common",
+  "description" : "Grows into an Yache Berry Tree.",
+  "category" : "seed",
+  "shortdescription" : "Yache Berry Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+
+ 
+
+  "inventoryIcon" : "yacheberryseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "yacheberryseed.png:default.2.1",
+  
+  
+  "orientations" : [
+    {
+      "dualImage" : "yacheberryseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [1000, 1000]
+    },
+    {
+      "duration" : [1000, 1000]
+    },
+    {
+      "alts" : 1,
+      "harvestPool" : "yacheberryHarvest"
+    }
+  ],
+
+  "maxImmersion" : 0.25
+}

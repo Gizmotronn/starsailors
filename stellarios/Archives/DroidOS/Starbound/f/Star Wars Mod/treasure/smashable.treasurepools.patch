@@ -1,0 +1,33 @@
+[
+  {
+    "op": "add",
+    "path": "/kyberRock",
+    "value": [
+      [
+        1,
+        {
+          "pool": [
+            {
+              "weight": 1,
+              "item": "kybercrystal"
+            }
+          ],
+          "poolRounds": [
+            [
+              0.25,
+              5
+            ],
+            [
+              0.5,
+              6
+            ],
+            [
+              0.25,
+              7
+            ]
+          ]
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "projectileName" : "presolarbeam",
+  "image" : "presolarbeam.png",
+  "animationCycle" : 0.5,
+  "timeToLive" : 0.5,
+  "frameNumber" : 3,
+  "speed" : 0,
+  "orientationLocked" : false,
+  "damagePoly" : [  ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageKind" : "grass",
+  "lightColor" : [0, 100, 100],
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "solarbeam",
+      "inheritDamageFactor" : 1
+    }
+  ]
+}

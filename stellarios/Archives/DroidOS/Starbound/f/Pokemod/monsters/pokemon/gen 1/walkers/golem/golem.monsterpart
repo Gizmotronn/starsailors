@@ -1,0 +1,9 @@
+{
+  "name" : "golem",
+  "category" : "golem",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "golem.png"
+  }
+}

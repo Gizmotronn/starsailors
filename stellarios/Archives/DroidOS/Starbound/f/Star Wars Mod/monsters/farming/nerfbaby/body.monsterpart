@@ -1,0 +1,9 @@
+{
+  "name" : "nerfbaby",
+  "category" : "nerfbaby",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

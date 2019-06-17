@@ -1,0 +1,101 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/twilek",
+    "value": {
+      "default": [
+        "Can droids dream? And do they dream of holosheep? These are some of the questions I've been trying to answer through my research.",
+        "When is a moon not a moon? elementary, my friend: when it's a space station!",
+        "I'm trying to build a better, more efficient medical droid."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/bothan",
+    "value": {
+      "default": [
+        "Can droids dream? And do they dream of holosheep? These are some of the questions I've been trying to answer through my research.",
+        "When is a moon not a moon? elementary, my friend: when it's a space station!",
+        "I'm trying to build a better, more efficient medical droid."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/sith",
+    "value": {
+      "default": [
+        "Can droids dream? And do they dream of holosheep? These are some of the questions I've been trying to answer through my research.",
+        "When is a moon not a moon? elementary, my friend: when it's a space station!",
+        "I'm trying to build a better, more efficient medical droid."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/mawg",
+    "value": {
+      "default": [
+        "Can droids dream? And do they dream of holosheep? These are some of the questions I've been trying to answer through my research.",
+        "When is a moon not a moon? elementary, my friend: when it's a space station!",
+        "I'm trying to build a better, more efficient medical droid."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/diathim",
+    "value": {
+      "default": [
+        "Can droids dream? And do they dream of holosheep? These are some of the questions I've been trying to answer through my research.",
+        "When is a moon not a moon? elementary, my friend: when it's a space station!",
+        "I'm trying to build a better, more efficient medical droid."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/utapaun",
+    "value": {
+      "default": [
+        "Can droids dream? And do they dream of holosheep? These are some of the questions I've been trying to answer through my research.",
+        "When is a moon not a moon? elementary, my friend: when it's a space station!",
+        "I'm trying to build a better, more efficient medical droid."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/rodian",
+    "value": {
+      "default": [
+        "Can droids dream? And do they dream of holosheep? These are some of the questions I've been trying to answer through my research.",
+        "When is a moon not a moon? elementary, my friend: when it's a space station!",
+        "I'm trying to build a better, more efficient blaster pistol."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/togruta",
+    "value": {
+      "default": [
+        "Can droids dream? And do they dream of holosheep? These are some of the questions I've been trying to answer through my research.",
+        "When is a moon not a moon? elementary, my friend: when it's a space station!",
+        "I'm trying to build a better, more efficient medical droid."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/zabrak",
+    "value": {
+      "default": [
+        "Can droids dream? And do they dream of holosheep? These are some of the questions I've been trying to answer through my research.",
+        "When is a moon not a moon? elementary, my friend: when it's a space station!",
+        "I'm trying to build a better, more efficient medical droid."
+      ]
+    }
+  }
+]

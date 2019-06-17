@@ -1,0 +1,15 @@
+{
+  "itemName" : "ithorianinvishead",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Cosmetic Helm for species with odd heads",
+  "shortdescription" : "Invis. Cosmetic Helm",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"
+ 
+}

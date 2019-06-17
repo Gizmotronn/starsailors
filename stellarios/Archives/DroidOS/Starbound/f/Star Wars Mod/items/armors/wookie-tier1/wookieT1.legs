@@ -1,0 +1,14 @@
+{
+  "itemName" : "SWMwookieT1legs",
+  "price" : 2500,
+  "inventoryIcon" : "icons.png:pants",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "legwear",
+  "description" : "Leg Warmers?!",
+  "shortdescription" : "Wookiee Leg Warmers",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}

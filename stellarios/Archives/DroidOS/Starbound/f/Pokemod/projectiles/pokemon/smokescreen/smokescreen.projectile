@@ -1,0 +1,116 @@
+{
+  "projectileName" : "smokescreen",
+  "image" : "smokescreen.png",
+  "animationCycle" : 0.3,
+  "animationLoops" : true,
+  "timeToLive" : 10,
+  "frameNumber" : 1,
+  "power" : 0,
+  "speed" : 0,
+ 
+  "damagePoly" : [
+    [-50, 6], [50, 6], [50, -6], [-50, -6]
+  ],
+  "piercing" : true,
+  "flippable" : true,
+    "renderLayer" : "Player+10",
+  "damageKind" : "poison",
+  "statusEffects" : [ ],
+  "emitters" : ["shockwavedust"],
+  "periodicActions" : [
+    {
+      "time" : 0.2,
+      "action" : "loop",
+      "count" : 5,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/fogsmoke/fogsmoke.animation",
+            "position" : [8, 2.5],
+            "finalVelocity" : [0, 0],
+            "approach" : [1.5, 1.5],
+            "destructionAction" : "fade",
+            "destructionTime" : 0.85,
+            "fade" : 1,
+            "size" : 0.3,
+            "layer" : "middle",
+            "timeToLive" : 0.35,
+            "variance" : {
+              "size" : 0.2,
+              "position" : [1.2, 1.0],
+              "initialVelocity" : [2.0, 2.0]
+            }
+          }
+        },
+		{
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/fogsmoke/fogsmoke.animation",
+            "position" : [-8,2.5],
+            "finalVelocity" : [0, 0],
+            "approach" : [1.5, 1.5],
+            "destructionAction" : "fade",
+            "destructionTime" : 0.85,
+            "fade" : 1,
+            "size" : 0.3,
+            "layer" : "middle",
+            "timeToLive" : 0.35,
+            "variance" : {
+              "size" : 0.2,
+              "position" : [1.2, 1.0],
+              "initialVelocity" : [2.0, 2.0]
+            }
+          }
+        },
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/fogsmoke/fogsmoke.animation",
+            "initialVelocity" : [0.0, 7.0],
+            "finalVelocity" : [0.0, 4.0],
+            "approach" : [0.3, 60],
+            "timeToLive" : 0.8,
+            "layer" : "back",
+            "size" : 0.3,
+            "collidesForeground" : true,
+            "variance" : {
+            "position" : [-5, 2.5],
+            "size" : 0.2,
+            "initialVelocity" : [5, 3],
+            "finalVelocity" : [0, 0],
+            "rotation" : 170,
+            "angularVelocity" : 180
+            }
+          }
+        },  
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/fogsmoke/fogsmoke.animation",
+            "position" : [5, 2.5],
+            "initialVelocity" : [0.2, -10],
+            "finalVelocity" : [0.1, -50],
+            "approach" : [0, 10],
+            "fade" : 0.5,
+            "destructionAction" : "shrink",
+            "destructionTime" : 2,
+            "layer" : "middle",
+            "size" : 0.3,
+            "timeToLive" : 1,
+            "variance" : {
+            "position" : [1, 1],
+            "size" : 0.2,
+            "initialVelocity" : [0, 4]
+            }  
+          }
+        }
+      ]
+    }
+  ]
+  
+}

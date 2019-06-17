@@ -1,0 +1,64 @@
+{
+  "objectName" : "zabrakbardoor",
+  "colonyTags" : ["swrace", "door"],
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 125,
+  "description" : "A nice door.",
+  "shortdescription" : "Door Style 3",
+  "race" : "zabrak",
+
+  "apexDescription" : "This door looks easy to get past.",
+  "avianDescription" : "A weak door. The breeze could slip through.",
+  "floranDescription" : "Door that lacks ssstrength.",
+  "glitchDescription" : "Upset. Such weak materials.",
+  "humanDescription" : "Why would anyone do this?",
+  "hylotlDescription" : "This door would easily catch fire.",
+  "novakidDescription" : "A very weak door.",
+
+  "inventoryIcon" : "zabrakdooricon.png",
+  "orientations" : [
+    {
+      "image" : "zabrakdoor.png:default",
+      "flipImages" : true,
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "left"
+    },
+    {
+      "image" : "zabrakdoor.png:default",
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "right"
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/zabrakdoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/zabrakdoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "zabrakdoor.png"
+  },
+  "animationPosition" : [-20, 0],
+
+  "inputNodes" : [ [-1, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}

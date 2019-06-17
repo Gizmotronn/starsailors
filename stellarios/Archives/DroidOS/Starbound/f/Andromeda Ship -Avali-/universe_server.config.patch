@@ -1,0 +1,19 @@
+[
+  [
+    {
+      "op" : "replace",
+      "path" : "/speciesShips/avali",
+      "value" : [
+        "/ships/avaliandromeda/avaliandromedaT0.structure",
+        "/ships/avaliandromeda/avaliandromedaT1.structure",
+        "/ships/avaliandromeda/avaliandromedaT2.structure",
+        "/ships/avaliandromeda/avaliandromedaT3.structure",
+        "/ships/avaliandromeda/avaliandromedaT4.structure",
+        "/ships/avaliandromeda/avaliandromedaT5.structure",
+        "/ships/avaliandromeda/avaliandromedaT6.structure",
+        "/ships/avaliandromeda/avaliandromedaT7.structure",
+        "/ships/avaliandromeda/avaliandromedaT8.structure"
+      ]
+    }
+  ]
+]  

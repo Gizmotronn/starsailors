@@ -1,0 +1,49 @@
+{
+  "objectName" : "chopleberryseed",
+  "colonyTags" : ["nature"],
+  "rarity" : "Common",
+  "description" : "Grows into an Chople Berry Tree.",
+  "category" : "seed",
+  "shortdescription" : "Chople Berry Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+
+ 
+
+  "inventoryIcon" : "chopleberryseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "chopleberryseed.png:default.2.1",
+  
+  
+  "orientations" : [
+    {
+      "dualImage" : "chopleberryseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [1000, 1000]
+    },
+    {
+      "duration" : [1000, 1000]
+    },
+    {
+      "alts" : 1,
+      "harvestPool" : "chopleberryHarvest"
+    }
+  ],
+
+  "maxImmersion" : 0.25
+}

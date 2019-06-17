@@ -1,0 +1,9 @@
+{
+  "name" : "kingler",
+  "category" : "kingler",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "kingler.png"
+  }
+}

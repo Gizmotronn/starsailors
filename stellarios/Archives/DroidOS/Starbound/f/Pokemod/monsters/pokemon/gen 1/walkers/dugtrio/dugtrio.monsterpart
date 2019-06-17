@@ -1,0 +1,9 @@
+{
+  "name" : "dugtrio",
+  "category" : "dugtrio",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "dugtrio.png"
+  }
+}

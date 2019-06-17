@@ -1,0 +1,38 @@
+{
+  "objectName" : "SWMancientforge",
+  "rarity" : "Legendary",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/ancientforge.config",
+    "filter" : [ "af" ]
+  },
+  "printable" : false,
+  "description" : "An old forge used by the Jedi for the construction of a lightsaber.",
+  "shortdescription" : "Ancient Forge",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 500,
+
+  "apexDescription" : "I've never seen such technology!",
+  "avianDescription" : "This surely isn't from this galaxy.",
+  "floranDescription" : "Floran can use this to build something!",
+  "glitchDescription" : "Information not found.",
+  "humanDescription" : "Whoa! I've always wanted to be a Jedi.",
+  "hylotlDescription" : "With meditation, I'm sure I can build something from this.",
+
+  "inventoryIcon" : "ancientforgeicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "ancientforge.png:<color>.<frame>",
+
+      "imagePosition" : [0, 0],
+      "frames" :12,
+      "animationCycle" : 3.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "wookie"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "sith"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "zabrak"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "mawg"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "diathim"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "bothan"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "twilek"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "utapaun"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "togruta"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "rodian"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "itemName" : "SWMdeathblade",
+  "price" : 900,
+  "level" : 4,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Coated in a molecular-bonded poison that caused extreme amounts of pain and even death.",
+  "shortdescription" : "Rodian Death Blade",
+  "tooltipKind" : "sword",
+  "category" : "shortsword",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","melee","shortsword"],
+
+  "inventoryIcon" : "deathblade.png",
+
+  "animation" : "/items/active/weapons/melee/shortsword/comboshortsword.animation",
+  "animationParts" : {
+    "handle": "",
+    "blade" : "deathblade.png"
+  },
+  "animationCustom" : { },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "elementalType" : "poison",
+
+  "primaryAbilityType" : "shortswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.625,
+    "baseDps" : 10,
+	"damageConfig" : {
+      "statusEffects" : ["forcepoison4" ]      
+    }
+  },
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

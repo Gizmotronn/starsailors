@@ -1,0 +1,9 @@
+{
+  "name" : "venusaur",
+  "category" : "venusaur",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "venusaur.png"
+  }
+}

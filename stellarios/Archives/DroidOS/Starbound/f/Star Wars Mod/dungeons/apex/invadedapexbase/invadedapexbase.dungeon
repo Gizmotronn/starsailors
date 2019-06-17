@@ -1,0 +1,94 @@
+{
+  "metadata" : {
+    "name" : "invadedapexbase",
+    "species" : "apex",
+    "rules" : [
+    ],
+    "anchor" : [ "invadedapexbaseentrance1" ],
+    "maxRadius" : 1000000,
+    "maxParts" : 4,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "invadedapexbaseentrance1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "invadedapexbaseentrance1.json" ]
+    },
+    {
+      "name" : "invadedapexbase1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "invadedapexbase1.json" ]
+    },
+    {
+      "name" : "invadedapexbase2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "invadedapexbase2.json" ]
+    },
+    {
+      "name" : "invadedapexbase3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "invadedapexbase3.json" ]
+    },
+    {
+      "name" : "invadedapexbase4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "invadedapexbase4.json" ]
+    },
+    {
+      "name" : "invadedapexbase5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "invadedapexbase5.json" ]
+    },
+    {
+      "name" : "invadedapexbasetop1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "invadedapexbasetop1.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "invadedapexbasetop2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "invadedapexbasetop2.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "invadedapexbasetop3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "invadedapexbasetop3.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "invadedapexbasetop4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "invadedapexbasetop4.json" ],
+      "chance" : 0
+    }
+  ]
+}

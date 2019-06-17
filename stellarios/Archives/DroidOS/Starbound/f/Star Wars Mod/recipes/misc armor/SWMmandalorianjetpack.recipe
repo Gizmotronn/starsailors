@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 450 }
+	
+  ],
+  "output" : { "item" : "SWMmandalorianjetpack", "count" : 1 },
+  "groups" : [ "bazaar","t3" ]
+}

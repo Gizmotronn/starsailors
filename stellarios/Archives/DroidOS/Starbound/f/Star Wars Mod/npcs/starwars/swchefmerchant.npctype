@@ -1,0 +1,60 @@
+{
+  "type" : "swchefmerchant",
+  "baseType" : "swmerchant",
+
+  "scriptConfig" : {
+    "questGenerator" : {
+      "pools" : ["common"]
+    },
+
+    "merchant" : {
+      "waitTime" : 10,
+      "storeRadius" : -1,
+      "categories" : {
+        "default" : [ "swchef" ]
+      },
+      "buyFactorRange" : [ 1.0, 1.0 ],
+      "sellFactorRange" : [ 0.2, 0.2 ],
+      "numItems" : 7,
+      "paneLayoutOverride" : {
+        "windowtitle" : {
+          "title" : "  Galactic Chef",
+          "subtitle" : "  Best food in the galaxy!"
+        }
+      }
+    },
+
+    "dialog" : {
+      "merchant" : {
+        "start" : {
+          "default" : {
+            "default" : [
+              "Get ready to pig out!"
+            ]
+          },
+        "end" : {
+          "default" : {
+            "default" : [
+              "Come back anytime!"
+            ]
+          }
+        }
+      }
+    }
+	}
+  },
+"matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [{"name" : "chefhead", "parameters" : { "colorIndex" : [3] }} ],
+            "chest" : [{"name" :  "chefchest", "parameters" : { "colorIndex" : [3] }} ],
+            "legs" : [ {"name" : "cheflegs", "parameters" : { "colorIndex" : [3] } }],
+			"back" : [ ""],
+			"primary" : [ "coconut","coconut" ]
+          }
+        ] ]
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "objectName" : "occaberryseed",
+  "colonyTags" : ["nature"],
+  "rarity" : "Common",
+  "description" : "Grows into an Occa Berry Tree.",
+  "category" : "seed",
+  "shortdescription" : "Occa Berry Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+
+ 
+
+  "inventoryIcon" : "occaberryseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "occaberryseed.png:default.2.1",
+  
+  
+  "orientations" : [
+    {
+      "dualImage" : "occaberryseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [800, 900]
+    },
+    {
+      "duration" : [800, 900]
+    },
+    {
+      "alts" : 1,
+      "harvestPool" : "occaberryHarvest"
+    }
+  ],
+
+  "maxImmersion" : 0.25
+}

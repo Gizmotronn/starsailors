@@ -1,0 +1,9 @@
+{
+  "name" : "squirtle",
+  "category" : "squirtle",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "squirtle.png"
+  }
+}

@@ -1,0 +1,271 @@
+[
+	{
+		"op": "add",
+		"path": "/hail/wookie",
+		"value": {
+			"default": [
+				"I got my eyes on you.",
+				"Keep walking.",
+				"Check yourself.",
+				"Move along."
+			],
+			"wookie": [
+				"Hello.",
+				"Look after yourself my friend.",
+				"Good to see a fellow wookie.",
+				"Hello."
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/hail/toydarian",
+		"value": {
+			"default": [
+				"I got my eyes on you.",
+				"Keep walking.",
+				"Check yourself.",
+				"Want to gamble?"
+			],
+			"toydarian": [
+				"Hello.",
+				"Look after yourself my friend.",
+				"Good to see a fellow toydarian.",
+				"Hello.",
+				"Want to gamble?"
+			]
+			
+		}
+	},
+	{
+		"op": "add",
+		"path": "/hail/utapaun",
+		"value": {
+			"default": [
+				"I got my eyes on you.",
+				"Keep walking.",
+				"Check yourself.",
+				"Want to gamble?"
+			],
+			"utapaun": [
+				"Hello.",
+				"Look after yourself my friend.",
+				"Good to see a fellow utapaun.",
+				"Hello.",
+				"Want to gamble?"
+			]
+			
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/hail/rodian",
+		"value": {
+			"default": [
+				"I got my eyes on you.",
+				"Keep walking.",
+				"Want to see who has the quicker draw?",
+				"Move along."
+			],
+			"rodian": [
+				"Hello.",
+				"Look after yourself my friend.",
+				"Good to see a fellow Rodian.",
+				"Hello."
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/hail/tuskan",
+		"value": {
+			"default": [
+				"I got my eyes on you.",
+				"Keep walking.",
+				"Check yourself.",
+				"Move along."
+			],
+			"tuskan": [
+				"Hello.",
+				"Look after yourself my friend.",
+				"Good to see a fellow Tuskan.",
+				"Hello."
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/hail/zabrak",
+		"value": {
+			"default": [
+				"I got my eyes on you.",
+				"Keep walking.",
+				"Check yourself.",
+				"Move along."
+			],
+			"zabrak": [
+				"Hello.",
+				"Look after yourself my friend.",
+				"Good to see a fellow Zabrak.",
+				"Hello."
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/hail/ithorian",
+		"value": {
+			"default": [
+				"I got my eyes on you.",
+				"Keep walking.",
+				"Check yourself.",
+				"Move along."
+			],
+			"ithorian": [
+				"Hello.",
+				"Look after yourself my friend.",
+				"Good to see a fellow ithorian.",
+				"Hello."
+			]
+		}
+	},
+	
+	
+		"op": "add",
+		"path": "/hail/mawg",
+		"value": {
+			"default": [
+				"I got my eyes on you.",
+				"Keep walking.",
+				"Check yourself.",
+				"Move along."
+			],
+			"mawg": [
+				"Hello.",
+				"Look after yourself my friend.",
+				"Good to see a fellow mawg.",
+				"Hello."
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/hail/droid",
+		"value": {
+			"default": [
+				"I got my eyes on you.",
+				"Keep walking.",
+				"Check yourself.",
+				"Move along."
+			],
+			"droid": [
+				"Hello.",
+				"Look after yourself my friend.",
+				"Good to see a fellow droid.",
+				"Hello."
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/hail/bothan",
+		"value": {
+			"default": [
+				"I got my eyes on you.",
+				"Keep walking.",
+				"Check yourself.",
+				"Move along."
+			],
+			"bothan": [
+				"Hello.",
+				"Look after yourself my friend.",
+				"Good to see a fellow bothan.",
+				"Hello."
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/hail/twilek",
+		"value": {
+			"default": [
+				"I got my eyes on you.",
+				"Keep walking.",
+				"Check yourself.",
+				"Move along."
+			],
+			"twilek": [
+				"Hello.",
+				"Look after yourself my friend.",
+				"Good to see a fellow twilek.",
+				"Hello."
+			]
+		}
+	},
+	
+	
+	{
+		"op": "add",
+		"path": "/hail/sith",
+		"value": {
+			"default": [
+				"I got my eyes on you.",
+				"Keep walking.",
+				"Check yourself.",
+				"Move along."
+			],
+			"sith": [
+				"Hello.",
+				"Look after yourself my friend.",
+				"Good to see a fellow sith.",
+				"Hello."
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/hail/diathim",
+		"value": {
+			"default": [
+				"I got my eyes on you.",
+				"Keep walking.",
+				"Check yourself.",
+				"Move along."
+			],
+			"diathim": [
+				"Hello.",
+				"Look after yourself my friend.",
+				"Good to see a fellow diathim.",
+				"Hello."
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/hail/togruta",
+		"value": {
+			"default": [
+				"I got my eyes on you.",
+				"Keep walking.",
+				"Check yourself.",
+				"Move along."
+			],
+			"togruta": [
+				"Hello.",
+				"Look after yourself my friend.",
+				"Good to see a fellow togruta.",
+				"Hello."
+			]
+		}
+	}
+]

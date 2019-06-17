@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 15 }
+    
+  ],
+  "output" : { "item" : "SWMpaintingempire", "count" : 1 },
+  "groups" : [ "swm","art" ]
+}

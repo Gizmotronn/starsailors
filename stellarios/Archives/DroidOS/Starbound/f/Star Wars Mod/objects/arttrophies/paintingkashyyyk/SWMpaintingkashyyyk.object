@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintingkashyyyk",
+  "colonyTags" : ["pretty","valuable", "swrace"],
+  "rarity" : "Rare",
+  "description" : "Painting of a Kashyyyk Tree to celebrate Life Day.",
+  "shortdescription" : "Kashyyyk Tree Painting",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+  
+
+  "inventoryIcon" : "paintingkashyyykicon.png",
+  "orientations" : [
+    {
+      "image" : "paintingkashyyyk.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

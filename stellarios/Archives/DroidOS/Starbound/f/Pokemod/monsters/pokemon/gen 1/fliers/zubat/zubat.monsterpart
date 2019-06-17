@@ -1,0 +1,9 @@
+{
+  "name" : "zubat",
+  "category" : "zubat",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "zubat.png"
+  }
+}

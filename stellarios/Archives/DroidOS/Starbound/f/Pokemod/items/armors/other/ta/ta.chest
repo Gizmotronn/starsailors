@@ -1,0 +1,23 @@
+{
+  "itemName" : "pmtachest",
+  "price" : 75,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "chestwear",
+  "description" : "The shirt of Team Aqua's uniform.",
+  "shortdescription" : "Team Aqua shirt",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleevem.png",
+    "frontSleeve" : "fsleevem.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleevef.png",
+    "frontSleeve" : "fsleevef.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "pidgey",
+  "category" : "pidgey",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "pidgey.png"
+  }
+}

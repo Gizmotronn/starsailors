@@ -1,0 +1,29 @@
+{
+  "objectName" : "SWMcolotank",
+  "colonyTags" : ["pretty", "swrace", "toydarian"],
+  "printable" : false,
+  "rarity" : "Uncommon",
+  "description" : "Baby Colo in a tank",
+  "shortdescription" : "Baby Colo Fish Tank",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 400,
+
+  
+
+ 
+  "inventoryIcon" : "colotankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "colotank.png:<color>.<frame>",
+      
+      "imagePosition" : [-20, 0],
+      "frames" : 10,
+      "animationCycle" : 6.5,
+      
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

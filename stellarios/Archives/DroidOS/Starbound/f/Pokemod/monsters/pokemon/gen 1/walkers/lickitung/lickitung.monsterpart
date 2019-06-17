@@ -1,0 +1,9 @@
+{
+  "name" : "lickitung",
+  "category" : "lickitung",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "lickitung.png"
+  }
+}

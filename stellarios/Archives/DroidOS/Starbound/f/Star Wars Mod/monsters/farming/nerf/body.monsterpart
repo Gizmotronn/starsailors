@@ -1,0 +1,9 @@
+{
+  "name" : "nerf",
+  "category" : "nerf",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

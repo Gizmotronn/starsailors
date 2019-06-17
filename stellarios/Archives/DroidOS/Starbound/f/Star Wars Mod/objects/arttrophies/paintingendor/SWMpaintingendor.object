@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintingendor",
+  "colonyTags" : ["swrace","pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "A painting of Endor's landscape.",
+  "shortdescription" : "Endor Painting",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+  
+
+  "inventoryIcon" : "paintingendoricon.png",
+  "orientations" : [
+    {
+      "image" : "paintingendor.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

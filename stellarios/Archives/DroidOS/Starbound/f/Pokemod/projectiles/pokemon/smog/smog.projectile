@@ -1,0 +1,15 @@
+{
+  "projectileName" : "smog",
+  "image" : "smog.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 6,
+  "timeToLive" : 2,
+  "power" : 15,
+  "speed" : 10,
+  
+  "damageKind" : "tarball",
+  "damageKindImage" : "/interface/statuses/tar.png",
+  "statusEffects" : [
+    "tarslow", "weakpoison"
+  ]
+}

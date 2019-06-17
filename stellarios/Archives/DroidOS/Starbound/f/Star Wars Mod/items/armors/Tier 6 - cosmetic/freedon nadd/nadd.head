@@ -1,0 +1,15 @@
+{
+  "itemName" : "SWM2naddhead",
+  "price" : 2400,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "category" : "headarmour",
+  "description" : "Freedon Nadd's Helm.",
+  "shortdescription" : "Freedon Nadd's Helm",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"
+}

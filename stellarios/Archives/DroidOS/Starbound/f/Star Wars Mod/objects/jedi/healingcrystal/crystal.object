@@ -1,0 +1,28 @@
+{
+  "objectName" : "SWMcrystal",
+  "colonyTags" : ["swrace", "jedi"],
+  "rarity" : "Legendary",
+  "category" : "decorative",
+  "printable" : false,
+
+  "description" : "The greatest treasures of the Jedi Order",
+  "shortdescription" : "Healing Crystals of Fire",
+  "race" : "generic",
+
+  "fullbright" : true,
+  "lightColor" : [255, 219, 147],
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "crystal.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ] 
+}

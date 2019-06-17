@@ -1,0 +1,9 @@
+{
+  "name" : "ditto",
+  "category" : "ditto",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "ditto.png"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "objectName" : "zabraklamp2",
+  "colonyTags" : ["swrace", "zabrak", "light"],
+  "rarity" : "Common",
+  "description" : "A tall wooden lamp with a simple red lampshade.",
+  "shortdescription" : "Iridonian Tall Lamp",
+  "race" : "zabrak",
+
+  "zabrakDescription" : "This lamp comes in a colour scheme favoured by Iridonians.",
+  "avianDescription" : "A tall lamp. I wonder how it functions? There are no crystals.",
+  "floranDescription" : "Tall lamp, bright light.",
+  "felinDescription" : "That red lamp shade doesn't help well with brightening up wide open areas.",
+  "feneroxDescription" : "Tall lamp, bright light.",
+  "apexDescription" : "That red lamp shade doesn't help well with brightening up wide open areas.",
+  "glitchDescription" : "Satisfied. With light comes safety.",
+  "humanDescription" : "I'm not making any jokes about this one.",
+  "hylotlDescription" : "This lamp could light a large chamber. Without that lampshade, that is.",
+  "novakidDescription" : "It's a tall, standin' lamp with a red lampshade.",
+
+  "category" : "light",
+  "price" : 90,
+  "lightColor" : [217, 217, 190],
+
+  "inventoryIcon" : "zabraklamp2icon.png",
+  "orientations" : [
+    {
+      "image" : "zabraklamp2.png:<color>.<frame>",
+      "imagePosition" : [-7, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      "direction" : "left",
+      "flipImages" : true,
+      "lightPosition" : [0, 3],
+      "animationPosition" : [-7, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "zabraklamp2.png:<color>.<frame>",
+      "imagePosition" : [-7, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      "direction" : "right",
+      "lightPosition" : [0, 3],
+      "animationPosition" : [-7, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationParts" : {
+    "bg" : "zabraklamp2.png",
+    "fg" : "zabraklamp2lit.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/tinywallswitch.ogg" ],
+      "off" : [ "/sfx/objects/tinywallswitch.ogg" ]
+    }
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 3] ]
+}

@@ -1,0 +1,22 @@
+{
+  "projectileName" : "prepsybeam",
+  "image" : "prepsybeam.png",
+  "animationCycle" : 0.5,
+  "timeToLive" : 0.5,
+  "frameNumber" : 3,
+  "speed" : 0,
+  "orientationLocked" : false,
+  "damagePoly" : [  ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageKind" : "psychic",
+  "lightColor" : [100, 0, 100],
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "psybeam",
+      "inheritDamageFactor" : 1
+    }
+  ]
+}

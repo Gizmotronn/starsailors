@@ -1,0 +1,9 @@
+{
+  "name" : "jynx",
+  "category" : "jynx",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "jynx.png"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "itemName" : "SWMnsfcontroller",
+  "level" : 1,
+  "price" : 25000,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Create an Naboo Starfighter from stored nanites.",
+  "shortdescription" : "Naboo Starfighter",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "nsf.png",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "nsf",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/nsf/nsfwarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "nsfcontroller.png"
+  },
+
+  "inventoryIcon" : "nsfcontroller.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/nsfcontroller.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/nsfcontroller.png:full"
+
+}

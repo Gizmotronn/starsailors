@@ -1,0 +1,31 @@
+{
+  "objectName" : "SWMarmsdealer",
+  "printable" : false,
+  "rarity" : "Legendary",
+  "description" : "Use Republic Credits to purchase weapons",
+  "shortdescription" : "The Dragon Arms",
+  "race" : "generic",
+  "category" : "crafting",
+
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/SWMarmsdealer.config",
+    "filter" : [ "armsdealer" ]
+  },
+
+  "inventoryIcon" : "SWMarmsdealericon.png",
+  "orientations" : [
+    {
+      "dualImage" : "SWMarmsdealer.png:<color>.<frame>",
+      
+      "imagePosition" : [-20, 0],
+      "frames" : 5,
+      "animationCycle" : 1.5,
+      
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

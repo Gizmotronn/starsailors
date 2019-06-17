@@ -1,0 +1,9 @@
+{
+  "name" : "charmander",
+  "category" : "charmander",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "charmander.png"
+  }
+}

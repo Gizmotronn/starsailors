@@ -1,0 +1,132 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/sith",
+    "value": {
+      "default": [
+        "I swear I was innocent, the Hutt's framed me.",
+        "Don't worry, I'm not dangerous! I was in prison for financial skulduggery...",
+        "I got busted by a bounty hunter. I was smuggling spices on the Outer Rim.",
+        "I tried to slice a bank terminal. I may not look like it, but I'm a pretty good splicer.",
+        "I used to be part of the Black Hole Gang from the Delphon system."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/zabrak",
+    "value": {
+      "default": [
+        "I swear I was innocent, the Hutt's framed me.",
+        "Don't worry, I'm not dangerous! I was in prison for financial skulduggery...",
+        "I got busted by a bounty hunter. I was smuggling spices on the Outer Rim.",
+        "I tried to slice a bank terminal. I may not look like it, but I'm a pretty good splicer.",
+        "I used to be part of the Black Hole Gang from the Delphon system."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/wookie",
+    "value": {
+      "default": [
+        "I swear I was innocent, the Hutt's framed me.",
+        "Don't worry, I'm not dangerous! I was in prison for financial skulduggery...",
+        "I got busted by a bounty hunter. I was smuggling spices on the Outer Rim.",
+        "I tried to slice a bank terminal. I may not look like it, but I'm a pretty good splicer.",
+        "I used to be part of the Black Hole Gang from the Delphon system."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/togruta",
+    "value": {
+      "default": [
+        "I swear I was innocent, the Hutt's framed me.",
+        "Don't worry, I'm not dangerous! I was in prison for financial skulduggery...",
+        "I got busted by a bounty hunter. I was smuggling spices on the Outer Rim.",
+        "I tried to slice a bank terminal. I may not look like it, but I'm a pretty good splicer.",
+        "I used to be part of the Black Hole Gang from the Delphon system."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/utapaun",
+    "value": {
+      "default": [
+        "I swear I was innocent, the Hutt's framed me.",
+        "Don't worry, I'm not dangerous! I was in prison for financial skulduggery...",
+        "I got busted by a bounty hunter. I was smuggling spices on the Outer Rim.",
+        "I tried to slice a bank terminal. I may not look like it, but I'm a pretty good splicer.",
+        "I used to be part of the Black Hole Gang from the Delphon system."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/twilek",
+    "value": {
+      "default": [
+        "I swear I was innocent, the Hutt's framed me.",
+        "Don't worry, I'm not dangerous! I was in prison for financial skulduggery...",
+        "I got busted by a bounty hunter. I was smuggling spices on the Outer Rim.",
+        "I tried to slice a bank terminal. I may not look like it, but I'm a pretty good splicer.",
+        "I used to be part of the Black Hole Gang from the Delphon system."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/bothan",
+    "value": {
+      "default": [
+        "I swear I was innocent, the Hutt's framed me.",
+        "Don't worry, I'm not dangerous! I was in prison for financial skulduggery...",
+        "I got busted by a bounty hunter. I was smuggling spices on the Outer Rim.",
+        "I tried to slice a bank terminal. I may not look like it, but I'm a pretty good splicer.",
+        "I used to be part of the Black Hole Gang from the Delphon system."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/rodian",
+    "value": {
+      "default": [
+        "I swear I was innocent, the Hutt's framed me.",
+        "Don't worry, I'm not dangerous! I was in prison for financial skulduggery...",
+        "I got busted by a bounty hunter. I was smuggling spices on the Outer Rim.",
+        "I tried to slice a bank terminal. I may not look like it, but I'm a pretty good splicer.",
+        "I used to be part of the Black Hole Gang from the Delphon system."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/diathim",
+    "value": {
+      "default": [
+        "I swear I was innocent, the Hutt's framed me.",
+        "Don't worry, I'm not dangerous! I was in prison for financial skulduggery...",
+        "I got busted by a bounty hunter. I was smuggling spices on the Outer Rim.",
+        "I tried to slice a bank terminal. I may not look like it, but I'm a pretty good splicer.",
+        "I used to be part of the Black Hole Gang from the Delphon system."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/ithorian",
+    "value": {
+      "default": [
+        "I swear I was innocent, the Hutt's framed me.",
+        "Don't worry, I'm not dangerous! I was in prison for financial skulduggery...",
+        "I got busted by a bounty hunter. I was smuggling spices on the Outer Rim.",
+        "I tried to slice a bank terminal. I may not look like it, but I'm a pretty good splicer.",
+        "I used to be part of the Black Hole Gang from the Delphon system."
+      ]
+    }
+  }
+]

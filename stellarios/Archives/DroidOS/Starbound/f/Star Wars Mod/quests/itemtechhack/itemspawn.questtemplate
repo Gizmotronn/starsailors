@@ -1,0 +1,34 @@
+{
+    "id": "itemspawn",
+	"ephemeral" : true,
+    "title": "Let's grow some items.",
+    "text": "Listens for status effect messages and spawns items at player.",
+    "completionText": "Shouldn't ever end!",
+    "moneyRange": [
+        50,
+        50
+    ],
+    "canBeAbandoned": false,
+    "invisible": true,
+    "logOnly": true,
+    "updateDelta": 10,
+    "script": "/quests/scripts/items/itemspawn.lua",
+    "scriptConfig": {
+        "portraits": {
+            "default": "player"
+        },
+        "radioMessages": {
+            "received": {
+                "messageId": "itemspawnDebug",
+                "type": "quest",
+                "unique": false,
+                "senderName": "Watto",
+                "text": "Debug message.",
+                "portraitImage": "/interface/chatbubbles/wattotalk.png:<frame>"
+            }
+        },
+        "descriptions": {
+            "default": "you should not see this ever"
+        }
+    }
+}

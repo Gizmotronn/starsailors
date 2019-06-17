@@ -1,0 +1,9 @@
+{
+  "name" : "tangela",
+  "category" : "tangela",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "tangela.png"
+  }
+}

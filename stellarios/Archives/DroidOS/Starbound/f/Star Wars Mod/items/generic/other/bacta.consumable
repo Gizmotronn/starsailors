@@ -1,0 +1,21 @@
+{
+  "itemName" : "SWMbactabottle",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "medicine",
+  "inventoryIcon" : "bacta.png",
+  "description" : "The restorative power of this water is incredible.",
+  "shortdescription" : "Bottle of Bacta",
+  "maxStack" : 1,
+  "effects" : [ [
+    {
+      "effect" : "healingwater",
+      "duration" : 30
+    }
+  ] ],
+  "blockingEffects" : [
+    "healingwater"
+  ],
+  "emote" : "",
+  "emitters" : [ "drinkinghealing" ]
+}

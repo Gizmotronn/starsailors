@@ -1,0 +1,203 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/rodian",
+    "value": {
+      "default": [
+        "All these Vaults, what do they contain? I hear Kritus Morven would pay Credits by the chestful just to see 'em in Keren!",
+        "Have you ever visited the Uscru District on Coruscant?",
+        "I am well-known around these parts; my family has served in the Galactic Senate for generations.",
+        "Perhaps I should consider an off-planet trip, but to where? Coruscant? or Kiros?",
+        "The Hutts may have their Credits, but I am the apotheosis of pan-galactic culture!",
+        "I can't wait to see the next exhibition by my favorite holosculptor!",
+        "My favourite hobby is collecting humanoid carbonite statuary. This place could use some.",
+        "I should think of visiting Pilaan one of these days for a podrace or two.",
+        "Hylotl are poseurs all, their culture is nothing compared to that of the Mon Calamari.",
+        "Floran trinkets are little better than cheap Jawa junk.",
+        "I've seen enough Avian art to know that they are in sad want of holocron references, they just can't get the details right.",
+        "Even nerf herders could craft better art than whatever scraps these Novakids can ever dream of."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/bothan",
+    "value": {
+      "default": [
+        "All these Vaults, what do they contain? I hear Kritus Morven would pay Credits by the chestful just to see 'em in Keren!",
+        "Have you ever visited the Uscru District on Coruscant?",
+        "I am well-known around these parts; my family has served in the Galactic Senate for generations.",
+        "Perhaps I should consider an off-planet trip, but to where? Coruscant? or Kiros?",
+        "The Hutts may have their Credits, but I am the apotheosis of pan-galactic culture!",
+        "I can't wait to see the next exhibition by my favorite holosculptor!",
+        "My favourite hobby is collecting humanoid carbonite statuary. This place could use some.",
+        "I should think of visiting Pilaan one of these days for a podrace or two.",
+        "Hylotl are poseurs all, their culture is nothing compared to that of the Mon Calamari.",
+        "Floran trinkets are little better than cheap Jawa junk.",
+        "I've seen enough Avian art to know that they are in sad want of holocron references, they just can't get the details right.",
+        "Even nerf herders could craft better art than whatever scraps these Novakids can ever dream of."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/mawg",
+    "value": {
+      "default": [
+        "All these Vaults, what do they contain? I hear Kritus Morven would pay Credits by the chestful just to see 'em in Keren!",
+        "Have you ever visited the Uscru District on Coruscant?",
+        "Compared to my home, the Druish royal residence is nothing but a dump!",
+        "I am well-known around these parts; my family has served in the Galactic Senate for generations.",
+        "Perhaps I should consider an off-planet trip, but to where? Coruscant? or Kiros?",
+        "The Hutts may have their Credits, but I am the apotheosis of pan-galactic culture!",
+        "I can't wait to see the next exhibition by my favorite holosculptor!",
+        "My favourite hobby is collecting humanoid carbonite statuary. This place could use some.",
+        "I should think of visiting Pilaan one of these days for a podrace or two.",
+        "Hylotl are poseurs all, their culture is nothing compared to that of the Mon Calamari.",
+        "Floran trinkets are little better than cheap Jawa junk.",
+        "I've seen enough Avian art to know that they are in sad want of holocron references, they just can't get the details right.",
+        "Even nerf herders could craft better art than whatever scraps these Novakids can ever dream of."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/diathim",
+    "value": {
+      "default": [
+        "All these Vaults, what do they contain? I hear Kritus Morven would pay Credits by the chestful just to see 'em in Keren!",
+        "Have you ever visited the Uscru District on Coruscant?",
+        "I am well-known around these parts; my family has served in the Galactic Senate for generations.",
+        "Perhaps I should consider an off-planet trip, but to where? Coruscant? or Kiros?",
+        "The Hutts may have their Credits, but I am the apotheosis of pan-galactic culture!",
+        "I can't wait to see the next exhibition by my favorite holosculptor!",
+        "My favourite hobby is collecting humanoid carbonite statuary. This place could use some.",
+        "I should think of visiting Pilaan one of these days for a podrace or two.",
+        "Hylotl are poseurs all, their culture is nothing compared to that of the Mon Calamari.",
+        "Floran trinkets are little better than cheap Jawa junk.",
+        "I've seen enough Avian art to know that they are in sad want of holocron references, they just can't get the details right.",
+        "Even nerf herders could craft better art than whatever scraps these Novakids can ever dream of."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/twilek",
+    "value": {
+      "default": [
+        "All these Vaults, what do they contain? I hear Kritus Morven would pay Credits by the chestful just to see 'em in Keren!",
+        "Have you ever visited the Uscru District on Coruscant?",
+        "I am well-known around these parts; my family has served in the Galactic Senate for generations.",
+        "Perhaps I should consider an off-planet trip, but to where? Coruscant? or Kiros?",
+        "The Hutts may have their Credits, but I am the apotheosis of pan-galactic culture!",
+        "I can't wait to see the next exhibition by my favorite holosculptor!",
+        "My favourite hobby is collecting humanoid carbonite statuary. This place could use some.",
+        "I should think of visiting Pilaan one of these days for a podrace or two.",
+        "Hylotl are poseurs all, their culture is nothing compared to that of the Mon Calamari.",
+        "Floran trinkets are little better than cheap Jawa junk.",
+        "I've seen enough Avian art to know that they are in sad want of holocron references, they just can't get the details right.",
+        "Even nerf herders could craft better art than whatever scraps these Novakids can ever dream of."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/wookie",
+    "value": {
+      "default": [
+        "All these Vaults, what do they contain? I hear Kritus Morven would pay Credits by the chestful just to see 'em in Keren!",
+        "Have you ever visited the Uscru District on Coruscant?",
+        "I am well-known around these parts; my family has served in the Galactic Senate for generations.",
+        "Perhaps I should consider an off-planet trip, but to where? Coruscant? or Kiros?",
+        "The Hutts may have their Credits, but I am the apotheosis of pan-galactic culture!",
+        "I can't wait to see the next exhibition by my favorite holosculptor!",
+        "My favourite hobby is collecting humanoid carbonite statuary. This place could use some.",
+        "I should think of visiting Pilaan one of these days for a podrace or two.",
+        "Hylotl are poseurs all, their culture is nothing compared to that of the Mon Calamari.",
+        "Floran trinkets are little better than cheap Jawa junk.",
+        "I've seen enough Avian art to know that they are in sad want of holocron references, they just can't get the details right.",
+        "Even nerf herders could craft better art than whatever scraps these Novakids can ever dream of."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/togruta",
+    "value": {
+      "default": [
+        "All these Vaults, what do they contain? I hear Kritus Morven would pay Credits by the chestful just to see 'em in Keren!",
+        "Have you ever visited the Uscru District on Coruscant?",
+        "I am well-known around these parts; my family has served in the Galactic Senate for generations.",
+        "Perhaps I should consider an off-planet trip, but to where? Coruscant? or Kiros?",
+        "The Hutts may have their Credits, but I am the apotheosis of pan-galactic culture!",
+        "I can't wait to see the next exhibition by my favorite holosculptor!",
+        "My favourite hobby is collecting humanoid carbonite statuary. This place could use some.",
+        "I should think of visiting Pilaan one of these days for a podrace or two.",
+        "Hylotl are poseurs all, their culture is nothing compared to that of the Mon Calamari.",
+        "Floran trinkets are little better than cheap Jawa junk.",
+        "I've seen enough Avian art to know that they are in sad want of holocron references, they just can't get the details right.",
+        "Even nerf herders could craft better art than whatever scraps these Novakids can ever dream of."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/sith",
+    "value": {
+      "default": [
+        "All these Vaults, what do they contain? I hear Kritus Morven would pay Credits by the chestful just to see 'em in Keren!",
+        "Have you ever visited the Uscru District on Coruscant?",
+        "I am well-known around these parts; my family has served in the Galactic Senate for generations.",
+        "Perhaps I should consider an off-planet trip, but to where? Coruscant? or Kiros?",
+        "The Hutts may have their Credits, but I am the apotheosis of pan-galactic culture!",
+        "I can't wait to see the next exhibition by my favorite holosculptor!",
+        "My favourite hobby is collecting humanoid carbonite statuary. This place could use some.",
+        "I should think of visiting Pilaan one of these days for a podrace or two.",
+        "Hylotl are poseurs all, their culture is nothing compared to that of the Mon Calamari.",
+        "Floran trinkets are little better than cheap Jawa junk.",
+        "I've seen enough Avian art to know that they are in sad want of holocron references, they just can't get the details right.",
+        "Even nerf herders could craft better art than whatever scraps these Novakids can ever dream of."
+      ]
+    }
+  },
+   {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/utapaun",
+    "value": {
+      "default": [
+        "All these Vaults, what do they contain? I hear Kritus Morven would pay Credits by the chestful just to see 'em in Keren!",
+        "Have you ever visited the Uscru District on Coruscant?",
+        "I am well-known around these parts; my family has served in the Galactic Senate for generations.",
+        "Perhaps I should consider an off-planet trip, but to where? Coruscant? or Kiros?",
+        "The Hutts may have their Credits, but I am the apotheosis of pan-galactic culture!",
+        "I can't wait to see the next exhibition by my favorite holosculptor!",
+        "My favourite hobby is collecting humanoid carbonite statuary. This place could use some.",
+        "I should think of visiting Pilaan one of these days for a podrace or two.",
+        "Hylotl are poseurs all, their culture is nothing compared to that of the Mon Calamari.",
+        "Floran trinkets are little better than cheap Jawa junk.",
+        "I've seen enough Avian art to know that they are in sad want of holocron references, they just can't get the details right.",
+        "Even nerf herders could craft better art than whatever scraps these Novakids can ever dream of."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/zabrak",
+    "value": {
+      "default": [
+        "All these Vaults, what do they contain? I hear Kritus Morven would pay Credits by the chestful just to see 'em in Keren!",
+        "Have you ever visited the Uscru District on Coruscant?",
+        "I am well-known around these parts; my family has served in the Galactic Senate for generations.",
+        "Perhaps I should consider an off-planet trip, but to where? Coruscant? or Kiros?",
+        "The Hutts may have their Credits, but I am the apotheosis of pan-galactic culture!",
+        "I can't wait to see the next exhibition by my favorite holosculptor!",
+        "My favourite hobby is collecting humanoid carbonite statuary. This place could use some.",
+        "I should think of visiting Pilaan one of these days for a podrace or two.",
+        "Hylotl are poseurs all, their culture is nothing compared to that of the Mon Calamari.",
+        "Floran trinkets are little better than cheap Jawa junk.",
+        "I've seen enough Avian art to know that they are in sad want of holocron references, they just can't get the details right.",
+        "Even nerf herders could craft better art than whatever scraps these Novakids can ever dream of."
+      ]
+    }
+  }
+]

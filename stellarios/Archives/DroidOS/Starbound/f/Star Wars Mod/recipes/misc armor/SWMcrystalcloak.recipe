@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 150 }
+  ],
+  "output" : { "item" : "SWMcrystalcloak", "count" : 1 },
+  "groups" : [ "bazaar","t1" ]
+}

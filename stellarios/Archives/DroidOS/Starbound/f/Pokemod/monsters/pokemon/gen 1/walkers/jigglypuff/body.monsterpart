@@ -1,0 +1,9 @@
+{
+  "name" : "jigglypuff",
+  "category" : "jigglypuff",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "jigglypuff.png"
+  }
+}

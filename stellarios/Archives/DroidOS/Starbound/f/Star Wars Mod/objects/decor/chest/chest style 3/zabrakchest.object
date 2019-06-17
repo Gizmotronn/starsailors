@@ -1,0 +1,42 @@
+{
+  "objectName" : "zabrakchest",
+  "colonyTags" : ["swrace","pretty", "valuable", "storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+
+  "category" : "storage",
+  "price" : 70,
+  "description" : "A sleek chest with a catchy red and black colour scheme.",
+  "shortdescription" : "Iridonian Chest",
+  "race" : "zabrak",
+  "health" : 1.5,
+
+  "apexDescription" : "A chest! What's inside?",
+  "avianDescription" : "A gilded chest. Anything useful in there?",
+  "floranDescription" : "Sssweet chesst!",
+  "glitchDescription" : "Observant. There is no lock.",
+  "humanDescription" : "I feel like a pirate with a chest of treasure.",
+  "hylotlDescription" : "A chest always fills me with excitement.",
+  "novakidDescription" : "A real nice lookin' treasure chest.",
+  "feneroxDescription" : "New chest. Not locked. Search now?",
+  "felinDescription" : "What's inside? something valuable?",
+
+  "inventoryIcon" : "zabrakchesticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "zabrakchest.png:<color>.<key>",
+      "imagePosition" : [-8, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/chest_medium_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/chest_medium_close.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

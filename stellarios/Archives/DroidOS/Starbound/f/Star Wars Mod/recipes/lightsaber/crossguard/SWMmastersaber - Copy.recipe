@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "SWMmastercrosssaber", "count" : 1 }
+  ],
+  "output" : { "item" : "SWMmastercrosssaber", "count" : 1 },
+  "groups" : [ "af", "t4"]
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "SWM2sawpants",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Saw Gerrera's Leggings.",
+  "shortdescription" : "Saw Gerrera's Pants",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}

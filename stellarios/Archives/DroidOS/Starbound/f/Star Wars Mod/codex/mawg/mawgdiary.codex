@@ -1,0 +1,21 @@
+{
+	"id" : "mawgdiary",
+	"title" : "Own Best Friend",
+	"description" : "About Mawgs.",
+	"icon" : "mawgcover1.png",
+  "contentPages" : [
+  "Mawgs are a mix of Man and Dog.",
+
+"Males are marked by their darker brown fur.
+Females have a lighter greyish fur."
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

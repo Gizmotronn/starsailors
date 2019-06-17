@@ -1,0 +1,38 @@
+{
+  "objectName" : "huttlounger",
+  "colonyTags" : ["ithorian", "rodian", "mawg", "zabrak", "droid", "tuskan", "utapaun", "wookie", "sith", "bothan", "twilek", "diathim", "toydarian"],
+  "printable" : false,
+  "rarity" : "legendary",
+  "description" : "Hutts likes to sit here.",
+  "shortdescription" : "Bed Style 10",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 3000,
+
+    "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [0, 20],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/decor/beds/bed style 10/huttloungercover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "regeneration4"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "swtoricon2.png",
+  "orientations" : [
+    {
+      "dualImage" : "huttlounger.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

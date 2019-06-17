@@ -1,0 +1,18 @@
+{
+  "itemName" : "SWM2crystalcloak",
+  "inventoryIcon" : "crystalcloakicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "rarity" : "Common",
+  "description" : "Magical garment allowing the wearer to turn anything he or she touches into crystal.",
+  "shortdescription" : "Crystal Cloak",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+
+  "statusEffects" : [
+    {
+      "stat" : "breathProtection",
+      "amount" : 1.0
+    }
+  ]
+}

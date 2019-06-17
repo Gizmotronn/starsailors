@@ -1,0 +1,13 @@
+{
+  "frameGrid" : {
+    "size" : [25, 25],
+    "dimensions" : [8, 4],
+
+    "names" : [
+      [ "idle.1", "walk.1", "walk.2", "transform.1", "transform.2", "transform.3", "transform.4", "transform.5"],
+      [ "squirtle.1", "squirtle.2", "squirtle.3", "squirtle.4", "unwind.1", "unwind.2", "unwind.3", "unwind.4" ],
+      [ "sandshrew.1", "sandshrew.2", "sandshrew.3", "unwind2.1", "unwind2.2", "unwind2.3", "unwind2.4", "hurt.1"],
+	  ["togepi.1", "togepi.2", "unwind3.1", "unwind3.2", "unwind3.3", "unwind3.4", "jump.1", "jump.2"]
+    ]
+  }
+}

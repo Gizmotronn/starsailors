@@ -1,0 +1,54 @@
+{
+  "objectName" : "flagdiathim",
+  "colonyTags" : ["diathim"],
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "teleporter",
+  "category" : "teleportMarker",
+  "price" : 70,
+  "radioMessagesOnPickup" : [ "pickupflag" ],
+  
+  "description" : "A flag that has been provisionally adopted by Diathim tribes. Use ^green;[E]^white; to bookmark a teleportation location.",
+  "shortdescription" : "Diathim Flag",
+  "race" : "diathim",
+
+  "diathimDescription" : "A flag that some of my people have adopted to mark their presence. I can use this as a waypoint for teleportation.",
+  "avianDescription" : "This Diathim flag can be bookmarked as a destination for my ship teleporter.",
+  "floranDescription" : "Diathim flag makess good point to teleport back to ussing teleporter!",
+  "glitchDescription" : "Observant. A small locator module attached to this Diathim flag allows it to be bookmarked for teleportation.",
+  "humanDescription" : "This Diathim flag can be saved as a location for my teleporter. Then I can return to it any time.",
+  "hylotlDescription" : "This Diathim flag can act as a way point, enabling me to return to this point using a teleporter.",
+  "novakidDescription" : "I can bookmark this Diathim flag for quick teleportin'.",
+  "felinDescription" : "I can bookmark this Diathim flag for quick teleporting.",
+  "feneroxDescription" : "Diathim flag. Locator module. Teleporting galore!",
+
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/destinationonly.config",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "flagdiathim.png:<color>.<frame>",
+      "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [-17, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "flagdiathim.png:<color>.<frame>",
+      "direction" : "right",
+      "imagePosition" : [1, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+
+  //"soundEffect" : "/sfx/objects/flag_flap_loop.ogg"
+}

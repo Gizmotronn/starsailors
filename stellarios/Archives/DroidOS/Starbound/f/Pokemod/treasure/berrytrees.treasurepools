@@ -1,0 +1,91 @@
+
+{
+  "occaberryHarvest" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.89, "item" : "occaberry"},
+        {"weight" : 0.01, "item" : "oocaberryseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  
+   "passhoberryHarvest" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.89, "item" : "passhoberry"},
+        {"weight" : 0.01, "item" : "passhoberryseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  
+  "wacanberryHarvest" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.89, "item" : "wacanberry"},
+        {"weight" : 0.01, "item" : "wacanberryseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  
+  "rindoberryHarvest" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.89, "item" : "rindoberry"},
+        {"weight" : 0.01, "item" : "rindoberryseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  
+  "yacheberryHarvest" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.89, "item" : "yacheberry"},
+        {"weight" : 0.01, "item" : "yacheberryseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ],
+  
+  "chopleberryHarvest" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.89, "item" : "chopleberry"},
+        {"weight" : 0.01, "item" : "chopleberryseed"},
+        {"weight" : 0.1, "item" : "plantfibre"}
+      ],
+      "poolRounds" : [
+        [0.6, 1],
+        [0.4, 2]
+      ]
+    } ]
+  ]
+}
+
+
+ 
+
+

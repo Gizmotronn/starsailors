@@ -1,0 +1,9 @@
+{
+  "name" : "weepinbell",
+  "category" : "weepinbell",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "weepinbell.png"
+  }
+}

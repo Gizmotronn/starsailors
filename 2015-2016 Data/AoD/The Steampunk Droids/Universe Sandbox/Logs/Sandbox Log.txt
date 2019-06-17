@@ -1,0 +1,344 @@
+     0 | 2016-01-12 07:21:15.230 | 3D Mode Colored Glasses
+     0 | 2016-01-12 07:21:15.294 | --------------------------------------------
+     0 | 2016-01-12 07:21:15.294 | Universe Sandbox Log File
+     0 | 2016-01-12 07:21:15.294 | --------------------------------------------
+     0 | 2016-01-12 07:21:15.294 | Version               : 2.2.0 Steam
+     0 | 2016-01-12 07:21:15.294 | StartupPath           : C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox
+     0 | 2016-01-12 07:21:15.295 | LocalUserAppDataPath  : C:\Users\liam.arbuckle\AppData\Local\Universe Sandbox\
+     0 | 2016-01-12 07:21:15.295 | OS version            : Unknown 6. Version | Microsoft Windows NT 6.2.9200.0
+     0 | 2016-01-12 07:21:15.297 | Highest .NET version  : 4.6.1038
+     0 | 2016-01-12 07:21:15.300 | All .NET versions     : 1.1.4322 | 2.0 SP2 (Windows 7 RTM) | 3.0 (Windows 7) | 3.5 SP1 (Windows 7) | 4.6.1038 | 4.0.0.0 | 
+     0 | 2016-01-12 07:21:15.300 | Culture               : en-US | English (United States)
+     0 | 2016-01-12 07:21:15.301 | -- Device Info ----------------
+     0 | 2016-01-12 07:21:15.311 | Primary Screen        : 1366 x 768 | 32 bit | 1366 x 768
+     0 | 2016-01-12 07:21:15.333 | Adapter | Driver      : Intel(R) HD Graphics Family | igdumdim32.dll
+     0 | 2016-01-12 07:21:15.334 | Max TextureSize       : w 8192 | h 8192
+     0 | 2016-01-12 07:21:15.334 | Is Vertex/Pixel       : True | True
+     0 | 2016-01-12 07:21:15.335 | Max Vertex/Pixel      :    3 |    3
+     0 | 2016-01-12 07:21:15.337 | AntiAlias : True | Bump : True | DoubleSS : True | Reflection : True | StencilS : True
+     0 | 2016-01-12 07:21:15.337 | -------------------------------
+     0 | 2016-01-12 07:21:17.489 | Steam Enabled
+     0 | 2016-01-12 07:21:17.503 | -- Settings -------------------
+     0 | 2016-01-12 07:21:17.503 | RunCount        : 12
+     0 | 2016-01-12 07:21:17.503 | RunTime         : 22.2 hours
+     0 | 2016-01-12 07:21:17.503 | RunTimeDemo     : 0.0 seconds
+     0 | 2016-01-12 07:21:17.503 | LastVersion     : 2.2.0
+     0 | 2016-01-12 07:21:17.503 | CommentCount    : 0
+     0 | 2016-01-12 07:21:17.503 | CheckCount      : 0 0
+     0 | 2016-01-12 07:21:17.503 | CommentAskCount : 1 0
+     0 | 2016-01-12 07:21:17.503 | CrashCount      : 1
+     0 | 2016-01-12 07:21:17.504 | EmailAddress    : arbuckle.liam@gmail.com
+     0 | 2016-01-12 07:21:17.504 | Free Version   :
+     0 | 2016-01-12 07:21:17.504 | -------------------------------
+     0 | 2016-01-12 07:21:17.504 | Particle Multi      : 1
+     0 | 2016-01-12 07:21:17.504 | 3D Inter Dist       : 1.5
+     0 | 2016-01-12 07:21:17.504 | -------------------------------
+     0 | 2016-01-12 07:21:17.512 | SetupTrueVision Complete
+     0 | 2016-01-12 07:21:17.513 | Setup TVInternalObjects Complete
+     0 | 2016-01-12 07:21:17.525 | MainForm.Handle = 2754528
+     0 | 2016-01-12 07:21:17.961 | Init3DWindowed Complete
+     0 | 2016-01-12 07:21:18.017 | App: Main Resize Start
+     0 | 2016-01-12 07:21:18.038 | App: Main Resize End
+     0 | 2016-01-12 07:21:18.038 | -- Engine Properties ----------
+     0 | 2016-01-12 07:21:18.039 | Window Size             : 1280 x 720
+     0 | 2016-01-12 07:21:18.039 | Available Texture Memory: -9.44 M bytes
+     0 | 2016-01-12 07:21:18.039 | Used Texture Memory     : 1.00 MB
+     0 | 2016-01-12 07:21:18.040 | -------------------------------
+     0 | 2016-01-12 07:21:18.116 | MainRS Create Render Surface Complete
+     0 | 2016-01-12 07:21:18.133 | Wiimote not found
+     0 | 2016-01-12 07:21:19.192 | App: Main Resize Start
+     0 | 2016-01-12 07:21:19.201 | App: Main Resize End
+     0 | 2016-01-12 07:21:19.598 | Shader Working
+     0 | 2016-01-12 07:21:19.618 | Creating Glow RenderSurface
+     0 | 2016-01-12 07:21:20.395 | 3D Mode Colored Glasses
+     0 | 2016-01-12 07:21:20.396 | App: Main Resize Start
+     0 | 2016-01-12 07:21:20.412 | App: Main Resize End
+     0 | 2016-01-12 07:21:22.011 | 3.89 delay before CheckMainRS Create Render Surface - Didn't Make One
+     0 | 2016-01-12 07:21:22.012 | Engine.Mode = ozEngine.EngineMode.Main
+     0 | 2016-01-12 07:21:22.112 | SaveLocalSettings Complete
+     0 | 2016-01-12 07:21:22.179 | 
+     0 | 2016-01-12 07:21:22.179 | -- New System -----------------
+     0 | 2016-01-12 07:21:22.179 | Loading System: NEW
+     0 | 2016-01-12 07:21:22.180 | Engine.Scale | 0.000000011
+     0 | 2016-01-12 07:21:22.287 | Beginning Main Loop
+     0 | 2016-01-12 07:21:22.287 | Desk Update
+     0 | 2016-01-12 07:21:22.296 | Startup Time:   |  7.11
+     0 | 2016-01-12 07:21:22.296 | Pre Steam Stats
+     0 | 2016-01-12 07:21:22.297 | Post Steam Stats
+    29 | 2016-01-12 07:21:22.751 | LoadedWebpage default.htm
+    29 | 2016-01-12 07:21:22.753 | UpdateValuesPostWebCoreUpdate *UsedByHelp BeforeFirstRender
+    29 | 2016-01-12 07:21:22.754 | UpdateValuesPostWebCoreUpdate After
+    29 | 2016-01-12 07:21:22.754 | UpdateValuesPostWebCoreUpdate Pre Render
+    29 | 2016-01-12 07:21:22.805 | UpdateValuesPostWebCoreUpdate Post Render
+    29 | 2016-01-12 07:21:22.805 | UpdateValuesPostWebCoreUpdate Pre Lock Texture
+    29 | 2016-01-12 07:21:22.806 | UpdateValuesPostWebCoreUpdate Post Lock Texture
+    29 | 2016-01-12 07:21:22.806 | UpdateValuesPostWebCoreUpdate Pre CheckScollBars
+    29 | 2016-01-12 07:21:22.811 | UpdateValuesPostWebCoreUpdate Post CheckScollBars
+    29 | 2016-01-12 07:21:22.812 | Streaming OKed in CheckToAllowStreaming
+    29 | 2016-01-12 07:21:22.812 | UpdateValuesPostWebCoreUpdate DONE
+    38 | 2016-01-12 07:21:22.849 | CurrentCulture from Load System Data | English (United States)
+    38 | 2016-01-12 07:21:22.849 | CurrentCulture from Load System Data - Post Fix | Invariant Language (Invariant Country)
+    62 | 2016-01-12 07:21:22.982 | Loaded Texture: StarGlow
+    64 | 2016-01-12 07:21:23.010 | Loaded Texture: ImpactMark
+    74 | 2016-01-12 07:21:23.046 | Loaded Texture: SaturnRingColors
+    76 | 2016-01-12 07:21:23.054 | objdata time 0.1959775
+    76 | 2016-01-12 07:21:23.054 | Read 50 Objects from C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\data\EarthObjects.xml
+    76 | 2016-01-12 07:21:23.054 | Loaded Data File: EarthObjects.xml
+    80 | 2016-01-12 07:21:23.076 | Loaded Texture: GradientRainbow
+    92 | 2016-01-12 07:21:23.133 | Loaded Texture: GradientAwesome
+   105 | 2016-01-12 07:21:23.199 | Loaded Texture: InterlacedCheck
+   110 | 2016-01-12 07:21:23.256 | Loaded Texture: InterlacedRow
+   123 | 2016-01-12 07:21:23.306 | Loaded Texture: InterlacedColumn
+   134 | 2016-01-12 07:21:23.361 | Loaded Texture: star.dds
+   164 | 2016-01-12 07:21:23.516 | objdata time 0.4618932
+   164 | 2016-01-12 07:21:23.516 | Read 3752 Objects from C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\data\LocalObjects.xml
+   164 | 2016-01-12 07:21:23.516 | Loaded Data File: LocalObjects.xml
+   219 | 2016-01-12 07:21:23.791 | Loaded Texture: MoonDiffuse.dds
+   276 | 2016-01-12 07:21:24.170 | Loaded Texture: MoonNormal.dds
+   276 | 2016-01-12 07:21:24.221 | Loaded Texture: mercury.dds
+   276 | 2016-01-12 07:21:24.261 | Loaded Texture: venus.dds
+   277 | 2016-01-12 07:21:24.291 | Resize Start from Engine.Resize=True
+   277 | 2016-01-12 07:21:24.292 | App: Main Resize Start
+   277 | 2016-01-12 07:21:24.323 | Loaded Texture: earth.dds
+   277 | 2016-01-12 07:21:24.364 | App: Main Resize End
+   277 | 2016-01-12 07:21:24.365 | Pre WebView.Resize
+   321 | 2016-01-12 07:21:24.662 | objdata time 1.145706
+   321 | 2016-01-12 07:21:24.662 | Read 2369 Objects from C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\data\Stars.xml
+   321 | 2016-01-12 07:21:24.662 | Loaded Data File: Stars.xml
+   343 | 2016-01-12 07:21:24.781 | objdata time 0.1173681
+   343 | 2016-01-12 07:21:24.781 | Read 255 Objects from C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\data\Galaxies.xml
+   343 | 2016-01-12 07:21:24.781 | Loaded Data File: Galaxies.xml
+   429 | 2016-01-12 07:21:25.246 | Loaded Texture: mars.dds
+   575 | 2016-01-12 07:21:26.033 | Loaded Texture: jupiter.dds
+   701 | 2016-01-12 07:21:26.714 | Loaded Texture: saturn.dds
+   706 | 2016-01-12 07:21:26.741 | Loaded Texture: uranus.dds
+   711 | 2016-01-12 07:21:26.768 | Loaded Texture: neptune.dds
+   726 | 2016-01-12 07:21:26.849 | Loaded Texture: jupiter-europa.dds
+   732 | 2016-01-12 07:21:26.882 | Loaded Texture: jupiter-ganymede.dds
+   737 | 2016-01-12 07:21:26.908 | Loaded Texture: jupiter-io.dds
+   743 | 2016-01-12 07:21:26.940 | Loaded Texture: saturn-mimas.dds
+   751 | 2016-01-12 07:21:26.984 | Loaded Texture: jupiter-callisto.dds
+   757 | 2016-01-12 07:21:27.016 | Loaded Texture: saturn-titan.dds
+   768 | 2016-01-12 07:21:27.076 | Loaded Texture: saturn-iapetus.dds
+   773 | 2016-01-12 07:21:27.104 | Loaded Texture: uranus-miranda.dds
+   777 | 2016-01-12 07:21:27.126 | Loaded Texture: dice.dds
+   781 | 2016-01-12 07:21:27.147 | Loaded Texture: baseball.dds
+   786 | 2016-01-12 07:21:27.173 | Loaded Texture: football.dds
+   791 | 2016-01-12 07:21:27.201 | Loaded Texture: bowlingball.dds
+   818 | 2016-01-12 07:21:27.348 | Loaded Texture: poolball-cue.jpg
+   824 | 2016-01-12 07:21:27.379 | Loaded Texture: tennisball.dds
+   829 | 2016-01-12 07:21:27.407 | Loaded Texture: golfball.dds
+   834 | 2016-01-12 07:21:27.434 | Loaded Texture: galaxyclusterlayer.dds
+   840 | 2016-01-12 07:21:27.470 | Loaded Texture: forestmoon.dds
+   846 | 2016-01-12 07:21:27.501 | Loaded Texture: white.dds
+  2424 | 2016-01-12 07:21:36.374 | LoadedWebpage opensystem.htm
+  6910 | 2016-01-12 07:22:02.070 | NewtonReset: Newton Unloaded
+  6910 | 2016-01-12 07:22:02.087 | SaveLocalSettings Complete
+  6910 | 2016-01-12 07:22:02.103 | -- Stats ----------------------
+  6910 | 2016-01-12 07:22:02.103 | Systems Loaded: 1
+  6910 | 2016-01-12 07:22:02.103 | MouseClicks   : 8 | 0 | 0
+  6910 | 2016-01-12 07:22:02.103 | Current FPS   : 179.7
+  6910 | 2016-01-12 07:22:02.103 | Session Time  : 47.3 seconds
+  6910 | 2016-01-12 07:22:02.103 | System Time   : 47.3 seconds
+  6910 | 2016-01-12 07:22:02.103 | -------------------------------
+  6910 | 2016-01-12 07:22:02.103 | 
+  6910 | 2016-01-12 07:22:02.103 | -- New System -----------------
+  6910 | 2016-01-12 07:22:02.103 | Loading System: Mars & Moons.ubox  |  C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\simulations\Mars & Moons.ubox
+  6910 | 2016-01-12 07:22:02.374 | Read 1619 Horizon Data from C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\data\Horizon-2008-01-01.xml
+  6910 | 2016-01-12 07:22:02.384 | Created system with 3 bodies.
+  6910 | 2016-01-12 07:22:02.472 | Rotate Mars 25.19
+  6910 | 2016-01-12 07:22:02.497 | Engine.Scale | 0.000000011
+  7679 | 2016-01-12 07:22:12.343 | Moving Body Deimos
+  7899 | 2016-01-12 07:22:19.249 | Loaded Texture: Mercury - icon.dds
+  7899 | 2016-01-12 07:22:19.277 | Loaded Texture: Venus - icon.dds
+  7899 | 2016-01-12 07:22:19.300 | Loaded Texture: Earth - icon.dds
+  7899 | 2016-01-12 07:22:19.326 | Loaded Texture: Mars - icon.dds
+  7899 | 2016-01-12 07:22:19.352 | Loaded Texture: Jupiter - icon.dds
+  7899 | 2016-01-12 07:22:19.377 | Loaded Texture: Saturn - icon.dds
+  7900 | 2016-01-12 07:22:19.402 | Loaded Texture: Uranus - icon.dds
+  7900 | 2016-01-12 07:22:19.455 | Loaded Texture: Neptune - icon.dds
+  7900 | 2016-01-12 07:22:19.485 | Loaded Texture: Eris - icon.dds
+  7900 | 2016-01-12 07:22:19.508 | Loaded Texture: Pluto - icon.dds
+  7901 | 2016-01-12 07:22:19.528 | Loaded Texture: Ceres - icon.dds
+  7901 | 2016-01-12 07:22:19.548 | Loaded Texture: Haumea - icon.dds
+  7902 | 2016-01-12 07:22:19.566 | Loaded Texture: Makemake - icon.dds
+  7958 | 2016-01-12 07:22:21.042 | Rotate Earth 23.45
+  7958 | 2016-01-12 07:22:21.046 | Moving Body Earth
+  8012 | 2016-01-12 07:22:23.707 | Rotate Earth 4 23.45
+  8012 | 2016-01-12 07:22:23.708 | Moving Body Earth 4
+  8100 | 2016-01-12 07:22:27.347 | Loaded Texture: Sun - icon.dds
+  8100 | 2016-01-12 07:22:27.375 | Loaded Texture: Rigel - icon.dds
+  8100 | 2016-01-12 07:22:27.400 | Loaded Texture: Alpha Centauri A - icon.dds
+  8100 | 2016-01-12 07:22:27.425 | Loaded Texture: Alpha Centauri B - icon.dds
+  8100 | 2016-01-12 07:22:27.452 | Loaded Texture: Wolf 359 - icon.dds
+  8100 | 2016-01-12 07:22:27.478 | Loaded Texture: Sirius - icon.dds
+  8100 | 2016-01-12 07:22:27.498 | Loaded Texture: Polaris - icon.dds
+  8100 | 2016-01-12 07:22:27.523 | Loaded Texture: Alderamin - icon.dds
+  8100 | 2016-01-12 07:22:27.547 | Loaded Texture: VY Canis Majoris - icon.dds
+  8101 | 2016-01-12 07:22:27.572 | Loaded Texture: Pollux - icon.dds
+  8101 | 2016-01-12 07:22:27.591 | Loaded Texture: Arcturus - icon.dds
+  8101 | 2016-01-12 07:22:27.613 | Loaded Texture: Mu Cephei - icon.dds
+  8101 | 2016-01-12 07:22:27.635 | Loaded Texture: Betelgeuse - icon.dds
+  8101 | 2016-01-12 07:22:27.661 | Loaded Texture: Antares - icon.dds
+  8102 | 2016-01-12 07:22:27.694 | Loaded Texture: Aldebaran - icon.dds
+  8102 | 2016-01-12 07:22:27.727 | Loaded Texture: Deneb - icon.dds
+  8102 | 2016-01-12 07:22:27.751 | Loaded Texture: VV Cephei - icon.dds
+  8103 | 2016-01-12 07:22:27.773 | Loaded Texture: Barnard's Star - icon.dds
+  8104 | 2016-01-12 07:22:27.803 | Loaded Texture: Eta Carinae - icon.dds
+  8280 | 2016-01-12 07:22:29.801 | Loaded Texture: Milky Way - icon.dds
+  8280 | 2016-01-12 07:22:29.834 | Loaded Texture: Andromeda - icon.dds
+  8280 | 2016-01-12 07:22:29.868 | Loaded Texture: Triangulum - icon.dds
+  8280 | 2016-01-12 07:22:29.902 | Loaded Texture: Large Magellanic Cloud - icon.dds
+  8280 | 2016-01-12 07:22:29.929 | Loaded Texture: Small Magellanic Cloud - icon.dds
+  8281 | 2016-01-12 07:22:29.959 | Loaded Texture: NGC 300 - icon.dds
+  8281 | 2016-01-12 07:22:29.997 | Loaded Texture: NGC 55 - icon.dds
+  8282 | 2016-01-12 07:22:30.032 | Loaded Texture: M110 - icon.dds
+  8283 | 2016-01-12 07:22:30.057 | Loaded Texture: M32 - icon.dds
+  8284 | 2016-01-12 07:22:30.089 | Loaded Texture: IC 1101 - icon.dds
+ 10530 | 2016-01-12 07:22:43.391 | LoadedWebpage default.htm
+ 11066 | 2016-01-12 07:22:45.939 | NewtonReset: Newton Unloaded
+ 11066 | 2016-01-12 07:22:45.951 | SaveLocalSettings Complete
+ 11066 | 2016-01-12 07:22:45.961 | -- Stats ----------------------
+ 11066 | 2016-01-12 07:22:45.961 | Systems Loaded: 2
+ 11066 | 2016-01-12 07:22:45.961 | MouseClicks   : 21 | 0 | 0
+ 11066 | 2016-01-12 07:22:45.961 | Current FPS   : 218.2
+ 11066 | 2016-01-12 07:22:45.961 | Session Time  : 1.52 minutes
+ 11066 | 2016-01-12 07:22:45.961 | System Time   : 43.9 seconds
+ 11066 | 2016-01-12 07:22:45.961 | -------------------------------
+ 11066 | 2016-01-12 07:22:45.961 | 
+ 11066 | 2016-01-12 07:22:45.961 | -- New System -----------------
+ 11066 | 2016-01-12 07:22:45.961 | Loading System: Mars & Moons.ubox  |  C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\simulations\Mars & Moons.ubox
+ 11066 | 2016-01-12 07:22:46.085 | Read 1619 Horizon Data from C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\data\Horizon-2008-01-01.xml
+ 11066 | 2016-01-12 07:22:46.085 | Created system with 3 bodies.
+ 11066 | 2016-01-12 07:22:46.089 | Rotate Mars 25.19
+ 11066 | 2016-01-12 07:22:46.091 | Engine.Scale | 0.000000011
+ 11596 | 2016-01-12 07:22:51.661 | Rotate Earth 23.45
+ 11596 | 2016-01-12 07:22:51.661 | Moving Body Earth
+ 12099 | 2016-01-12 07:23:03.721 | Rotate Earth 23.45
+ 12099 | 2016-01-12 07:23:03.721 | Moving Body Earth
+ 12317 | 2016-01-12 07:23:12.250 | Rotate Earth 5 23.45
+ 12317 | 2016-01-12 07:23:12.250 | Moving Body Earth 5
+ 12550 | 2016-01-12 07:23:18.349 | LoadedWebpage default.htm
+ 13724 | 2016-01-12 07:23:27.369 | LoadedWebpage opensystem.htm
+ 14487 | 2016-01-12 07:23:39.469 | Rotate Mars 25.19
+ 14487 | 2016-01-12 07:23:39.470 | Moving Body Mars
+ 14531 | 2016-01-12 07:23:41.405 | Rotate Mars 5 25.19
+ 14531 | 2016-01-12 07:23:41.405 | Moving Body Mars 5
+ 15978 | 2016-01-12 07:24:10.636 | Loaded Texture: Moon - icon.dds
+ 15978 | 2016-01-12 07:24:10.661 | Loaded Texture: Titan - icon.dds
+ 15978 | 2016-01-12 07:24:10.684 | Loaded Texture: Europa - icon.dds
+ 15978 | 2016-01-12 07:24:10.712 | Loaded Texture: Ganymede - icon.dds
+ 15978 | 2016-01-12 07:24:10.740 | Loaded Texture: Dione - icon.dds
+ 15978 | 2016-01-12 07:24:10.765 | Loaded Texture: Mimas - icon.dds
+ 15979 | 2016-01-12 07:24:10.781 | Loaded Texture: Io - icon.dds
+ 15979 | 2016-01-12 07:24:10.808 | Loaded Texture: Callisto - icon.dds
+ 15979 | 2016-01-12 07:24:10.898 | Loaded Texture: Triton - icon.dds
+ 15980 | 2016-01-12 07:24:10.951 | Loaded Texture: Iapetus - icon.dds
+ 15980 | 2016-01-12 07:24:10.982 | Loaded Texture: Miranda - icon.dds
+ 15981 | 2016-01-12 07:24:11.013 | Loaded Texture: Pandora - icon.dds
+ 16219 | 2016-01-12 07:24:16.109 | Moving Body Titan
+ 16252 | 2016-01-12 07:24:17.608 | Moving Body Titan 7
+ 16621 | 2016-01-12 07:24:31.367 | Moving Body Miranda
+ 16706 | 2016-01-12 07:24:34.690 | Moving Body Miranda 7
+ 16845 | 2016-01-12 07:24:39.945 | Loaded Texture: Pool Ball - icon.dds
+ 16845 | 2016-01-12 07:24:39.985 | Loaded Texture: Football - icon.dds
+ 16845 | 2016-01-12 07:24:40.025 | Loaded Texture: Baseball - icon.dds
+ 16845 | 2016-01-12 07:24:40.065 | Loaded Texture: Bowling Ball - icon.dds
+ 16846 | 2016-01-12 07:24:40.106 | Loaded Texture: Teapot - icon.dds
+ 16846 | 2016-01-12 07:24:40.140 | Loaded Texture: Dice - icon.dds
+ 16847 | 2016-01-12 07:24:40.223 | Loaded Texture: Monolith - icon.dds
+ 16847 | 2016-01-12 07:24:40.267 | Loaded Texture: Ring - icon.dds
+ 17222 | 2016-01-12 07:24:44.964 | Moving Body Ring
+ 17245 | 2016-01-12 07:24:45.709 | Moving Body Ring 7
+ 17295 | 2016-01-12 07:24:47.791 | Loaded Texture: Pallas - icon.dds
+ 17295 | 2016-01-12 07:24:47.825 | Loaded Texture: Vesta - icon.dds
+ 17295 | 2016-01-12 07:24:47.864 | Loaded Texture: Ixion - icon.dds
+ 17296 | 2016-01-12 07:24:47.894 | Loaded Texture: Orcus - icon.dds
+ 17296 | 2016-01-12 07:24:47.929 | Loaded Texture: Sedna - icon.dds
+ 17297 | 2016-01-12 07:24:47.970 | Loaded Texture: Apophis - icon.dds
+ 18616 | 2016-01-12 07:25:07.244 | UI: Chart Mode
+ 18616 | 2016-01-12 07:25:07.245 | Cam Dist: 60000 km
+ 21438 | 2016-01-12 07:25:26.701 | UI: Edit Mode
+ 21969 | 2016-01-12 07:25:42.526 | UI: Focus on Absolute Space
+ 21976 | 2016-01-12 07:25:42.725 | Double Click  0.213544252561405
+ 21980 | 2016-01-12 07:25:42.841 | Double Click  0.115405619842932
+ 22127 | 2016-01-12 07:25:47.091 | UI: Focus on Absolute Space
+ 22140 | 2016-01-12 07:25:47.447 | Double Click  0.141344589181244
+ 22969 | 2016-01-12 07:26:11.923 | Rotate Sun 7.25
+ 22969 | 2016-01-12 07:26:11.930 | Moving Body Sun
+ 23078 | 2016-01-12 07:26:16.595 | Rotate Sun 9 7.25
+ 23078 | 2016-01-12 07:26:16.596 | Moving Body Sun 9
+ 23311 | 2016-01-12 07:26:22.847 | UI: All Velocites Halved
+ 23407 | 2016-01-12 07:26:24.539 | Screenshot
+ 23407 | 2016-01-12 07:26:24.544 | UI: Screenshot Saved
+ 23747 | 2016-01-12 07:26:31.353 | Double Click  0.0918302980717272
+ 23747 | 2016-01-12 07:26:31.353 | Resize Start from Engine.Resize=True
+ 23747 | 2016-01-12 07:26:31.353 | App: Main Resize Start
+ 23747 | 2016-01-12 07:26:31.609 | App: Main Resize End
+ 23747 | 2016-01-12 07:26:31.611 | Pre WebView.Resize
+ 23942 | 2016-01-12 07:26:35.405 | Resize Start from Engine.Resize=True
+ 23942 | 2016-01-12 07:26:35.405 | App: Main Resize Start
+ 23942 | 2016-01-12 07:26:35.456 | App: Main Resize End
+ 23942 | 2016-01-12 07:26:35.459 | Pre WebView.Resize
+ 24327 | 2016-01-12 07:26:42.617 | Lost Focus
+ 24328 | 2016-01-12 07:26:42.618 | App Lost Focus
+ 24604 | 2016-01-12 07:27:21.224 | App Regained Focus
+ 24606 | 2016-01-12 07:27:21.304 | Double Click  0.0781055751722306
+ 24914 | 2016-01-12 07:27:28.830 | UI2: SaveDust 0.02611559
+ 24914 | 2016-01-12 07:27:29.378 | UI2: SaveTrails 0.0798132
+ 24914 | 2016-01-12 07:27:30.168 | UI: Simulation Saved
+ 24914 | 2016-01-12 07:27:30.169 | 3.02 delay before End Update
+ 24961 | 2016-01-12 07:27:31.050 | LoadedWebpage default.htm
+ 25070 | 2016-01-12 07:27:33.147 | LoadedWebpage savesystem.htm
+ 25187 | 2016-01-12 07:27:35.365 | Double Click  0.145555705297738
+ 25264 | 2016-01-12 07:27:36.781 | Double Click  0.421600839821622
+ 25545 | 2016-01-12 07:27:42.146 | Lost Focus
+ 25546 | 2016-01-12 07:27:42.149 | App Lost Focus
+ 25666 | 2016-01-12 07:27:59.046 | App Regained Focus
+ 25731 | 2016-01-12 07:28:00.341 | UI2: SaveDust 0.01553456
+ 25731 | 2016-01-12 07:28:00.370 | UI2: SaveTrails 0.0282389
+ 25731 | 2016-01-12 07:28:00.688 | UI: System Saved
+ 25733 | 2016-01-12 07:28:00.731 | LoadedWebpage default.htm
+ 25857 | 2016-01-12 07:28:03.359 | Lost Focus
+ 25857 | 2016-01-12 07:28:05.017 | SaveLocalSettings Complete
+ 25857 | 2016-01-12 07:28:05.017 | -- Stats ----------------------
+ 25857 | 2016-01-12 07:28:05.017 | Systems Loaded: 3
+ 25857 | 2016-01-12 07:28:05.017 | MouseClicks   : 89 | 0 | 0
+ 25857 | 2016-01-12 07:28:05.017 | Current FPS   : 51.5
+ 25857 | 2016-01-12 07:28:05.017 | Session Time  : 6.81 minutes
+ 25857 | 2016-01-12 07:28:05.017 | System Time   : 5.29 minutes
+ 25857 | 2016-01-12 07:28:05.017 | -------------------------------
+ 25857 | 2016-01-12 07:28:05.017 | 
+ 25857 | 2016-01-12 07:28:05.017 | -- Settings -------------------
+ 25857 | 2016-01-12 07:28:05.017 | RunCount        : 12
+ 25857 | 2016-01-12 07:28:05.017 | RunTime         : 22.3 hours
+ 25857 | 2016-01-12 07:28:05.017 | RunTimeDemo     : 0.0 seconds
+ 25857 | 2016-01-12 07:28:05.017 | LastVersion     : 2.2.0
+ 25857 | 2016-01-12 07:28:05.017 | CommentCount    : 0
+ 25857 | 2016-01-12 07:28:05.017 | CheckCount      : 0 0
+ 25857 | 2016-01-12 07:28:05.017 | CommentAskCount : 1 0
+ 25857 | 2016-01-12 07:28:05.017 | CrashCount      : 1
+ 25857 | 2016-01-12 07:28:05.017 | EmailAddress    : arbuckle.liam@gmail.com
+ 25857 | 2016-01-12 07:28:05.018 | Premium        :  |  |  | -
+ 25857 | 2016-01-12 07:28:05.018 | -------------------------------
+ 25857 | 2016-01-12 07:28:05.018 | Particle Multi      : 1
+ 25857 | 2016-01-12 07:28:05.018 | 3D Inter Dist       : 1.5
+ 25857 | 2016-01-12 07:28:05.018 | -------------------------------
+ 25857 | 2016-01-12 07:28:05.018 | -- Engine Properties ----------
+ 25857 | 2016-01-12 07:28:05.018 | Window Size             : 1366 x 745
+ 25857 | 2016-01-12 07:28:05.018 | Available Texture Memory: -32.5 M bytes
+ 25857 | 2016-01-12 07:28:05.018 | Used Texture Memory     : 23.0 MB
+ 25857 | 2016-01-12 07:28:05.018 | -------------------------------
+ 25857 | 2016-01-12 07:28:05.106 | Closing Steam...
+ 25857 | 2016-01-12 07:28:05.165 | Steam Shutdown Complete
+ 25857 | 2016-01-12 07:28:05.169 | App: Beginning Dispose
+ 25857 | 2016-01-12 07:28:05.169 | NewtonReset: Newton Unloaded
+ 25857 | 2016-01-12 07:28:05.170 | ExitTest Loaded
+ 25857 | 2016-01-12 07:28:05.234 | App: Beginning DeleteAllTextures
+ 25857 | 2016-01-12 07:28:05.250 | App: Beginning UI Dispose
+ 25857 | 2016-01-12 07:28:05.251 | Skipping Dispose of Webcore
+ 25857 | 2016-01-12 07:28:05.251 | App: Finished UI Dispose
+ 25857 | 2016-01-12 07:28:05.302 | App: Finish Dispose
+ 25857 | 2016-01-12 07:28:05.303 | UpdateForm Active
+ 25857 | 2016-01-12 07:28:05.317 | Lost Focus
+ 25857 | 2016-01-12 07:28:05.584 | UpdateForm Final Call

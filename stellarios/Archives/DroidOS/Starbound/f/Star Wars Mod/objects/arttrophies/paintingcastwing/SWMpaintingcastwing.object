@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintingcastwing",
+  "colonyTags" : ["pretty","valuable","swrace"],
+  "rarity" : "Rare",
+  "description" : "Cast Wing In Flight.",
+  "shortdescription" : "Cast Wing Painting",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+ 
+
+  "inventoryIcon" : "paintingcastwingicon.png",
+  "orientations" : [
+    {
+      "image" : "paintingcastwing.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

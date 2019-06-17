@@ -1,0 +1,9 @@
+{
+  "name" : "primeape",
+  "category" : "primeape",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "primeape.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "marowak",
+  "category" : "marowak",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "marowak.png"
+  }
+}

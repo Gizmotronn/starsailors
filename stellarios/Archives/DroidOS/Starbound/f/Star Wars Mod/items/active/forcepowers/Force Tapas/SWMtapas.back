@@ -1,0 +1,19 @@
+{
+  "itemName" : "SWMforcetapas",
+  "price" : 300,
+  "inventoryIcon" : "tapas.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "rarity" : "Rare",
+  "description" : "Use the Force to stay warm in cold enviroments  - back slot item" ,
+  "shortdescription" : "Force Tapas",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+
+  "statusEffects" : [
+    {
+      "stat" : "biomecoldImmunity",
+      "amount" : 1.0
+    }
+  ]
+}

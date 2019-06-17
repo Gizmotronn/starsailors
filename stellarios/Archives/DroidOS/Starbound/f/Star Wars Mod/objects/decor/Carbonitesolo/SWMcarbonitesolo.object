@@ -1,0 +1,55 @@
+{
+  "objectName" : "SWMcarbonitesolo",
+  "colonyTags" : ["evil", "valuable", "odd", "starwars", "chiss", "ithorian", "rodian", "mawg", "zabrak", "utapaun", "wookie", "sith", "bothan", "twilek", "diathim", "toydarian"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 190,
+  "lightColor" : [20, 29, 33],
+  "health" : 1.5,
+  "flickerPeriod" : 0.4,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.05,
+  "flickerIntensityVariance" : 0.0,
+  "description" : "Han Solo frozen in carbonite.",
+  "shortdescription" : "'Man in Carbonite'",
+  "race" : "generic",
+
+  "apexDescription" : "Something is not right with this statue.",  
+  "avianDescription" : "How was this statue ever made with such lifelike precision?",
+  "floranDescription" : "Sssstrange pretty thing, ssssmellssss edible. Floran doesn't know why.",
+  "glitchDescription" : "Horrified. A human appears to have been embedded into this contraption!",
+  "humanDescription" : "Look, it's Captain Solo! and he's still frozen in carbonite!",
+  "hylotlDescription" : "There is something sinister about this statue.",
+  "utapaunDescription" : "There is something sinister about this statue.",
+  "novakidDescription" : "A human dude cast in carbonite.",
+  "feneroxDescription" : "Strange being. Looks trapped. Highly disturbing.",
+  "felinDescription" : "Is that a human trapped in there?",
+
+  "inventoryIcon" : "carbonite_icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "carbonitesolo.png:<color>.<frame>", "fullbright" : true }, { "image" : "carbonitesololit.png:<color>.<frame>" } ],
+      "imagePosition" : [-8, 0],
+      "direction" : "right",
+      "flipImages" : true,
+      "frames" : 6,
+      "animationCycle" : 2.6,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    },
+    {
+      "imageLayers" : [ { "image" : "carbonitesolo.png:<color>.<frame>", "fullbright" : true }, { "image" : "carbonitesololit.png:<color>.<frame>" } ],
+      "imagePosition" : [-8, 0],
+      "direction" : "left",
+      "frames" : 6,
+      "animationCycle" : 2.6,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

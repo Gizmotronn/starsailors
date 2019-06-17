@@ -1,0 +1,9 @@
+{
+  "name" : "tentacool",
+  "category" : "tentacool",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "tentacool.png"
+  }
+}

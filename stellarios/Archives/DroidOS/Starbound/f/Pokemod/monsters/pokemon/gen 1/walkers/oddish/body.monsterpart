@@ -1,0 +1,9 @@
+{
+  "name" : "oddish",
+  "category" : "oddish",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "oddish.png"
+  }
+}

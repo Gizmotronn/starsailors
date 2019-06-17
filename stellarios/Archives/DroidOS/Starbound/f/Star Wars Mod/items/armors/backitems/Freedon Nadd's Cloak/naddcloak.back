@@ -1,0 +1,18 @@
+{
+  "itemName" : "SWMnaddcape",
+  "inventoryIcon" : "naddcloak.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "rarity" : "Legendary",
+  "description" : "Freedon Nadd's Cape.",
+  "shortdescription" : "Freedon Nadd's Cape",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+"acceptsAugmentType" : "back",
+  "statusEffects" : [
+    {
+      "stat" : "breathProtection",
+      "amount" : 1.0
+    }
+  ]
+}

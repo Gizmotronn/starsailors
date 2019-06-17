@@ -1,0 +1,21 @@
+{
+  "itemName" : "chopleberry",
+  "price" : 200,
+  "rarity" : "Uncommon",
+  "tooltipKind" : "petcollar",
+  "category" : "petCollar",
+  "inventoryIcon" : "chopleberry.png",
+  "description" : "A  held item that lowers the effectiveness of Fighting-Type moves.",
+  "shortdescription" : "Chople Berry",
+
+  "collar" : {
+    "name" : "heldchopleberry",
+    "displayName" : "chople Berry",
+    "displayIcon" : "/items/augments/pet/chopleberry.png",
+    "effects" : [ "fightingblockaugment" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupcollar" ],
+
+  "scripts" : [ "/scripts/augments/collar.lua" ]
+}

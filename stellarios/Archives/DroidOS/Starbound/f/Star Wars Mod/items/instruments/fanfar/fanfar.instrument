@@ -1,0 +1,20 @@
+{
+  "itemName" : "SWMfanfar",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "icon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A reedy instrument commonly used in Jizz.",
+  "shortdescription" : "fanfar",
+  "largeImage" : "fanfar.png",
+  "image" : "fanfar.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "fanfar.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0.3, -0.2],
+
+  "handPosition" : [0.5, -0.1],
+  "twoHanded" : true,
+  "kind" : "oboe"
+}

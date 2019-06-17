@@ -1,0 +1,9 @@
+{
+  "name" : "sbiomeprotect",
+  "effectConfig" : {},
+  "defaultDuration" : 0.25,
+
+  "scripts" : [
+    "sbiomeprotect.lua"
+  ]
+}

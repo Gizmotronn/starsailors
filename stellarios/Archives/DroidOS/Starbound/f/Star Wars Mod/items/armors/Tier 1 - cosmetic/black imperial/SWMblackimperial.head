@@ -1,0 +1,14 @@
+{
+  "itemName" : "SWM2blackimperialhead",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "The chic choice for Imperial Underlings.",
+  "shortdescription" : "Black Imperial Hat",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"
+}

@@ -1,0 +1,18 @@
+{
+  "itemName" : "SWM2vadercape",
+  "inventoryIcon" : "vadercape.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "rarity" : "Common",
+  "description" : "Darth Vader's Cape.",
+  "shortdescription" : "Darth Vader's Cape",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+
+  "statusEffects" : [
+    {
+      "stat" : "breathProtection",
+      "amount" : 1.0
+    }
+  ]
+}

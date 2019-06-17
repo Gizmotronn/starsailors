@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintingkraytdragon",
+  "colonyTags" : ["pretty","valuable", "swrace"],
+  "rarity" : "Rare",
+  "description" : "Painting of a Krayt Dragon Skeleton.",
+  "shortdescription" : "Krayt Dragon Skeleton Painting",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+ 
+
+  "inventoryIcon" : "paintingkraytdragonicon.png",
+  "orientations" : [
+    {
+      "image" : "paintingkraytdragon.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

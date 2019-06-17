@@ -1,0 +1,7 @@
+{
+	"author" : "Projectmayhem",
+	"description" : "Star Wars mod for Starbound",
+	"friendlyName" : "Star Wars Mod",
+	"name" : "Star Wars Mod",
+	"version" : "1"
+}

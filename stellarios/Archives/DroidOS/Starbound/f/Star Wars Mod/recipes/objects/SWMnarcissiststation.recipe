@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 1 }
+	
+  ],
+  "output" : { "item" : "narcissiststation", "count" : 1 },
+  "groups" : [ "swm","item" ]
+}

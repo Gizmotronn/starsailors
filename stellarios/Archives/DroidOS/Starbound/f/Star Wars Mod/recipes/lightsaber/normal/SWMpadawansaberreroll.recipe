@@ -1,0 +1,8 @@
+{
+  "input" : [
+    
+	{ "item" : "SWMpadawansaber", "count" : 1 }
+  ],
+  "output" : { "item" : "SWMpadawansaber", "count" : 1 },
+  "groups" : [ "af", "t2"]
+}

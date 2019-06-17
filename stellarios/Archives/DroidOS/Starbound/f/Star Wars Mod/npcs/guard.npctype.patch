@@ -1,0 +1,165 @@
+[
+  { "op" : "add",
+    "path" : "/items/wookie",
+    "value" : 
+    [ [0, [ {
+        "head" : [ { "name" : "ithorianinvishead" } ],
+            "chest" : [ { "name" : "humantier1chest" } ],
+            "legs" : [ { "name" : "humantier1pants" } ],
+            "primary" : [ "SWMbasicbowcaster" ],
+            "sheathedprimary" : [ "npcbroadsword" ]
+			        
+      } 
+	  ]
+	  ]
+    ]
+  },
+  
+    { "op" : "add",
+    "path" : "/items/togruta",
+    "value" : 
+    [ [0, [ {
+        "head" : [ { "name" : "ithorianinvishead" } ],
+            "chest" : [ { "name" : "humantier1chest" } ],
+            "legs" : [ { "name" : "humantier1pants" } ],
+            "primary" : [ "SWMbasicbowcaster" ],
+            "sheathedprimary" : [ "npcbroadsword" ]
+			        
+      } 
+	  ]
+	  ]
+    ]
+  },
+  
+  
+  { "op" : "add",
+    "path" : "/items/rodian",
+    "value" : 
+    [ [0, [ {
+        "head" : [ { "name" : "humantier1head" } ],
+            "chest" : [ { "name" : "humantier1chest" } ],
+            "legs" : [ { "name" : "humantier1pants" } ],
+            "primary" : [ "SWMbasicdl44blasterpistol" ],
+            "sheathedprimary" : [ "npcbroadsword" ]
+			        
+      } ] ]
+    ]
+  },
+  
+  { "op" : "add",
+    "path" : "/items/diathim",
+    "value" : 
+    [ [0, [ {
+        "head" : [ { "name" : "humantier1head" } ],
+            "chest" : [ { "name" : "humantier1chest" } ],
+            "legs" : [ { "name" : "humantier1pants" } ],
+            "primary" : [ "SWMbasicdl44blasterpistol" ],
+            "sheathedprimary" : [ "npcbroadsword" ]
+			        
+      } ] ]
+    ]
+  },
+  
+  { "op" : "add",
+    "path" : "/items/utapaun",
+    "value" : 
+    [ [0, [ {
+        "head" : [ { "name" : "humantier1head" } ],
+            "chest" : [ { "name" : "humantier1chest" } ],
+            "legs" : [ { "name" : "humantier1pants" } ],
+            "primary" : [ "SWMe11blasterrifle" ],
+            "sheathedprimary" : [ "npcbroadsword" ]
+			        
+      } ] ]
+    ]
+  },
+  
+  
+  { "op" : "add",
+    "path" : "/items/ithorian",
+    "value" : 
+    [ [0, [ {
+        "head" : [ { "name" : "ithorianinvishead" } ],
+            "chest" : [ { "name" : "humantier1chest" } ],
+            "legs" : [ { "name" : "humantier1pants" } ],
+            "primary" : [ "SWMbasicdl44blasterpistol" ],
+            "sheathedprimary" : [ "npcbroadsword" ]
+			        
+      } ] ]
+    ]
+  },
+  
+  { "op" : "add",
+    "path" : "/items/mawg",
+    "value" : 
+    [ [0, [ {
+        "head" : [ { "name" : "humantier1head" } ],
+            "chest" : [ { "name" : "humantier1chest" } ],
+            "legs" : [ { "name" : "humantier1pants" } ],
+            "primary" : [ "SWMbasicdl44blasterpistol" ],
+            "sheathedprimary" : [ "npcbroadsword" ]
+			        
+      } ] ]
+    ]
+  },
+  
+  { "op" : "add",
+    "path" : "/items/tuskan",
+    "value" : 
+    [ [0, [ {
+        "head" : [ { "name" : "SWMtuskanshead" } ],
+            "chest" : [ { "name" : "SWMtuskanschest" } ],
+            "legs" : [ { "name" : "SWMtuskanslegs" } ],
+            "primary" : [ "SWMtuskancycler" ],
+            "sheathedprimary" : [ "SWMbasicgaderffii" ]
+			        
+      } ] ]
+    ]
+  },
+  
+  { "op" : "add",
+    "path" : "/items/zabrak",
+    "value" : 
+    [ [0, [ {
+        "head" : [ { "name" : "humantier1head" } ],
+            "chest" : [ { "name" : "humantier1chest" } ],
+            "legs" : [ { "name" : "humantier1pants" } ],
+            "primary" : [ "SWMyounglingtsaber" ],
+            "sheathedprimary" : [ "SWMyounglingsaber" ]
+			        
+      } ] ]
+    ]
+  },
+  
+  { "op" : "add",
+    "path" : "/items/bothan",
+    "value" : 
+    [ [0, [ {
+        "head" : [ { "name" : "humantier1head" } ],
+            "chest" : [ { "name" : "humantier1chest" } ],
+            "legs" : [ { "name" : "humantier1pants" } ],
+            "primary" : [ "SWMbasicbowcaster" ],
+            "sheathedprimary" : [ "npcbroadsword" ]
+			        
+      } 
+	  ]
+	  ]
+    ]
+  },
+  
+  { "op" : "add",
+    "path" : "/items/twilek",
+    "value" : 
+    [ [0, [ {
+        "head" : [ { "name" : "ithorianinvishead" } ],
+            "chest" : [ { "name" : "humantier1chest" } ],
+            "legs" : [ { "name" : "humantier1pants" } ],
+            "primary" : [ "SWMbasicbowcaster" ],
+            "sheathedprimary" : [ "npcbroadsword" ]
+			        
+      } 
+	  ]
+	  ]
+    ]
+  }
+]

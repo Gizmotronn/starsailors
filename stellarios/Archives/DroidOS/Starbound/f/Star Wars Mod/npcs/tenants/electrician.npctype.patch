@@ -1,0 +1,178 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/bothan",
+    "value": {
+      "default": [
+        "Fixing electronics is a complex art of intricacy. Happily, these circuits look fine.",
+        "Electrical circuitry is simply fascinating.",
+        "Electricians are noble, just like artists and musicians. I'm not joking!",
+        "I'm in your base, checking your wiring. Whee!",
+        "With so many gadgets and so much data flowing here and there, my shift is essentially ENDLESS",
+        "When I'm not repairing and inspecting circuitry and systems, I build comlinks in my spare time. Impressed yet?",
+        " Not all wars end by starship fleets or ground assaults. Skilled electricians like me are capable of settling them too.",
+        "With so many databanks to maintain, I'm working overtime. I could use a droid or two to help me out."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/zabrak",
+    "value": {
+      "default": [
+        "Fixing electronics is a complex art of intricacy. Happily, these circuits look fine.",
+        "Electrical circuitry is simply fascinating.",
+        "Electricians are noble, just like artists and musicians. I'm not joking!",
+        "I'm in your base, checking your wiring. Whee!",
+        "With so many gadgets and so much data flowing here and there, my shift is essentially ENDLESS",
+        "When I'm not repairing and inspecting circuitry and systems, I build comlinks in my spare time. Impressed yet?",
+        " Not all wars end by starship fleets or ground assaults. Skilled electricians like me are capable of settling them too.",
+        "With so many databanks to maintain, I'm working overtime. I could use a droid or two to help me out."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/wookie",
+    "value": {
+      "default": [
+        "Fixing electronics is a complex art of intricacy. Happily, these circuits look fine.",
+        "Electrical circuitry is simply fascinating.",
+        "Electricians are noble, just like artists and musicians. I'm not joking!",
+        "I'm in your base, checking your wiring. Whee!",
+        "With so many gadgets and so much data flowing here and there, my shift is essentially ENDLESS",
+        "When I'm not repairing and inspecting circuitry and systems, I build comlinks in my spare time. Impressed yet?",
+        " Not all wars end by starship fleets or ground assaults. Skilled electricians like me are capable of settling them too.",
+        "With so many databanks to maintain, I'm working overtime. I could use a droid or two to help me out."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/utapaun",
+    "value": {
+      "default": [
+        "Fixing electronics is a complex art of intricacy. Happily, these circuits look fine.",
+        "Electrical circuitry is simply fascinating.",
+        "Electricians are noble, just like artists and musicians. I'm not joking!",
+        "I'm in your base, checking your wiring. Whee!",
+        "With so many gadgets and so much data flowing here and there, my shift is essentially ENDLESS",
+        "When I'm not repairing and inspecting circuitry and systems, I build comlinks in my spare time. Impressed yet?",
+        " Not all wars end by starship fleets or ground assaults. Skilled electricians like me are capable of settling them too.",
+        "With so many databanks to maintain, I'm working overtime. I could use a droid or two to help me out."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/twilek",
+    "value": {
+      "default": [
+        "Fixing electronics is a complex art of intricacy. Happily, these circuits look fine.",
+        "Electrical circuitry is simply fascinating.",
+        "Electricians are noble, just like artists and musicians. I'm not joking!",
+        "I'm in your base, checking your wiring. Whee!",
+        "With so many gadgets and so much data flowing here and there, my shift is essentially ENDLESS",
+        "When I'm not repairing and inspecting circuitry and systems, I build comlinks in my spare time. Impressed yet?",
+        " Not all wars end by starship fleets or ground assaults. Skilled electricians like me are capable of settling them too.",
+        "With so many databanks to maintain, I'm working overtime. I could use a droid or two to help me out."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/togruta",
+    "value": {
+      "default": [
+        "Fixing electronics is a complex art of intricacy. Happily, these circuits look fine.",
+        "Electrical circuitry is simply fascinating.",
+        "Electricians are noble, just like artists and musicians. I'm not joking!",
+        "I'm in your base, checking your wiring. Whee!",
+        "With so many gadgets and so much data flowing here and there, my shift is essentially ENDLESS",
+        "When I'm not repairing and inspecting circuitry and systems, I build comlinks in my spare time. Impressed yet?",
+        " Not all wars end by starship fleets or ground assaults. Skilled electricians like me are capable of settling them too.",
+        "With so many databanks to maintain, I'm working overtime. I could use a droid or two to help me out."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/sith",
+    "value": {
+      "default": [
+        "Fixing electronics is a complex art of intricacy. Happily, these circuits look fine.",
+        "Electrical circuitry is simply fascinating.",
+        "Electricians are noble, just like artists and musicians. I'm not joking!",
+        "I'm in your base, checking your wiring. Whee!",
+        "With so many gadgets and so much data flowing here and there, my shift is essentially ENDLESS",
+        "When I'm not repairing and inspecting circuitry and systems, I build comlinks in my spare time. Impressed yet?",
+        " Not all wars end by starship fleets or ground assaults. Skilled electricians like me are capable of settling them too.",
+        "With so many databanks to maintain, I'm working overtime. I could use a droid or two to help me out."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/rodian",
+    "value": {
+      "default": [
+        "Fixing electronics is a complex art of intricacy. Happily, these circuits look fine.",
+        "Electrical circuitry is simply fascinating.",
+        "Electricians are noble, just like artists and musicians. I'm not joking!",
+        "I'm in your base, checking your wiring. Whee!",
+        "With so many gadgets and so much data flowing here and there, my shift is essentially ENDLESS",
+        "When I'm not repairing and inspecting circuitry and systems, I build comlinks in my spare time. Impressed yet?",
+        " Not all wars end by starship fleets or ground assaults. Skilled electricians like me are capable of settling them too.",
+        "With so many databanks to maintain, I'm working overtime. I could use a droid or two to help me out."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/mawg",
+    "value": {
+      "default": [
+        "Fixing electronics is a complex art of intricacy. Happily, these circuits look fine.",
+        "Electrical circuitry is simply fascinating.",
+        "Electricians are noble, just like artists and musicians. I'm not joking!",
+        "I'm in your base, checking your wiring. Whee!",
+        "With so many gadgets and so much data flowing here and there, my shift is essentially ENDLESS",
+        "When I'm not repairing and inspecting circuitry and systems, I build comlinks in my spare time. Impressed yet?",
+        " Not all wars end by starship fleets or ground assaults. Skilled electricians like me are capable of settling them too.",
+        "With so many databanks to maintain, I'm working overtime. I could use a droid or two to help me out."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/ithorian",
+    "value": {
+      "default": [
+        "Fixing electronics is a complex art of intricacy. Happily, these circuits look fine.",
+        "Electrical circuitry is simply fascinating.",
+        "Electricians are noble, just like artists and musicians. I'm not joking!",
+        "I'm in your base, checking your wiring. Whee!",
+        "With so many gadgets and so much data flowing here and there, my shift is essentially ENDLESS",
+        "When I'm not repairing and inspecting circuitry and systems, I build comlinks in my spare time. Impressed yet?",
+        " Not all wars end by starship fleets or ground assaults. Skilled electricians like me are capable of settling them too.",
+        "With so many databanks to maintain, I'm working overtime. I could use a droid or two to help me out."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/diathim",
+    "value": {
+      "default": [
+        "Fixing electronics is a complex art of intricacy. Happily, these circuits look fine.",
+        "Electrical circuitry is simply fascinating.",
+        "Electricians are noble, just like artists and musicians. I'm not joking!",
+        "I'm in your base, checking your wiring. Whee!",
+        "With so many gadgets and so much data flowing here and there, my shift is essentially ENDLESS",
+        "When I'm not repairing and inspecting circuitry and systems, I build comlinks in my spare time. Impressed yet?",
+        " Not all wars end by starship fleets or ground assaults. Skilled electricians like me are capable of settling them too.",
+        "With so many databanks to maintain, I'm working overtime. I could use a droid or two to help me out."
+      ]
+    }
+  }
+]

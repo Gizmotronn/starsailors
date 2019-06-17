@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "kybercrystal", "count" : 1 },
+	{ "item" : "refinedviolium", "count" : 6 }
+  ],
+  "output" : { "item" : "SWMmaster2saber", "count" : 1 },
+  "groups" : [ "af", "t5"]
+}

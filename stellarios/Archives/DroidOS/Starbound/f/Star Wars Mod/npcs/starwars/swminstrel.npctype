@@ -1,0 +1,59 @@
+{
+  "type" : "swminstrel",
+  "baseType" : "swmerchant",
+
+  "scriptConfig" : {
+    "questGenerator" : {
+      "pools" : ["common"]
+    },
+
+    "merchant" : {
+      "waitTime" : 10,
+      "storeRadius" : -1,
+      "categories" : {
+        "default" : [ "swinstruments" ]		
+      },
+      "buyFactorRange" : [ 1.0, 1.0 ],
+      "sellFactorRange" : [ 0.2, 0.2 ],
+      "numItems" : 7,
+      "paneLayoutOverride" : {
+        "windowtitle" : {
+          "title" : "  Cantina Musician",
+          "subtitle" : "  Learn to play your favorite instrument!"
+        }
+      }
+    },
+
+    "dialog" : {
+      "merchant" : {
+        "start" : {
+          "default" : {
+            "default" : [
+              "Get ready to rock!"
+            ]
+          },
+        "end" : {
+          "default" : {
+            "default" : [
+              "Come back anytime!"
+            ]
+          }
+        }
+      }
+    }
+   }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ "bandithat1" ],
+            "chest" : [ "workoutchest" ],
+            "legs" : [ "jeans2legs" ],
+			"primary" : [ "SWMblissl", "SWMsabriquet", "SWMslitherhorn", "SWMbandfill" ]
+          }
+        ] ]
+    ]
+  }
+}

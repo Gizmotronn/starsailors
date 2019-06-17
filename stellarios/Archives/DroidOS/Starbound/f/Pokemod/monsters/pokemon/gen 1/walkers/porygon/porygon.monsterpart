@@ -1,0 +1,9 @@
+{
+  "name" : "porygon",
+  "category" : "porygon",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "porygon.png"
+  }
+}

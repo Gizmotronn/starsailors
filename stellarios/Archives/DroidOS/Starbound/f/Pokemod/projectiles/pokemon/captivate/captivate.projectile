@@ -1,0 +1,21 @@
+{
+  "projectileName" : "captivate",
+  "image" : "captivate.png",
+  "physics" : "arrow",
+  "animationCycle" : 1.5,
+  "frameNumber" : 2,
+  "damageKindImage" : "icon.png",
+  "power" : 0,
+  "speed" : 60,
+  "timeToLive" : 3,
+  "bounces" : 0,
+  "piercing" : false,
+  "damagePoly" : [ [0, 2.5], [5, 2.5], [5, -2.5], [0, -2.5]],
+  "damageKind" : "normal",
+
+  "renderLayer" : "Monster+10",
+  
+  "statusEffects" : [
+    "weakness1"
+  ]
+}

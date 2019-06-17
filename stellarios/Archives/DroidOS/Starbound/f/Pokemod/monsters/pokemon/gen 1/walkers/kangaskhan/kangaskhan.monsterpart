@@ -1,0 +1,9 @@
+{
+  "name" : "kangaskhan",
+  "category" : "kangaskhan",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "kangaskhan.png"
+  }
+}

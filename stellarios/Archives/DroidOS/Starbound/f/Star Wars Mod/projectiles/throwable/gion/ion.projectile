@@ -1,0 +1,19 @@
+{
+  "projectileName" : "gion",
+  "physics" : "grenade",
+   "bounces" : -1,
+  "timeToLive" : 5,
+  "image" : "ion.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "damageKind" : "electricplasmabullet",
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/electricexplosion/electricexplosion.config"
+    }
+   
+  ],
+  "power" : 30
+  
+}

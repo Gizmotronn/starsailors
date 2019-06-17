@@ -1,0 +1,375 @@
+[
+  { "op" : "add",
+    "path" : "/items/zabrak",
+    "value" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "glitchtier1chest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "hylotltier1chest", "parameters" : { "colorIndex" : [1, 2, 4, 5, 9, 0] } },
+              { "name" : "kimonochest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "monkchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "traditionalchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "traineechest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "noblechest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "peasantchest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }
+            ],
+            "legs" : [
+              { "name" : "kimonolegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "monklegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "traditionallegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "traineelegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "noblelegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "peasantlegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "hylotltier1pants", "parameters" : { "colorIndex" : [1, 2, 4, 5, 9, 0] } },
+              { "name" : "glitchtier1legs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }
+            ]
+          }
+        ] ]
+    ]
+  },
+   
+  { "op" : "add",
+    "path" : "/items/togruta",
+    "value" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "noblechest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "aviantier1chest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "apextier1chest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "peasantchest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "avianadventurershirt", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "aviancommonershirt", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "avianfancyshirt", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "avianworkershirt", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }
+            ],
+            "legs" : [
+              { "name" : "noblelegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "aviantier1pants", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "apextier1pants", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "peasantlegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "avianadventurerpants", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "aviancommonerlegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "avianfancyskirt", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }
+            ]
+          }
+        ] ]
+    ]
+  },
+   
+   
+  { "op" : "add",
+    "path" : "/items/diathim",
+    "value" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "kimonochest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "monkchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "traditionalchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "traineechest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "noblechest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "peasantchest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }
+            ],
+            "legs" : [
+              { "name" : "kimonolegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "monklegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "traditionallegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "traineelegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "noblelegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "peasantlegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }
+            ]
+          }
+        ] ]
+    ]
+  },
+   
+   { "op" : "add",
+    "path" : "/items/sith",
+    "value" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "avianadventurershirt", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "aviancommonershirt", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "avianfancyshirt", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "avianworkershirt", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "kimonochest", "parameters" : { "colorIndex" : [1, 2, 4, 5, 9, 0] } },
+              { "name" : "monkchest", "parameters" : { "colorIndex" : [1, 2, 4, 5, 9, 0] } },
+              { "name" : "traditionalchest", "parameters" : { "colorIndex" : [1, 2, 4, 5, 9, 0] } }, 
+              { "name" : "traineechest", "parameters" : { "colorIndex" : [1, 2, 4, 5, 9, 0] } },
+              { "name" : "noblechest", "parameters" : { "colorIndex" : [1, 2, 4, 5, 9, 0] } },
+              { "name" : "aviantier1chest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "glitchtier1chest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "hylotltier1chest", "parameters" : { "colorIndex" : [1, 2, 4, 5, 9, 0] } },
+              { "name" : "peasantchest", "parameters" : { "colorIndex" : [1, 2, 4, 5, 9, 0] } }
+            ],
+            "legs" : [
+              { "name" : "avianadventurerpants", "parameters" : { "colorIndex" : [1, 5, 6, 7, 8, 9] } }, 
+              { "name" : "aviancommonerlegs", "parameters" : { "colorIndex" : [1, 5, 6, 7, 8, 9] } }, 
+              { "name" : "avianfancyskirt", "parameters" : { "colorIndex" : [1, 5, 6, 7, 8, 9] } },
+              { "name" : "kimonolegs", "parameters" : { "colorIndex" : [1, 2, 5, 9, 11, 3] } },
+              { "name" : "monklegs", "parameters" : { "colorIndex" : [1, 2, 5, 9, 11, 3] } },
+              { "name" : "traditionallegs", "parameters" : { "colorIndex" : [1, 2, 5, 9, 11, 3] } }, 
+              { "name" : "traineelegs", "parameters" : { "colorIndex" : [1, 2, 5, 9, 11, 3] } },
+              { "name" : "noblelegs", "parameters" : { "colorIndex" : [1, 2, 5, 9, 11, 3] } }, 
+              { "name" : "peasantlegs", "parameters" : { "colorIndex" : [1, 2, 5, 9, 11, 3] } },
+              { "name" : "aviantier1pants", "parameters" : { "colorIndex" : [1, 5, 6, 7, 8, 9] } },
+              { "name" : "hylotltier1pants", "parameters" : { "colorIndex" : [1, 2, 5, 9, 0] } },
+              { "name" : "glitchtier1legs", "parameters" : { "colorIndex" : [1, 5, 6, 7, 8, 9] } }
+            ]
+          }
+        ] ]
+    ]
+  },
+   
+     
+  { "op" : "add",
+    "path" : "/items/rodian",
+    "value" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "humantier1chest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "coolchest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "conceptchest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "hoodiechest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "workoutchest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "novakidfancychest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "novakidjacket", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "novatier1chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "noblechest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9, 0] } }
+ 
+            ],
+            "legs" : [
+              { "name" : "humantier1pants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9, 0] } },
+              { "name" : "coollegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9, 0] } }, 
+              { "name" : "conceptlegs", "parameters" : { "colorIndex" : [0, 11] } },
+              { "name" : "sweatervestlegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9, 0] } },
+              { "name" : "novakidfancypants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "novakidjacketpants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "novakidsuspenderspants", "parameters" : { "colorIndex" : [0, 11] } },
+              { "name" : "novakidblackpants", "parameters" : { "colorIndex" : [0, 11] } }, 
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : [0, 11] } }
+            ]
+          }
+        ] ]
+    ]
+  },
+   
+  { "op" : "add",
+    "path" : "/items/utapaun",
+    "value" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "glitchtier1chest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "apextier1chest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "craftsmenchest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "merchantchest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "noblechest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "peasantchest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "apexcommanderjacket", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "apexnavyjacket", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+            ],
+            "legs" : [
+              { "name" : "glitchtier1pants", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "apextier1pants", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "craftsmenlegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "merchantlegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "noblelegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "peasantlegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "apexcommanderpants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "apexnavypants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "apexofficerpants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "apexspecialistpants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+            ]
+          }
+        ] ]
+    ]
+  },
+   
+  { "op" : "add",
+    "path" : "/items/mawg",
+    "value" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "humantier1chest", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } },
+              { "name" : "coolchest", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0] } }, 
+              { "name" : "conceptchest", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0] } },
+              { "name" : "hoodiechest", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0] } },
+              { "name" : "workoutchest", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0] } },
+              { "name" : "novakidfancychest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "novakidjacket", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "novatier1chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "noblechest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9, 0] } }
+ 
+            ],
+            "legs" : [
+              { "name" : "humantier1pants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9, 0] } },
+              { "name" : "coollegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9, 0] } }, 
+              { "name" : "conceptlegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9, 0] } },
+              { "name" : "sweatervestlegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9, 0] } },
+              { "name" : "novakidfancypants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "novakidjacketpants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "novakidsuspenderspants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "novakidblackpants", "parameters" : { "colorIndex" : [0, 11] } }, 
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9, 0] } }
+            ]
+          }
+        ] ]
+    ]
+  },
+   
+    
+   { "op" : "add",
+    "path" : "/items/wookie",
+    "value" : [
+      [[0, [
+          {
+            "chest" : [
+              ""
+            ],
+            "legs" : [
+              ""
+            ]
+          }
+        ] ]
+    ]]
+  },
+   
+   
+  { "op" : "add",
+    "path" : "/items/bothan",
+    "value" : [
+     [0, [
+           
+          {
+            "chest" : [
+              { "name" : "apextier1chest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "glitchtier1chest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "humantier1chest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "craftsmenchest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "merchantchest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "noblechest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "peasantchest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }
+            ],
+            "legs" : [
+              { "name" : "apextier1pants", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "glitchtier1legs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "humantier1pants", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "craftsmenlegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "merchantlegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "noblelegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "peasantlegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }
+            ]
+          }
+        ] ]
+    ]
+  },
+   
+  { "op" : "add",
+    "path" : "/items/twilek",
+    "value" : [
+     [0, [
+          {
+            "chest" : [
+              { "name" : "humantier1chest", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } },
+              { "name" : "glitchtier1chest", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } },
+              { "name" : "coolchest", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0] } }, 
+              { "name" : "conceptchest", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0] } },
+              { "name" : "hoodiechest", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0] } },
+              { "name" : "workoutchest", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0] } },
+              { "name" : "noblechest", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0] } }, 
+              { "name" : "peasantchest", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0] } }
+ 
+            ],
+            "legs" : [
+              { "name" : "humantier1pants", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } },
+              { "name" : "glitchtier1pants", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } },
+              { "name" : "coollegs", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0] } }, 
+              { "name" : "conceptlegs", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0] } },
+              { "name" : "sweatervestlegs", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0] } },
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0] } },
+              { "name" : "noblelegs", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0] } }, 
+              { "name" : "peasantlegs", "parameters" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0] } }
+            ]
+          }
+        ] ]
+    ]
+  },
+   
+  { "op" : "add",
+    "path" : "/items/ithorian",
+    "value" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "kimonochest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "monkchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "traditionalchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "traineechest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "noblechest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "hylotltier1chest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "peasantchest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }
+            ],
+            "legs" : [
+              { "name" : "kimonolegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "monklegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "traditionallegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "traineelegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "noblelegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "hylotltier1pants", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } },               
+              { "name" : "peasantlegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }
+            ]
+          }
+        ] ]
+    ]
+  },
+   
+  {
+    "op": "add",
+    "path": "/scriptConfig/questGenerator/graduation/nextNpcType/-",
+    "value": [
+      2,
+      "crewmemberjedi"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/questGenerator/graduation/nextNpcType/-",
+    "value": [
+      2,
+      "crewmembersith"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/questGenerator/graduation/nextNpcType/-",
+    "value": [
+      2,
+      "crewmemberimperial"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/questGenerator/graduation/nextNpcType/-",
+    "value": [
+      2,
+      "crewmemberimperial2"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/questGenerator/graduation/nextNpcType/-",
+    "value": [
+      2,
+      "crewmemberstormtrooper"
+    ]
+  }
+]
+ 

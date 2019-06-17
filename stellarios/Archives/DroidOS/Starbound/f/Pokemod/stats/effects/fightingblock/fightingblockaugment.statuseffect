@@ -1,0 +1,9 @@
+{
+  "name" : "fightingblockaugment",
+  "effectConfig" : {},
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "fightingblock.lua"
+  ]
+}

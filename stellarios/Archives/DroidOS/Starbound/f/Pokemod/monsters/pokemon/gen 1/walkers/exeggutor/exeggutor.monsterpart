@@ -1,0 +1,9 @@
+{
+  "name" : "exeggutor",
+  "category" : "exeggutor",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "exeggutor.png"
+  }
+}

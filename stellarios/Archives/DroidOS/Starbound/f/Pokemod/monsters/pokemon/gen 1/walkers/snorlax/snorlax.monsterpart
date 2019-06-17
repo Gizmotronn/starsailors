@@ -1,0 +1,9 @@
+{
+  "name" : "snorlax",
+  "category" : "snorlax",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "snorlax.png"
+  }
+}

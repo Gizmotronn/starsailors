@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "specialpokeball", "count" : 1 }
+  ],
+  "output" : { "item" : "squirtlebox", "count" : 1 },
+  "groups" : [ "pokemon", "all" ]
+}

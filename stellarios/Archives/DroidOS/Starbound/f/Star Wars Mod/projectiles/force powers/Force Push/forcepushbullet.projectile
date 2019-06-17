@@ -1,0 +1,14 @@
+{
+  "projectileName" : "forcepushbullet",
+  "physics" : "laser",
+  "bounces" : 0,
+  "damageKindImage" : "icon.png",
+  "image" : "forcepushbullet.png",
+  "animationCycle" : 0.8,
+  "frameNumber" : 3,
+  "power" : 50,
+  "speed" : 20,
+  "supportsProcessing" : true,
+  "lightColor" : [255, 0, 0],
+  "damageKind" : "plasma"
+}

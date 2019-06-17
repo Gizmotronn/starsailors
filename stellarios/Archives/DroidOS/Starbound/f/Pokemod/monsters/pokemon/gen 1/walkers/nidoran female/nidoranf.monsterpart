@@ -1,0 +1,9 @@
+{
+  "name" : "nidoranf",
+  "category" : "nidoranf",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "nidoranf.png"
+  }
+}

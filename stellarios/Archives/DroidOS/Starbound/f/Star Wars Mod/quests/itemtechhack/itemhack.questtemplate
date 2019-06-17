@@ -1,0 +1,35 @@
+{
+    "id": "itemhack",
+	"ephemeral" : true,
+    "title": "Those wings aren't just for show!",
+    "text": "They should also give a tech, if I get it working.",
+    "completionText": "You got the toydarian wings!",
+    "moneyRange": [
+        50,
+        50
+    ],
+    "canBeAbandoned": false,
+    "invisible": true,
+    "logOnly": true,
+	"debug" : true,
+    "updateDelta": 10,
+    "script": "/quests/scripts/items/itemhack.lua",
+    "scriptConfig": {
+        "portraits": {
+            "default": "player"
+        },
+        "radioMessages": {
+            "received": {
+                "messageId": "itemhackMessageReceived",
+                "type": "quest",
+                "unique": false,
+                "senderName": "Watto",
+                "text": "Message received.",
+                "portraitImage": "/interface/chatbubbles/wattotalk.png:<frame>"
+            }
+        },
+        "descriptions": {
+            "default": "you should not see this ever"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "charizard",
+  "category" : "charizard",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "charizard.png"
+  }
+}

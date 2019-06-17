@@ -1,0 +1,18 @@
+{
+  "projectileName" : "poisonsting",
+  "physics" : "arrownosticky",
+  "image" : "poisonsting.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "timeToLive" : 8,
+  
+  "power" : 5.0,
+  "speed" : 50,
+  "damageKind" : "poison",
+  "statusEffects" : [
+    "weakpoison"
+  ],
+  "emitters" : ["poisondrip"]
+}

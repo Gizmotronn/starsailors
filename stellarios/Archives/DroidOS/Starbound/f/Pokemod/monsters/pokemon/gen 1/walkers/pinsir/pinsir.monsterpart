@@ -1,0 +1,9 @@
+{
+  "name" : "pinsir",
+  "category" : "pinsir",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "pinsir.png"
+  }
+}

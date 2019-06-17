@@ -1,0 +1,40 @@
+{
+  "itemName" : "SWMnutricake",
+  "rarity" : "Common",
+  "price" : 50,
+  "category" : "preparedFood",
+  "inventoryIcon" : "nutricake.png",
+  "description" : "Bread-like food, often served spiced.",
+  "shortdescription" : "Parwan Nutricake",
+  "effects" : [ [
+    {
+        "effect" : "runboostfood",
+        "duration" : 180
+    },
+    {
+        "effect" : "jumpboostfood",
+        "duration" : 180
+    },
+    {
+        "effect" : "ragefood",
+        "duration" : 180
+    },
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 180
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 180
+    }
+  ] ],
+  "foodValue" : 100,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

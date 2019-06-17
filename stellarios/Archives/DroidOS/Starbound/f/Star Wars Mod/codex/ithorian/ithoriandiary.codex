@@ -1,0 +1,20 @@
+{
+	"id" : "ithoriandiary",
+	"title" : "Ithorians",
+	"description" : "Information on Ithorians",
+	"icon" : "ithoriancover1.png",
+  "contentPages" : [
+  "Ithorians were a mammalian herbivorous sentient species from the planet Ithor. They were commonly called Hammerheads by less sensitive beings because of their long, curving neck and T-shaped head.",
+
+"The Ithorians were believed by many to be only peaceful gardeners and philosophers, but those who had encountered the bounty hunters Bulduga and Onca felt differently.."
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

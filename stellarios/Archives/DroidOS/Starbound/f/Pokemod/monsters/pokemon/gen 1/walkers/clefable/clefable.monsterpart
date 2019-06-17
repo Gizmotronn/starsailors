@@ -1,0 +1,9 @@
+{
+  "name" : "clefable",
+  "category" : "clefable",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "clefable.png"
+  }
+}

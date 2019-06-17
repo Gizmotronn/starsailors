@@ -1,0 +1,9 @@
+{
+  "name" : "mrmime",
+  "category" : "mrmime",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "mrmime.png"
+  }
+}

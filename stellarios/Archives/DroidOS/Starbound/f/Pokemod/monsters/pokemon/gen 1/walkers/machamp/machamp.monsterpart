@@ -1,0 +1,9 @@
+{
+  "name" : "machamp",
+  "category" : "machamp",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "machamp.png"
+  }
+}

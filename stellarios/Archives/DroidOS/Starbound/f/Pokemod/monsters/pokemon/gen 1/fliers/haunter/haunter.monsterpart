@@ -1,0 +1,9 @@
+{
+  "name" : "haunter",
+  "category" : "haunter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "haunter.png"
+  }
+}

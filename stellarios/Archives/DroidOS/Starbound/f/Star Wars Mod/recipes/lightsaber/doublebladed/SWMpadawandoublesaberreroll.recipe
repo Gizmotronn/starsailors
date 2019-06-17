@@ -1,0 +1,8 @@
+{
+  "input" : [
+    
+	{ "item" : "SWMpadawandoublesaber", "count" : 1 }
+  ],
+  "output" : { "item" : "SWMpadawandoublesaber", "count" : 1 },
+  "groups" : [ "af", "t2"]
+}

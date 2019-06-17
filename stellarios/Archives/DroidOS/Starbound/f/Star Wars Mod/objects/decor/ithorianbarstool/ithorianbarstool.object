@@ -1,0 +1,40 @@
+{
+  "objectName" : "ithorianbarstool",
+  "colonyTags" : ["swrace", "ithorian"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 70,
+  "description" : "A floating bar stool.",
+  "shortdescription" : "Bar Stool",
+  "race" : "ithorian",
+
+  "ithorianDescription" : "This seat would be ideal for use on the surface of Ithor itself.  Or am I wrong?",
+  "apexDescription" : "How does one keep still on this thing?",
+  "avianDescription" : "What a strange seat. How does it fly?",
+  "floranDescription" : "Ssscary flying ssseat is ssscary.",
+  "glitchDescription" : "Worried. What if it suddenly shuts down and falls on the floor?",
+  "humanDescription" : "Wow! now there's a way to have a pint in style!",
+  "hylotlDescription" : "A strange and overengineered seat imbued with technical hubris.",
+  "novakidDescription" : "How does this thing continue to float in the air?",
+  "felinDescription" : "A shame that this seat can't be used as an impromptu hoverbike.",
+  "feneroxDescription" : "Flying seat. Glowing boosters. Fire hazard?",
+  
+  "inventoryIcon" : "barstoolicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "barstool.png:<color>.<frame>",
+      "imagePosition" : [-8, 0],
+      "frames" : 4,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [2, 22]
+
+}

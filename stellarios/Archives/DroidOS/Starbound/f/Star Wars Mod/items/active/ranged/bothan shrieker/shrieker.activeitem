@@ -1,0 +1,83 @@
+{
+  "itemName" : "SWMshrieker",
+  "price" : 1640,
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "This Shrieker was an improvement over the standard sonic pistol design that must have seemed doubly shrill to the large ears of the Bothans.",
+  "shortdescription" : "Bothan Shrieker",
+  "tooltipKind" : "gun",
+  "category" : "pistol",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","ranged","pistol"],
+  "level" : 3,
+
+  "inventoryIcon" : "shrieker.png",
+
+  "animation" : "/items/active/weapons/ranged/gun.animation",
+  "animationParts" : {
+    "butt" : "",
+    "middle" : "shrieker.png",
+    "barrel" : "",
+    "muzzleFlash" : ""
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : ["/sfx/statuseffects/stimuse.ogg"]
+    }
+  },
+
+  "baseOffset" : [0.5, 0.25],
+  "muzzleOffset" : [1.4, 0.3],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : 0.6,
+    "baseDps" : 9.25,
+    "energyUsage" : 12.75,
+    "inaccuracy" : 0.00,
+
+    "projectileCount" : 1,
+    "fireType" : "auto",
+
+    "projectileType" : "shrieker",
+    "projectileParameters" : {
+      "knockback" : 6
+    },
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : false,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 3,
+        "weaponRotation" : 3,
+        "twoHanded" : false,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.15,
+        "armRotation" : 3,
+        "weaponRotation" : 3,
+        "twoHanded" : false,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  },
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

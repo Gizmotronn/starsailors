@@ -1,0 +1,9 @@
+{
+  "name" : "diglett",
+  "category" : "diglett",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "diglett.png"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "itemName" : "SWMpadawandoublesaber",
+  "price" : 160,
+  "level" : 1,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Doubleblade Lightsaber",
+  "shortdescription" : " Doubleblade Lightsaber",
+  "tooltipKind" : "sword",
+  "category" : "spear",
+  "twoHanded" : true,
+    "learnBlueprintsOnPickup" : [ "SWMknightdoublesaber" ],
+
+  "itemTags" : ["weapon", "melee", "spear"],
+"inventoryIcon" : "redsabericon.png",
+    "animation" : "reddoublesaber.animation",
+  "animationParts" : {
+    "blade" : "",
+    "handle" : ""
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/swing_lightsaber.ogg" ]
+      
+    }
+  },
+
+  "scripts" : ["/items/active/weapons/melee/energymeleeweapon.lua"],
+
+  "activeTime" : 6.0,
+
+  "elementalType" : "physical",
+
+  "primaryAbilityType" : "spearstab",
+  "primaryAbility" : {
+    "fireTime" : [0.83, 1.11],
+    "baseDps" : [18.5, 20.5],
+    "damageConfig" : {
+      "knockbackRange" : [25, 35]
+    }
+  },
+
+  
+  "builder" : "/items/buildscripts/buildweapon.lua",
+  "builderConfig" : [{
+      "animationParts" : {
+      "blade" : {
+        "path" : "blade/<variant>.png",
+        "variants" : 10,
+        "paletteSwap" : false
+      },
+      "handle" : {
+        "path" : "handle/<variant>.png",
+        "variants" : 9,
+        "paletteSwap" : false
+      }
+    },
+	"altAbilities" : [
+      "spearspin",
+	  "flurry"
+    ],
+    "palette" : "/items/active/weapons/colors/melee.weaponcolors",
+    "iconDrawables" : [ "blade", "handle" ]
+  }]
+
+  
+}

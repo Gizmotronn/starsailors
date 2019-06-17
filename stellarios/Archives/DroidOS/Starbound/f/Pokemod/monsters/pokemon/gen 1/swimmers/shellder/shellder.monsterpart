@@ -1,0 +1,9 @@
+{
+  "name" : "shellder",
+  "category" : "shellder",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "shellder.png"
+  }
+}

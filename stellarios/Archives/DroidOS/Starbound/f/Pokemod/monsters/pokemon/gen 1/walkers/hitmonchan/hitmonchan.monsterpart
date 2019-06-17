@@ -1,0 +1,9 @@
+{
+  "name" : "hitmonchan",
+  "category" : "hitmonchan",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "hitmonchan.png"
+  }
+}

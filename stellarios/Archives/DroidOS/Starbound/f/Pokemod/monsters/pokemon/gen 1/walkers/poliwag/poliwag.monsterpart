@@ -1,0 +1,9 @@
+{
+  "name" : "poliwag",
+  "category" : "poliwag",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "poliwag.png"
+  }
+}

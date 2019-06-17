@@ -1,0 +1,73 @@
+{
+  "projectileName" : "leafstorm",
+  "image" : "leafgust.png",
+  "animationCycle" : 1,
+  "frameNumber" : 1,
+  "timeToLive" : 0.5,
+   "speed" : 5.0,
+  "physics" : "gas",
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "emitters" : [ "poisondrip" ],
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "pkmnrazorleaf",
+      "angleAdjust" : -7,
+      "fuzzAngle" : 5,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 2
+    },
+    {
+      "action" : "projectile",
+      "type" : "pkmnrazorleaf",
+      "angleAdjust" : 0,
+      "fuzzAngle" : 5,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 2
+    },
+    {
+      "action" : "projectile",
+      "type" : "pkmnrazorleaf",
+      "angleAdjust" : 7,
+      "fuzzAngle" : 5,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 2
+    },
+	 {
+      "action" : "projectile",
+      "type" : "pkmnrazorleaf",
+      "angleAdjust" : 5,
+      "fuzzAngle" : 5,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 2
+    },
+	 {
+      "action" : "projectile",
+      "type" : "pkmnrazorleaf",
+      "angleAdjust" : -5,
+      "fuzzAngle" : 5,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 2
+    },
+	 {
+      "action" : "projectile",
+      "type" : "pkmnrazorleaf",
+      "angleAdjust" : 10,
+      "fuzzAngle" : 5,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 2
+    },
+	 {
+      "action" : "projectile",
+      "type" : "pkmnrazorleaf",
+      "angleAdjust" : -10,
+      "fuzzAngle" : 5,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 2
+    }
+  ],
+  "damagePoly" : [ ],
+  "power" : 0.0,
+  "damageKind" : "default"
+}

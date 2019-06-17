@@ -1,0 +1,14 @@
+{
+  "itemName" : "SWM2grayimperialpants",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Gray Imperial Pants",
+  "shortdescription" : "Gray Imperial Pants",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+  
+}

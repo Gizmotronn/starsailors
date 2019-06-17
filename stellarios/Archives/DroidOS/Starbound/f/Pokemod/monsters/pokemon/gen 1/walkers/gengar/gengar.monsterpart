@@ -1,0 +1,9 @@
+{
+  "name" : "gengar",
+  "category" : "gengar",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "gengar.png"
+  }
+}

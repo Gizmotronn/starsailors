@@ -1,0 +1,15 @@
+{
+  "projectileName" : "psybeam",
+  "image" : "psybeam.png",
+  "animationCycle" : 0.3,
+  "frameNumber" : 4,
+  "speed" : 0,
+  "orientationLocked" : false,
+  "damagePoly" : [ [0, 1], [120, 1], [120, -1], [0, -1] ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "emitters" : [  "defaultmagenta",  "defaultmagenta",  "defaultmagenta"  ],
+  "damageKind" : "psychic",
+  "lightColor" : [100, 0, 100]
+}

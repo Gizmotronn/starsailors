@@ -1,0 +1,11 @@
+{
+  "author" : "Iroaseta",
+  "description" : "Revived this ship from https://community.playstarbound.com/resources/gilzokhas-uen-andromeda-unbeat-giraffe.2561/.\n\nDescription :\n- Tier based ship. It starts from a small ship. Refer to the original link or the video to see how does each tier looks like.\n- Applies for Avali only.\n- Fuel Hatch, Tech Station (S.A.I.L.) and Ship Locker can be broken down to move elsewhere / respawn the pet for different colour.\n- Fuel Hatch, Tech Station (S.A.I.L.), Ship Locker and ship backgrounds (wall panel, ship light, etc) are the original Avali's variant as they fit the colour scheme close enough. Just disregard the ship items in the screenshot as I'm lazy to take another one.\n- Avali's New Teleporter is not recommended...I think it has higher height than the ceiling of the ship.\n- Feel free to request for custom race as well, but post a link to the said race so I don't mix them up.\n- Enhanced Rails is highly recommended as the \"elevator-esque\" space is quite limited for any rail platform to be put since the personal tram from that mod is small enough to fit the space. Or you can use the accelerator hook, whichever fancy you more.\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=921924325\n\nKnown issue :\n- There will be a leftover door and a ship light when upgrading from T7 to T8 near the cockpit area. Simply treat them as free stuffs and remove them. They will not leave any invisible blocks.\n\nFor more information, visit https://community.playstarbound.com/resources/andromeda-ship-revived.5230/\n\nI will not take any request of recolouring / adjusting the ship in any manner as it is a tedious progress.",
+  "friendlyName" : "Andromeda Ship Revived -Avali-",
+  "link" : "steam://url/CommunityFilePage/1352421349",
+  "name" : "Andromeda Ship Revived -Avali-",
+  "priority" : -1,
+  "steamContentId" : "1352421349",
+  "tags" : "Ships",
+  "version" : "1.1"
+}

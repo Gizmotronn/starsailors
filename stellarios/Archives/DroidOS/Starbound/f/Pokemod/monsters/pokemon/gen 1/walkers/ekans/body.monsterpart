@@ -1,0 +1,9 @@
+{
+  "name" : "ekans",
+  "category" : "ekans",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "ekans.png"
+  }
+}

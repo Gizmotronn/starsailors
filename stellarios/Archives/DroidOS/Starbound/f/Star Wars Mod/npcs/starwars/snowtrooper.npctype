@@ -1,0 +1,26 @@
+{
+  "type" : "snowtrooper",
+  "baseType" : "hostile",
+
+  "levelVariance" : [0, 0],
+
+  "dropPools" : [ "banditTreasure" ],
+  
+  "items" : {
+    "override" : [
+      [0, [ {
+        "head" : [ { "name" : "SWM2snowtrooperhelm" } ],
+            "chest" : [ { "name" : "SWM2snowtrooperchest" } ],
+            "legs" : [ { "name" : "SWM2snowtrooperlegs" } ],
+            "primary" : [
+                  "SWMe11T2",
+				  "SWMprotongrenade"
+             
+        ],
+        "alt" : [
+          { "name" : "SWMcyrogrenade" }
+        ]
+      } ] ]
+    ]
+  }
+}

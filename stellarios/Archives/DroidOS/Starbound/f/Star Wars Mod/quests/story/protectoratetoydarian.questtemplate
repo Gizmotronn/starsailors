@@ -1,0 +1,25 @@
+{
+  "id" : "protectoratetoydarian",
+  "mainQuest" : true,
+  "title" : "Wings.",
+  "text" : "Here, now you can fly!",
+  "completionText" : "You got your wings!",
+  "moneyRange" : [50, 50],
+  "canBeAbandoned" : false,
+  "invisible" : false,
+  "logOnly" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/tutorial/protectoratetoydarian.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+
+    "descriptions" : {
+      "graduate" : "Attend your graduation ceremony",
+      "matterManipulator" : "Take the matter manipulator",
+      "escape" : "Escape the destruction"
+    }
+  }
+}

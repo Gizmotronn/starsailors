@@ -1,0 +1,20 @@
+{
+  "itemName" : "SWMsacredhorn",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "sacredhornicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Sacred Horn of the Soul Trees.",
+  "shortdescription" : "Sacred Horn",
+  "largeImage" : "sacredhorn.png",
+  "image" : "sacredhorn.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "sacredhorn.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0.3, -0.2],
+
+  "handPosition" : [0.5, -0.1],
+  "twoHanded" : true,
+  "kind" : "oboe"
+}

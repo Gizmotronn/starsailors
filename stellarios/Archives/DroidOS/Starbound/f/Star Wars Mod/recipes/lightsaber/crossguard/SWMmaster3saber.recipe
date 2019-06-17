@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "kybercrystal", "count" : 1 },
+	{ "item" : "refinedviolium", "count" : 6 },
+    { "item" : "solariumstar", "count" : 6 }
+  ],
+  "output" : { "item" : "SWMmaster3crosssaber", "count" : 1 },
+  "groups" : [ "af", "t6"]
+}

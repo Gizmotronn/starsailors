@@ -1,0 +1,37 @@
+{
+  "objectName" : "ithorianbed",
+  "colonyTags" : ["ithorian", "rodian", "mawg", "zabrak", "droid", "tuskan", "utapaun", "wookie", "sith", "bothan", "twilek", "diathim", "toydarian"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 125,
+  "description" : "Sleep protected by a force field.",
+  "shortdescription" : "Bed Style 1",
+  "race" : "ithorian",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-7,15],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/ithorian/ithorianbed/ithorianbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  
+  "inventoryIcon" : "ithorianbedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "ithorianbed.png:<color>.<frame>",
+      "imagePosition" : [-24, 0],
+      "frames" : 4,
+      "animationCycle" : 2.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

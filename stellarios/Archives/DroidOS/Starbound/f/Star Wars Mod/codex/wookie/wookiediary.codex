@@ -1,0 +1,21 @@
+{
+	"id" : "wookiediary",
+	"title" : "Kashyyyk",
+	"description" : "About our home.",
+	"icon" : "wookiecover1.png",
+  "contentPages" : [
+  "Kashyyyk was a temperate jungle planet orbiting around a single star located in the Mytaranor sector of the Mid Rim, and had a complement of three moons.
+  Covered in wroshyr trees, it served as homeworld to the Wookiee species. ",
+
+"Native fauna such as Can-cells would influence the design of starships by the Wookiee inhabitants, while great cities such as Kachirho would be built into the planet's trees."
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

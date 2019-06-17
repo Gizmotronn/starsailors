@@ -1,0 +1,9 @@
+{
+  "name" : "butterfree",
+  "category" : "butterfree",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "butterfree.png"
+  }
+}

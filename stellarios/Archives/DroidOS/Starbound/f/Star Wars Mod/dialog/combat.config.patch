@@ -1,0 +1,438 @@
+[
+	{
+		"op": "add",
+		"path": "/attack/wookie",
+		"value": {
+			"default": [
+				"You'll never win!!",
+				"I will not be intimidated!!",
+				"You're gonna regret this!!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/wookie",
+		"value": {
+			"default": [
+				"Now you're Bantha fodder!",
+				"This is what I was born for!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/wookie",
+		"value": {
+			"default": [
+				"Hello?"
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/attack/sith",
+		"value": {
+			"default": [
+				"You'll never win!!",
+				"I will not be intimidated!!",
+				"You're gonna regret this!!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/sith",
+		"value": {
+			"default": [
+				"Now you're Bantha fodder!",
+				"This is what I was born for!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/sith",
+		"value": {
+			"default": [
+				"Hello?"
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/attack/togruta",
+		"value": {
+			"default": [
+				"You'll never win!!",
+				"I will not be intimidated!!",
+				"You're gonna regret this!!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/togruta",
+		"value": {
+			"default": [
+				"Now you're Bantha fodder!",
+				"This is what I was born for!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/togruta",
+		"value": {
+			"default": [
+				"Hello?"
+			]
+		}
+	},
+	
+	
+	{
+		"op": "add",
+		"path": "/attack/toydarian",
+		"value": {
+			"default": [
+				"Attack the scum!",
+				"Take their pixels!",
+				"I'll kill you!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/toydarian",
+		"value": {
+			"default": [
+				"Search the body for pixels.",
+				"Nothing good on the body."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/toydarian",
+		"value": {
+			"default": [
+				"Hello?"
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/attack/utapaun",
+		"value": {
+			"default": [
+				"You'll never win!!",
+				"I will not be intimidated!!",
+				"You're gonna regret this!!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/utapaun",
+		"value": {
+			"default": [
+				"Now you're Bantha fodder!",
+				"This is what I was born for!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/utapaun",
+		"value": {
+			"default": [
+				"Hello?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/attack/rodian",
+		"value": {
+			"default": [
+				"You'll never win!!",
+				"I will not be intimidated!!",
+				"You're gonna regret this!!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/rodian",
+		"value": {
+			"default": [
+				"Now you're Bantha fodder!",
+				"This is what I was born for!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/rodian",
+		"value": {
+			"default": [
+				"Hello?"
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/attack/tuskan",
+		"value": {
+			"default": [
+				"You'll never win!!",
+				"I will not be intimidated!!",
+				"You're gonna regret this!!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/tuskan",
+		"value": {
+			"default": [
+				"Now you're Bantha fodder!",
+				"This is what I was born for!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/tuskan",
+		"value": {
+			"default": [
+				"Hello?"
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/attack/zabrak",
+		"value": {
+			"default": [
+				"Kill them!",
+				"You die today!",
+				"You're gonna regret this!!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/zabrak",
+		"value": {
+			"default": [
+				"Now you're Bantha fodder!",
+				"This is what I was born for!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/zabrak",
+		"value": {
+			"default": [
+				"Hello?"
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/attack/ithorian",
+		"value": {
+			"default": [
+				"Kill them!",
+				"You die today!",
+				"You're gonna regret this!!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/ithorian",
+		"value": {
+			"default": [
+				"Now you're Bantha fodder!",
+				"This is what I was born for!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/ithorian",
+		"value": {
+			"default": [
+				"Hello?"
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/attack/mawg",
+		"value": {
+			"default": [
+				"You'll never win!!",
+				"I will not be intimidated!!",
+				"You're gonna regret this!!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/mawg",
+		"value": {
+			"default": [
+				"Now you're Bantha fodder!",
+				"This is what I was born for!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/mawg",
+		"value": {
+			"default": [
+				"Hello?"
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/attack/droid",
+		"value": {
+			"default": [
+				"Roger. Roger.",
+				"Engage.",
+				"Attacking."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/droid",
+		"value": {
+			"default": [
+				"Now you're Bantha fodder!",
+				"This is what I was born for!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/droid",
+		"value": {
+			"default": [
+				"Hello?"
+			]
+		}
+	},
+	
+	
+	{
+		"op": "add",
+		"path": "/attack/twilek",
+		"value": {
+			"default": [
+				"You'll never win!!",
+				"I will not be intimidated!!",
+				"You're gonna regret this!!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/twilek",
+		"value": {
+			"default": [
+				"Now you're Bantha fodder!",
+				"This is what I was born for!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/twilek",
+		"value": {
+			"default": [
+				"Hello?"
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/attack/bothan",
+		"value": {
+			"default": [
+				"You'll never win!!",
+				"I will not be intimidated!!",
+				"You're gonna regret this!!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/bothan",
+		"value": {
+			"default": [
+				"Now you're Bantha fodder!",
+				"This is what I was born for!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/bothan",
+		"value": {
+			"default": [
+				"Hello?"
+			]
+		}
+	},
+	
+	
+	{
+		"op": "add",
+		"path": "/attack/diathim",
+		"value": {
+			"default": [
+				"You'll never win!!",
+				"I will not be intimidated!!",
+				"You're gonna regret this!!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/diathim",
+		"value": {
+			"default": [
+				"Now you're Bantha fodder!",
+				"This is what I was born for!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/diathim",
+		"value": {
+			"default": [
+				"Hello?"
+			]
+		}
+	}
+	
+]

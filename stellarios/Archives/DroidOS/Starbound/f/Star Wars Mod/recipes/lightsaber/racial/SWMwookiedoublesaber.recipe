@@ -1,0 +1,9 @@
+{
+  "input" : [
+      { "item" : "refinedviolium", "count" : 8 },
+    { "item" : "solariumstar", "count" : 8 },
+    {"item" : "kybercrystal", "count" : 2}
+  ],
+  "output" : { "item" : "SWMwookiedoublesaber", "count" : 1 },
+  "groups" : [ "af", "t6"]
+}

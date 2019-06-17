@@ -1,0 +1,15 @@
+{
+  "itemName" : "pmraltshead",
+  "price" : 75,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headwear",
+  "description" : "The horns of a ralts outfit.",
+  "shortdescription" : "Ralts Horns",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"
+}

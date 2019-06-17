@@ -1,0 +1,9 @@
+{
+  "name" : "muk",
+  "category" : "muk",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "muk.png"
+  }
+}

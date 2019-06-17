@@ -1,0 +1,28 @@
+{
+	"id" : "thejedi3",
+	"title" : "The Jedi Order Part 3",
+	"description" : "Information About The Jedi Order.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+  "Centuries later, the galaxy was again engulfed in a war between the Republic and the Sith. Led by Lord Hoth, the Jedi were able to regroup and push back the Sith, who eventually withdrew to the planet Ruusan. After seven long battles on Ruusan, the Sith were defeated and presumed wiped out. One of them managed to survive and reorganize the Sith Order. Though Darth Bane and the Sith Lords that followed in his footsteps remained hidden, they were patient.",
+
+  "Millennia later, they revealed themselves, determined to have their revenge. At the height of a separatist crisis, the Republic was split in two and a war once again engulfed the galaxy. During the Clone Wars, the Republic's armies were once again led by the Jedi. During the war's first battle, nearly two hundred Jedi died before Master Yoda and a Clone army arrived to assist them.",
+
+  "After nearly three years , the course of the war swung in the Republic's favor, and total victory for the Jedi and the Republic seemed in sight. However, the war itself was simply the penultimate stroke of the Sith Grand Plan, orchestrated by the Supreme Chancellor of the Republic, Palpatine, who was in fact a Sith Master.",
+
+  "The Jedi eventually learned the truth, but could not stop the plan's execution; Palpatine turned Anakin Skywalker to the dark side and instigated the Great Jedi Purge. The Order was virtually annihilated by the Sith and betrayed by the Republic they had served for nearly all of it's existence. Only a few survived the Great Jedi Purge.",
+
+  "However, Anakin Skywalker, with the indirect help of his son, Jedi Knight Luke Skywalker, eventually defeated the Sith, and Luke formed the New Jedi Order during the time of the New Republic."
+
+  
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

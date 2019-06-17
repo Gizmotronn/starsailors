@@ -1,0 +1,15 @@
+{
+  "projectileName" : "solarbeam",
+  "image" : "solarbeam.png",
+  "animationCycle" : 0.6,
+  "frameNumber" : 4,
+  "speed" : 0,
+  "orientationLocked" : false,
+  "damagePoly" : [ [0, 1], [120, 1], [120, -1], [0, -1] ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "emitters" : [  "defaultgreen",  "defaultgreen",  "defaultgreen"  ],
+  "damageKind" : "grass",
+  "lightColor" : [0, 255, 0]
+}

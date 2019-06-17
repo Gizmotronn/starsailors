@@ -1,0 +1,20 @@
+{
+  "itemName" : "SWMbawoonka",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "bawoonka.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A bawoonka played by Gungans.",
+  "shortdescription" : "Bawoonka",
+  "largeImage" : "bawoonka.png",
+  "image" : "bawoonka.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "bawoonka.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0.25, 0.375],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "trumpet"
+}

@@ -1,0 +1,30 @@
+{
+  "objectName" : "ithorianchair",
+  "colonyTags" : ["swrace", "toydarian"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 70,
+  "description" : "A floating chair.",
+  "shortdescription" : "Chair Style 1",
+  "race" : "ithorian",
+
+  
+  "inventoryIcon" : "ithorianchairicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "ithorianchair.png:<color>.<frame>",
+      "imagePosition" : [-8, 0],
+      "frames" : 8,
+      "animationCycle" : 1.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [2, 22]
+
+}

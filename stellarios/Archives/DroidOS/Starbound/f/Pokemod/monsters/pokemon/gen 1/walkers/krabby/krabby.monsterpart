@@ -1,0 +1,9 @@
+{
+  "name" : "krabby",
+  "category" : "krabby",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "krabby.png"
+  }
+}

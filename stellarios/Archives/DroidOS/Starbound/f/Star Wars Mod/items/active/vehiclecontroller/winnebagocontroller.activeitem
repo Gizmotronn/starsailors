@@ -1,0 +1,34 @@
+{
+  "itemName" : "SWMwinnebagocontroller",
+  "level" : 1,
+  "price" : 12500,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Create a Winnebago from stored nanites.",
+  "shortdescription" : "Winnebago Controller",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "winnebago.png",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "hoverbikewinnebago",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/hoverbike/hoverbikespeederwarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "winnebagocontroller.png"
+  },
+
+  "inventoryIcon" : "winnebagocontroller.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/winnebagocontroller.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/winnebagocontroller.png:full"
+
+}

@@ -1,0 +1,34 @@
+{
+  "itemName" : "SWMspeederbikecontroller",
+  "level" : 1,
+  "price" : 12500,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Create a hoverbike Speeder from stored nanites.",
+  "shortdescription" : "Hoverbike Speeder Controller",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "speeder.png",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "hoverbikespeeder",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/hoverbike/hoverbikespeederwarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "speederbikecontroller.png"
+  },
+
+  "inventoryIcon" : "speederbikecontroller.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/speederbikecontroller.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/speederbikecontroller.png:full"
+
+}

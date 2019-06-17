@@ -1,0 +1,23 @@
+{
+	"id" : "bothandiary",
+	"title" : "Bothan Info.",
+	"description" : "Information on Bothans",
+	"icon" : "bothancover1.png",
+  "contentPages" : [
+  "Bothans are furry mammalian anthropoids, about 1.5 meters tall. Hailing from Bothawui and several colonies, Bothans differed in facial appearance and body structure with
+  canine, feline, and equine features. They were known for being master politicians and spies, craving intrigue and subterfuge.",
+
+"Bothan culture was guided by the philosophy and principles set forth in the ancient text known as The Way, written by Golm Fervse'dra. In this 'Bothan Way',
+ the pursuit of power and influence was paramount. Thus, individual Bothans put their own political and economic success above all other concerns, and as a species,
+ Bothans put their own advancement ahead of other intergalactic interests, though many did side with the Rebel Alliance during the Galactic Civil war."
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

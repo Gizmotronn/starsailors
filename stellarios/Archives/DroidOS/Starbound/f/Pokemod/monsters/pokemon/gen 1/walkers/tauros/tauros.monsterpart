@@ -1,0 +1,9 @@
+{
+  "name" : "tauros",
+  "category" : "tauros",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "tauros.png"
+  }
+}

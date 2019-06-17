@@ -1,0 +1,23 @@
+[
+  {
+    "op" : "add",
+    "path" : "/oak",
+    "value" : {
+      "type" : "FloatingDungeon",
+      "dungeonWorld" : "oak",
+      "seed" : 1234,
+      "persistent" : true,
+	  "useUniverseClock" : true,
+      "disableDeathDrops" : true,
+
+      "skyParameters" : {
+        "spaceLevel" : 3000,
+        "ambientLightLevel" : [ 75, 85, 100 ],
+        "skyType" : "barren",
+        "horizonImages" : [ ],
+        "dayLength" : 0,
+        "seed" : -5288806180628666923
+      }
+    }
+  }
+]

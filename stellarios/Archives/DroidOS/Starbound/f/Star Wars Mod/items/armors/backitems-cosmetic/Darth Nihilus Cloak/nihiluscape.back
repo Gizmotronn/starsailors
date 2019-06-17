@@ -1,0 +1,18 @@
+{
+  "itemName" : "SWM2nihiluscape",
+  "inventoryIcon" : "nihiluscape.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "rarity" : "Legendary",
+  "description" : "Darth Nihilus's Cape.",
+  "shortdescription" : "Darth Nihilus's Cape",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+
+  "statusEffects" : [
+    {
+      "stat" : "breathProtection",
+      "amount" : 1.0
+    }
+  ]
+}

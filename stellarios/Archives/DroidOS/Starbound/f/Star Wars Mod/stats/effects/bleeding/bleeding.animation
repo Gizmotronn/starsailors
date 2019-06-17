@@ -1,0 +1,5 @@
+{
+   "sounds" : {
+    "burn" : [ "/sfx/projectiles/bloodvomit1.ogg" ]
+  }
+}

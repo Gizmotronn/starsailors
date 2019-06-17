@@ -1,0 +1,19 @@
+[
+  [
+    {
+      "op" : "replace",
+      "path" : "/speciesShips/human",
+      "value" : [
+        "/ships/andromeda/andromedaT0.structure",
+        "/ships/andromeda/andromedaT1.structure",
+        "/ships/andromeda/andromedaT2.structure",
+        "/ships/andromeda/andromedaT3.structure",
+        "/ships/andromeda/andromedaT4.structure",
+        "/ships/andromeda/andromedaT5.structure",
+        "/ships/andromeda/andromedaT6.structure",
+        "/ships/andromeda/andromedaT7.structure",
+        "/ships/andromeda/andromedaT8.structure"
+      ]
+    }
+  ]
+]  

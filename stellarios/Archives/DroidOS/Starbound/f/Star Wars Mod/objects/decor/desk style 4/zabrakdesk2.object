@@ -1,0 +1,43 @@
+{
+  "objectName" : "zabrakdesk2",
+  "colonyTags" : ["swrace","commerce","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "furniture",
+  "price" : 85,
+  "description" : "Made of metal.",
+  "shortdescription" : "Desk Style 4",
+  "race" : "zabrak",
+  "health" : 1.5,
+
+  "apexDescription" : "Simple.",
+  "avianDescription" : "A strange table...",
+  "floranDescription" : "Why zabrak not ssstack anything on it?",
+  "glitchDescription" : "Confused.",
+  "humanDescription" : "Just a plain desk.",
+  "hylotlDescription" : "Kind of boring.",
+  "novakidDescription" : "Sturdy wood. I like it.",
+
+  "inventoryIcon" : "zabrakdeskicon.png",
+  "orientations" : [
+    {
+      "leftImage" : "zabrakdeskleft.png:<color>",
+      "rightImage" : "zabrakdeskright.png:<color>",
+
+      "imagePosition" : [-16, 0],
+
+      "spaceScan" : 0.01,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [ [-2, 1], [-1, 1], [0, 1], [1, 1] ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

@@ -1,0 +1,755 @@
+[
+    {
+        "op": "add",
+        "path": "/tagCriteria/wookie",
+        "value": {
+            "default": [
+                "!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/enclosedArea/wookie",
+        "value": {
+            "default": [
+                "!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/otherDeed/wookie",
+        "value": {
+            "default": [
+                "GROWL",
+                "ROAR!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/severe/wookie",
+        "value": {
+            "default": [
+                "ROAR!",
+                "Grrrrrrrr!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/final/wookie",
+        "value": {
+            "default": [
+                "Raaawrrrgh!"
+            ]
+        }
+    },
+     
+     
+    {
+        "op": "add",
+        "path": "/tagCriteria/toydarian",
+        "value": {
+            "default": [
+                "Things surely not like they use to be, eh."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/enclosedArea/toydarian",
+        "value": {
+            "default": [
+                "You be fixin' this, eh?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/otherDeed/toydarian",
+        "value": {
+            "default": [
+                "I need more Credits, but I'm not sublettin'. Period.", 
+                "Either the other guy goes, or I do.",
+                "We're going to have a fight if youse don't fix this pad right now."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/severe/toydarian",
+        "value": {
+            "default": [
+                "Must I be waiting for a trillion cycles now before you fix this dump?.",
+                "Still you did nothing to fix my house. Please fix it up, now."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/final/toydarian",
+        "value": {
+            "default": [
+                "That's torn it, everything's too farkled. I'm out!",
+                "I guess it is time to warp away to somewhere else!",
+                "THAT'S IT! I'm out of this Hutt-spawn hovel!",
+                "Nobody's got time for this."
+            ]
+        }
+    },
+     
+    {
+        "op": "add",
+        "path": "/tagCriteria/utapaun",
+        "value": {
+            "default": [
+                "Things have changed, and I care not for it.",
+                "This is not how I wanted my home, fix it please."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/enclosedArea/utapaun",
+        "value": {
+            "default": [
+                "I feel a great disturbance in the house. Can you check it out?",
+                "There's definitely something wrong with my home, can you please fix it?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/otherDeed/utapaun",
+        "value": {
+            "default": [
+                "I like making new friends, but not in this way. Please fix my home now!"
+ 
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/severe/utapaun",
+        "value": {
+            "default": [
+                "This was never how I wanted my home, so fix it. Now.",
+                "You've done nothing to fix my home. How much longer must I still wait?",
+                "Still you did nothing to fix my house. Please fix it up, now."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/final/utapaun",
+        "value": {
+            "default": [
+                "THAT'S IT! I want out!",
+                "Nobody's got time for this."
+            ]
+        }
+    },
+     
+    {
+        "op": "add",
+        "path": "/tagCriteria/rodian",
+        "value": {
+            "default": [
+                "This is not how I wanted my home, fix it. Now.",
+                "Things have changed, and I care not for it."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/enclosedArea/rodian",
+        "value": {
+            "default": [
+                "There's definitely something wrong with my home, can you please fix it?",
+                "I feel a great disturbance in the house. Can you check it out?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/otherDeed/rodian",
+        "value": {
+            "default": [
+                "I'm not going to share my home with neighbours. Please fix my walls.",
+                "I'm not subletting my home. Either the other guy goes, or I do.",
+                "There will be blood if you do not fix my home right now."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/severe/rodian",
+        "value": {
+            "default": [
+                "I've waited a trillion cycles, and yet you've not fixed anything.",
+                "You can fix this, or fight me.",
+                "Must I be waiting for a trillion cycles now before you fix this dump?",
+                "You can fix this, or get shot. What say you?",
+                "This was never how I wanted my home, so fix it. Now.",
+                "You've done nothing to fix my home. How much longer must I still wait?",
+                "Still you did nothing to fix my house. Please fix it up, now."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/final/rodian",
+        "value": {
+            "default": [
+                "I guess it is time to warp away to somewhere else!",
+                "THAT'S IT! I'm out of this Hutt-spawn hovel!",
+                "Someone beam me out; this dump isn't fit for skrogging Hutt-spawn!"
+            ]
+        }
+    },
+     
+    {
+        "op": "add",
+        "path": "/tagCriteria/tuskan",
+        "value": {
+            "default": [
+                "This is not how I wanted my home, fix it. Now.",
+                "Things have changed, and I care not for it."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/enclosedArea/tuskan",
+        "value": {
+            "default": [
+                "I feel a great disturbance in the house. Can you check it out?",
+                "There's definitely something wrong with my home, can you please fix it?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/otherDeed/tuskan",
+        "value": {
+            "default": [
+                "I'm not going to share my home with neighbours. Please fix my walls.",
+                "We're going to have a fight if you don't fix this pad right now.",
+                "There will be blood if you do not fix my home right now."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/severe/tuskan",
+        "value": {
+            "default": [
+                "You can fix this, or fight me.",
+                "You can fix this, or get shot. What say you?",
+                "This was never how I wanted my home, so fix it. Now.",
+                "You've done nothing to fix my home. How much longer must I still wait?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/final/tuskan",
+        "value": {
+            "default": [
+                "THAT'S IT! I'm out of this Hutt-spawn hovel!",
+                "Nobody's got time for this. Back to the wilderness I go!",
+                "Someone beam me out; this dump isn't fit for skrogging Hutt-spawn!"
+            ]
+        }
+    },
+     
+    {
+        "op": "add",
+        "path": "/tagCriteria/zabrak",
+        "value": {
+            "default": [
+                "This is not how I wanted my home, fix it. Now.",
+                "Things have changed, and I care not for it."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/enclosedArea/zabrak",
+        "value": {
+            "default": [
+                "I feel a great disturbance in the house. Can you check it out?",
+                "There's definitely something wrong with my home, can you please fix it?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/otherDeed/zabrak",
+        "value": {
+            "default": [
+                "I'm not going to share my home with neighbours. Please fix my walls.",
+                "I'm not subletting my home. Either the other guy goes, or I do.",
+                "There will be blood if you do not fix my home right now.", 
+                "Either the other guy goes, or I do."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/severe/zabrak",
+        "value": {
+            "default": [
+                "You can fix this, or fight me. That's a promise.",
+                "Must I be waiting for a trillion cycles now before you fix this dump?",
+                "You can fix this, or get shot. What say you?",
+                "I've waited a trillion cycles, and yet you've not fixed anything.",
+                "You've done nothing to fix my home. How much longer must I still wait?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/final/zabrak",
+        "value": {
+            "default": [
+                "Nobody got time for this.",
+                "That's torn it, everything's too farkled. I'm out!",
+                "I guess it is time to warp away to somewhere else!",
+                "THAT'S IT! I'm out of this Hutt-spawn hovel!",
+                "THAT'S IT! I want out!",
+                "Nobody's got time for this. Back to the wilderness I go!",
+                "Someone beam me out; this dump isn't fit for skrogging Hutt-spawn!"
+            ]
+        }
+    },
+     
+    {
+        "op": "add",
+        "path": "/tagCriteria/ithorian",
+        "value": {
+            "default": [
+                "Things have changed, and I care not for it.",
+                "This is not how I wanted my home, fix it please."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/enclosedArea/ithorian",
+        "value": {
+            "default": [
+                "I feel a great disturbance in the house. Can you check it out?",
+                "There's definitely something wrong with my home, can you please fix it?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/otherDeed/ithorian",
+        "value": {
+            "default": [
+                "I'm not subletting my home. Either the other guy goes, or I do.",
+                "I like making new friends, but not in this way. Please fix my home now!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/severe/ithorian",
+        "value": {
+            "default": [
+                "I've waited a trillion cycles, and yet you've not fixed anything.",
+                "This was never how I wanted my home, so fix it. Now.",
+                "You've done nothing to fix my home. How much longer must I still wait?",
+                "Still you did nothing to fix my house. Please fix it up, now."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/final/ithorian",
+        "value": {
+            "default": [
+                "THAT'S IT! I want out!",
+                "Nobody's got time for this."
+            ]
+        }
+    },
+     
+    {
+        "op": "add",
+        "path": "/tagCriteria/mawg",
+        "value": {
+            "default": [
+                "This house didn't feel right and it still doesn't. Can you please check what is wrong?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/enclosedArea/mawg",
+        "value": {
+            "default": [
+                "There's definitely something wrong with my home, can you please fix it?",
+                "You'll be fixing this, right?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/otherDeed/mawg",
+        "value": {
+            "default": [
+                "I'm a Mawg. I'm my own best friend and I don't need anyone else. Please, fix my pad. Like now."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/severe/mawg",
+        "value": {
+            "default": [
+                "Can you just fix this place? it's all I ask for, honest. How hard can it be, laserbrain?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/final/mawg",
+        "value": {
+            "default": [
+                "I guess it is time to warp away to somewhere else!",
+                "THAT'S IT! I want out!",
+                "Nobody's got time for this; bite me!"
+            ]
+        }
+    },
+     
+    {
+        "op": "add",
+        "path": "/tagCriteria/droid",
+        "value": {
+            "default": [
+                "The quality and function of these furnishings is unsatisfactory. May I suggest that a remodelling would be in order?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/enclosedArea/droid",
+        "value": {
+            "default": [
+                "There appears to be a hole in the wall. I trust that you will be able to mend it in good time?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/otherDeed/droid",
+        "value": {
+            "default": [
+                "This room is sub-optimal for multiple occupancies. I strongly suggest repairing this domicile at once."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/severe/droid",
+        "value": {
+            "default": [
+                "Your tardiness in mending this domicile is disappointing to say the least. Surely you can do better than this?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/final/droid",
+        "value": {
+            "default": [
+                "It is unwise to continue living with such squalour. Perhaps it is time to leave."
+            ]
+        }
+    },
+     
+    {
+        "op": "add",
+        "path": "/tagCriteria/twilek",
+        "value": {
+            "default": [
+                "Things have changed, and I care not for it.",
+                "This is not how I want my home to be, fix it please.",
+                "This house didn't feel right and it still doesn't. Can you please check what is wrong?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/enclosedArea/twilek",
+        "value": {
+            "default": [
+                "I feel a great disturbance in the house. Can you check it out?",
+                "There's definitely something wrong with my home, can you please fix it?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/otherDeed/twilek",
+        "value": {
+            "default": [
+                "I'm not subletting my home. Either the other guy goes, or I do.",
+                "I need more Credits, but I'm not sublettin'. Period.",
+                "This room is sub-optimal for multiple occupancies. I strongly suggest repairing this domicile at once.",
+                "Are you trying to help me make new friends? sorry, I moved here for the house, not the neighbours. Please fix my home, now."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/severe/twilek",
+        "value": {
+            "default": [
+                "I've waited a trillion cycles, and yet you've not fixed anything.",
+                "You can fix this, or fight me. That's a promise.",
+                "Must I be waiting for a trillion cycles now before you fix this dump?",
+                "You can fix this, or get shot. What say you?",
+                "This was never how I wanted my home, so fix it. Now.",
+                "You've done nothing to fix my home. How much longer must I still wait?",
+                "Still you did nothing to fix my house. Please fix it up, now.",
+                "Your tardiness in mending this domicile is disappointing to say the least. Surely you can do better than this?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/final/twilek",
+        "value": {
+            "default": [
+                "THAT'S IT! I'm out of this Hutt-spawn hovel!",
+                "Nobody's got time for this. Back to the wilderness I go!",
+                "Someone beam me out; this dump isn't fit for skrogging Hutt-spawn!",
+                "It is unwise to continue living with such squalour. Perhaps it is time to leave."
+            ]
+        }
+    },
+     
+    {
+        "op": "add",
+        "path": "/tagCriteria/bothan",
+        "value": {
+            "default": [
+                "Things have changed, and I care not for it.",
+                "This is not how I want my home to be, fix it please.",
+                "The quality and function of these furnishings is unsatisfactory. May I suggest that a remodelling would be in order?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/enclosedArea/bothan",
+        "value": {
+            "default": [
+                "I feel a great disturbance in the house. Can you check it out?",
+                "There's definitely something wrong with my home, can you please fix it?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/otherDeed/bothan",
+        "value": {
+            "default": [
+                "I'm not going to share my home with neighbours. Please fix my walls.",
+                "I'm not subletting my home. Either the other guy goes, or I do.",
+                "This room is sub-optimal for multiple occupancies. I strongly suggest repairing this domicile at once.",
+                "Are you trying to help me make new friends? sorry, I moved here for the house, not the neighbours. Please fix my home, now."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/severe/bothan",
+        "value": {
+            "default": [
+                "I've waited a trillion cycles, and yet you've not fixed anything.",
+                "This was never how I wanted my home, so fix it. Now.",
+                "You've done nothing to fix my home. How much longer must I still wait?",
+                "Still you did nothing to fix my house. Please fix it up, now.",
+                "Your tardiness in mending this domicile is disappointing to say the least. Surely you can do better than this?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/final/bothan",
+        "value": {
+            "default": [
+                "Nobody got time for this.",
+                "I guess it is time to warp away to somewhere else!",
+                "THAT'S IT! I want out!",
+                "Someone beam me out; this dump isn't fit for skrogging Hutt-spawn!",
+                "It is unwise to continue living with such squalour. Perhaps it is time to leave."
+            ]
+        }
+    },
+     
+    {
+        "op": "add",
+        "path": "/tagCriteria/sith",
+        "value": {
+            "default": [
+                "Did you desecrate this place? you are going to regret that!",
+                "It is not wise to steal from the Sith, for they will always have their revenge!",
+                "You would not have done that, if you knew what we could do!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/enclosedArea/sith",
+        "value": {
+            "default": [
+                "I feel a great disturbance in the house. Can you check it out?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/otherDeed/sith",
+        "value": {
+            "default": [
+                "We Sith are fighters by nature. Please evict this interloper from my home unless you want a bloodbath.",
+                "I'm not going to share my home with neighbours. Please fix my walls.",
+                "There will be blood if you do not fix my home right now.",
+                "This room is sub-optimal for multiple occupancies. I strongly suggest repairing this domicile at once.",
+                "Are you trying to help me make new friends? sorry, I moved here for the house, not the neighbours. Please fix my home, now."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/severe/sith",
+        "value": {
+            "default": [
+                "I've waited a trillion cycles, and yet you've not fixed anything.",
+                "You've done nothing to fix my home. How much longer must I still wait?",
+                "You can fix this, or face me in single combat. We Sith are good duellists."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/final/sith",
+        "value": {
+            "default": [
+                "Nobody's got time for this. Back to the wilderness I go!",
+                "Someone beam me out; this dump isn't fit for skrogging Hutt-spawn!",
+                "It is unwise to continue living with such squalour. Perhaps it is time to leave."
+            ]
+        }
+    },
+     
+    {
+        "op": "add",
+        "path": "/tagCriteria/diathim",
+        "value": {
+            "default": [
+                "...!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/enclosedArea/diathim",
+        "value": {
+            "default": [
+                "...!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/otherDeed/diathim",
+        "value": {
+            "default": [
+                "...!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/severe/diathim",
+        "value": {
+            "default": [
+                "!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/final/diathim",
+        "value": {
+            "default": [
+                "!!!",
+                "!!!"
+            ]
+        }
+    },
+     
+     
+    {
+        "op": "add",
+        "path": "/tagCriteria/togruta",
+        "value": {
+            "default": [
+                "Things have changed, and I care not for it.",
+                "This is not how I want my home to be, fix it please.",
+                "Please, this is not how I wanted my home, fix it."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/enclosedArea/togruta",
+        "value": {
+            "default": [
+                "There's definitely something wrong with my home, can you please fix it?",
+                "There appears to be a hole in the wall. I trust that you will be able to mend it in good time?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/otherDeed/togruta",
+        "value": {
+            "default": [
+                "I like making new friends, but not in this manner. Please fix my home at once!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/severe/togruta",
+        "value": {
+            "default": [
+                "This was never how I wanted my home, so fix it. Now.",
+                "You've done nothing to fix my home. How much longer must I still wait?",
+                "Still you did nothing to fix my house. Please fix it up, now.",
+                "I've waited a trillion cycles, and yet you've not fixed anything."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/final/togruta",
+        "value": {
+            "default": [
+                "THAT'S IT! I want out!",
+                "Nobody's got time for this."
+            ]
+        }
+    }
+]

@@ -1,0 +1,49 @@
+{
+  "objectName" : "wacanberryseed",
+  "colonyTags" : ["nature"],
+  "rarity" : "Common",
+  "description" : "Grows into an Wacan Berry Tree.",
+  "category" : "seed",
+  "shortdescription" : "Wacan Berry Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+
+ 
+
+  "inventoryIcon" : "wacanberryseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "wacanberryseed.png:default.2.1",
+  
+  
+  "orientations" : [
+    {
+      "dualImage" : "wacanberryseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [1000, 1000]
+    },
+    {
+      "duration" : [1000, 1000]
+    },
+    {
+      "alts" : 1,
+      "harvestPool" : "wacanberryHarvest"
+    }
+  ],
+
+  "maxImmersion" : 0.25
+}

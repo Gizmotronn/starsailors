@@ -1,0 +1,22 @@
+{
+	"id" : "diathimdiary",
+	"title" : "Diathim",
+	"description" : "Information on Diathims",
+	"icon" : "diathimcover1.png",
+  "contentPages" : [
+  
+"The Diathim, also referred to as Angels, were a mysterious species of winged sentients who inhabited the planet Iego and Millius Prime, the largest of its many moons.",
+
+"The Diathim were reputed for their beauty, and the way in which they appeared would vary depending on the beholder.",
+
+"They shared their habitat with the Maelibi, who lived below the ground. When the young Anakin Skywalker first met his future wife Padmé Amidala, he compared her natural beauty to that of the Diathim."
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

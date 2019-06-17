@@ -1,0 +1,45 @@
+{
+  "objectName" : "revanitecampbed",
+  "colonyTags" : ["ithorian", "rodian", "mawg", "zabrak", "droid", "tuskan", "utapaun", "wookie", "sith", "bothan", "twilek", "diathim", "toydarian"],
+  "printable" : false,
+  "rarity" : "uncommon",
+  "description" : "Revanites uses this bed type in their camps.",
+  "shortdescription" : "Bed Style 15",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 200,
+
+  "apexDescription" : "Revanites uses this bed type in their camps.",
+  "avianDescription" : "Revanites uses this bed type in their camps.",
+  "floranDescription" : "Revanites uses this bed type in their camps.",
+  "glitchDescription" : "Statement. Revanites uses this bed type in their camps.",
+  "humanDescription" : "Revanites uses this bed type in their camps.",
+  "hylotlDescription" : "Revanites uses this bed type in their camps.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [0, 20],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/decor/beds/bed style 15/revanitecampbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "regeneration2"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "swtoricon3.png",
+  "orientations" : [
+    {
+      "dualImage" : "revanitecampbed.png:<color>",
+
+      "imagePosition" : [-24, 1],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
