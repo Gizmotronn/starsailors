@@ -92,6 +92,7 @@ Chapters Done:
 
 Chapters in progress:
 * Chapter 3
+Gilbert McInstay and the Earthlings join the senate
 
 We've finished the chapter outline: https://gitlab.com/acord-robotics/robodev/star-sailors/blob/master/star-sailors-earthlings/book-chapteroutline.md
 
