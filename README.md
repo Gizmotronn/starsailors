@@ -74,10 +74,25 @@ Minecraft is a sandbox game for console, PC, Mac, and mobile devices that involv
 ### Star Wars Card Trader (Topps)
 http://acord.tech/stellarios-swct-1
 
+### Starbound
+Files for ACORD starbound world are located here: https://gitlab.com/acord-robotics/robodev/s2rd-stellarios/tree/master/stellarios/s2-rd/Games/Starbound
+
+Photos: http://acord.tech/sb
+
 
 ### Star Sailors
 #### Star Sailors Novella Series
 Writing Repo: https://gitlab.com/acord-robotics/robodev/star-sailors
+
+Chapters Done: 
+* Prologue
+* Chapter 1
+* Chapter 2
+
+Chapters in progress:
+* Chapter 3
+
+We've finished the chapter outline: https://gitlab.com/acord-robotics/robodev/star-sailors/blob/master/star-sailors-earthlings/book-chapteroutline.md
 
 ### App List
 * Star Sailors Game
