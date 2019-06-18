@@ -43,4 +43,8 @@ Desperately, looking for something to log the message, he reached into his jacke
 
 Opus put his comlink on the desk and the comlink automatically began the sequence that would upload its contents to the Scavenger network, which was located on the Scavenger's Planet of __Charilia__. He was pacing around his room when suddenly he heard a massive crash. He ran towards the source of the sound, outside the room. What he saw made his blood boil - almost literallly. 
 
-Gilbert saw the starry sky, but not through a window. A massive hole had been blasted through the hull of his ship. He could see the exposed wires in the metre-sized hole, and if hadn't of  been wearing his space suit, he would have been dead. He only just managed to grab onto a handhold - a shelf - before he himself was wrenched out into space. But Gilbert's grip began to falter, and the force being applied was too strong. Gilbert was flung out through the hole at close to the speed of sound.
+Gilbert saw the starry sky, but not through a window. A massive hole had been blasted through the hull of his ship. He could see the exposed wires in the metre-sized hole, and if hadn't of  been wearing his space suit, he would have been dead. He only just managed to grab onto a handhold - a shelf - before he himself was wrenched out into space. But Gilbert's grip began to falter, and the force being applied was too strong. Gilbert was flung out through the hole at close to the speed of sound. 
+
+---
+
+The blue marble starship gleamed as it flew through space. Starrix leaned towards the console at his desk. He saw that Gilbert had been flung into space, and he 
