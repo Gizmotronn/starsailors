@@ -150,3 +150,4 @@ __My Website__
 I'm currently using the "James Hamann" Jekyll (static site generator) theme for my website. I'm thinking about changing to the clean blog theme (https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll) or to a wordpress.org theme. Currently the James Hamann Portfolio theme works fine, it's just the blog has a sort of outdated look. Maybe I could change it up, or just use medium.
 
 Trying to fix error on line 155 of some random page
+I think the error was due to merging gitlab/starsailors being a jekyll install. we can remove this and see if that fixes the problem
