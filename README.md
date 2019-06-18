@@ -163,3 +163,4 @@ Backing up: https://docs.gitlab.com/ee/raketasks/backup_restore.html#rsync, http
 
 ## ACORD Members Stuff
 * Chairman's stuff: http://acord.tech/opus
+The theme we're thinking of using is https://github.com/artemsheludko/adam-blog. This could also be used for the Star Sailors blog - this repo is now for the book navigation.  We forked that repo: http://github.com/irisdroidology/otr
