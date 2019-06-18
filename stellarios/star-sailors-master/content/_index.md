@@ -1,1 +1,0 @@
-## Stellarios, by ACORD
