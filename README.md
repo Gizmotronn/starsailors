@@ -146,5 +146,4 @@ This repo on acord.tech/github will be used for jekyll only, however it will sti
 Backing up: https://docs.gitlab.com/ee/raketasks/backup_restore.html#rsync, https://gitlab.com/acord-robotics/robodev/star-sailors/issues/9
 
 ## ACORD Members Stuff
-
-Branch merging?
+* Chairman's stuff: http://acord.tech/opus
