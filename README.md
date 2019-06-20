@@ -69,6 +69,12 @@ Backflip studios have made a number of awesome games that I've played, including
 Backflip Photos: http://acord.tech/dragonvale
 
 https://photos.app.goo.gl/6Nt8rosFPX9j9fBf8
+
+### Hades Star
+
+### Replika.ai
+ACORD.ai
+
 ### Minecraft
 Minecraft is a sandbox game for console, PC, Mac, and mobile devices that involves placing and destroying blocks. ACORD has our own Minecraft Bedrock server and world, with some mods available. Check it out at http://acord.tech/minecraft-acord and ACORD members can download our world/server at http://acord.tech/minecraft-world
 
