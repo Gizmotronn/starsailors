@@ -68,6 +68,9 @@ Backflip studios have made a number of awesome games that I've played, including
 
 Backflip Photos: http://acord.tech/dragonvale
 
+RIP GIZMONAUTS
+
+Star Sailors collecting game - like giz and drags and zodia drags 
 https://photos.app.goo.gl/6Nt8rosFPX9j9fBf8
 
 ### Hades Star
