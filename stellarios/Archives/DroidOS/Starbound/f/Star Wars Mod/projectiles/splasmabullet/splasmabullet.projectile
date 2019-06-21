@@ -1,0 +1,20 @@
+{
+  "projectileName" : "splasmabullet",
+  "physics" : "laser",
+  "bounces" : 0,
+  "damageKindImage" : "icon.png",
+  "image" : "splasmabullet.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "power" : 10,
+  "speed" : 100,
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/splasmabulletexplosion/splasmabulletexplosion.config"
+    }
+  ],
+  "lightColor" : [0, 0, 73],
+  "damageKind" : "plasma"
+}

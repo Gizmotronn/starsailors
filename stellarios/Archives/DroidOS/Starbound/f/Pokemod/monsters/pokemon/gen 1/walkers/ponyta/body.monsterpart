@@ -1,0 +1,9 @@
+{
+  "name" : "ponyta",
+  "category" : "ponyta",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "ponyta.png"
+  }
+}

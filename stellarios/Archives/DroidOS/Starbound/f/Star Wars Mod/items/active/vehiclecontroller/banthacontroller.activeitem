@@ -1,0 +1,34 @@
+{
+  "itemName" : "SWMbanthacontroller",
+  "level" : 1,
+  "price" : 25000,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Create a Bantha from stored nanites.",
+  "shortdescription" : "Bantha Controller",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "bantha.png",
+
+  "respawnTime" : 1.0,
+
+  //=============Item specifc bits.
+  "vehicleType" : "bantha",
+  "vehicleBoundingBox" : [-5, -3, 5, 5],
+  "vehicleImage" : "/vehicles/boat/boatwarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "banthacontroller.png"
+  },
+
+  "inventoryIcon" : "banthacontroller.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/banthacontroller.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/banthacontroller.png:full"
+}

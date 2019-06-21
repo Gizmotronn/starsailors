@@ -1,0 +1,1 @@
+Just like this: http://allianceofdroids.org.au/aod/star-sailors/species-code (view game-earthlings file)

@@ -1,0 +1,17 @@
+[ 
+
+{ "op" : "add", "path" : "/speciesOrdering/-", "value" : "wookie" },
+{ "op" : "add", "path" : "/speciesOrdering/-", "value" : "utapaun" },
+{ "op" : "add", "path" : "/speciesOrdering/-", "value" : "rodian" },
+{ "op" : "add", "path" : "/speciesOrdering/-", "value" : "zabrak" },
+{ "op" : "add", "path" : "/speciesOrdering/-", "value" : "ithorian" },
+{ "op" : "add", "path" : "/speciesOrdering/-", "value" : "mawg" } ,
+{ "op" : "add", "path" : "/speciesOrdering/-", "value" : "bothan" },
+{ "op" : "add", "path" : "/speciesOrdering/-", "value" : "twilek" },
+{ "op" : "add", "path" : "/speciesOrdering/-", "value" : "sith" },
+{ "op" : "add", "path" : "/speciesOrdering/-", "value" : "diathim" },
+{ "op" : "add", "path" : "/speciesOrdering/-", "value" : "togruta" }
+ 
+
+
+]

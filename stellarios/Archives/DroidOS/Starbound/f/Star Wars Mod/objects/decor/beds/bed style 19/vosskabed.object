@@ -1,0 +1,45 @@
+{
+  "objectName" : "vosskabed",
+  "colonyTags" : ["ithorian", "rodian", "mawg", "zabrak", "droid", "tuskan", "utapaun", "wookie", "sith", "bothan", "twilek", "diathim", "toydarian"],
+  "printable" : false,
+  "rarity" : "uncommon",
+  "description" : "Bed used in Voss-Ka temples.",
+  "shortdescription" : "Bed Style 19",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 300,
+
+  "apexDescription" : "Bed used in Voss-Ka temples.",
+  "avianDescription" : "Bed used in Voss-Ka temples.",
+  "floranDescription" : "Bed used in Voss-Ka temples.",
+  "glitchDescription" : "Statement. Bed used in Voss-Ka temples.",
+  "humanDescription" : "Bed used in Voss-Ka temples.",
+  "hylotlDescription" : "Bed used in Voss-Ka temples.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-7, 15],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/decor/beds/bed style 19/vosskabedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "regeneration2"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "swtoricon3.png",
+  "orientations" : [
+    {
+      "dualImage" : "vosskabed.png:<color>",
+
+      "imagePosition" : [-24, 1],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

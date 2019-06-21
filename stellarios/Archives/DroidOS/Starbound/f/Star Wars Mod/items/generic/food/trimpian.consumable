@@ -1,0 +1,28 @@
+{
+  "itemName" : "SWMtrimpian",
+  "rarity" : "Common",
+  "price" : 300,
+  "category" : "preparedFood",
+  "inventoryIcon" : "trimpian.png",
+  "description" : "A tangy finger food. Believed by some to make the eater's skin slightly flame retardant.",
+  "shortdescription" : "Trimpian",
+  "effects" : [ [
+    {
+        "effect" : "runboostfood",
+        "duration" : 135
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 135
+    }
+  ] ],
+  "foodValue" : 30,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

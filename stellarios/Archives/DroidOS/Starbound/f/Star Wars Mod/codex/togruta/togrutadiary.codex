@@ -1,0 +1,23 @@
+{
+	"id" : "togrutadiary",
+	"title" : "Togruta Society and Culture",
+	"description" : "About Togruta.",
+	"icon" : "togrutacover1.png",
+  "contentPages" : [
+ 
+ "Togruta had rusty skin tones ranging in hue from blue to red to green, with white pigmentation on their faces, and greyish lips. While not all have this feature, white stripes also adorned various parts of their bodies, including their chests, legs, backs, arms, lekku (head-tails), and montrals.",
+ 
+ "Togruta had the ability to sense the proximity and movement of physical objects around them by means of their hollow montrals, which detected space ultrasonically.",
+ 
+ "ogruta were tranquil and silent, though when the situation called for it they were true warriors. Their fidelity to their beliefs was legendary, as was their happiness within large groups. "
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

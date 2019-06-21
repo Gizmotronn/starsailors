@@ -1,0 +1,44 @@
+{
+  "id" : "visitoak",
+  "prerequisites" : [ "gaterepair" ],
+  "title" : "Visit Professor Oak",
+  "text" : "Visit Professor Oak to get your first pokemon.",
+  "completionText" : "You got a special pokeball to fill with DNA, use the machine in oaks lab to fill it.",
+  "moneyRange" : [100, 100],
+  "rewards" : [[["specialpokeball", 1]]],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/instance.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : {
+        "portrait" : [ {"image" : "/objects/outpost/techlab/techlabscientistportrait.png"} ],
+        "title" : "Elliott"
+      },
+      "questComplete" : {
+        "portrait" : [ {"image" : "/objects/outpost/techlab/techlabscientistportrait.png"} ],
+        "title" : "Elliott"
+      }
+    },
+
+    "descriptions" : {
+      "enterInstance" : "Talk to Elliot to visit Oak's Lab",
+      "findGoal" : "Find Professor Oak",
+      "turnIn" : "Talk to Professor Oak"
+    },
+
+    "warpEntityUid" : "techlabscientist",
+    "warpAction" : "instanceworld:oak",
+    "warpDialog" : "/interface/confirmation/oakconfirmation.config:oak",
+
+    "goalTrigger" : "proximity",
+    "proximityRange" : 10,
+    "goalEntityUid" : "profoak",
+    "indicateGoal" : false,
+    "trackGoalEntity" : false,
+
+    "turnInEntityUid" : "profoak"
+
+    
+  }
+}

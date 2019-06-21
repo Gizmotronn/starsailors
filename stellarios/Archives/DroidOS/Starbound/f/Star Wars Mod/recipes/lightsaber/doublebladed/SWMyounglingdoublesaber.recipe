@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "copperbar", "count" : 20 },
+	{"item" : "kybercrystal" , "count" : 2}
+  ],
+  "output" : { "item" : "SWMyounglingdoublesaber", "count" : 1 },
+  "groups" : [ "af", "t1"]
+}

@@ -1,0 +1,45 @@
+{
+  "objectName" : "zakuulanmedicalbed",
+  "colonyTags" : ["misc","astronaut"],
+  "printable" : false,
+  "rarity" : "rare",
+  "description" : "Zakuul Empire's hospital bed.",
+  "shortdescription" : "Bed Style 20",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 800,
+
+  "apexDescription" : "Zakuul Empire's hospital bed.",
+  "avianDescription" : "Zakuul Empire's hospital bed.",
+  "floranDescription" : "Zakuul Empire's hospital bed.",
+  "glitchDescription" : "Statement. Zakuul Empire's hospital bed.",
+  "humanDescription" : "Zakuul Empire's hospital bed.",
+  "hylotlDescription" : "Zakuul Empire's hospital bed.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-4, 20],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/decor/beds/bed style 20/zakuulanmedicalbed.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "regenerationfast"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "swtoricon4.png",
+  "orientations" : [
+    {
+      "dualImage" : "zakuulanmedicalbed.png:<color>",
+
+      "imagePosition" : [-20, 2],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

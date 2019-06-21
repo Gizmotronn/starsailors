@@ -1,0 +1,16 @@
+{
+  "name" : "weakness1",
+  "effectConfig" : {
+    "powerModifier" : -0.05
+  },
+  "defaultDuration" : 3,
+
+  "scripts" : [
+    "weakness.lua"
+  ],
+
+  "animationConfig" : "weakness.animation",
+
+  "label" : "Weakness",
+  "icon" : "/interface/statuses/weakness.png"
+}

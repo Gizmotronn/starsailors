@@ -1,0 +1,34 @@
+{
+  "type" : "rodianbandit",
+  "baseType" : "hostile",
+
+  "levelVariance" : [0, 0],
+
+  "dropPools" : [ "banditTreasure" ],
+  
+  "items" : {
+    "override" : [
+      [0, [ {
+        "head" : [ { "name" : "bandithat1" }, { "name" : "bandithat2" } ],
+            "chest" : [ { "name" : "explorerchest" } ],
+            "legs" : [ { "name" : "explorerlegs" } ],
+            "primary" : [
+              "npcdagger",
+              "npcaxe",
+              "npcshortsword",
+              "npcbroadsword",
+              "npchammer",
+              "npcspear",
+              "npcassaultrifle",
+              "npcpistol",
+              "npcmachinepistol",
+              "npcshotgun",
+              "npcsniperrifle"
+        ],
+        "alt" : [
+          { "name" : "flashlight" }
+        ]
+      } ] ]
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "bellsprout",
+  "category" : "bellsprout",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "bellsprout.png"
+  }
+}

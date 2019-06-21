@@ -1,0 +1,15 @@
+{
+  "name" : "jetpacktech",
+  "effectConfig" : {  
+	"tech" : "toydarianwingjump2"
+  },
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "wingeffect.lua"
+  ],
+
+  
+  "label" : "Tech Effect",
+  "icon" : "/interface/statuses/jetpackstatus.png"
+}

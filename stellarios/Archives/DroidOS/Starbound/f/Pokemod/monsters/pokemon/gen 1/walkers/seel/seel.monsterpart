@@ -1,0 +1,9 @@
+{
+  "name" : "seel",
+  "category" : "seel",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "seel.png"
+  }
+}

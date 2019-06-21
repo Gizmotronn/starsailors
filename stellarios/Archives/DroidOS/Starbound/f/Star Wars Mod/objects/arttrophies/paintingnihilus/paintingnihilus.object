@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintingnihilus",
+  "colonyTags" : ["pretty","valuable", "swrace", "jedi"],
+  "rarity" : "Rare",
+  "description" : "Painting of Darth Nihilus.",
+  "shortdescription" : "Darth Nihilus Painting.",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+  
+
+  "inventoryIcon" : "paintingnihilusicon.png",
+  "orientations" : [
+    {
+      "image" : "paintingnihilus.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

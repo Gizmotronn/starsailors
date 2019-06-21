@@ -1,0 +1,9 @@
+{
+  "name" : "spearow",
+  "category" : "spearow",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "spearow.png"
+  }
+}

@@ -1,0 +1,23 @@
+{
+	"id" : "droiddiary",
+	"title" : "Battle Droid",
+	"description" : "Information on BattleDroids",
+	"icon" : "droidcover1.png",
+  "contentPages" : [
+  "Battle droids, also known as combat droids, were a type of droid designed for combat. Over the years, many different models of battle droid have been utilized by
+  various factions throughout the galaxy. One such faction was the Confederacy of Independent Systems, which used a number of different models of battle droid during
+  the Clone Wars to make up the Separatist Droid Army.",
+
+"One thing all battle droids had in common was that they had limited intelligence. They were programmed to follow orders, and not much else, though they did have 
+personalities. Some battle droids however, had some form of intelligence. These droids were much more expensive to make, due to their advanced brains."
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

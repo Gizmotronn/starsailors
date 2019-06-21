@@ -1,0 +1,22 @@
+{
+	"id" : "thesith2",
+	"title" : "The Sith Order Part 2",
+	"description" : "Information About The Sith Order.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+  "The Sith believed that conflict was the only true test of one's ability, and so emphasized its importance. It was their belief that conflict challenged both individuals and civilizations, and so forced them to grow and evolve. They believed that the avoidance of conflict–like the pacifist teachings of the Jedi–resulted in stagnation and decline. ",
+  
+  "Another purpose served by conflict was the elevation of the strong and the death of the weak. By encouraging strife, the strong were able to exercise their power while the weak were weeded from the ranks of the Sith. A core tenet to Sith philosophy was self-reliance and the idea that an individual only deserved what they were strong enough to take. Likewise, morality was treated as an obstacle to be overcome, as it got in the way of a Sith's ability to recognize and seize opportunities for advancement and self-empowerment."
+
+  
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

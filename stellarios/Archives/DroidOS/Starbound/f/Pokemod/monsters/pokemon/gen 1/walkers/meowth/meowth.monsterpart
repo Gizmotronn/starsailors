@@ -1,0 +1,9 @@
+{
+  "name" : "meowth",
+  "category" : "meowth",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "meowth.png"
+  }
+}

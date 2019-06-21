@@ -1,0 +1,54 @@
+{
+  "objectName" : "flagskroob",
+  "colonyTags" : ["swrace"],
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "teleporter",
+  "category" : "teleportMarker",
+  "price" : 70,
+  "radioMessagesOnPickup" : [ "pickupflag" ],
+  
+  "description" : "A flag associated with the planet Spaceball, being the standard of its President. Use ^green;[E]^white; to bookmark a teleportation location.",
+  "shortdescription" : "Spaceball Flag",
+  "race" : "apex",
+
+  "feneroxDescription" : "Human ballerina? or jackboot? no matter. Teleport waypoint. Still useful.",
+  "mawgDescription" : "It's hard to tell if this flag depicts a dancer's leg or a jackbooted leg. Or a jackbooted dancer's leg. Either way, I can use any teleporter to get back to it again.",
+  "apexDescription" : "A flag of Spaceball. I can use this as a waypoint for teleportation.",
+  "avianDescription" : "This flag of Spaceball can be bookmarked as a destination for my ship teleporter.",
+  "floranDescription" : "Sssspaceball flag makess good point to teleport back to ussing teleporter!",
+  "glitchDescription" : "Observant. A small locator module attached to this flag of Spaceball allows it to be bookmarked for teleportation.",
+  "humanDescription" : "This flag of Spaceball can be saved as a location for my teleporter. Then I can return to it any time.",
+  "hylotlDescription" : "This flag of Spaceball can act as a way point, enabling me to return to this point using a teleporter.",
+  "novakidDescription" : "I can bookmark this flag of Spaceball for quick teleportin'.",
+
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/destinationonly.config",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "flagskroob.png:<color>.<frame>",
+      "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [-17, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "flagskroob.png:<color>.<frame>",
+      "direction" : "right",
+      "imagePosition" : [1, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+
+  //"soundEffect" : "/sfx/objects/flag_flap_loop.ogg"
+}

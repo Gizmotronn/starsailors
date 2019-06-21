@@ -1,0 +1,23 @@
+{
+	"id" : "toydariandiary",
+	"title" : "Kashyyyk",
+	"description" : "About Toydarian.",
+	"icon" : "toydariancover1.png",
+  "contentPages" : [
+  "Toydarians are a race of winged mammalian beings from the planet Toydaria. Strong-willed, and resistant to manipulation of the mind through the
+  Force, this species produced a body odor similar to sweetspice. With a reputation for being stingy and bad-tempered, many Toydarians were possessed
+  of a strong sense of pride in their work. ",
+
+"A common trait of all Toydarians was their shrewd business sense and their ability to haggle any deal. A loyal and proud people, these traits could
+ be off-putting to outsiders, as many Toydarians in the galaxy were seen as crooks or slimy businessmen, but this was not always the case."
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

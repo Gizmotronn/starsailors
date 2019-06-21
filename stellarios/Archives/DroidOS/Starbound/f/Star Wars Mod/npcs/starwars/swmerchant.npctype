@@ -1,0 +1,447 @@
+{
+  "type" : "swmerchant",
+  "baseType" : "base",
+  
+  "persistent" : true,
+  "damageTeamType" : "friendly",
+
+  "dropPools" : [ "basicTreasure" ],
+
+  "scripts" : [
+    "/npcs/bmain.lua"
+  ],
+  "initialScriptDelta" : 5,
+  "scriptConfig" : {
+    "behavior" : "merchant",
+
+    "behaviorConfig" : {
+      "noticePlayersRadius" : 20,
+
+      "hostileDamageTeam" : { "type" : "enemy", "team" : 1 }
+    },
+
+    "questGenerator" : {
+      "pools" : ["common", "merchant"],
+      "enableParticipation" : true,
+
+      "timeLimit" : 30,
+      "chance" : 0.02,
+      "nearbyQuestLimit" : 2,
+      "nearbyQuestRange" : 50
+    },
+
+    "reactions" : {
+      "spontaneous" : [
+        [5.0, "sleep", { "timeRange" : [0.7, 0.9] }],
+        [1.0, "sit", { "timeRange" : [0.6,0.2]}],
+        [1.0, "wander", { "timeRange" : [0.2, 0.6] }]
+      ]
+    },
+
+    "merchant" : {
+      "waitTime" : 40,
+      "storeRadius" : 16,
+      "poolsFile" : "/npcs/starwars/swmerchantpools.config",
+      "categories" : {
+        "default" : ["basicmerchant"]
+		},
+      "buyFactorRange" : [ 0.9, 1.2 ],
+      "sellFactorRange" : [ 0.2, 0.2 ],
+      "numItems" : 10
+    },
+    "dialog" : {
+      "merchant" : {
+        "start" : "/dialog/merchant.config:merchantStart",
+        "end" : "/dialog/merchant.config:merchantEnd",
+        "follow" : "/dialog/merchant.config:follow",
+        "welcome" : "/dialog/merchant.config:welcome",
+        "tout" : "/dialog/merchant.config:tout"
+      },
+      "flee" : {
+        "helpme" : "/dialog/flee.config:helpme",
+        "safe" : "/dialog/flee.config:safe"
+      },
+      "tenant" : {
+        "grumbles" : {
+          "tagCriteria" : "/dialog/merchant.config:tagCriteria",
+          "enclosedArea" : "/dialog/merchant.config:enclosedArea",
+          "otherDeed" : "/dialog/merchant.config:otherDeed",
+          "severe" : "/dialog/merchant.config:severe",
+          "final" : "/dialog/merchant.config:final"
+        },
+        "arrivedHome" : {
+          "beacon" : "/dialog/merchant.config:beacon",
+          "rent" : "/dialog/merchant.config:rent"
+        }
+      },
+      "accuse" : "/dialog/thief.config:accuse",
+      "alert" : "/dialog/thief.config:alert"
+    }
+  },
+
+  "items" : {
+    "bothan" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "fancyhead", "parameters" : { "colorIndex" : 1 } }, { "name" : "fancyhead", "parameters" : { "colorIndex" : 2 } }, { "name" : "fancyhead", "parameters" : { "colorIndex" : 3 } }, { "name" : "fancyhead", "parameters" : { "colorIndex" : 8 } },
+              { "name" : "fedorahead", "parameters" : { "colorIndex" : 1 } }, { "name" : "fedorahead", "parameters" : { "colorIndex" : 2 } }, { "name" : "fedorahead", "parameters" : { "colorIndex" : 3 } }, { "name" : "fedorahead", "parameters" : { "colorIndex" : 8 } },
+              { "name" : "glasses1head", "parameters" : { "colorIndex" : 1 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 2 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 3 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 8 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 4 } },    
+              { "name" : "coolfezhead", "parameters" : { "colorIndex" : 0 } }, { "name" : "coolfezhead", "parameters" : { "colorIndex" : 0 } }, { "name" : "coolfezhead", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "eyepatchhead", "parameters" : { "colorIndex" : 1 } }, { "name" : "eyepatchhead", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "ushankahead", "parameters" : { "colorIndex" : 1 } }, { "name" : "ushankahead", "parameters" : { "colorIndex" : 11 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 2 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 3 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 8 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "mrclausback", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "conceptchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "hikerchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apextier4chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier3chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 4 } }
+            ],
+            "legs" : [
+              { "name" : "coollegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier1pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier2pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 4 } }
+            ]
+          }
+      ]]
+    ],
+	"human" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "fancyhead", "parameters" : { "colorIndex" : 1 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } }
+            ],
+            "chest" : [
+              { "name" : "conceptchest", "parameters" : { "colorIndex" : 1 } }
+            ],
+            "legs" : [
+              { "name" : "coollegs", "parameters" : { "colorIndex" : 1 } }
+            ]
+          }
+      ]]
+    ],
+	 "diathim" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "fancyhead", "parameters" : { "colorIndex" : 1 } }, { "name" : "fancyhead", "parameters" : { "colorIndex" : 2 } }, { "name" : "fancyhead", "parameters" : { "colorIndex" : 3 } }, { "name" : "fancyhead", "parameters" : { "colorIndex" : 8 } },
+              { "name" : "fedorahead", "parameters" : { "colorIndex" : 1 } }, { "name" : "fedorahead", "parameters" : { "colorIndex" : 2 } }, { "name" : "fedorahead", "parameters" : { "colorIndex" : 3 } }, { "name" : "fedorahead", "parameters" : { "colorIndex" : 8 } },
+              { "name" : "glasses1head", "parameters" : { "colorIndex" : 1 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 2 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 3 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 8 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 4 } },    
+              { "name" : "coolfezhead", "parameters" : { "colorIndex" : 0 } }, { "name" : "coolfezhead", "parameters" : { "colorIndex" : 0 } }, { "name" : "coolfezhead", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "eyepatchhead", "parameters" : { "colorIndex" : 1 } }, { "name" : "eyepatchhead", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "ushankahead", "parameters" : { "colorIndex" : 1 } }, { "name" : "ushankahead", "parameters" : { "colorIndex" : 11 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 2 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 3 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 8 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "mrclausback", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "conceptchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "hikerchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apextier4chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier3chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 4 } }
+            ],
+            "legs" : [
+              { "name" : "coollegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier1pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier2pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 4 } }
+            ]
+          }
+      ]]
+    ],
+	 "ithorian" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "ithorianinvishead", "parameters" : { "colorIndex" : 1 } }, { "name" : "ithorianinvishead", "parameters" : { "colorIndex" : 2 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 2 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 3 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 8 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "mrclausback", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "conceptchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "hikerchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apextier4chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier3chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 4 } }
+            ],
+            "legs" : [
+              { "name" : "coollegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier1pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier2pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 4 } }
+            ]
+          }
+      ]]
+    ],
+	 "mawg" : [
+      [0, [
+          {
+            "head" : [
+               { "name" : "ithorianinvishead", "parameters" : { "colorIndex" : 1 } }, { "name" : "ithorianinvishead", "parameters" : { "colorIndex" : 2 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 2 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 3 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 8 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "mrclausback", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "conceptchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "hikerchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apextier4chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier3chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 4 } }
+            ],
+            "legs" : [
+              { "name" : "coollegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier1pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier2pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 4 } }
+            ]
+          }
+      ]]
+    ],
+	 "rodian" : [
+      [0, [
+          {
+            "head" : [
+               { "name" : "ithorianinvishead", "parameters" : { "colorIndex" : 1 } }, { "name" : "ithorianinvishead", "parameters" : { "colorIndex" : 2 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 2 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 3 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 8 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "mrclausback", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "conceptchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "hikerchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apextier4chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier3chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 4 } }
+            ],
+            "legs" : [
+              { "name" : "coollegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier1pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier2pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 4 } }
+            ]
+          }
+      ]]
+    ],
+	 "sith" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "fancyhead", "parameters" : { "colorIndex" : 1 } }, { "name" : "fancyhead", "parameters" : { "colorIndex" : 2 } }, { "name" : "fancyhead", "parameters" : { "colorIndex" : 3 } }, { "name" : "fancyhead", "parameters" : { "colorIndex" : 8 } },
+              { "name" : "fedorahead", "parameters" : { "colorIndex" : 1 } }, { "name" : "fedorahead", "parameters" : { "colorIndex" : 2 } }, { "name" : "fedorahead", "parameters" : { "colorIndex" : 3 } }, { "name" : "fedorahead", "parameters" : { "colorIndex" : 8 } },
+              { "name" : "glasses1head", "parameters" : { "colorIndex" : 1 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 2 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 3 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 8 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 4 } },    
+              { "name" : "coolfezhead", "parameters" : { "colorIndex" : 0 } }, { "name" : "coolfezhead", "parameters" : { "colorIndex" : 0 } }, { "name" : "coolfezhead", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "eyepatchhead", "parameters" : { "colorIndex" : 1 } }, { "name" : "eyepatchhead", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "ushankahead", "parameters" : { "colorIndex" : 1 } }, { "name" : "ushankahead", "parameters" : { "colorIndex" : 11 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 2 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 3 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 8 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "mrclausback", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "conceptchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "hikerchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apextier4chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier3chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 4 } }
+            ],
+            "legs" : [
+              { "name" : "coollegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier1pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier2pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 4 } }
+            ]
+          }
+      ]]
+    ],
+	 "togruta" : [
+      [0, [
+          {
+            "head" : [
+               { "name" : "ithorianinvishead", "parameters" : { "colorIndex" : 1 } }, { "name" : "ithorianinvishead", "parameters" : { "colorIndex" : 2 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 2 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 3 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 8 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "mrclausback", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "conceptchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "hikerchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apextier4chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier3chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 4 } }
+            ],
+            "legs" : [
+              { "name" : "coollegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier1pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier2pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 4 } }
+            ]
+          }
+      ]]
+    ],
+	 "twilek" : [
+      [0, [
+          {
+            "head" : [
+               { "name" : "ithorianinvishead", "parameters" : { "colorIndex" : 1 } }, { "name" : "ithorianinvishead", "parameters" : { "colorIndex" : 2 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 2 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 3 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 8 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "mrclausback", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "conceptchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "hikerchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apextier4chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier3chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 4 } }
+            ],
+            "legs" : [
+              { "name" : "coollegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier1pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier2pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 4 } }
+            ]
+          }
+      ]]
+    ],
+	 "utapaun" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "fancyhead", "parameters" : { "colorIndex" : 1 } }, { "name" : "fancyhead", "parameters" : { "colorIndex" : 2 } }, { "name" : "fancyhead", "parameters" : { "colorIndex" : 3 } }, { "name" : "fancyhead", "parameters" : { "colorIndex" : 8 } },
+              { "name" : "fedorahead", "parameters" : { "colorIndex" : 1 } }, { "name" : "fedorahead", "parameters" : { "colorIndex" : 2 } }, { "name" : "fedorahead", "parameters" : { "colorIndex" : 3 } }, { "name" : "fedorahead", "parameters" : { "colorIndex" : 8 } },
+              { "name" : "glasses1head", "parameters" : { "colorIndex" : 1 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 2 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 3 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 8 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 4 } },    
+              { "name" : "coolfezhead", "parameters" : { "colorIndex" : 0 } }, { "name" : "coolfezhead", "parameters" : { "colorIndex" : 0 } }, { "name" : "coolfezhead", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "eyepatchhead", "parameters" : { "colorIndex" : 1 } }, { "name" : "eyepatchhead", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "ushankahead", "parameters" : { "colorIndex" : 1 } }, { "name" : "ushankahead", "parameters" : { "colorIndex" : 11 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 2 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 3 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 8 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "mrclausback", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "conceptchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "hikerchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apextier4chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier3chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 4 } }
+            ],
+            "legs" : [
+              { "name" : "coollegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier1pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier2pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 4 } }
+            ]
+          }
+      ]]
+    ],
+	 "wookie" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "ithorianinvishead", "parameters" : { "colorIndex" : 1 } }, { "name" : "ithorianinvishead", "parameters" : { "colorIndex" : 2 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 2 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 3 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 8 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "mrclausback", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "conceptchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "hikerchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apextier4chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier3chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 4 } }
+            ],
+            "legs" : [
+              { "name" : "coollegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier1pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier2pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 4 } }
+            ]
+          }
+      ]]
+    ],
+	 "zabrak" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "fancyhead", "parameters" : { "colorIndex" : 1 } }, { "name" : "fancyhead", "parameters" : { "colorIndex" : 2 } }, { "name" : "fancyhead", "parameters" : { "colorIndex" : 3 } }, { "name" : "fancyhead", "parameters" : { "colorIndex" : 8 } },
+              { "name" : "fedorahead", "parameters" : { "colorIndex" : 1 } }, { "name" : "fedorahead", "parameters" : { "colorIndex" : 2 } }, { "name" : "fedorahead", "parameters" : { "colorIndex" : 3 } }, { "name" : "fedorahead", "parameters" : { "colorIndex" : 8 } },
+              { "name" : "glasses1head", "parameters" : { "colorIndex" : 1 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 2 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 3 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 8 } }, { "name" : "glasses1head", "parameters" : { "colorIndex" : 4 } },    
+              { "name" : "coolfezhead", "parameters" : { "colorIndex" : 0 } }, { "name" : "coolfezhead", "parameters" : { "colorIndex" : 0 } }, { "name" : "coolfezhead", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "eyepatchhead", "parameters" : { "colorIndex" : 1 } }, { "name" : "eyepatchhead", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "ushankahead", "parameters" : { "colorIndex" : 1 } }, { "name" : "ushankahead", "parameters" : { "colorIndex" : 11 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 2 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 3 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 8 } }, { "name" : "survivalgearback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, { "name" : "medicback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerback", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "mrclausback", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "conceptchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "hikerchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 2 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "hikerchest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 1 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 2 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 3 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 8 } }, { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "apextier4chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "apextier4chest", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier3chest", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier3chest", "parameters" : { "colorIndex" : 4 } }
+            ],
+            "legs" : [
+              { "name" : "coollegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 2 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier1pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier1pants", "parameters" : { "colorIndex" : 4 } },
+              { "name" : "humantier2pants", "parameters" : { "colorIndex" : 1 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 2 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 3 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 8 } }, { "name" : "humantier2pants", "parameters" : { "colorIndex" : 4 } }
+            ]
+          }
+      ]]
+    ]
+    
+  }
+}

@@ -1,0 +1,24 @@
+{
+	"id" : "twilekdiary",
+	"title" : "Twi'lek Society and Culture",
+	"description" : "About Twi'lek.",
+	"icon" : "twilekcover1.png",
+  "contentPages" : [
+  "Twi'lek, sometimes referred to disparagingly as 'Tail-heads', were an omnivorous humanoid species originating from the planet Ryloth. They tended to eat cultivated molds,
+  fungi, and rycrit meat. Their distinctive features included colorful skin, which varied in pigment from individual to individual, and a pair of shapely prehensile 
+  tentacles that grew from the base of their skulls.",
+
+"The natural grace and exotic beauty of the female Twi'leks made them a popular target among slave traders. Slavery was the main currency of Ryloth,
+ which was tolerated by the Galactic Republic. Some saw it as a chance to make money by kidnapping or selling orphaned children, while others saw slavery as a way of
+ saving children from growing up in Ryloth's harsh environment."
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

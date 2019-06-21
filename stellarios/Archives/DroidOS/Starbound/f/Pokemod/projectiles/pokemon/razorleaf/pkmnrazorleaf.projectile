@@ -1,0 +1,14 @@
+{
+  "projectileName" : "pkmnrazorleaf",
+  "image" : "pkmnrazorleaf.png",
+  "flippable" : true,
+  "animationCycle" : 0.35,
+  "frameNumber" : 4,
+  "timeToLive" : 3,
+ 
+  "damageKindImage" : "icon.png",
+  
+  "damagePoly" : [ [-8, 0], [-5, -5], [0, -8], [5, -5], [8, 0], [5, 5], [0, 8], [-5, 5] ],
+  "damageKind" : "grass"
+  
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "voltorb",
+  "category" : "voltorb",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "voltorb.png"
+  }
+}

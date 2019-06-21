@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintingboffaplant",
+  "colonyTags" : ["swrace","pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "Painting of a Boffa Plant.",
+  "shortdescription" : "Boffa Plant Painting",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+  
+
+  "inventoryIcon" : "paintingboffaplanticon.png",
+  "orientations" : [
+    {
+      "image" : "paintingboffaplant.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

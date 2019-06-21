@@ -1,0 +1,21 @@
+{
+  "itemName" : "occaberry",
+  "price" : 200,
+  "rarity" : "Uncommon",
+  "tooltipKind" : "petcollar",
+  "category" : "petCollar",
+  "inventoryIcon" : "occaberry.png",
+  "description" : "A  held item that lowers the effectiveness of Fire-Type moves.",
+  "shortdescription" : "Occa Berry",
+
+  "collar" : {
+    "name" : "heldoccaberry",
+    "displayName" : "Occa Berry",
+    "displayIcon" : "/items/augments/pet/occaberry.png",
+    "effects" : [ "fireblockaugment" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupcollar" ],
+
+  "scripts" : [ "/scripts/augments/collar.lua" ]
+}

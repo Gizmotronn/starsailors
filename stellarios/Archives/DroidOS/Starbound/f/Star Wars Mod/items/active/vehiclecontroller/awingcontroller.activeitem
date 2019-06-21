@@ -1,0 +1,34 @@
+{
+  "itemName" : "SWMawingcontroller",
+  "level" : 1,
+  "price" : 25000,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Create an A-Wing from stored nanites.",
+  "shortdescription" : "A-Wing",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "awing.png",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "awing",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/awing/awingwarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "awingcontroller.png"
+  },
+
+  "inventoryIcon" : "awingcontroller.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/awingcontroller.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/awingcontroller.png:full"
+
+}

@@ -1,0 +1,22 @@
+{
+	"id" : "thesith5",
+	"title" : "The Sith Order Part 5",
+	"description" : "Information About The Sith Order.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+  "In the original Sith, the term Sith'ari translated literally into 'lord' or 'overlord'. Over time however, the term became closely associated with the idea of a perfect being, who would rise to power and take control of the Sith Order.",
+  
+  "The prophesied coming of the Sith'ari was based around the notion that a perfect being, would epitomize the teachings of the Sith Code and became free of all restrictions. This being would lead the Sith, but also destroy them- a destruction that would make the Sith Order stronger than before. The identity of the Sith'ari has been confirmed as Darth Bane, who destroyed the Brotherhood of Darkness in order to remake the Sith through the Rule of Two.",
+
+  "The prophesy of the Sith'ari is very similar to the Jedis' prophesy of the Chosen One—an extremely powerful Force-sensitive who would lead their Order to perfection. The Rule of Two was the principle upon which the Order of the Sith Lords was founded. It was created by Darth Bane, a Dark Lord and member of the Brotherhood of Darkness. Bane believed that the Sith had weakened themselves by accepting too many into their ranks and that the true dark side had abandoned them.",
+
+  "After studying the holocron of  Darth Revan, Bane decided that the Brotherhood needed to be destroyed and the Sith rebuilt as a secretive order consisting of two beings—a single master and a single apprentice. Bane believed this philosophy would solve the infighting that had long been the bane of the Sith Order. By allowing only two members into the cult at a time, the dark side would remain concentrated within those two beings, instead of legions of ineffective warriors.",
+
+  "When the apprentice learned all they could from the master, it was their duty to kill the master and take an apprentice of their own, in order to ensure the continuing strength of the cult. As such, the Rule of Two embraced the idea of the rule of the strong. The small number of Sith allowed the Order to remain hidden for a millennium."
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

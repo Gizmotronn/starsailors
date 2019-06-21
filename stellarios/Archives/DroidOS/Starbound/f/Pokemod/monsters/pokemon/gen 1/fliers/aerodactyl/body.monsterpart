@@ -1,0 +1,9 @@
+{
+  "name" : "aerodactyl",
+  "category" : "aerodactyl",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "aerodactyl.png"
+  }
+}

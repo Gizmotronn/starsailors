@@ -1,0 +1,49 @@
+{
+  "objectName" : "rindoberryseed",
+  "colonyTags" : ["nature"],
+  "rarity" : "Common",
+  "description" : "Grows into an Rindo Berry Tree.",
+  "category" : "seed",
+  "shortdescription" : "Rindo Berry Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+
+ 
+
+  "inventoryIcon" : "rindoberryseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "rindoberryseed.png:default.2.1",
+  
+  
+  "orientations" : [
+    {
+      "dualImage" : "rindoberryseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [1000, 1000]
+    },
+    {
+      "duration" : [1000, 1000]
+    },
+    {
+      "alts" : 1,
+      "harvestPool" : "rindoberryHarvest"
+    }
+  ],
+
+  "maxImmersion" : 0.25
+}

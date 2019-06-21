@@ -1,0 +1,13 @@
+{
+  "itemName" : "SWM2scabrouslegs",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Darth Scabrous Pants",
+  "shortdescription" : "Darth Scabrous Pants",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}

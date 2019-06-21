@@ -1,0 +1,24 @@
+{
+  "itemName" : "SWMahrisa",
+  "rarity" : "Uncommon",
+  "price" : 225,
+  "category" : "preparedFood",
+  "inventoryIcon" : "ahrisa.png",
+  "description" : "A spicy food made of greens and soypro.",
+  "shortdescription" : "Ahrisa",
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 450
+    }
+  ] ],
+  "foodValue" : 50,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

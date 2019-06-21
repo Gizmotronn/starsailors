@@ -1,0 +1,9 @@
+{
+  "name" : "rattata",
+  "category" : "rattata",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "rattata.png"
+  }
+}

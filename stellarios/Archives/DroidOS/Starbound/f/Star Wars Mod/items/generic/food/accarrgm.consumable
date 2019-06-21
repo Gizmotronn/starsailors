@@ -1,0 +1,25 @@
+{
+  "itemName" : "SWMaccarrgm",
+  "rarity" : "Common",
+  "price" : 20,
+  "category" : "drink",
+  "inventoryIcon" : "accarrgm.png",
+  "description" : "An extremely potent pale colored liqueur made by Wookiee.",
+  "shortdescription" : "Accarrgm",
+  "effects" : [ [
+    {
+        "effect" : "thorns",
+        "duration" : 90
+    }
+  ] ],
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ]
+}

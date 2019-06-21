@@ -1,0 +1,20 @@
+{
+  "itemName" : "SWMsabriquet",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "sabriqueticon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A musical instrument made of podracer engine parts. Very similar to the slitherhorn. ",
+  "shortdescription" : "Sabriquet",
+  "largeImage" : "sabriquet.png",
+  "image" : "sabriquet.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "sabriquet.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0.2, -0.1],
+
+  "handPosition" : [0.3, 0],
+  "twoHanded" : true,
+  "kind" : "flute"
+}

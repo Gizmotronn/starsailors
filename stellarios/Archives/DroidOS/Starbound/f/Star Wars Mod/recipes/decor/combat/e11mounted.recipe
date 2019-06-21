@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 25 }
+  ],
+  "output" : {
+    "item" : "SWMe11mounted",
+    "count" : 1
+  },
+  "groups" : [ "swm","force" ]
+}

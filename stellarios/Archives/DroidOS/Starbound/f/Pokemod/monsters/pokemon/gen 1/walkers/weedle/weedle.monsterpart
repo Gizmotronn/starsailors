@@ -1,0 +1,9 @@
+{
+  "name" : "weedle",
+  "category" : "weedle",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "weedle.png"
+  }
+}

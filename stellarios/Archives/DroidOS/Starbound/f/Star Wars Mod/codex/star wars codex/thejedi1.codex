@@ -1,0 +1,28 @@
+{
+	"id" : "thejedi1",
+	"title" : "The Jedi Order Part 1",
+	"description" : "Information About The Jedi Order.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+  "The Jedi Order, later known as the Old Jedi Order and referred to as the Holy Order of the Jedi Knights, was an ancient monastic peacekeeping organization unified by its belief and observance of the Force, specifically the light side. The Jedi were the guardians of peace and justice in the Galactic Republic, and became perhaps the most well known of the various groups that relied on the Force for their power.",
+
+  "Led by a series of Jedi Councils, the Order grew over the millennia despite facing many trials. Most often these threats were engineered by the Sith, the most prominent group of Force sensitives who wielded the dark side of the Force.",
+  
+  "During several Great Schisms, numerous Jedi broke away from the original Order due to differences in how they believed the Force should be wielded. The various impasses reached by the orthodox Jedi and the defectors led to several wars, including the Hundred-Year Darkness, after which the defectors were exiled and founded the Sith Empire.",
+
+ "The Sith were eventually found by the Republic and their discovery led to the Great Hyperspace War, and a Sith invasion of Coruscant. The Jedi on Coruscant, led by Jedi Guardian Anavus Svag and Jedi Master Memit Nadill, successfully defended the planet and defeated the Sith.",
+
+"Again and again however, the Sith would be reborn from within the ranks of the Jedi Order, and many more wars would be fought. Additionally, the ancient Sith Empire had not been as completely destroyed as the Jedi believed, and over the next thousand years, it reformed and grew."
+
+  
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

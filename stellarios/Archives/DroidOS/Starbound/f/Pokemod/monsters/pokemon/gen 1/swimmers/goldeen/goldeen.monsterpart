@@ -1,0 +1,9 @@
+{
+  "name" : "goldeen",
+  "category" : "goldeen",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "goldeen.png"
+  }
+}

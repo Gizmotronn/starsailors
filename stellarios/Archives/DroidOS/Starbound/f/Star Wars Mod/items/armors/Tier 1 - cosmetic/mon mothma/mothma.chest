@@ -1,0 +1,51 @@
+{
+  "itemName" : "SWM2mothmachest",
+  "price" : 2500,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "chestwear",
+  "description" : "Robes of Mon Mothma",
+  "shortdescription" : "Mon Mothma Robe",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"},
+	
+	
+  "colorOptions" : [
+    // DEFAULT
+    { "F2ECD0" : "F2ECD0", "E5DFC5" : "E5DFC5", "CEC9B1" : "CEC9B1" },
+    // BLACK
+    { "F2ECD0" : "636363", "E5DFC5" : "4C4C4C", "CEC9B1" : "353535" },
+    // GREY
+    { "F2ECD0" : "C4C4C4", "E5DFC5" : "ADADAD", "CEC9B1" : "939393" },
+    // WHITE
+    { "F2ECD0" : "F2ECD0", "E5DFC5" : "E5DFC5", "CEC9B1" : "CEC9B1" },
+    // RED
+    { "F2ECD0" : "D87D7D", "E5DFC5" : "C47171", "CEC9B1" : "AF6666" },
+    // ORANGE
+    { "F2ECD0" : "FFCAA8", "E5DFC5" : "FFBB91", "CEC9B1" : "FFAD7A" },
+    // YELLOW
+    { "F2ECD0" : "FFF6CC", "E5DFC5" : "FFF3B7", "CEC9B1" : "FFEE9E" },
+    // GREEN
+    { "F2ECD0" : "92B584", "E5DFC5" : "84AD72", "CEC9B1" : "769B66" },
+    // BLUE
+    { "F2ECD0" : "BAFFF5", "E5DFC5" : "97F4E6", "CEC9B1" : "89DDD1"},
+    // PURPLE
+    { "F2ECD0" : "EFB2FF", "E5DFC5" : "EA99FF", "CEC9B1" : "E57FFF" },
+    // PINK
+    { "F2ECD0" : "FFCCF0", "E5DFC5" : "FFB7EA", "CEC9B1" : "FF9EE3" },
+    // BROWN
+    { "F2ECD0" : "CEA89C", "E5DFC5" : "CC9888", "CEC9B1" : "CC8A76" }
+  ]
+  }
+

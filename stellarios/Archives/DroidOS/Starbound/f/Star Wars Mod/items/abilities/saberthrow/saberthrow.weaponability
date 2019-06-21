@@ -1,0 +1,32 @@
+{
+  "animationParts" : { },
+  "animationCustom" : {
+    "sounds" : {
+    "throw" : [ "/sfx/melee/swing_dagger.ogg" ]
+  }
+  },
+
+  "ability" : {
+    "name" : "Saber Throw",
+    "type" : "saberthrow",
+    "scripts" : ["/items/abilities/saberthrow/saberthrow.lua"],
+    "class" : "SaberThrow",
+
+   
+  "projectileType" : "saberprojectile",
+  "projectileParameters" : {
+    "power" : 4,
+    "knockback" : 20,
+
+    "ignoreTerrain" : false,
+    "controlForce" : 80,
+    "pickupDistance" : 1.0,
+    "snapDistance" : 4.0
+  },
+
+    "baseDamage" : 4,
+    "energyUsage" : 120,
+    "cooldownTime" : 1.5
+
+   }
+}

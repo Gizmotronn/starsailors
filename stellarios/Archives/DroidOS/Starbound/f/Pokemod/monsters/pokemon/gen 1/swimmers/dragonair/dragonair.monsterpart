@@ -1,0 +1,9 @@
+{
+  "name" : "dragonair",
+  "category" : "dragonair",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "dragonair.png"
+  }
+}

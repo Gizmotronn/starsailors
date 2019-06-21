@@ -1,0 +1,36 @@
+{
+  "objectName" : "wookiestatue",
+  "colonyTags" : ["wookie","pretty","valuable"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 100,
+  "description" : "Statue of a famous Wookie warrior",
+  "shortdescription" : "Wookie Statue",
+  "race" : "wookie",
+
+  "wookieDescription" : "This looks to be a representation of Bacca the Great. But did he really look like that?",
+  "feneroxDescription" : "Wookiee warrior. Strange stone. Strange carving. An enigma!",
+  "felinDescription" : "Some crude representation of a Wookiee warrior. Move along, nothing to see here now.",
+  "apexDescription" : "I like Wookiees better with fur.",
+  "avianDescription" : "A Wookiee warrior.",
+  "floranDescription" : "Wonder what artissst scuplted this.",
+  "glitchDescription" : "Questioning. What was this Wookie famous for?",
+  "humanDescription" : "Apparently this Wookiee was someone of great importance.",
+  "hylotlDescription" : "Self sacrifice is honoured by the Hylotl, but only if the cause is good.",
+  "novakidDescription" : "A statue of a Wookiee warrior. Wonder what did he do to deserve this?",
+
+
+  "inventoryIcon" : "wookiestatueicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "wookiestatue.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

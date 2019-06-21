@@ -1,0 +1,143 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/bothan",
+    "value": {
+      "default": [
+        "My day is spent programming protocol droids. Is there a cantina nearby where I can unwind?",
+        "I'm surprised by the dearth of droids on this system. Work is less stressful on me, but I'm worried about slower business.",
+        "My suit wirelessly updates me with galactic server information.",
+        "I use this outfit to interface directly with computers."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/diathim",
+    "value": {
+      "default": [
+        "My day is spent programming protocol droids. Is there a cantina nearby where I can unwind?",
+        "I'm surprised by the dearth of droids on this system. Work is less stressful on me, but I'm worried about slower business.",
+        "My suit wirelessly updates me with galactic server information.",
+        "I use this outfit to interface directly with computers."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/ithorian",
+    "value": {
+      "default": [
+        "My day is spent programming protocol droids. Is there a cantina nearby where I can unwind?",
+        "I'm surprised by the dearth of droids on this system. Work is less stressful on me, but I'm worried about slower business.",
+        "My suit wirelessly updates me with galactic server information.",
+        "I use this outfit to interface directly with computers."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/mawg",
+    "value": {
+      "default": [
+        "My day is spent programming protocol droids. Is there a cantina nearby where I can unwind?",
+        "I'm surprised by the dearth of droids on this system. Work is less stressful on me, but I'm worried about slower business.",
+        "My suit wirelessly updates me with galactic server information.",
+        "I use this outfit to interface directly with computers."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/rodian",
+    "value": {
+      "default": [
+        "My day is spent programming protocol droids. Is there a cantina nearby where I can unwind?",
+        "I'm surprised by the dearth of droids on this system. Work is less stressful on me, but I'm worried about slower business.",
+        "My suit wirelessly updates me with galactic server information.",
+        "I use this outfit to interface directly with computers."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/sith",
+    "value": {
+      "default": [
+        "My day is spent programming protocol droids. Is there a cantina nearby where I can unwind?",
+        "Not all of my people are warriors. Some like me are dedicated technicians with a savvy for electronics.",
+        "My suit wirelessly updates me with galactic server information.",
+        "I use this outfit to interface directly with computers."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/togruta",
+    "value": {
+      "default": [
+        "My day is spent programming protocol droids. Is there a cantina nearby where I can unwind?",
+        "I'm surprised by the dearth of droids on this system. Work is less stressful on me, but I'm worried about slower business.",
+        "My suit wirelessly updates me with galactic server information.",
+        "I use this outfit to interface directly with computers."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/twilek",
+    "value": {
+      "default": [
+        "My day is spent programming protocol droids. Is there a cantina nearby where I can unwind?",
+        "I'm surprised by the dearth of droids on this system. Work is less stressful on me, but I'm worried about slower business.",
+        "My suit wirelessly updates me with galactic server information.",
+        "I use this outfit to interface directly with computers."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/utapaun",
+    "value": {
+      "default": [
+        "My day is spent programming protocol droids. Is there a cantina nearby where I can unwind?",
+        "I'm surprised by the dearth of droids on this system. Work is less stressful on me, but I'm worried about slower business.",
+        "My suit wirelessly updates me with galactic server information.",
+        "I use this outfit to interface directly with computers."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/wookie",
+    "value": {
+      "default": [
+        "My day is spent programming protocol droids. Is there a cantina nearby where I can unwind?",
+        "I'm surprised by the dearth of droids on this system. Work is less stressful on me, but I'm worried about slower business.",
+        "My suit wirelessly updates me with galactic server information.",
+        "I use this outfit to interface directly with computers."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/zabrak",
+    "value": {
+      "default": [
+        "My day is spent programming protocol droids. Is there a cantina nearby where I can unwind?",
+        "I'm surprised by the dearth of droids on this system. Work is less stressful on me, but I'm worried about slower business.",
+        "My suit wirelessly updates me with galactic server information.",
+        "I use this outfit to interface directly with computers."
+      ]
+    }
+  },
+  {
+    "op": "remove",
+    "path": "/items/override/0/1/0/head/0/parameters"
+  },
+  {
+    "op": "replace",
+    "path": "/items/override/0/1/0/head/0/name",
+    "value": "ithorianinvishead"
+  }
+]

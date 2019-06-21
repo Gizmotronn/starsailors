@@ -1,0 +1,91 @@
+{
+  "itemName" : "SWMdl44T2",
+  "price" : 600,
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "Heavy blaster pistol produced by BlasTech Industries",
+  "shortdescription" : " DL-44 Blaster Pistol",
+  "tooltipKind" : "gun",
+  "category" : "pistol",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","ranged","pistol"],
+  "level" : 2,
+
+  "animation" : "/items/active/weapons/ranged/gun.animation",
+  "animationParts" : { },
+  "animationCustom" : { },
+  "baseOffset" : [-0.25, 0.25],
+  "muzzleOffset" : [0,0],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : [0.33, 0.66],
+    "baseDps" : [5.25, 5.75],
+    "energyUsage" : [15.75, 17.25],
+    "inaccuracy" : 0.02,
+
+    "projectileType" : "blaster",
+    "projectileParameters" : {
+      "knockbackRange" : [4,8]
+    },
+
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : false,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 10,
+        "weaponRotation" : 10,
+        "twoHanded" : false,
+
+        "allowRotate" : false,
+        "allowFlip" : true
+      },
+      "cooldown" : {
+        "duration" : 0.15,
+        "armRotation" : 10,
+        "weaponRotation" : 10,
+        "twoHanded" : false,
+
+        "allowRotate" : false,
+        "allowFlip" : true
+      }
+    }
+  },
+  "fireSounds" : [ "/sfx/ranged/blasterpistol.ogg", "/sfx/ranged/blasterpistol.ogg", "/sfx/ranged/blasterpistol.ogg", "/sfx/ranged/blasterpistol.ogg" ],
+
+  "builder" : "/items/buildscripts/buildweapon.lua",
+  "builderConfig" : [{
+    "animationParts" : {
+      "butt" : {
+        "path" : "dl44butt.png",
+        "paletteSwap" : false
+      },
+      "middle" : {
+        "path" : "dl44middle.png",
+         "paletteSwap" : false
+      },
+      "barrel" : {
+        "path" : "dl44barrel.png",
+        "paletteSwap" : false
+      },
+      "muzzleFlash" : "/items/active/ranged/muzzleflash2.png"
+    },
+    "gunParts" : ["butt", "middle", "barrel"],
+    "altAbilities" : [ ],
+    "palette" : "/items/active/weapons/colors/ranged.weaponcolors",
+    "iconDrawables" : ["butt", "middle", "barrel"]
+  }]
+}

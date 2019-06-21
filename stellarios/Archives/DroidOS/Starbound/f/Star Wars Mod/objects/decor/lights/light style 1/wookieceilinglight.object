@@ -1,0 +1,77 @@
+{
+  "objectName" : "wookieceilinglight",
+  "colonyTags" : ["swrace", "wookie", "light"],
+  "rarity" : "Common",
+  "description" : "A light fixture made of wood and vines.",
+  "shortdescription" : "Wroshyr Vine Light",
+  "race" : "generic",
+
+  "wookieDescription" : "Just one of the many little gadgets cobbled together by the Thikkiianese back on Kashyyyk to stave off boredom.",
+  "floranDescription" : "Floran like Wookiee-designed ceiling light.",
+  "hylotlDescription" : "The ingenuity of the Wookiee race never ceases to amaze me.",
+  "glitchDescription" : "Curious. How did the Wookiees ever use vines in place of wires?",
+  "feneroxDescription" : "Ceiling light. Vine-mounted. By Wookiees. But how?",
+  "humanDescription" : "Just the thing for an old-school jungle movie buff!",
+  "diathimDescription" : "The ability of Wookiees to create sophistication out of simplicty never ceases to amaze me.",
+  "apexDescription" : "A light fixture made from wood and vines.",
+  "avianDescription" : "It's a light, but not an attractive one.",
+  "novakidDescription" : "A light that works, what more could you want?",
+
+  "category" : "light",
+  "price" : 90,
+  "printable" : true,
+  "lightColor" : [174, 211, 229],
+  "pointLight" : true,
+  "pointBeam" : 2,
+  "beamAmbience" : 0.7,
+
+  "inventoryIcon" : "wookieceilinglighticon.png",
+  "orientations" : [
+    {
+      "image" : "wookieceilinglight.png:<color>.<frame>",
+      "imagePosition" : [-12, 0],
+      "animationParts" : {
+        "bg" : "wookieceilinglight.png",
+        "fg" : "wookieceilinglightlit.png"
+      },
+      "animationPosition" : [-12, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ],
+      "lightPosition" : [0, 1],
+      "beamAngle" : 270
+    },
+    {
+      "image" : "wookieceilinglight.png:<color>.<frame>",
+      "imagePosition" : [-12, 0],
+      "animationParts" : {
+        "bg" : "wookieceilinglight.png",
+        "fg" : "wookieceilinglightlit.png"
+      },
+      "animationPosition" : [-12, 0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ],
+      "lightPosition" : [0, 1],
+      "beamAngle" : 270
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationParts" : {
+    "bg" : "wookieceilinglight.png",
+    "fg" : "wookieceilinglightlit.png"
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+}

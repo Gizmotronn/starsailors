@@ -1,0 +1,18 @@
+{
+	"id" : "theforce3",
+	"title" : "The Force Part 3",
+	"description" : "Information About The Force.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+  "Thousands of years before the Clone Wars, the Jedi Order and the individuals who became the Sith were considered brothers in the Force. This unity fractured, however, during the period of time known as the Hundred-Year Darkness, when a rogue Jedi came to the understanding that the true power of the Force lay not through contemplation and passivity, and that only by tapping its dark side could its true potential be gained.",
+
+  "The Jedi High Council at the time balked at this new direction and the Dark Jedi was outcast, but he eventually gained followers to his new order, which resulted in the formation of the Sith Order.",
+
+  "As a result of the schism between the Jedi and the Sith, the Force came to be seen as divided between their two philosophies: the Jedi's selfless commitment to serving and defending came to be regarded as the light side of the Force while the Sith's use of emotion and violence became known as the dark side of the Force."
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

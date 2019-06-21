@@ -1,0 +1,28 @@
+{
+	"id" : "thejedi5",
+	"title" : "The Jedi Order Part 5",
+	"description" : "Information About The Jedi Order.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+  "Traveling between the stars, the fledgling Jedi Order fled the Deep Core in favor of Wild Space, a wide swath of the galaxy which had yet to be explored. Discovering a verdant planet much like Tython had once been, the Jedi colonized the world and named it Ossus. Founding an academy on the world, the Jedi Order remained in seclusion on  Ossus, devoting their time to the study of the Ashla and warning against the evils of Bogan.",
+
+  "Having purposely distanced themselves from the newly-formed Galactic Republic, the Jedi Order welcomed members of other Force traditions to Ossus, merging their philosophies and assimilating many other groups into their fold. Carrying over traditions from the old Je'daii Forge, the Great Temple of Vur Tepe, the Jedi continued to craft durasteel blades as part of initiation ceremonies and imbue them with the Force.",
+
+  "While these Force-imbued blades were the primary weapon of choice, the Jedi continued to work in secret to enhance the usability of a new weapon called the lightsaber. In the Order's final years on Tython, a mysterious man from beyond the system brought technology called a Forcesaber to the world. Through the study of the weapon, basically advanced off-world laser technology, the Jedi were able to 'freeze' a laser beam which could cut through durasteel.",
+
+  "By 25,000 BBY the Jedi agreed to join the Republic, remaining isolated on Ossus but supporting the Republic's goal of galactic peace. As the Order welcomed others to Ossus, the leaders of the Jedi began to be influenced by other thinkers who had been involved in galactic affairs much longer than they had. The most prominent influence was a group of Caamasi who preached the principles of justice laid forth by Hespecia Tik'kla; these teachings would lay the framework for the Jedi Order's view of galactic justice and their role as peacekeepers.",
+
+  "At the same time, the Jedi High Council began to assert its authority over the members of the Order, limiting individuality and crafting several exclusionary regulations. Around this time a Kashi Mer exile named Xendor gained a large following on Ossus, taking counsel from a Steel Hand of Palawa named Arden Lyn and eventually breaking peacefully from the Order to found his own academy on Lettow.",
+
+ "As the Order witnessed a surge in renunciates following Xendor, the High Council deemed the so called Legions of Lettow a heretical group which strayed dangerously close to studies of the Bogan and the outflow of students was deemed the Great Schism. Pushing Xendor and his band of schismatics into open conflict, the Jedi Order quickly formed an army with which to crush the Legions of Lettow. Xendor attacked first, landing ships on Ossus before being repelled and driven into the core.",
+
+ "Xendor attempted to spread propaganda about the Jedi throughout the Republic as the war broke out, warning against the Jedi and their guise as peacekeepers. The Republic saw through Xendor's attempts to discredit the strange monks from Ossus and so began aiding the Jedi in the war effort. As conflict erupted on Chandrila, Brentaal, Metellos and Coruscant itself, the war dragged on and on.",
+
+ "Finally, Jedi Master Awdrysta Pina managed to confront Xendor at the battle of Columus and slay the leader of the Legions. In the following months, the rest of the Legions of Lettow were routed and the Great Schism finally ended."
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

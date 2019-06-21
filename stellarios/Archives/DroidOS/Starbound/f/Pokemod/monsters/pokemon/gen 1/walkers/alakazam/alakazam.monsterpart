@@ -1,0 +1,9 @@
+{
+  "name" : "alakazam",
+  "category" : "alakazam",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "alakazam.png"
+  }
+}

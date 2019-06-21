@@ -1,0 +1,9 @@
+{
+  "name" : "flareon",
+  "category" : "flareon",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "flareon.png"
+  }
+}

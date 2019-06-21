@@ -1,0 +1,9 @@
+{
+  "name" : "hypno",
+  "category" : "hypno",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "hypno.png"
+  }
+}

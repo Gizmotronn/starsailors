@@ -1,0 +1,13 @@
+{
+  "itemName" : "SWM2plolegs",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Plo Koon's Pants.",
+  "shortdescription" : "Plo Koon's Pants",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}

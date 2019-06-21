@@ -1,0 +1,28 @@
+{
+	"id" : "bail",
+	"title" : "Bail Organa",
+	"description" : "Information About Bail Organa.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+ 
+"Bail Organa was a human male politician who served as the Senator of the Alderaan sector in the final years of the Galactic Republic.",
+
+"The husband and consort of Queen Breha Organa, Bail Organa bore the titles of Viceroy and First Chairman of Alderaan, and remained his homeworld's representative into the early reign of Emperor Sheev Palpatine's Galactic Empire.",
+
+"After leaving the Senate, he would become one of the most important and influential founders of the Alliance to Restore the Republic.",
+
+"Along with his wife, he was the adoptive parent of Leia Organa, the secret daughter of the fallen Jedi Knight, Anakin Skywalker and the late Senator, Padmé Amidala of Naboo, the latter of whom was a close friend and colleague of his during the Clone Wars."
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

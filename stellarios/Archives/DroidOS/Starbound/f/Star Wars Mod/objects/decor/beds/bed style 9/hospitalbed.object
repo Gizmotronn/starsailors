@@ -1,0 +1,38 @@
+{
+  "objectName" : "hospitalbed",
+  "colonyTags" : ["ithorian", "rodian", "mawg", "zabrak", "droid", "tuskan", "utapaun", "wookie", "sith", "bothan", "twilek", "diathim", "toydarian"],
+  "printable" : false,
+  "rarity" : "Uncommon",
+  "description" : "Republic's hospital bed.",
+  "shortdescription" : "Bed Style 9",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 300,
+
+    "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-5, 20],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/decor/beds/bed style 9/hospitalbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "regeneration4"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "swtoricon3.png",
+  "orientations" : [
+    {
+      "dualImage" : "hospitalbed.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

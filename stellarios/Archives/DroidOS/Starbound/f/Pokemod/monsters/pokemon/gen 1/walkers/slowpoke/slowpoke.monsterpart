@@ -1,0 +1,9 @@
+{
+  "name" : "slowpoke",
+  "category" : "slowpoke",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "slowpoke.png"
+  }
+}

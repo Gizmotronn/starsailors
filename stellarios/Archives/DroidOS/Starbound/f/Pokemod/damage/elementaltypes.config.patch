@@ -1,0 +1,170 @@
+[
+  {
+    "op": "add",
+    "path": "/bug",
+    "value": {
+      "resistanceStat": "bugResistance",
+      "damageNumberParticles": {
+        "hit": "electricdamagenumber",
+        "stronghit": "electricdamagenumberstrong",
+        "weakhit": "electricdamagenumberweak",
+        "shieldhit": "electricdamagenumber",
+        "kill": "electricdamagenumber"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/dragon",
+    "value": {
+      "resistanceStat": "dragonResistance",
+      "damageNumberParticles": {
+        "hit": "electricdamagenumber",
+        "stronghit": "electricdamagenumberstrong",
+        "weakhit": "electricdamagenumberweak",
+        "shieldhit": "electricdamagenumber",
+        "kill": "electricdamagenumber"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/dark",
+    "value": {
+      "resistanceStat": "darkResistance",
+      "damageNumberParticles": {
+        "hit": "electricdamagenumber",
+        "stronghit": "electricdamagenumberstrong",
+        "weakhit": "electricdamagenumberweak",
+        "shieldhit": "electricdamagenumber",
+        "kill": "electricdamagenumber"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/normal",
+    "value": {
+      "resistanceStat": "normalResistance",
+      "damageNumberParticles": {
+        "hit": "electricdamagenumber",
+        "stronghit": "electricdamagenumberstrong",
+        "weakhit": "electricdamagenumberweak",
+        "shieldhit": "electricdamagenumber",
+        "kill": "electricdamagenumber"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/fighting",
+    "value": {
+      "resistanceStat": "fightingResistance",
+      "damageNumberParticles": {
+        "hit": "electricdamagenumber",
+        "stronghit": "electricdamagenumberstrong",
+        "weakhit": "electricdamagenumberweak",
+        "shieldhit": "electricdamagenumber",
+        "kill": "electricdamagenumber"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/flying",
+    "value": {
+      "resistanceStat": "flyingResistance",
+      "damageNumberParticles": {
+        "hit": "electricdamagenumber",
+        "stronghit": "electricdamagenumberstrong",
+        "weakhit": "electricdamagenumberweak",
+        "shieldhit": "electricdamagenumber",
+        "kill": "electricdamagenumber"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/ghost",
+    "value": {
+      "resistanceStat": "ghostResistance",
+      "damageNumberParticles": {
+        "hit": "electricdamagenumber",
+        "stronghit": "electricdamagenumberstrong",
+        "weakhit": "electricdamagenumberweak",
+        "shieldhit": "electricdamagenumber",
+        "kill": "electricdamagenumber"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/grass",
+    "value": {
+      "resistanceStat": "grassResistance",
+      "damageNumberParticles": {
+        "hit": "electricdamagenumber",
+        "stronghit": "electricdamagenumberstrong",
+        "weakhit": "electricdamagenumberweak",
+        "shieldhit": "electricdamagenumber",
+        "kill": "electricdamagenumber"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/ground",
+    "value": {
+      "resistanceStat": "groundResistance",
+      "damageNumberParticles": {
+        "hit": "electricdamagenumber",
+        "stronghit": "electricdamagenumberstrong",
+        "weakhit": "electricdamagenumberweak",
+        "shieldhit": "electricdamagenumber",
+        "kill": "electricdamagenumber"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/water",
+    "value": {
+      "resistanceStat": "waterResistance",
+      "damageNumberParticles": {
+        "hit": "icedamagenumber",
+        "stronghit": "icedamagenumberstrong",
+        "weakhit": "icedamagenumberweak",
+        "shieldhit": "icedamagenumber",
+        "kill": "icedamagenumber"
+      }
+    }
+  },
+   {
+    "op": "add",
+    "path": "/psychic",
+    "value": {
+      "resistanceStat": "psychicResistance",
+      "damageNumberParticles": {
+        "hit": "electricdamagenumber",
+        "stronghit": "electricdamagenumberstrong",
+        "weakhit": "electricdamagenumberweak",
+        "shieldhit": "electricdamagenumber",
+        "kill": "electricdamagenumber"
+      }
+    }
+  },
+   {
+    "op": "add",
+    "path": "/rock",
+    "value": {
+      "resistanceStat": "rockResistance",
+      "damageNumberParticles": {
+        "hit": "electricdamagenumber",
+        "stronghit": "electricdamagenumberstrong",
+        "weakhit": "electricdamagenumberweak",
+        "shieldhit": "electricdamagenumber",
+        "kill": "electricdamagenumber"
+      }
+    }
+  }
+]

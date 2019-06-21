@@ -1,0 +1,38 @@
+{
+  "objectName" : "barracksbunkbed",
+  "colonyTags" : ["ithorian", "rodian", "mawg", "zabrak", "droid", "tuskan", "utapaun", "wookie", "sith", "bothan", "twilek", "diathim", "toydarian"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "Republic's barracks bunk bed.",
+  "shortdescription" : "Bed Style 7",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 100,
+
+   "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 13],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/decor/beds/bed style 7/barracksbunkbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "regeneration1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "swtoricon.png",
+  "orientations" : [
+    {
+      "dualImage" : "barracksbunkbed.png:<color>",
+
+      "imagePosition" : [-24, 1],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "objectName" : "zabrakdesk",
+  "colonyTags" : ["swrace","commerce","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "furniture",
+  "price" : 120,
+  "description" : "Made from the wood of a Wroshyr tree.",
+  "shortdescription" : "Desk Style 3",
+  "race" : "zabrak",
+  "health" : 1.5,
+
+  "apexDescription" : "I wonder who worked here...",
+  "avianDescription" : "A desk of wood.",
+  "floranDescription" : "Dessk iss cool to look at.",
+  "glitchDescription" : "Indifference. A desk.",
+  "humanDescription" : "A professional-looking desk.",
+  "hylotlDescription" : "A thin wood desk.",
+
+  "inventoryIcon" : "zabrakdeskicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "zabrakdesk.png:<color>",
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bunkercabinet_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bunkercabinet_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

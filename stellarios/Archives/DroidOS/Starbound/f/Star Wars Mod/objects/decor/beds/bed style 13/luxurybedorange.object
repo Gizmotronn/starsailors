@@ -1,0 +1,45 @@
+{
+  "objectName" : "luxurybedorange",
+  "colonyTags" : ["ithorian", "rodian", "mawg", "zabrak", "droid", "tuskan", "utapaun", "wookie", "sith", "bothan", "twilek", "diathim", "toydarian"],
+  "printable" : false,
+  "rarity" : "rare",
+  "description" : "Bed for the rich.",
+  "shortdescription" : "Bed Style 13",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 1500,
+
+  "apexDescription" : "Bed for the rich.",
+  "avianDescription" : "Bed for the rich.",
+  "floranDescription" : "Bed for the rich.",
+  "glitchDescription" : "Statement. Bed for the rich.",
+  "humanDescription" : "Bed for the rich.",
+  "hylotlDescription" : "Bed for the rich.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [0, 20],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/decor/beds/bed style 13/luxurybedorange.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "regeneration3"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "swtoricon4.png",
+  "orientations" : [
+    {
+      "dualImage" : "luxurybedorange.png:<color>",
+
+      "imagePosition" : [-24, 1],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "grassblockaugment",
+  "effectConfig" : {},
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "grassblock.lua"
+  ]
+}

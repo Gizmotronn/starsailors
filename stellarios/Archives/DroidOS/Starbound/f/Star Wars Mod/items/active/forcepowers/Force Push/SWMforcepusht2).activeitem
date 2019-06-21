@@ -1,0 +1,97 @@
+{
+  "itemName" : "SWMforcepushT2",
+  "price" : 900,
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "Push foes back using the Force",
+  "shortdescription" : "Force Push T2",
+  "tooltipKind" : "gun",
+  "category" : "shotgun",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","ranged","swm"],
+  "level" : 2,
+
+  "animation" : "/items/active/weapons/ranged/gun.animation",
+  "animationParts" : { },
+  "animationCustom" : { },
+  "baseOffset" : [-1.25, 0.25],
+  "muzzleOffset" : [0.0, 0.3125],
+  "inventoryIcon" : "forcepush.png",
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : [0.4, 1.25],
+    "baseDps" : [13, 17],
+    "energyUsage" : [30, 40],
+    "projectileCount" : [5,8],
+    "inaccuracy" : 0.12,
+
+    "projectileType" : "forcepushbullet",
+    "projectileParameters" : {
+        "knockbackRange" : [60, 90]
+    },
+
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : false,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 8,
+        "weaponRotation" : 8,
+        "twoHanded" : false,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.2,
+        "armRotation" : 8,
+        "weaponRotation" : 8,
+        "twoHanded" : false,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  },
+  "fireSounds" : [ "/sfx/force powers/forcepush.ogg", "/sfx/force powers/forcepush.ogg", "/sfx/force powers/forcepush.ogg", "/sfx/force powers/forcepush.ogg" ],
+
+  "builder" : "/items/buildscripts/buildweapon.lua",
+  "builderConfig" : [{
+     "animationParts" : {
+      "butt" : {
+        "path" : "butt.png",
+        "variants" : 20,
+        "paletteSwap" : true
+      },
+      "middle" : {
+        "path" : "middle.png",
+        "variants" : 20,
+        "paletteSwap" : true
+      },
+      "barrel" : {
+        "path" : "barrel.png",
+        "variants" : 20,
+        "paletteSwap" : true
+      },
+      "muzzleFlash" : ""
+    },
+    "gunParts" : ["butt", "middle", "barrel"],
+    "altAbilities" : [
+      
+    ],
+    "palette" : "/items/active/weapons/colors/ranged.weaponcolors",
+    "iconDrawables" : ["butt", "middle", "barrel"]
+  }]
+}

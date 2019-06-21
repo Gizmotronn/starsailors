@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintinggrunda",
+  "colonyTags" : ["pretty","valuable", "swrace"],
+  "rarity" : "Rare",
+  "description" : "Painting of a Grunda.",
+  "shortdescription" : "Grunda Painting",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+  
+
+  "inventoryIcon" : "paintinggrundaicon.png",
+  "orientations" : [
+    {
+      "image" : "paintinggrunda.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

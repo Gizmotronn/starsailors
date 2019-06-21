@@ -1,0 +1,14 @@
+{
+  "itemName" : "SWM2sith2hood",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "The outfit of a Sith master.",
+  "shortdescription" : "Sith  Hood",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"
+}

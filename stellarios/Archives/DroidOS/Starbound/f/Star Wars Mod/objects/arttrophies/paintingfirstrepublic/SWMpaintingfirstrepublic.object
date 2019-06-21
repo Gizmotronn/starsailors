@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintingfirstrepublic",
+  "colonyTags" : ["swrace","pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "Early symbol used by the Republic.",
+  "shortdescription" : "First Republic Symbol",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+  
+
+  "inventoryIcon" : "paintingfirstrepublicicon.png",
+  "orientations" : [
+    {
+      "image" : "paintingfirstrepublic.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

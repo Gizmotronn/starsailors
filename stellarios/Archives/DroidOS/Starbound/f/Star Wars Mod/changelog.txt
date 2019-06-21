@@ -1,0 +1,9 @@
+Removed Quest - Lightsabers learned upon picking up Kyber Crystals
+Added Glowrods
+Added Republic Credits to basic monster drop pool
+Added Kyber Rock formation to underground biome spawns
+Added Alternate Boba Fett armor and blaster
+Added Luke Skywalker Armor
+Added Luke Skywalker Return of the Jedi Armor
+Added Unlock tokens for stat gear and weapons
+Added Cosmetics Store.

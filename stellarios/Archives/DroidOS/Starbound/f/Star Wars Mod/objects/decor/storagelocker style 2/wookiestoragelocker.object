@@ -1,0 +1,41 @@
+{
+  "objectName" : "wookiestoragelocker",
+  "colonyTags" : ["swrace", "storage"],
+  "rarity" : "Rare",
+  "category" : "storage",
+  "price" : 180,
+  "printable" : false,
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A nice wall-mounted storage locker with a tree design.",
+  "shortdescription" : "Storage Locker Style 2",
+  "race" : "wookie",
+  "health" : 1.5,
+
+  "apexDescription" : "A locker made from Wroshyr wood.",
+  "avianDescription" : "A place to keep your things.",
+  "floranDescription" : "Floran can ssstuff things into locker.",
+  "glitchDescription" : "Neutral. A wooden storage locker.",
+  "humanDescription" : "It's a wooden looking storage locker.",
+  "hylotlDescription" : "Somewhere to store personal belongings.",
+  "novakidDescription" : "A locker in the wall.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "wookiestoragelocker.png:<color>.<key>",
+      "imagePosition" : [-16, -8],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/chest_small_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/chest_small_close.ogg" ],
+  "slotCount" : 48,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "openFrameIndex" : 4,
+  "autoCloseCooldown" : 3600
+}

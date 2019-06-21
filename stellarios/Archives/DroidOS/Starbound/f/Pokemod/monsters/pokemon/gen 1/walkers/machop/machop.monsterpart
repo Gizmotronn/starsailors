@@ -1,0 +1,9 @@
+{
+  "name" : "machop",
+  "category" : "machop",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "machop.png"
+  }
+}

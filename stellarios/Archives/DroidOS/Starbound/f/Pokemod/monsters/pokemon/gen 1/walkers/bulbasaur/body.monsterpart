@@ -1,0 +1,9 @@
+{
+  "name" : "bulbasaur",
+  "category" : "bulbasaur",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "bulbasaur.png"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "itemName" : "SWMtuskancyclerT3",
+  "price" : 900,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Older design of rifle of the slugthrower class.",
+  "shortdescription" : " Tuskan Cycler Rifle",
+  "tooltipKind" : "gun",
+  "category" : "sniperRifle",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","ranged","sniperrifle"],
+  "level" : 3,
+
+  "animation" : "/items/active/weapons/ranged/gun.animation",
+  "animationParts" : { },
+  "animationCustom" : { },
+  "baseOffset" : [-1.0, 0.3],
+  "muzzleOffset" : [0.0, 0.0],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : [1.5, 2.0],
+    "baseDps" : [12, 15],
+    "energyUsage" : [30, 34],
+    "inaccuracy" : 0.008,  "damageConfig" : {
+      "damageSourceKind" : "bow",
+      "statusEffects" : [ ],
+      "knockbackMode" : "aim",
+      "knockback" : 5
+    },
+
+    "projectileType" : "standardbullet",
+    "projectileParameters" : {
+      "knockbackRange" : [10, 30]
+    },
+
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 5,
+        "weaponRotation" : 5,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.25,
+        "armRotation" : 5,
+        "weaponRotation" : 5,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  },
+  "fireSounds" : [ "/sfx/gun/sniper1.ogg", "/sfx/gun/sniper2.ogg", "/sfx/gun/sniper3.ogg", "/sfx/gun/sniper4.ogg" ],
+
+  "builder" : "/items/buildscripts/buildweapon.lua",
+  "builderConfig" : [{
+     "animationParts" : {
+      "butt" : {
+        "path" : "butt.png",
+        "paletteSwap" : true
+      },
+      "middle" : {
+        "path" : "middle.png",
+        "paletteSwap" : true
+      },
+      "barrel" : {
+        "path" : "barrel.png",
+        "paletteSwap" : true
+      },
+      "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
+    },
+    "gunParts" : ["butt", "middle", "barrel"],
+    "altAbilities" : [
+      "explosiveshot"
+    ],
+    "palette" : "/items/active/weapons/colors/ranged.weaponcolors",
+    "iconDrawables" : ["butt", "middle", "barrel"]
+  }]
+}

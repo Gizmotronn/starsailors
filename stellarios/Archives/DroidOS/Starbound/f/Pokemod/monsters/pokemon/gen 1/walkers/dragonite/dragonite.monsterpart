@@ -1,0 +1,9 @@
+{
+  "name" : "dragonite",
+  "category" : "dragonite",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "dragonite.png"
+  }
+}

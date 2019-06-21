@@ -1,0 +1,9 @@
+{
+  "name" : "magikarp",
+  "category" : "magikarp",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "magikarp.png"
+  }
+}

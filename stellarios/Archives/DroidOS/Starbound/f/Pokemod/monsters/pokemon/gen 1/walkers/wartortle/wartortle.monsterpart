@@ -1,0 +1,9 @@
+{
+  "name" : "wartortle",
+  "category" : "wartortle",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "wartortle.png"
+  }
+}

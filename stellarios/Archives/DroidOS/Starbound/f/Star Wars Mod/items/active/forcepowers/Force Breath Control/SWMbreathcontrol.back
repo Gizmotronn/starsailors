@@ -1,0 +1,19 @@
+{
+  "itemName" : "SWMforcebreath",
+  "price" : 300,
+  "inventoryIcon" : "breathcontrol.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "rarity" : "Rare",
+  "description" : "Use the Force to go long periods without Oxygen - back slot item",
+  "shortdescription" : "Force Breath Control",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+
+  "statusEffects" : [
+    {
+      "stat" : "breathProtection",
+      "amount" : 1.0
+    }
+  ]
+}

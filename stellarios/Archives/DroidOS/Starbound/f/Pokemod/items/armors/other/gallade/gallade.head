@@ -1,0 +1,15 @@
+{
+  "itemName" : "pmgalladehead",
+  "price" : 75,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headwear",
+  "description" : "The mask of a gallade outfit.",
+  "shortdescription" : "Gallade Mask",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"
+}

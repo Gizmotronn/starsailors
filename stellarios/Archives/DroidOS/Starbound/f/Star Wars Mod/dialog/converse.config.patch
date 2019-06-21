@@ -1,0 +1,2657 @@
+[
+    {
+        "op": "add",
+        "path": "/greeting/rodian",
+        "value": {
+            "default" : [
+                "Heya!",
+                "Hello yourself."
+            ],
+            "rodian" : [
+                "What brings you here?",
+                "How do you do?",
+                "Another Rodian, out in this vast wilderness?",
+                "Heya! I am <selfname>.",
+                "Oona goota?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/floran/rodian",
+        "value": [
+            "Floran greets stranger.",
+            "Have nice day.",
+            "Hello, funny sscaly sstranger.",
+            "How is sstranger person?",
+            "Sssup new friend?",
+            "Nice meeting you.",
+            "Floran happy we met.",
+            "Can Floran help you?",
+            "Is sstranger ok?",
+            "Welcome."
+        ]
+    },
+ 
+    {
+        "op": "add",
+        "path": "/converse/human/rodian",
+        "value": [
+            "I would love to take you to my leader...except that I don't seem to have one.",
+            "Do you come in peace?",
+            "How is it possible for you to speak with so small a mouth?",
+            "..."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/hylotl/rodian",
+        "value": [
+            "I got my 3 eyes on you.",
+            "Well to me, you DO smell funny.",
+            "You are overly fuzzy.",
+            "...",
+            "We don't have to stay underwater like most people think.",
+            "Do you produce art?",
+            "Why do you hate the Human anyway?",
+            "We are praised for our architecture."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/rodian",
+        "value": {
+            "default" : [
+                "How good are you at playing sabacc?",
+                "It was a bad idea moving away from Rodia to settle here, but I must make do with what I have now.",
+                "What this place needs is a good podracing track to spice things up.",
+                "You can't stop change any more than you can stop the suns from setting.",
+                "How can you folk survive so far away from civilisation out here?",
+                "There are so many planets to explore in this new galaxy.",
+                "I used to be a bounty hunter on many worlds, but am now retired.",
+                "Why don't you get yourself a droid to take over your rent runs?",
+                "Don't talk to me, please.",
+                "Where is your home planet?",
+                "These Glitch aren't the droids we've been looking for."
+            ],
+            "apex" : [
+                "We have powerful friends.",
+                "Go fluff yourself!",
+                "What do you mean that you're not a Wookiee?",
+                "This Miniknog, is it anything like the Republic?",
+                "Your kind remind me of a walking carpet.",
+                "Do the Miniknog have their own bounty hunters?"
+            ],
+            "avian" : [
+                "I don't know what to say. There are some species that look like your kind back home.",
+                "Perhaps your ancestors came from the Galaxy, or they might not.",
+                "None of the avian species I know of back home have ever heard of Avos.",
+                "Who is this Kluex-being you speak of? is it something like what the Jedi worship?"
+            ],
+            "floran" : [
+                "Do your people reproduce themselves like the Neti do?",
+                "I'm not sure if a talking, walking syren plant is a wise choice for a friend.",
+                "Sorry, but I don't talk to plants!",
+                "Watch out for Wookiees, they'd be happy enough to turn your kind into spears and tables!"
+            ],
+            "felin" : [
+                "So you think I smell? Please, go fluff yourself!",
+                "You could pass yourself off as a Bothan or Amaran in Coruscant, if people didn't know better.",
+                "How is it that you can actually keep cool with all that fur?"
+            ],
+            "human" : [
+                "How can you folk survive so far away from civilisation out here?",
+                "What is this Protectorate you speak of? is it a racket like the ones managed by the Hutts?",
+                "People of your kind litter our world.",
+                "It must be sad to have no home planet left to go back to.",
+                "Earth? I've never heard of it before.",
+                "A moon-sized monster with tentacles? that's preposterous!"
+            ],
+            "hylotl" : [
+                "You should consider visiting Glee Anselm some day, if you are able to travel beyond this galaxy like I have done.",
+                "Some of the planets of my home galaxy like Tibrin resemble those of your home planet.",
+                "There are cities just like yours under the depths of Tibrin and Manaan.",
+                "Your eyes look similar to ours. Perhaps our two species could be related?"
+            ],
+            "novakid" : [
+                "I'm surprised you've never worked for Blethern before.",
+                "How is it possible for you to be made of gas and yet maintain a corporeal form?",
+                "Isn't it difficult being a gaseous life form on a windy or wet planet?",
+                "I've been to over a dozen planets in the Outer Rim, yet you're the weirdest creature I've ever seen."
+            ],
+            "glitch" : [
+                "Look out, there's a Jawa scavenger behind you! nope, just kidding.",
+                "I'm uncomfortable with the idea of droids ruling planets, much less telling me how they feel all the time.",
+                "Go away; you'll be malfunctioning in a day, you near-sighted scrap pile!",
+                "If our droids spoke the same way as you we'd have sent them to recyclers a long time ago.",
+                "Now that's just rude of you. Who programmed you to say such things?",
+                "Are your kind capable of playing dejarik?",
+                "If you say you're bored, then I am bored too. Farewell."
+            ],
+            "fenerox" : [
+                "Go fluff yourself!",
+                "What do you mean that you're not a Wookiee?",
+                "My, what big ears you've got!",
+                "What a strange creature you are.",
+                "Are you a Squib? I haven't seen any kynoids other than you thus far.",
+                "Those ears of yours are so big, I guess I had not best whisper even within a sec of you.",
+                "You could pass yourself off as a Bothan or Amaran in Coruscant, if people didn't know better.",
+                "How is it that you can actually keep cool with all that fur?",
+                "If you say you're bored, then I am bored too. Farewell."               
+            ]
+        }
+    },
+ 
+    {
+        "op": "add",
+        "path": "/greeting/bothan",
+        "value": {
+            "default" : [
+                "Hello there!",
+                "How do you do?",
+                "Heya! I am <selfname>.",
+                "How are you my friend?",
+                "A dozen greetings upon you, friend."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/bothan",
+        "value": {
+            "default" : [
+                "How good are you at playing sabacc?",
+                "It was a bad idea moving away from Bothawui to settle here, but here we are now!",
+                "What this place needs is a good podracing track to spice things up.",
+                "Space travel sounds rather perilous; they will never get me on one of those dreadful starships!",
+                "You can't stop change any more than you can stop the suns from setting.",
+                "How can you folk survive so far away from civilisation out here?",
+                "There are so many planets to explore in this new galaxy.",
+                "I've been trying to herd mooshis but haven't had any success. I should've brought some nerfs with me here.",
+                "I used to be a trader on Coruscant, now I have retired to explore the universe while I still can.",
+                "Why don't you get yourself a droid to take over your rent runs?",
+                "These Glitch aren't the droids we've been looking for.",
+                "How do I make my living? I, uh, do day trading on the Corellian Stock Exchange.",
+                "I miss my family and friends; I left them a long time ago when I moved far, far away from the Galaxy.",
+                "Oh, how good are you at playing sabacc?",
+                "It was a bad idea moving away from Coruscant to settle here, but I must make do with what I have now.",
+                "Our home Galaxy was a violent and dangerous place. That's why many ex-spacers like me moved here.",
+                "This Galaxy was hard to reach, but at least it brings a new hope of starting off afresh.",
+                "I wouldn't try a deathstick, not even if you gave me a Neimodian purse-world.",
+                "This place is worse than a spice mine on Kessel, it's too boring!",
+                "Is there a Spice trader nearby here?",
+                "Space colonisation is thirsty work. I could use a bottle of Merenzane Gold, if you have some.",
+                "I've never been this far from the Galaxy all my life.",
+                "A long hard day. I could use a glass of Corelian nectar and a good holonovel.",
+                "How many spacers do you employ on board your ship?",
+                "My former home was a warlike place; homemade armour was and still is common and can be bought in markets everywhere.",
+                "I used to sell deathsticks on Coruscant, but it felt wrong. So I moved here to start afresh.",
+                "Have you ever visited Wild Space before?",
+                "Are you a spacer? how fast and far can your starship go?",
+                "There are so many strange planets out here, it kind of freaks me out."
+            ],
+            "apex" : [
+                "We have powerful friends.",
+                "Go fluff yourself!",
+                "What do you mean that you're not a Wookiee?",
+                "This Miniknog, is it anything like the Republic?",
+                "Your kind remind me of a walking carpet.",
+                "Do the Miniknog have their own bounty hunters?"
+            ],
+            "avian" : [
+                "I don't know what to say. There are some species that look like your kind back home.",
+                "Perhaps your ancestors came from the Galaxy, or they might not.",
+                "I almost mistook you for a Calibop!",
+                "None of the avian species I know of back home have ever heard of Avos.",
+                "Who is this Kluex-being you speak of? is it something like what the Jedi worship?"
+            ],
+            "floran" : [
+                "Wow, a sentient plant! we didn't see many of those back in the old Galaxy.",
+                "Do your people reproduce themselves like the Neti do?",
+                "I'm not sure if a talking, walking syren plant is a wise choice for a friend.",
+                "I've heard of Wirutids before. Are you one of them?",
+                "Sorry, but I don't talk to plants!",
+                "Watch out for Wookiees, they'd be happy enough to turn your kind into spears and tables!"
+            ],
+            "human" : [
+                "How is it that you are so far away from the Galaxy and yet have a good grasp of Basic?",
+                "How can you folk survive so far away from civilisation out here?",
+                "What is this Protectorate you speak of? is it a paramilitary organisation?",
+                "People of your kind litter our world.",
+                "It must be sad to have no home planet left to go back to.",
+                "Earth? I've never heard of it before.",
+                "A moon-sized monster with tentacles? that's preposterous!",
+                "I've seen many of your kind throughout the Galaxy; I'm guessing this was where you came from."
+            ],
+            "hylotl" : [
+                "You should consider visiting Glee Anselm some day, if you are able to travel beyond this galaxy like I have done.",
+                "Have you ever met any Gungans or Aqualish before? you might get along with them just yet!",
+                "Some of the planets of my home galaxy like Tibrin resemble those of your home planet.",
+                "Not all the amphibious species of the Galaxy are as peaceable nor as cultured as you are.",
+                "There are cities just like yours under the depths of Tibrin and Manaan."
+            ],
+            "novakid" : [
+                "We've never seen anything of your kind before. At least not in the old Galaxy.",
+                "I'm surprised you've never worked for Blethern before.",
+                "How is it possible for you to be made of gas and yet maintain a corporeal form?",
+                "Try not to visit Cloud City, they might mistake you for a rogue cloud of Tibanna gas!",
+                "Our manufactories used gases to construct blaster guns. Are Novakid guns made of Novakid-stuff?",
+                "Isn't it difficult being a gaseous life form on a windy or wet planet?",
+                "I've been to over a dozen planets in the Outer Rim, yet you're the weirdest creature I've ever seen."
+            ],
+            "glitch" : [
+                "Look out, there's a Jawa scavenger behind you! nope, just kidding.",
+                "I'm uncomfortable with the idea of droids ruling planets, much less telling me how they feel all the time.",
+                "Go away; you'll be malfunctioning in a day, you near-sighted scrap pile!",
+                "If our droids spoke the same way as you we'd have sent them to recyclers a long time ago.",
+                "Don’t call me a mindless philosopher, you overweight glob of grease!",
+                "Don't you ever feel the need for a debugger, if you gush with emotions all the time?",
+                "Now that's just rude of you. Who programmed you to say such things?",
+                "Are your kind capable of playing dejarik?",
+                "If you say you're bored, then I am bored too. Farewell."
+            ],
+            "fenerox" : [
+                "Go fluff yourself!",
+                "What do you mean that you're not a Wookiee?",
+                "My, what big ears you've got!",
+                "What a strange creature you are.",
+                "Are you a Squib? I haven't seen any kynoids other than you thus far.",
+                "Those ears of yours are so big, I guess I had not best whisper even within a sec of you.",
+                "You could pass yourself off as a Bothan or Amaran in Coruscant, if people didn't know better.",
+                "How is it that you can actually keep cool with all that fur?",
+                "If you say you're bored, then I am bored too. Farewell."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/apex/bothan",
+        "value": [
+            "Do I smell? Please let me know if I do.",
+            "I may be related to Humans, but please don't lump us with them.",
+            "I take offence to being called Kong.",
+            "Good day to you, my bothan friend.",
+            "Don't sneak too much, cat. Miniknog is watching.",
+            "Your freedom fills me with joy, friend",
+            "My fur is in terrible shape, how do I make it look nice like yours?"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/avian/bothan",
+        "value": [
+            "In all the books in our libraries, I have never read about your race.",
+            "I wish I could fly.",
+            "It's okay, I only eat seeds.",
+            "I don't know about the rabbit items in our tombs.",
+            "Cou cou!",
+            "I wish Avians were descended from rabbits, not birds."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/floran/bothan",
+        "value": [
+            "Floran greets stranger.",
+            "Have nice day.",
+            "Hello, fuzzy sstranger.",
+            "How is sstranger person?",
+            "Sssup new friend?",
+            "Nice meeting you.",
+            "Floran happy we met.",
+            "Can Floran help you?",
+            "Is sstranger ok?",
+            "Welcome."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/glitch/bothan",
+        "value": [
+            "Eager. Salutations.",
+            "Welcoming. I will always welcome new friends!",
+            "Friendly. It is wonderful to meet you.",
+            "Excited. Yay! A new fuzzy friend!",
+            "Cordial. Hello my fine fuzzy fellow.",
+            "Surly. Hi...",
+            "Merry. Welcome, welcome, welcome!"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/human/bothan",
+        "value": [
+            "Don't hurt me please.",
+            "I feel like it was mostly a huge misunderstanding.",
+            "You know, I actually was on your side.",
+            "You're so fluffy!",
+            "I'm sorry for my people.",
+            "I would love to take you to my leader...except that I don't seem to have one.",
+            "Do you come in peace?",
+            "Do you have dealings with the Fenerox or Felin?",
+            "..."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/hylotl/bothan",
+        "value": [
+            "I got my 3 eyes on you.",
+            "Well to me, you smell funny.",
+            "You are overly fuzzy.",
+            "Your ears are a work of art.",
+            "We don't have to stay underwater like most people think.",
+            "Do you produce art?",
+            "Why do you hate the Human anyway?",
+            "We are praised for our architecture."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/novakid/bothan",
+        "value": [
+            "Howdy, howdy and howdy once more!",
+            "This town ain't big enough for the both of us.",
+            "Howdy my fuzzy lil' partner.",
+            "I can tell y'all aren't from around here."
+        ]
+    },
+     
+    {
+        "op": "add",
+        "path": "/greeting/twilek",
+        "value": {
+            "default" : [
+                "A dozen greetings upon you, friend."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/twilek",
+        "value": {
+            "default" : [
+                "How good are you at playing sabacc?",
+                "It was a bad idea moving away from Fondor to settle here, but I must make do with what I have now.",
+                "What this place needs is a good podracing track to spice things up.",
+                "You can't stop change any more than you can stop the suns from setting.",
+                "Where is your home planet?",
+                "I've never been this far from the Galaxy all my life.",
+                "A long hard day. I could use a glass of Corelian nectar and a good holonovel.",
+                "How many spacers do you employ on board your ship?",
+                "No, I will NOT dance for you!",
+                "There are so many strange planets out here, it kind of freaks me out.",
+                "I used to be an itinerant spacer until I found this place. I've now settled and am trying to start a new business.",
+                "If you're a bounty hunter, I hope you're not here for me."
+ 
+            ],
+            "apex" : [
+                "This Miniknog, is it anything like the Republic?",
+                "Your kind remind me of a walking carpet.",
+                "Do the Miniknog have their own bounty hunters?",
+                "Our home Galaxy was a violent and dangerous place. That's why many ex-spacers like me moved here.",
+                "This Galaxy was hard to reach, but at least it brings a new hope of starting off afresh.",
+                "My former home was a warlike place; homemade armour was and still is common and can be bought in markets everywhere.",
+                "Many of my people are slaves back in the Galaxy. I was lucky as I managed to escape here."
+            ],
+            "avian" : [
+                "I don't know what to say. There are some species that look like your kind back home.",
+                "Perhaps your ancestors came from the Galaxy, or they might not.",
+                "I almost mistook you for a Calibop!",
+                "Our home Galaxy was a violent and dangerous place. That's why many ex-spacers like me moved here.",
+                "This Galaxy was hard to reach, but at least it brings a new hope of starting off afresh.",
+                "How is it that you are so far away from the Galaxy and yet have a good grasp of Basic?",
+                "My former home was a warlike place; homemade armour was and still is common and can be bought in markets everywhere."
+            ],
+            "floran" : [
+                "Wow, a sentient plant! we didn't see many of those back in the old Galaxy.",
+                "Do your people reproduce themselves like the Neti do?",
+                "I'm not sure if a talking, walking syren plant is a wise choice for a friend.",
+                "I've heard of Wirutids before. Are you one of them?",
+                "Watch out for Wookiees, they'd be happy enough to turn your kind into spears and tables!",
+                "Our home Galaxy was a violent and dangerous place. That's why many ex-spacers like me moved here.",
+                "How is it that you are so far away from the Galaxy and yet have a good grasp of Basic?",
+                "My former home was a warlike place; homemade armour was and still is common and can be bought in markets everywhere."
+            ],
+            "human" : [
+                "How is it that you are so far away from the Galaxy and yet have a good grasp of Basic?",
+                "How can you folk survive so far away from civilisation out here?",
+                "These Glitch aren't the droids we've been looking for.",
+                "How do I make my living? I, uh, do day trading on the Corellian Stock Exchange.",
+                "Our home Galaxy was a violent and dangerous place. That's why many ex-spacers like me moved here.",
+                "This Galaxy was hard to reach, but at least it brings a new hope of starting off afresh.",
+                "My former home was a warlike place; homemade armour was and still is common and can be bought in markets everywhere.",
+                "What is this Protectorate you speak of? is it a paramilitary organisation?",
+                "It must be sad to have no home planet left to go back to.",
+                "Earth? I've never heard of it before.",
+                "I've seen many of your kind throughout the Galaxy; I'm guessing this was where you came from.",
+                "We Twi'Lek are survivalists, we like humans can be found almost everywhere."
+            ],
+            "hylotl" : [
+                "You should consider visiting Glee Anselm some day, if you are able to travel beyond this galaxy like I have done.",
+                "Have you ever met any Gungans or Aqualish before? you might get along with them just yet!",
+                "Some of the planets of my home galaxy like Tibrin resemble those of your home planet.",
+                "Not all the amphibious species of the Galaxy are as peaceable nor as cultured as you are.",
+                "There are cities just like yours under the depths of Tibrin and Manaan.",
+                "These Glitch aren't the droids we've been looking for.",
+                "When you live on a planet with one half scorched and the other freezing, you learn to appreciate the small things in life well.",
+                "How is it that you are so far away from the Galaxy and yet have a good grasp of Basic?",
+                "My former home was a warlike place; homemade armour was and still is common and can be bought in markets everywhere."
+            ],
+            "novakid" : [
+                "We've never seen anything of your kind before. At least not in the old Galaxy.",
+                "I'm surprised you've never worked for Blethern before.",
+                "Our manufactories used gases to construct blaster guns. Are Novakid guns made of Novakid-stuff?",
+                "Isn't it difficult being a gaseous life form on a windy or wet planet?",
+                "I've been to over a dozen planets in the Outer Rim, yet you're the weirdest creature I've ever seen.",
+                "These Glitch aren't the droids we've been looking for.",
+                "This Galaxy was hard to reach, but at least it brings a new hope of starting off afresh.",
+                "You can't remember a thing about your own roots? well neither can us.",
+                "My former home was a warlike place; homemade armour was and still is common and can be bought in markets everywhere."
+            ],
+            "glitch" : [
+                "Look out, there's a Jawa scavenger behind you! nope, just kidding.",
+                "Our home Galaxy was a violent and dangerous place. That's why many ex-spacers like me moved here.",
+                "This Galaxy was hard to reach, but at least it brings a new hope of starting off afresh.",
+                "How is it that you are so far away from the Galaxy and yet have a good grasp of Basic?",
+                "My former home was a warlike place; homemade armour was and still is common and can be bought in markets everywhere."
+            ],
+            "fenerox" : [
+                "My, what big ears you've got!",
+                "What a strange creature you are.",
+                "Are you a Squib? I haven't seen any kynoids other than you thus far.",
+                "Those ears of yours are so big, I guess I had not best whisper even within a sec of you.",
+                "You could pass yourself off as a Bothan or Amaran in Coruscant, if people didn't know better.",
+                "How is it that you can actually keep cool with all that fur?",
+                "These Glitch aren't the droids we've been looking for.",
+                "My former home was a warlike place; homemade armour was and still is common and can be bought in markets everywhere."
+            ],
+            "twilek" : [
+                "I used to sell deathsticks on Coruscant, but it felt wrong. So I moved here to start afresh.",
+                "Have you ever visited Wild Space before?",
+                "Are you a spacer? how fast and far can your starship go?",
+                "I miss my family and friends; I left them a long time ago when I moved far, far away from the Galaxy.",
+                "I used to be a trader on Ryloth, now I have retired to explore the universe while I still can.",
+                "Why don't you get yourself a droid to take over your rent runs?",
+                "Oh, how good are you at playing sabacc?",
+                "It was a bad idea moving away from Coruscant to settle here, but I must make do with what I have now.",
+                "I was once a slave, but I found a way to leave the Galaxy behind.",
+                "I wouldn't try a deathstick, not even if you gave me a Neimodian purse-world.",
+                "This place is worse than a spice mine on Kessel, it's too boring!",
+                "Is there a Spice trader nearby here?",
+                "Space colonisation is thirsty work. I could use a bottle of Merenzane Gold, if you have some.",
+                "Back home I was deep in debt to the Hutts, so I fled. That's why I am here."
+            ],
+            "felin" : [
+                "Go fluff yourself!",
+                "How is it that you are so far away from the Galaxy and yet have a good grasp of Basic?",
+                "Do I smell? Please let me know if I do.",
+                "Those ears of yours are so big, I guess I had not best whisper even within a sec of you.",
+                "You could pass yourself off as a Bothan or Amaran in Coruscant, if people didn't know better.",
+                "How is it that you can actually keep cool with all that fur?"
+ 
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/apex/twilek",
+        "value": [
+            "Do I smell? Please let me know if I do.",
+            "I may be related to Humans, but please don't lump us with them.",
+            "I take offence to being called Kong.",
+            "Good day to you, my twilek friend.",
+            "Don't sneak too much, cat. Miniknog is watching.",
+            "Your freedom fills me with joy, friend",
+            "My fur is in terrible shape, how do I make it look nice like yours?"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/avian/twilek",
+        "value": [
+            "In all the books in our libraries, I have never read about your race.",
+            "I wish I could fly.",
+            "It's okay, I only eat seeds.",
+            "I don't know about the rabbit items in our tombs.",
+            "Cou cou!",
+            "I wish Avians were descended from rabbits, not birds."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/floran/twilek",
+        "value": [
+            "Floran greets stranger.",
+            "Have nice day.",
+            "Hello, funny sstranger.",
+            "How is sstranger person?",
+            "Sssup new friend?",
+            "Nice meeting you.",
+            "Floran happy we met.",
+            "Can Floran help you?",
+            "Is sstranger ok?",
+            "Welcome."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/glitch/twilek",
+        "value": [
+            "Eager. Salutations.",
+            "Welcoming. I will always welcome new friends!",
+            "Friendly. It is wonderful to meet you.",
+            "Excited. Yay! A new fuzzy friend!",
+            "Cordial. Hello my fine fuzzy fellow.",
+            "Surly. Hi...",
+            "Merry. Welcome, welcome, welcome!"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/human/twilek",
+        "value": [
+            "For an alien, you're pretty gorgeous.",
+            "What's up with those things ... lekku on your head?",
+            "I would love to take you to my leader...except that I don't seem to have one.",
+            "Do you come in peace?",
+            "You're all one weird bunch. But in a fun way."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/hylotl/twilek",
+        "value": [
+            "I got my 3 eyes on you.",
+            "Well to me, you smell funny.",
+            "You are overly fuzzy.",
+            "Your ears are a work of art.",
+            "We don't have to stay underwater like most people think.",
+            "Do you produce art?",
+            "Why do you hate the Human anyway?",
+            "We are praised for our architecture."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/novakid/twilek",
+        "value": [
+            "Howdy, howdy and howdy once more!",
+            "This town ain't big enough for the both of us.",
+            "Howdy my fuzzy lil' partner.",
+            "I can tell y'all aren't from around here."
+        ]
+    },
+     
+    {
+        "op": "add",
+        "path": "/greeting/sith",
+        "value": {
+            "default" : [
+                "....",
+                "I shall not speak to any grotthu like your debased kind."
+            ],
+            "sith" : [
+                "I can sense that you have potential.",
+                "The Force seems to be strong with you.",
+                "Well met, fellow Sith."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/sith",
+        "value": {
+            "default" : [
+                "Go fluff yourself!",
+                "Fear is the natural ally of the victorious. You must learn to make it your friend.",
+                "I’m one with the Force. The Force is with me.",
+                "A Mawg once insulted my religion. Needless to say, I got her to stop calling it 'the Schwarz'.",
+                "Have you ever visited Korriban before?",
+                "Why do I get the feeling you're going to be the death of me?",
+                "My mentor taught me everything about the Force, even the nature of the dark side.",
+                "I find your lack of faith disturbing.",
+                "You have hate, you have anger; yet you don’t use them?"
+            ],
+            "apex" : [
+                "We have powerful friends.",
+                "We Sith were once supreme throughout the universe. One day, all shall bow before us.",
+                "The ability to destroy a planet is insignificant next to the power of the Force.",
+                "The Republic is nothing compared to the combined powers of the Force and our warriors.",
+                "Ours is a proud race; we once ruled almost half of all the known worlds of the Galaxy."
+            ],
+            "avian" : [
+                "You Avians amaze me. Not even the best Zuguruk can erect temples as beautiful as yours.",
+                "The Force is far more powerful than this Kluex of yours. Your people will soon realise that some day.",
+                "The Republic is nothing compared to the combined powers of the Force and our warriors.",
+                "The way your Stargazers disposes of traitors is most praiseworthy.",
+                "Ours is a proud race; we once ruled almost half of all the known worlds of the Galaxy."
+            ],
+            "floran" : [
+                "The Republic is nothing compared to the combined powers of the Force and our warriors.",
+                "Ours is a proud race; we once ruled almost half of all the known worlds of the Galaxy."
+            ],
+            "human" : [
+                "We Sith were once supreme throughout the universe. One day, all shall bow before us.",
+                "Do they have cookies in the Protectorate? no, I don't mean that sort of cookies!",
+                "The Republic is nothing compared to the combined powers of the Force and our warriors.",
+                "Ours is a proud race; we once ruled almost half of all the known worlds of the Galaxy."
+            ],
+            "hylotl" : [
+                "There is beauty in embracing the Dark Side; it is liberating as much as it is empowering.",
+                "Domination of the lesser races of the universe is an art in itself.",
+                "The Republic is nothing compared to the combined powers of the Force and our warriors.",
+                "Ours is a proud race; we once ruled almost half of all the known worlds of the Galaxy."
+            ],
+            "novakid" : [
+                "The Republic is nothing compared to the combined powers of the Force and our warriors.",
+                "Ours is a proud race; we once ruled almost half of all the known worlds of the Galaxy."
+            ],
+            "glitch" : [
+                "The Republic is nothing compared to the combined powers of the Force and our warriors.",
+                "Ours is a proud race; we once ruled almost half of all the known worlds of the Galaxy."
+            ],
+            "fenerox" : [
+                "Domination of the lesser races of the universe is an art in itself.",
+                "The Republic is nothing compared to the combined powers of the Force and our warriors.",
+                "Ours is a proud race; we once ruled almost half of all the known worlds of the Galaxy."
+            ],
+            "felin" : [
+                "Domination of the lesser races of the universe is an art in itself.",
+                "The Republic is nothing compared to the combined powers of the Force and our warriors.",
+                "Ours is a proud race; we once ruled almost half of all the known worlds of the Galaxy."
+            ],
+            "rodian" : [
+                "Domination of the lesser races of the universe is an art in itself.",
+                "The Republic is nothing compared to the combined powers of the Force and our warriors.",
+                "The very scent of you offends me to no end, grotthu."
+            ],
+            "sith" : [
+                "It was a bad idea moving away from Korriban to settle here, but I must make do with what I have now.",
+                "What this place needs is a good podracing track to spice things up.",
+                "You can't stop change any more than you can stop the suns from setting.",
+                "How can you folk survive so far away from civilisation out here?",
+                "There are so many planets to explore in this new galaxy.",
+                "Why don't you get yourself a droid to take over your rent runs?",
+                "Why do you consort with these grotthu races anyway?",
+                "These Glitch aren't the droids we've been looking for.",
+                "How do I make my living? I, uh, do day trading on the Corellian Stock Exchange.",
+                "Are you a follower of the Jeda'il order? you look like one yourself."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/apex/sith",
+        "value": [
+            "Do I smell? Please let me know if I do.",
+            "I may be related to Humans, but please don't lump us with them.",
+            "I take offence to being called Kong.",
+            "Good day to you, my sith friend.",
+            "Don't sneak too much, cat. Miniknog is watching.",
+            "Your freedom fills me with joy, friend",
+            "My fur is in terrible shape, how do I make it look nice like yours?"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/avian/sith",
+        "value": [
+            "In all the books in our libraries, I have never read about your race.",
+            "I wish I could fly.",
+            "It's okay, I only eat seeds.",
+            "I don't know about the rabbit items in our tombs.",
+            "Cou cou!",
+            "I wish Avians were descended from rabbits, not birds."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/floran/sith",
+        "value": [
+            "Floran greets stranger.",
+            "Have nice day.",
+            "Hello, funny red sstranger.",
+            "How is sstranger person?",
+            "Sssup new friend?",
+            "Nice meeting you.",
+            "Floran happy we met.",
+            "Can Floran help you?",
+            "Is sstranger ok?",
+            "Welcome."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/glitch/sith",
+        "value": [
+            "Eager. Salutations.",
+            "Welcoming. I will always welcome new friends!",
+            "Friendly. It is wonderful to meet you.",
+            "Wary. There is something wrong with your skin pigmentation.",
+            "Cordial. Hello my fine fuzzy fellow.",
+            "Surly. Hi...",
+            "Merry. Welcome, welcome, welcome!"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/human/sith",
+        "value": [
+            "Are you Sith red in colour because you're always so angry?",
+            "Don't hurt me please.",
+            "How do people tell you've made a faux pas if they can't see you blush?",
+            "Can't you ever come in peace?",
+            "We should have finished you off.",
+            "You know, I actually was on your side.",
+            "You're so ruddy!"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/hylotl/sith",
+        "value": [
+            "I got my 3 eyes on you.",
+            "Don't look back in anger, you'll hear me say.",
+            "You are overly monochromatic, there just isn't enough variation in your skin tone.",
+            "We don't have to stay underwater like most people think.",
+            "Do you produce art?",
+            "Why do you hate everyone else anyway?",
+            "We are praised for our architecture."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/novakid/sith",
+        "value": [
+            "Howdy, howdy and howdy once more!",
+            "This town ain't big enough for the both of us.",
+            "You sure look funny as heck, stranger!",
+            "I can tell y'all aren't from around here."
+        ]
+    },
+     
+     
+     
+    {
+        "op": "add",
+        "path": "/greeting/diathim",
+        "value": {
+            "default" : [
+                "...",
+                "..."
+            ],
+            "apex" : [
+                "...",
+                "..."
+            ],
+            "avian" : [
+                "...",
+                "..."
+            ],
+            "floran" : [
+                "...",
+                "..."
+            ],
+            "glitch" : [
+                "...",
+                "..."
+            ],
+            "human" : [
+                "...",
+                "..."
+            ],
+            "hylotl" : [
+                "...",
+                "..."
+            ],
+            "novakid" : [
+                "...",
+                "..."
+            ],
+            "fenerox" : [
+                "...",
+                "..."
+            ],
+            "felin" : [
+                "...",
+                "..."
+            ],
+            "diathim" : [
+                "How do you do?",
+                "Heya! I am <selfname>."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/diathim",
+        "value": {
+            "default" : [
+                "..."
+            ],
+            "apex" : [
+                "..."
+            ],
+            "avian" : [
+                "..."
+            ],
+            "floran" : [
+                "..."
+            ],
+            "glitch" : [
+                "..."
+            ],
+            "human" : [
+                "..."
+            ],
+            "hylotl" : [
+                "..."
+            ],
+            "novakid" : [
+                "..."
+            ],
+            "fenerox" : [
+                "..."
+            ],
+            "felin" : [
+                "...."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/apex/diathim",
+        "value": [
+            "Where is your home planet?",
+            "I may be related to Humans, but please don't lump us with them.",
+            "I take offence to being called Kong.",
+            "Good day to you, my diathim friend.",
+            "Don't sneak too much, cat. Miniknog is watching.",
+            "Your freedom fills me with joy, friend",
+            "Do your people know how to grow bananas?"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/avian/diathim",
+        "value": [
+            "In all the books in our libraries, I have never read about your race.",
+            "Have you ever been to Avos before?",
+            "I don't know about the rabbit items in our tombs.",
+            "You're sure you're not one of the Ascended?",
+            "I wish Avians were descended from rabbits, not birds.",
+            "Do you worship Kluex?",
+            "Are you a prophet of Kluex?",
+            "Your people seem to have been visted by Kluex!",
+            "Cou cou!"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/floran/diathim",
+        "value": [
+            "Floran greets stranger.",
+            "Have nice day.",
+            "Hello, bright shhhiny sstranger.",
+            "How is sstranger person?",
+            "Sssup new friend?",
+            "Nice meeting you.",
+            "Floran happy we met.",
+            "Can Floran help you?",
+            "Is sstranger ok?",
+            "Welcome."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/glitch/diathim",
+        "value": [
+            "Eager. Salutations.",
+            "Welcoming. I will always welcome new friends!",
+            "Friendly. It is wonderful to meet you.",
+            "Intrigued. Where is your home planet?",
+            "Cordial. Hello my fine fuzzy fellow.",
+            "Surly. Hi...",
+            "Merry. Welcome, welcome, welcome!"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/human/diathim",
+        "value": [
+            "Don't hurt me please.",
+            "I would love to take you to my leader...except that I don't seem to have one.",
+            "Do you come in peace?",
+            "For an alien, you''re pretty gorgeous.",
+            "Are you an angel?",
+            "Do you know any Avians?"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/hylotl/diathim",
+        "value": [
+            "I got my 3 eyes on you.",
+            "Well to me, you smell funny.",
+            "You are overly fuzzy.",
+            "Your ears are a work of art.",
+            "We don't have to stay underwater like most people think.",
+            "Do you produce art?",
+            "Why do you hate the Human anyway?",
+            "We are praised for our architecture."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/novakid/diathim",
+        "value": [
+            "Howdy, howdy and howdy once more!",
+            "This town ain't big enough for the both of us.",
+            "Howdy my fuzzy lil' partner.",
+            "I can tell y'all aren't from around here."
+        ]
+    },
+     
+     
+    {
+        "op": "add",
+        "path": "/greeting/togruta",
+        "value": {
+            "default" : [
+                "A dozen greetings upon you, friend."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/togruta",
+        "value": {
+            "default" : [
+                "It was a bad idea moving away from Shili to settle here, but I must make do with what I have now.",
+                "What this place needs is a good podracing track to spice things up.",
+                "You can't stop change any more than you can stop the suns from setting.",
+                "How can you folk survive so far away from civilisation out here?",
+                "There are so many planets to explore in this new galaxy.",
+                "I've been trying to herd mooshis but haven't had any success. I should've brought some nerfs with me here.",
+                "Why don't you get yourself a droid to take over your rent runs?",
+                "Where is your home planet?",
+                "I miss my family and friends; I left them a long time ago when I moved far, far away from the Galaxy.",
+                "This Galaxy was hard to reach, but at least it brings a new hope of starting off afresh.",
+                "I've never been this far from the Galaxy all my life.",
+                "How many spacers do you employ on board your ship?",
+                "Have you ever visited Wild Space before?",
+                "Are you a spacer? how fast and far can your starship go?",
+                "There are so many strange planets out here, it kind of freaks me out."
+            ],
+            "apex" : [
+                "This Miniknog, is it anything like the Republic?",
+                "Do the Miniknog have their own bounty hunters?",
+                "These Glitch aren't the droids we've been looking for."
+            ],
+            "avian" : [
+                "I don't know what to say. There are some species that look like your kind back home.",
+                "Perhaps your ancestors came from the Galaxy, or they might not.",
+                "I almost mistook you for a Calibop!",
+                "None of the avian species I know of back home have ever heard of Avos.",
+                "Who is this Kluex-being you speak of? is it something like what the Jedi worship?",
+                "These Glitch aren't the droids we've been looking for."
+            ],
+            "floran" : [
+                "Wow, a sentient plant! we didn't see many of those back in the old Galaxy.",
+                "Do your people reproduce themselves like the Neti do?",
+                "I've heard of Wirutids before. Are you one of them?",
+                "Are your people great hunters?",
+                "What sort of creatures do you hunt?",
+                "Watch out for Wookiees, they'd be happy enough to turn your kind into spears and tables!",
+                "These Glitch aren't the droids we've been looking for."
+            ],
+            "human" : [
+                "What is this Protectorate you speak of? is it a paramilitary organisation?",
+                "It must be sad to have no home planet left to go back to.",
+                "Earth? I've never heard of it before.",
+                "I've seen many of your kind throughout the Galaxy; I'm guessing this was where you came from.",
+                "These Glitch aren't the droids we've been looking for."
+            ],
+            "hylotl" : [
+                "Some of the planets of my home galaxy like Tibrin resemble those of your home planet.",
+                "Not all the amphibious species of the Galaxy are as peaceable nor as cultured as you are.",
+                "These Glitch aren't the droids we've been looking for."
+            ],
+            "novakid" : [
+                "We've never seen anything of your kind before. At least not in the old Galaxy.",
+                "How is it possible for you to be made of gas and yet maintain a corporeal form?",
+                "Isn't it difficult being a gaseous life form on a windy or wet planet?",
+                "These Glitch aren't the droids we've been looking for."
+            ],
+            "glitch" : [
+                "Are you a droid of some sort?",
+                "Are your kind capable of playing dejarik?"
+            ],
+            "felin" : [
+                "My, what big ears you've got!",
+                "What a strange creature you are.",
+                "How is it that you can actually keep cool with all that fur?",
+                "These Glitch aren't the droids we've been looking for."
+            ],
+            "fenerox" : [
+                "My, what big ears you've got!",
+                "What a strange creature you are.",
+                "Are you a Squib? I haven't seen any kynoids other than you thus far.",
+                "How is it that you can actually keep cool with all that fur?",
+                "These Glitch aren't the droids we've been looking for."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/apex/togruta",
+        "value": [
+            "Do I smell? Please let me know if I do.",
+            "I may be related to Humans, but please don't lump us with them.",
+            "I take offence to being called Kong.",
+            "Good day to you, my togruta friend.",
+            "Don't sneak too much, cat. Miniknog is watching.",
+            "Your freedom fills me with joy, friend",
+            "My fur is in terrible shape, how do I make it look nice like yours?"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/avian/togruta",
+        "value": [
+            "In all the books in our libraries, I have never read about your race.",
+            "I wish I could fly.",
+            "It's okay, I only eat seeds.",
+            "I don't know about the rabbit items in our tombs.",
+            "Cou cou!",
+            "I wish Avians were descended from rabbits, not birds."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/floran/togruta",
+        "value": [
+            "Floran greets stranger.",
+            "Have nice day.",
+            "Hello, fuzzy sstranger.",
+            "How is sstranger person?",
+            "Sssup new friend?",
+            "Nice meeting you.",
+            "Floran happy we met.",
+            "Can Floran help you?",
+            "Is sstranger ok?",
+            "Welcome."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/glitch/togruta",
+        "value": [
+            "Eager. Salutations.",
+            "Welcoming. I will always welcome new friends!",
+            "Friendly. It is wonderful to meet you.",
+            "Excited. Yay! A new fuzzy friend!",
+            "Cordial. Hello my fine fuzzy fellow.",
+            "Surly. Hi...",
+            "Merry. Welcome, welcome, welcome!"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/human/togruta",
+        "value": [
+            "I would love to take you to my leader...except that I don't seem to have one.",
+            "Do you come in peace?"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/hylotl/togruta",
+        "value": [
+            "I got my 3 eyes on you.",
+            "Well to me, you smell funny.",
+            "You are overly fuzzy.",
+            "Your ears are a work of art.",
+            "We don't have to stay underwater like most people think.",
+            "Do you produce art?",
+            "Why do you hate the Human anyway?",
+            "We are praised for our architecture."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/novakid/togruta",
+        "value": [
+            "Howdy, howdy and howdy once more!",
+            "This town ain't big enough for the both of us.",
+            "Howdy my fuzzy lil' partner.",
+            "I can tell y'all aren't from around here."
+        ]
+    },
+     
+    {
+        "op": "add",
+        "path": "/greeting/ithorian",
+        "value": {
+            "default" : [
+                "How do you do?",
+                "Heya! I am <selfname>."
+            ],
+            "apex" : [
+                "How do you do?",
+                "Heya! I am <selfname>."
+            ],
+            "avian" : [
+                "How do you do?",
+                "Heya! I am <selfname>."
+            ],
+            "glitch" : [
+                "How do you do?",
+                "Heya! I am <selfname>."
+            ],
+            "hylotl" : [
+                "How do you do?",
+                "Heya! I am <selfname>."
+            ],
+            "novakid" : [
+                "How do you do?",
+                "Heya! I am <selfname>."
+            ],
+            "human" : [
+                "How do you do?",
+                "Heya! I am <selfname>."
+            ],
+            "floran" : [
+                "How do you do?",
+                "Heya! I am <selfname>."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/ithorian",
+        "value": {
+            "default" : [
+                "How good are you at playing sabacc?",
+                "You can't stop change any more than you can stop the suns from setting.",
+                "How can you folk survive so far away from civilisation out here?",
+                "There are so many planets to explore in this new galaxy.",
+                "How do I make my living? I, uh, do day trading on the Corellian Stock Exchange.",
+                "I miss my family and friends; I left them a long time ago when I moved far, far away from the Galaxy.",
+                "This Galaxy was hard to reach, but at least it brings a new hope of starting off afresh.",
+                "I've never been this far from the Galaxy all my life.",
+                "How many spacers do you employ on board your ship?",
+                "Have you ever visited Wild Space before?",
+                "Are you a spacer? how fast and far can your starship go?",
+                "There are so many strange planets out here, it kind of freaks me out."
+            ],
+            "apex" : [
+                "This Miniknog, is it anything like the Republic?",
+                "Do the Miniknog have their own bounty hunters?",
+                "These Glitch aren't the droids we've been looking for."
+            ],
+            "avian" : [
+                "I don't know what to say. There are some species that look like your kind back home.",
+                "Perhaps your ancestors came from the Galaxy, or they might not.",
+                "I almost mistook you for a Calibop!",
+                "None of the avian species I know of back home have ever heard of Avos.",
+                "Who is this Kluex-being you speak of? is it something like what the Jedi worship?",
+                "These Glitch aren't the droids we've been looking for."
+            ],
+            "floran" : [
+                "Wow, a sentient plant! we didn't see many of those back in the old Galaxy.",
+                "Do your people reproduce themselves like the Neti do?",
+                "I'm not sure if a talking, walking syren plant is a wise choice for a friend.",
+                "I've heard of Wirutids before. Are you one of them?",
+                "Watch out for Wookiees, they'd be happy enough to turn your kind into spears and tables!",
+                "These Glitch aren't the droids we've been looking for."
+            ],
+            "human" : [
+                "How can you folk survive so far away from civilisation out here?",
+                "What is this Protectorate you speak of? is it a paramilitary organisation?",
+                "People of your kind litter our world.",
+                "It must be sad to have no home planet left to go back to.",
+                "Earth? I've never heard of it before.",
+                "A moon-sized monster with tentacles? that's preposterous!",
+                "I've seen many of your kind throughout the Galaxy; I'm guessing this was where you came from.",
+                "These Glitch aren't the droids we've been looking for."
+            ],
+            "hylotl" : [
+                "Some of the planets of my home galaxy like Tibrin resemble those of your home planet.",
+                "Not all the amphibious species of the Galaxy are as peaceable nor as cultured as you are.",
+                "These Glitch aren't the droids we've been looking for."
+            ],
+            "novakid" : [
+                "We've never seen anything of your kind before. At least not in the old Galaxy.",
+                "I'm surprised you've never worked for Blethern before.",
+                "How is it possible for you to be made of gas and yet maintain a corporeal form?",
+                "Try not to visit Cloud City, they might mistake you for a rogue cloud of Tibanna gas!",
+                "Our manufactories used gases to construct blaster guns. Are Novakid guns made of Novakid-stuff?",
+                "Isn't it difficult being a gaseous life form on a windy or wet planet?",
+                "These Glitch aren't the droids we've been looking for."
+            ],
+            "glitch" : [
+                "I'm uncomfortable with the idea of droids ruling planets, much less telling me how they feel all the time.",
+                "Are your kind capable of playing dejarik?"
+            ],
+            "fenerox" : [
+                "Go fluff yourself!",
+                "What do you mean that you're not a Wookiee?",
+                "My, what big ears you've got!",
+                "What a strange creature you are.",
+                "Are you a Squib? I haven't seen any kynoids other than you thus far.",
+                "Those ears of yours are so big, I guess I had not best whisper even within a sec of you.",
+                "You could pass yourself off as a Bothan or Amaran in Coruscant, if people didn't know better.",
+                "How is it that you can actually keep cool with all that fur?",
+                "If you say you're bored, then I am bored too. Farewell.",
+                "These Glitch aren't the droids we've been looking for."
+            ],
+            "felin" : [
+                "Those ears of yours are so big, I guess I had not best whisper even within a sec of you.",
+                "You could pass yourself off as a Bothan or Amaran in Coruscant, if people didn't know better.",
+                "How is it that you can actually keep cool with all that fur?",
+                "You smell funny."
+            ],
+            "ithorian" : [
+                "It was a bad idea moving away from my childhood Herdship to settle here, but here we are now!",
+                "Why don't you get yourself a droid to take over your rent runs?",
+                "Where is your Herdship?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/apex/ithorian",
+        "value": [
+            "Do I smell? Please let me know if I do.",
+            "I may be related to Humans, but please don't lump us with them.",
+            "I take offence to being called Kong.",
+            "Good day to you, my ithorian friend.",
+            "Don't sneak too much, cat. Miniknog is watching.",
+            "Your freedom fills me with joy, friend",
+            "My fur is in terrible shape, how do I make it look nice like yours?"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/avian/ithorian",
+        "value": [
+            "In all the books in our libraries, I have never read about your race.",
+            "I wish I could fly.",
+            "It's okay, I only eat seeds.",
+            "I don't know about the rabbit items in our tombs.",
+            "Cou cou!",
+            "I wish Avians were descended from rabbits, not birds."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/floran/ithorian",
+        "value": [
+            "Floran greets stranger.",
+            "Have nice day.",
+            "Hello, fuzzy sstranger.",
+            "How is sstranger person?",
+            "Sssup new friend?",
+            "Nice meeting you.",
+            "Floran happy we met.",
+            "Can Floran help you?",
+            "Is sstranger ok?",
+            "Welcome."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/glitch/ithorian",
+        "value": [
+            "Eager. Salutations.",
+            "Welcoming. I will always welcome new friends!",
+            "Friendly. It is wonderful to meet you.",
+            "Excited. Yay! A new fuzzy friend!",
+            "Cordial. Hello my fine fuzzy fellow.",
+            "Surly. Hi...",
+            "Merry. Welcome, welcome, welcome!"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/human/ithorian",
+        "value": [
+            "Woah! I've just had a close encounter with the Third Kind. Um, sorry. Hello",
+            "Has anyone ever told you about how you look like an alien from an ancient Earth movie?",
+            "..."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/hylotl/ithorian",
+        "value": [
+            "I got my 3 eyes on you.",
+            "Well to me, you smell funny.",
+            "You are overly fuzzy.",
+            "Your ears are a work of art.",
+            "We don't have to stay underwater like most people think.",
+            "Do you produce art?",
+            "Why do you hate the Human anyway?",
+            "We are praised for our architecture."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/novakid/ithorian",
+        "value": [
+            "Howdy, howdy and howdy once more!",
+            "This town ain't big enough for the both of us.",
+            "Howdy my fuzzy lil' partner.",
+            "I can tell y'all aren't from around here."
+        ]
+    },
+     
+    {
+        "op": "add",
+        "path": "/greeting/mawg",
+        "value": {
+            "default" : [
+                "So, at last we meet for the first time for the last time.",
+                "How do you do?",
+                "Oi!"
+            ],
+            "novakid" : [
+                "So, at last we meet for the first time for the last time.",
+                "How do you do?",
+                "Oi!"
+            ],
+            "apex" : [
+                "So, at last we meet for the first time for the last time.",
+                "How do you do?",
+                "Oi!"
+            ],
+            "avian" : [
+                "So, at last we meet for the first time for the last time.",
+                "How do you do?",
+                "Oi!"
+            ],
+            "floran" : [
+                "So, at last we meet for the first time for the last time.",
+                "How do you do?",
+                "Oi!"
+            ],
+            "human" : [
+                "So, at last we meet for the first time for the last time.",
+                "How do you do?",
+                "Oi!"
+            ],
+            "glitch" : [
+                "So, at last we meet for the first time for the last time.",
+                "How do you do?",
+                "Oi!"
+            ],
+            "hylotl" : [
+                "So, at last we meet for the first time for the last time.",
+                "How do you do?",
+                "Oi!"
+            ],
+            "mawg" : [
+                "Hiya, Furball!",
+                "Heya! I am <selfname>.",
+                "Howdy, howdy and howdy once more!",
+                "Checking in?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/mawg",
+        "value": {
+            "default" : [
+                "I'm my own best friend.",
+                "There are days I can't tell if I wanna be a dog, or a man.",
+                "Throw me a freakin' bone here, please?",
+                "If someone called Pizza comes by here, let him-it-know I'm not around, I'm trying to lay low!",
+                "We get into arguments over which planet is the richest. For some it's Spaceball or Muunilinst. For me it's Druidia.",
+                "Personally I dislike the Druish. They're so loud, nasty and greedy, yet their Credits are always good.",
+                "These Glitch aren't the droids we've been looking for.",
+                "How do I make my living? I, uh, do day trading on the Corellian Stock Exchange."
+            ],
+            "human" : [
+                "I'm my own best friend.",
+                "There are days I can't tell if I wanna be a dog, or a man.",
+                "Throw me a freakin' bone here, please?",
+                "If someone called Pizza comes by here, let him-it-know I'm not around, I'm trying to lay low!",
+                "We get into arguments over which planet is the richest. For some it's Spaceball or Muunilinst. For me it's Druidia.",
+                "Personally I dislike the Druish. They're so loud, nasty and greedy, yet their Credits are always good.",
+                "These Glitch aren't the droids we've been looking for.",
+                "How do I make my living? I, uh, do day trading on the Corellian Stock Exchange."
+            ],
+            "avian" : [
+                "How do I make my living? I, uh, do day trading on the Corellian Stock Exchange.",
+                "Polly wanna cracker?",
+                "Whatever happens, don't chicken out!",
+                "I've always wanted to ruffle a few feathers here and there ever since I was a pup!"
+            ],
+            "hylotl" : [
+                "I'm my own best friend.",
+                "There are days I can't tell if I wanna be a dog, or a man.",
+                "Throw me a freakin' bone here, please?",
+                "If someone called Pizza comes by here, let him-it-know I'm not around, I'm trying to lay low!",
+                "We get into arguments over which planet is the richest. For some it's Spaceball or Muunilinst. For me it's Druidia.",
+                "Personally I dislike the Druish. They're so loud, nasty and greedy, yet their Credits are always good.",
+                "These Glitch aren't the droids we've been looking for.",
+                "How do I make my living? I, uh, do day trading on the Corellian Stock Exchange."
+            ],
+            "apex" : [
+                "Go fluff yourself!",
+                "What do you mean that you're not a Wookiee?",
+                "This Miniknog, is it anything like the Republic?",
+                "Your kind remind me of a walking carpet.",
+                "Do the Miniknog have their own bounty hunters?"
+            ],
+            "floran" : [
+                "I would be barking up the wrong tree to think about talking to you!",
+                "Sorry, but I don't talk to plants!",
+                "Watch out for Wookiees, they'd be happy enough to turn your kind into spears and tables!"
+            ],
+            "novakid" : [
+                "We've never seen anything of your kind before. At least not in the old Galaxy.",
+                "How is it possible for you to be made of gas and yet maintain a corporeal form?",
+                "Our manufactories used gases to construct blaster guns. Are Novakid guns made of Novakid-stuff?",
+                "Isn't it difficult being a gaseous life form on a windy or wet planet?",
+                "I've been to over a dozen planets in the Outer Rim, yet you're the weirdest creature I've ever seen."
+            ],
+            "glitch" : [
+                "I'm uncomfortable with the idea of droids ruling planets, much less telling me how they feel all the time.",
+                "Go away; you'll be malfunctioning in a day, you near-sighted scrap pile!",
+                "If our droids spoke the same way as you we'd have sent them to recyclers a long time ago.",
+                "Don’t call me a mindless philosopher, you overweight glob of grease!",
+                "Don't you ever feel the need for a debugger, if you gush with emotions all the time?",
+                "Now that's just rude of you. Who programmed you to say such things?",
+                "Are your kind capable of playing dejarik?",
+                "If you say you're bored, then I am bored too. Farewell."
+            ],
+            "felin" : [
+                "It's a dog-eat-dog world out there!",
+                "Your kind remind me of a walking carpet.",
+                "I'm my own best friend.",
+                "I would be barking up the wrong tree to think about talking to you!",
+                "If you say you're bored, then I am bored too. Farewell."
+ 
+            ],
+            "mawg" : [
+                "It's a dog-eat-dog world out there!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/apex/mawg",
+        "value": [
+            "Do I smell? Please let me know if I do.",
+            "I may be related to Humans, but please don't lump us with them.",
+            "I take offence to being called Kong.",
+            "Good day to you, my mawg friend.",
+            "Don't sneak too much, cat. Miniknog is watching.",
+            "Your freedom fills me with joy, friend",
+            "My fur is in terrible shape, how do I make it look nice like yours?"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/avian/mawg",
+        "value": [
+            "In all the books in our libraries, I have never read about your race.",
+            "I wish I could fly.",
+            "It's okay, I only eat seeds.",
+            "I don't know about the rabbit items in our tombs.",
+            "Cou cou!",
+            "I wish Avians were descended from rabbits, not birds."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/floran/mawg",
+        "value": [
+            "Floran greets stranger.",
+            "Have nice day.",
+            "Hello, fuzzy sstranger.",
+            "How is sstranger person?",
+            "Sssup new friend?",
+            "Nice meeting you.",
+            "Floran happy we met.",
+            "Can Floran help you?",
+            "Is sstranger ok?",
+            "Welcome."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/glitch/mawg",
+        "value": [
+            "Eager. Salutations.",
+            "Welcoming. I will always welcome new friends!",
+            "Friendly. It is wonderful to meet you.",
+            "Excited. Yay! A new fuzzy friend!",
+            "Cordial. Hello my fine fuzzy fellow.",
+            "Surly. Hi...",
+            "Merry. Welcome, welcome, welcome!"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/human/mawg",
+        "value": [
+            "Holy dog, a talking cow. Wait...",
+            "Woof woof! Did I get it right?",
+            "What kind of pedigree do you have?",
+            "Do you find it hard to resist the allure of fire hydrants?",
+            "..."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/hylotl/mawg",
+        "value": [
+            "I got my 3 eyes on you.",
+            "Well to me, you smell funny.",
+            "You are overly fuzzy.",
+            "Your ears are a work of art.",
+            "We don't have to stay underwater like most people think.",
+            "Do you produce art?",
+            "Why do you hate the Human anyway?",
+            "We are praised for our architecture."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/novakid/mawg",
+        "value": [
+            "Howdy, howdy and howdy once more!",
+            "This town ain't big enough for the both of us.",
+            "Howdy my fuzzy lil' partner.",
+            "I can tell y'all aren't from around here."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/greeting/wookie",
+        "value": {
+            "default" : [
+                "...",
+                "..."
+            ],
+            "apex" : [
+                "...",
+                "..."
+            ],
+            "avian" : [
+                "...",
+                "..."
+            ],
+            "floran" : [
+                "...",
+                "..."
+            ],
+            "glitch" : [
+                "...",
+                "..."
+            ],
+            "human" : [
+                "...",
+                "..."
+            ],
+            "hylotl" : [
+                "...",
+                "..."
+            ],
+            "novakid" : [
+                "...",
+                "..."
+            ],
+            "fenerox" : [
+                "...",
+                "..."
+            ],
+            "felin" : [
+                "...",
+                "..."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/wookie",
+        "value": {
+            "default" : [
+                "...",
+                "..."
+            ],
+            "apex" : [
+                "...",
+                "..."
+            ],
+            "avian" : [
+                "...",
+                "..."
+            ],
+            "floran" : [
+                "...",
+                "..."
+            ],
+            "glitch" : [
+                "...",
+                "..."
+            ],
+            "human" : [
+                "...",
+                "..."
+            ],
+            "hylotl" : [
+                "...",
+                "..."
+            ],
+            "novakid" : [
+                "...",
+                "..."
+            ],
+            "fenerox" : [
+                "...",
+                "..."
+            ],
+            "felin" : [
+                "...",
+                "..."
+            ],
+            "wookie" : [
+                "It was a bad idea moving away from Kashyyyk to settle here, but I must make do with what I have now.",
+                "How can you folk survive so far away from civilisation out here?",
+                "There are so many planets to explore in this new galaxy.",
+                "Why don't you get yourself a droid to take over your rent runs?",
+                "Don't talk to me, please.",
+                "Where is your home planet?",
+                "These Glitch aren't the droids we've been looking for.",
+                "How do I make my living? I, uh, do day trading on the Corellian Stock Exchange.",
+                "I miss my family and friends; I left them a long time ago when I moved far, far away from the Galaxy.",
+                "Oh, how good are you at playing sabacc?",
+                "This Galaxy was hard to reach, but at least it brings a new hope of starting off afresh.",
+                "This place is worse than a spice mine on Kessel, it's too boring!",
+                "Is there a Spice trader nearby here?",
+                "I've never been this far from the Galaxy all my life.",
+                "How many spacers do you employ on board your ship?",
+                "I used to sell deathsticks on Coruscant, but it felt wrong. So I moved here to start afresh.",
+                "Have you ever visited Wild Space before?",
+                "A dozen greetings upon you, friend.",
+                "Are you a spacer? how fast and far can your starship go?",
+                "There are so many strange planets out here, it kind of freaks me out."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/apex/wookie",
+        "value": [
+            "Do I smell? Please let me know if I do.",
+            "I may be related to Humans, but please don't lump us with them.",
+            "I take offence to being called Kong.",
+            "Good day to you, my wookie friend.",
+            "Don't sneak too much, cat. Miniknog is watching.",
+            "Your freedom fills me with joy, friend",
+            "My fur is in terrible shape, how do I make it look nice like yours?"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/avian/wookie",
+        "value": [
+            "In all the books in our libraries, I have never read about your race.",
+            "I wish I could fly.",
+            "It's okay, I only eat seeds.",
+            "I don't know about the rabbit items in our tombs.",
+            "Cou cou!",
+            "I wish Avians were descended from rabbits, not birds."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/floran/wookie",
+        "value": [
+            "Floran greets stranger.",
+            "Have nice day.",
+            "Hello, fuzzy sstranger.",
+            "How is sstranger person?",
+            "Sssup new friend?",
+            "Nice meeting you.",
+            "Floran happy we met.",
+            "Can Floran help you?",
+            "Is sstranger ok?",
+            "Welcome."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/glitch/wookie",
+        "value": [
+            "Eager. Salutations.",
+            "Welcoming. I will always welcome new friends!",
+            "Friendly. It is wonderful to meet you.",
+            "Excited. Yay! A new fuzzy friend!",
+            "Cordial. Hello my fine fuzzy fellow.",
+            "Surly. Hi...",
+            "Merry. Welcome, welcome, welcome!"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/human/wookie",
+        "value": [
+            "Don't hurt me please.",
+            "I feel like it was mostly a huge misunderstanding.",
+            "I would love to take you to my leader...except that I don't seem to have one.",
+            "You're so fluffy!",
+            "We should have finished you off.",
+            "Do you come in peace?",
+            "..."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/hylotl/wookie",
+        "value": [
+            "I got my 3 eyes on you.",
+            "Well to me, you smell funny.",
+            "You are overly fuzzy.",
+            "Your ears are a work of art.",
+            "We don't have to stay underwater like most people think.",
+            "Do you produce art?",
+            "Why do you hate the Human anyway?",
+            "We are praised for our architecture."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/novakid/wookie",
+        "value": [
+            "Howdy, howdy and howdy once more!",
+            "This town ain't big enough for the both of us.",
+            "Howdy my fuzzy lil' partner.",
+            "I can tell y'all aren't from around here."
+        ]
+    },
+     
+    {
+        "op": "add",
+        "path": "/greeting/toydarian",
+        "value": {
+            "default" : [
+                "Heya!",
+                "How do you do?",
+                "Heya! I am <selfname>.",
+                "How are you my friend?"
+            ],
+            "avian" : [
+                "Heya!",
+                "How do you do?",
+                "Hiya my feathered friend",
+                "Heya! I am <selfname>.",
+                "Howdy, howdy and howdy once more!"
+            ],
+            "floran" : [
+                "Heya!",
+                "How do you do?",
+                "Hiya my leafy friend",
+                "Heya! I am <selfname>.",
+                "Howdy, howdy and howdy once more!"
+            ],
+            "human" : [
+                "...",
+                "Hi.",
+                "Hello."
+            ],
+            "hylotl" : [
+                "Heya!",
+                "How do you do?",
+                "Hiya my fishy friend",
+                "Heya! I am <selfname>.",
+                "Howdy, howdy and howdy once more!"
+            ],
+            "novakid" : [
+                "Heya!",
+                "How do you do?",
+                "Hiya glowing being.",
+                "Heya! I am <selfname>.",
+                "Howdy, howdy and howdy once more!"
+            ],
+            "apex" : [
+                "...",
+                "Hi.",
+                "Hello."
+            ],
+            "glitch" : [
+                "...",
+                "Hi.",
+                "Hello."
+            ],
+            "toydarian" : [
+                "Heya!",
+                "How do you do?",
+                "Hiya Furball",
+                "Heya! I am <selfname>.",
+                "Howdy, howdy and howdy once more!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/toydarian",
+        "value": {
+            "default" : [
+                "How good are you at playing sabacc?",
+                "It was a bad idea moving away from Kashyyyk to settle here, but I must make do with what I have now.",
+                "What this place needs is a good podracing track to spice things up.",
+                "Space travel sounds rather perilous; they will never get me on one of those dreadful starships!",
+                "You can't stop change any more than you can stop the suns from setting.",
+                "How can you folk survive so far away from civilisation out here?",
+                "There are so many planets to explore in this new galaxy.",
+                "I've been trying to herd mooshis but haven't had any success. I should've brought some nerfs with me here.",
+                "I used to be a trader on Coruscant, now I have retired to explore the universe while I still can.",
+                "Why don't you get yourself a droid to take over your rent runs?",
+                "Don't talk to me, please.",
+                "Where is your home planet?",
+                "These Glitch aren't the droids we've been looking for.",
+                "How do I make my living? I, uh, do day trading on the Corellian Stock Exchange."
+            ],
+            "apex" : [
+                "We have powerful friends.",
+                "Go fluff yourself!",
+                "What do you mean that you're not a Wookiee?",
+                "This Miniknog, is it anything like the Republic?",
+                "Your kind remind me of a walking carpet.",
+                "Do the Miniknog have their own bounty hunters?"
+            ],
+            "avian" : [
+                "I don't know what to say. There are some species that look like your kind back home.",
+                "Perhaps your ancestors came from the Galaxy, or they might not.",
+                "I almost mistook you for a Calibop!",
+                "None of the avian species I know of back home have ever heard of Avos.",
+                "Who is this Kluex-being you speak of? is it something like what the Jedi worship?"
+            ],
+            "floran" : [
+                "Wow, a sentient plant! we didn't see many of those back in the old Galaxy.",
+                "Do your people reproduce themselves like the Neti do?",
+                "I'm not sure if a talking, walking syren plant is a wise choice for a friend.",
+                "I've heard of Wirutids before. Are you one of them?",
+                "Sorry, but I don't talk to plants!",
+                "Watch out for Wookiees, they'd be happy enough to turn your kind into spears and tables!"
+            ],
+            "human" : [
+                "How can you folk survive so far away from civilisation out here?",
+                "What is this Protectorate you speak of? is it a paramilitary organisation?",
+                "People of your kind litter our world.",
+                "It must be sad to have no home planet left to go back to.",
+                "Earth? I've never heard of it before.",
+                "A moon-sized monster with tentacles? that's preposterous!",
+                "I've seen many of your kind throughout the Galaxy; I'm guessing this was where you came from."
+            ],
+            "hylotl" : [
+                "You should consider visiting Glee Anselm some day, if you are able to travel beyond this galaxy like I have done.",
+                "Have you ever met any Gungans or Aqualish before? you might get along with them just yet!",
+                "Some of the planets of my home galaxy like Tibrin resemble those of your home planet.",
+                "Not all the amphibious species of the Galaxy are as peaceable nor as cultured as you are.",
+                "There are cities just like yours under the depths of Tibrin and Manaan."
+            ],
+            "novakid" : [
+                "We've never seen anything of your kind before. At least not in the old Galaxy.",
+                "I'm surprised you've never worked for Blethern before.",
+                "How is it possible for you to be made of gas and yet maintain a corporeal form?",
+                "Try not to visit Cloud City, they might mistake you for a rogue cloud of Tibanna gas!",
+                "Our manufactories used gases to construct blaster guns. Are Novakid guns made of Novakid-stuff?",
+                "Isn't it difficult being a gaseous life form on a windy or wet planet?",
+                "I've been to over a dozen planets in the Outer Rim, yet you're the weirdest creature I've ever seen."
+            ],
+            "glitch" : [
+                "Look out, there's a Jawa scavenger behind you! nope, just kidding.",
+                "I'm uncomfortable with the idea of droids ruling planets, much less telling me how they feel all the time.",
+                "Go away; you'll be malfunctioning in a day, you near-sighted scrap pile!",
+                "If our droids spoke the same way as you we'd have sent them to recyclers a long time ago.",
+                "Don’t call me a mindless philosopher, you overweight glob of grease!",
+                "Don't you ever feel the need for a debugger, if you gush with emotions all the time?",
+                "Now that's just rude of you. Who programmed you to say such things?",
+                "Are your kind capable of playing dejarik?",
+                "If you say you're bored, then I am bored too. Farewell."
+            ],
+            "fenerox" : [
+                "Go fluff yourself!",
+                "What do you mean that you're not a Wookiee?",
+                "My, what big ears you've got!",
+                "What a strange creature you are.",
+                "Are you a Squib? I haven't seen any kynoids other than you thus far.",
+                "Those ears of yours are so big, I guess I had not best whisper even within a sec of you.",
+                "You could pass yourself off as a Bothan or Amaran in Coruscant, if people didn't know better.",
+                "How is it that you can actually keep cool with all that fur?",
+                "If you say you're bored, then I am bored too. Farewell."
+            ],
+            "felin" : [
+                "Go fluff yourself!",
+                "Do I smell? Please let me know if I do.",
+                "Those ears of yours are so big, I guess I had not best whisper even within a sec of you.",
+                "You could pass yourself off as a Bothan or Amaran in Coruscant, if people didn't know better.",
+                "How is it that you can actually keep cool with all that fur?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/apex/toydarian",
+        "value": [
+            "I may be related to Humans, but please don't lump us with them.",
+            "I take offence to being called Kong.",
+            "Good day to you, my toydarian friend.",
+            "Don't sneak too much, cat. Miniknog is watching.",
+            "Your freedom fills me with joy, friend",
+            "My fur is in terrible shape, how do I make it look nice like yours?"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/avian/toydarian",
+        "value": [
+            "In all the books in our libraries, I have never read about your race.",
+            "Let's have a flying race.",
+            "It's okay, I only eat seeds.",
+            "I don't know about the rabbit items in our tombs.",
+            "Cou cou!",
+            "I wish Avians were descended from rabbits, not birds."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/floran/toydarian",
+        "value": [
+            "Floran greets stranger.",
+            "Have nice day.",
+            "Hello, fuzzy sstranger.",
+            "How is sstranger person?",
+            "Sssup new friend?",
+            "Nice meeting you.",
+            "Floran happy we met.",
+            "Can Floran help you?",
+            "Is sstranger ok?",
+            "Welcome."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/glitch/toydarian",
+        "value": [
+            "Eager. Salutations.",
+            "Welcoming. I will always welcome new friends!",
+            "Friendly. It is wonderful to meet you.",
+            "Excited. Yay! A new fuzzy friend!",
+            "Cordial. Hello my fine fuzzy fellow.",
+            "Surly. Hi...",
+            "Merry. Welcome, welcome, welcome!"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/human/toydarian",
+        "value": [
+            "Don't hurt me please.",
+            "I feel like it was mostly a huge misunderstanding.",
+            "You know, I actually was on your side.",
+            "You're so fluffy!",
+            "I'm sorry for my people.",
+            "We should have finished you off.",
+            "Do you eat a lot of carrots?",
+            "..."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/hylotl/toydarian",
+        "value": [
+            "I got my 3 eyes on you.",
+            "Well to me, you smell funny.",
+            "You are overly fuzzy.",
+            "Your ears are a work of art.",
+            "We don't have to stay underwater like most people think.",
+            "Do you produce art?",
+            "Why do you hate the Human anyway?",
+            "We are praised for our architecture."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/novakid/toydarian",
+        "value": [
+            "Howdy, howdy and howdy once more!",
+            "This town ain't big enough for the both of us.",
+            "Howdy my fuzzy lil' partner.",
+            "I can tell y'all aren't from around here."
+        ]
+    },
+     
+    {
+        "op": "add",
+        "path": "/greeting/utapaun",
+        "value": {
+            "default" : [
+                "Heya!",
+                "How do you do?",
+                "Heya! I am <selfname>.",
+                "How are you my friend?"
+            ],
+            "avian" : [
+                "Heya!",
+                "How do you do?",
+                "Hiya my feathered friend",
+                "Heya! I am <selfname>.",
+                "Greetings!"
+            ],
+            "floran" : [
+                "Heya!",
+                "How do you do?",
+                "Hiya my leafy friend",
+                "Heya! I am <selfname>.",
+                "Greetings!"
+            ],
+            "human" : [
+                "...",
+                "Hi.",
+                "Hello."
+            ],
+            "hylotl" : [
+                "Heya!",
+                "How do you do?",
+                "Hiya my fishy friend",
+                "Heya! I am <selfname>.",
+                "Greetings!"
+            ],
+            "novakid" : [
+                "Ummmm......hello."
+            ],
+            "apex" : [
+                "...",
+                "Hi.",
+                "Hello."
+            ],
+            "glitch" : [
+                "...",
+                "Hi.",
+                "Hello."
+            ],
+            "utapaun" : [
+                "Another Pau'an! and far away from home at that!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/utapaun",
+        "value": {
+            "default" : [
+                "It was a bad idea moving away from Utapau to settle here, but this planet looks promising nonetheless.",
+                "Space travel sounds rather perilous; they will never get me on one of those dreadful starships!",
+                "You can't stop change any more than you can stop the suns from setting.",
+                "How can you folk survive so far away from civilisation out here?",
+                "There are so many planets to explore in this new galaxy.",
+                "I've been trying to herd mooshis but haven't had any success. I should've brought some nerfs with me here.",
+                "Why don't you get yourself a droid to take over your rent runs?",
+                "Where is your home planet?",
+                "I miss my family and friends; I left them a long time ago when I moved far, far away from the Galaxy.",
+                "This Galaxy was hard to reach, but at least it brings a new hope of starting off afresh.",
+                "I've never been this far from the Galaxy all my life.",
+                "A long hard day. I could use a glass of Corelian nectar and a good holonovel.",
+                "How many spacers do you employ on board your ship?"
+            ],
+            "apex" : [
+                "This Miniknog, is it anything like the Republic?",
+                "Do the Miniknog have their own bounty hunters?"
+            ],
+            "avian" : [
+                "Perhaps your ancestors came from the Galaxy, or they might not.",
+                "I almost mistook you for a Calibop!",
+                "None of the avian species I know of back home have ever heard of Avos."
+            ],
+            "floran" : [
+                "Do your people reproduce themselves like the Neti do?",
+                "I'm not sure if a talking, walking syren plant is a wise choice for a friend.",
+                "I've heard of Wirutids before. Are you one of them?",
+                "Watch out for Wookiees, they'd be happy enough to turn your kind into spears and tables!"
+            ],
+            "human" : [
+                "How can you folk survive so far away from civilisation out here?",
+                "How is it that you are so far away from the Galaxy and yet have a good grasp of Basic?",
+                "What is this Protectorate you speak of? is it a paramilitary organisation?",
+                "I've seen many of your kind throughout the Galaxy; I'm guessing this was where you came from."
+            ],
+            "hylotl" : [
+                "Some of the planets of my home galaxy like Tibrin resemble those of your home planet.",
+                "Not all the amphibious species of the Galaxy are as peaceable nor as cultured as you are.",
+                "There are cities just like yours under the depths of Tibrin and Manaan."
+            ],
+            "novakid" : [
+                "We've never seen anything of your kind before. At least not in the old Galaxy.",
+                "How is it possible for you to be made of gas and yet maintain a corporeal form?",
+                "Our manufactories used gases to construct blaster guns. Are Novakid guns made of Novakid-stuff?",
+                "I've been to over a dozen planets in the Outer Rim, yet you're the weirdest creature I've ever seen."
+            ],
+            "glitch" : [
+                "Now that's just rude of you. Who programmed you to say such things?",
+                "Are your kind capable of playing dejarik?",
+                "If you say you're bored, then I am bored too. Farewell."
+            ],
+            "fenerox" : [
+                "My, what big ears you've got!",
+                "What a strange creature you are.",
+                "Are you a Squib? I haven't seen any kynoids other than you thus far."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/apex/utapaun",
+        "value": [
+            "Do I smell? Please let me know if I do.",
+            "I may be related to Humans, but please don't lump us with them.",
+            "I take offence to being called Kong.",
+            "Good day to you, my Pau'an friend.",
+            "Don't sneak too much, cat. Miniknog is watching.",
+            "Your freedom fills me with joy, friend",
+            "My fur is in terrible shape, how do I make it look nice like yours?"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/avian/utapaun",
+        "value": [
+            "In all the books in our libraries, I have never read about your race.",
+            "I wish I could fly.",
+            "It's okay, I only eat seeds.",
+            "I don't know about the rabbit items in our tombs.",
+            "Cou cou!",
+            "I wish Avians were descended from rabbits, not birds."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/floran/utapaun",
+        "value": [
+            "Floran greets stranger.",
+            "Have nice day.",
+            "Hello, fuzzy sstranger.",
+            "How is sstranger person?",
+            "Sssup new friend?",
+            "Nice meeting you.",
+            "Floran happy we met.",
+            "Can Floran help you?",
+            "Is sstranger ok?",
+            "Welcome."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/glitch/utapaun",
+        "value": [
+            "Eager. Salutations.",
+            "Welcoming. I will always welcome new friends!",
+            "Friendly. It is wonderful to meet you.",
+            "Excited. Yay! A new friend from beyond the stars!",
+            "Cordial. Hello my fine fuzzy fellow.",
+            "Surly. Hi...",
+            "Merry. Welcome, welcome, welcome!"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/human/utapaun",
+        "value": [
+            "I would love to take you to my leader...except that I don't seem to have one.",
+            "Do you come in peace?",
+            "..."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/hylotl/utapaun",
+        "value": [
+            "I got my 3 eyes on you.",
+            "Well to me, you smell funny.",
+            "You are overly fuzzy.",
+            "Your ears are a work of art.",
+            "We don't have to stay underwater like most people think.",
+            "Do you produce art?",
+            "Why do you hate the Human anyway?",
+            "We are praised for our architecture."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/novakid/utapaun",
+        "value": [
+            "Howdy, howdy and howdy once more!",
+            "This town ain't big enough for the both of us.",
+            "Howdy my fuzzy lil' partner.",
+            "I can tell y'all aren't from around here."
+        ]
+    },
+     
+    {
+        "op": "add",
+        "path": "/greeting/tuskan",
+        "value": {
+            "default" : [
+                "...",
+                "Huurugh!"
+            ],
+            "apex" : [
+                "...",
+                "Huurugh!"
+            ],
+            "floran" : [
+                "...",
+                "Huurugh!"
+            ],
+            "avian" : [
+                "...",
+                "Huurugh!"
+            ],
+            "glitch" : [
+                "...",
+                "Huurugh!"
+            ],
+            "human" : [
+                "...",
+                "Huurugh!"
+            ],
+            "hylotl" : [
+                "...",
+                "Huurugh!"
+            ],
+            "novakid" : [
+                "...",
+                "Huurugh!"
+            ],
+            "tuskan" : [
+                "Many greetings!",
+                "How do you do?",
+                "Arrrgh!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/tuskan",
+        "value": {
+            "default" : [
+                "What this place needs is a good podracing track to spice things up.",
+                "You can't stop change any more than you can stop the suns from setting.",
+                "There are so many planets to explore in this new galaxy.",
+                "These Glitch aren't the droids we've been looking for."
+            ],
+            "apex" : [
+                "We have powerful friends.",
+                "Go fluff yourself!",
+                "Your kind remind me of a walking carpet.",
+                "Do the Miniknog have their own bounty hunters?"
+            ],
+            "avian" : [
+                "None of the avian species I know of back home have ever heard of Avos.",
+                "Who is this Kluex-being you speak of? is it something like what the Jedi worship?"
+            ],
+            "floran" : [
+                "Sorry, but I don't talk to plants!"
+            ],
+            "tuskan" : [
+                "It was a bad idea moving away from Tatooine to settle here, but here we are now!"
+            ],
+            "hylotl" : [
+                "Are your home planets rich with water?"
+            ],
+            "human" : [
+                "Huurugh!"
+            ],
+            "novakid" : [
+                "We've never seen anything of your kind before. At least not in the old Galaxy.",
+                "I've been to over a dozen planets in the Outer Rim, yet you're the weirdest creature I've ever seen."
+            ],
+            "glitch" : [
+                "Look out, there's a Jawa scavenger behind you! nope, just kidding.",
+                "Go away; you'll be malfunctioning in a day, you near-sighted scrap pile!",
+                "If our droids spoke the same way as you we'd have sent them to recyclers a long time ago.",
+                "Don’t call me a mindless philosopher, you overweight glob of grease!"
+            ],
+            "fenerox" : [
+                "Go fluff yourself!",
+                "My, what big ears you've got!",
+                "What a strange creature you are.",
+                "Those ears of yours are so big, I guess I had not best whisper even within a sec of you.",
+                "How is it that you can actually keep cool with all that fur?"
+            ],
+            "felin" : [
+                "Go fluff yourself!",
+                "Those ears of yours are so big, I guess I had not best whisper even within a sec of you.",
+                "How is it that you can actually keep cool with all that fur?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/apex/tuskan",
+        "value": [
+            "Do I smell? Please let me know if I do.",
+            "I may be related to Humans, but please don't lump us with them.",
+            "I take offence to being called Kong.",
+            "Good day to you, my Tusken friend.",
+            "Don't sneak too much, cat. Miniknog is watching.",
+            "Your freedom fills me with joy, friend",
+            "My fur is in terrible shape, how do I make it look nice like yours?"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/avian/tuskan",
+        "value": [
+            "In all the books in our libraries, I have never read about your race.",
+            "I wish I could fly.",
+            "It's okay, I only eat seeds.",
+            "I don't know about the rabbit items in our tombs.",
+            "Cou cou!",
+            "I wish Avians were descended from rabbits, not birds."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/floran/tuskan",
+        "value": [
+            "Floran greets stranger.",
+            "Have nice day.",
+            "Hello, fuzzy sstranger.",
+            "How is sstranger person?",
+            "Sssup new friend?",
+            "Nice meeting you.",
+            "Floran happy we met.",
+            "Can Floran help you?",
+            "Is sstranger ok?",
+            "Welcome."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/glitch/tuskan",
+        "value": [
+            "Eager. Salutations.",
+            "Welcoming. I will always welcome new friends!",
+            "Friendly. It is wonderful to meet you.",
+            "Excited. Yay! A new fuzzy friend!",
+            "Cordial. Hello my fine fuzzy fellow.",
+            "Surly. Hi...",
+            "Merry. Welcome, welcome, welcome!"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/human/tuskan",
+        "value": [
+            "Don't hurt me please.",
+            "I feel like it was mostly a huge misunderstanding.",
+            "We should have finished you off.",
+            "..."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/hylotl/tuskan",
+        "value": [
+            "I got my 3 eyes on you.",
+            "Well to me, you smell funny.",
+            "You should visit the sea some day. I can take you there if you want.",
+            "We don't have to stay underwater like most people think.",
+            "Do you produce art?",
+            "Why do you your people live in such an inhospitable climate anyway?",
+            "We are praised for our architecture."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/novakid/tuskan",
+        "value": [
+            "Howdy, howdy and howdy once more!",
+            "This town ain't big enough for the both of us.",
+            "Howdy my fuzzy lil' partner.",
+            "I can tell y'all aren't from around here."
+        ]
+    },
+     
+    {
+        "op": "add",
+        "path": "/greeting/zabrak",
+        "value": {
+            "default" : [
+                "Many greetings to you, my friend."
+            ],
+            "avian" : [
+                "Hail!",
+                "Hiya my feathered friend",
+                "Heya! I am <selfname>.",
+                "Howdy, howdy and howdy once more!"
+            ],
+            "floran" : [
+                "Hail!",
+                "How do you do?",
+                "Hiya my leafy friend",
+                "Heya! I am <selfname>.",
+                "Howdy, howdy and howdy once more!"
+            ],
+            "human" : [
+                "...",
+                "Hi.",
+                "Hello."
+            ],
+            "hylotl" : [
+                "Hail!",
+                "How do you do?",
+                "Hiya my fishy friend",
+                "Heya! I am <selfname>.",
+                "Howdy, howdy and howdy once more!"
+            ],
+            "novakid" : [
+                "...",
+                "Oh, hi.",
+                "Umm.....Hello."
+            ],
+            "glitch" : [
+                "...",
+                "Oh, hi.",
+                "Umm.....Hello."
+            ],
+            "apex" : [
+                "...",
+                "Oh, hi.",
+                "Umm.....Hello."
+ 
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/zabrak",
+        "value": {
+            "default" : [
+                "How good are you at playing sabacc?",
+                "It was a bad idea moving away from Irodonia to settle here, but I must make do with what I have now.",
+                "What this place needs is a good podracing track to spice things up.",
+                "You can't stop change any more than you can stop the suns from setting.",
+                "How can you folk survive so far away from civilisation out here?",
+                "There are so many planets to explore in this new galaxy.",
+                "I used to be a trader on Coruscant, now I have retired to explore the universe while I still can.",
+                "Why don't you get yourself a droid to take over your rent runs?",
+                "These Glitch aren't the droids we've been looking for."
+            ],
+            "apex" : [
+                "We have powerful friends.",
+                "Go fluff yourself!",
+                "What do you mean that you're not a Wookiee?",
+                "This Miniknog, is it anything like the Republic?",
+                "Your kind remind me of a walking carpet.",
+                "Do the Miniknog have their own bounty hunters?"
+            ],
+            "avian" : [
+                "I don't know what to say. There are some species that look like your kind back home.",
+                "Perhaps your ancestors came from the Galaxy, or they might not.",
+                "I almost mistook you for a Calibop!",
+                "None of the avian species I know of back home have ever heard of Avos.",
+                "Who is this Kluex-being you speak of? is it something like what the Jedi worship?"
+            ],
+            "floran" : [
+                "Wow, a sentient plant! we didn't see many of those back in the old Galaxy.",
+                "Do your people reproduce themselves like the Neti do?",
+                "I'm not sure if a talking, walking syren plant is a wise choice for a friend.",
+                "I've heard of Wirutids before. Are you one of them?",
+                "Sorry, but I don't talk to plants!",
+                "Watch out for Wookiees, they'd be happy enough to turn your kind into spears and tables!"
+            ],
+            "human" : [
+                "Oh, it's another human.",
+                "What is this Protectorate you speak of? is it a paramilitary organisation?",
+                "People of your kind litter our world.",
+                "It must be sad to have no home planet left to go back to.",
+                "Earth? I've never heard of it before.",
+                "A moon-sized monster with tentacles? that's preposterous!",
+                "I've seen many of your kind throughout the Galaxy; I'm guessing this was where you came from."
+            ],
+            "hylotl" : [
+                "You should consider visiting Glee Anselm some day, if you are able to travel beyond this galaxy like I have done.",
+                "Some of the planets of my home galaxy like Tibrin resemble those of your home planet.",
+                "Not all the amphibious species of the Galaxy are as peaceable nor as cultured as you are.",
+                "There are cities just like yours under the depths of Tibrin and Manaan."
+            ],
+            "novakid" : [
+                "We've never seen anything of your kind before. At least not in the old Galaxy.",
+                "I'm surprised you've never worked for Blethern before.",
+                "How is it possible for you to be made of gas and yet maintain a corporeal form?",
+                "Try not to visit Cloud City, they might mistake you for a rogue cloud of Tibanna gas!",
+                "Our manufactories used gases to construct blaster guns. Are Novakid guns made of Novakid-stuff?",
+                "Isn't it difficult being a gaseous life form on a windy or wet planet?",
+                "I've been to over a dozen planets in the Outer Rim, yet you're the weirdest creature I've ever seen."
+            ],
+            "glitch" : [
+                "Look out, there's a Jawa scavenger behind you! nope, just kidding.",
+                "I'm uncomfortable with the idea of droids ruling planets, much less telling me how they feel all the time.",
+                "Go away; you'll be malfunctioning in a day, you near-sighted scrap pile!",
+                "If our droids spoke the same way as you we'd have sent them to recyclers a long time ago.",
+                "Don’t call me a mindless philosopher, you overweight glob of grease!",
+                "Don't you ever feel the need for a debugger, if you gush with emotions all the time?",
+                "Now that's just rude of you. Who programmed you to say such things?",
+                "Are your kind capable of playing dejarik?",
+                "If you say you're bored, then I am bored too. Farewell."
+            ],
+            "fenerox" : [
+                "Go fluff yourself!",
+                "My, what big ears you've got!",
+                "What a strange creature you are.",
+                "Are you a Squib? I haven't seen any kynoids other than you thus far.",
+                "Those ears of yours are so big, I guess I had not best whisper even within a sec of you.",
+                "You could pass yourself off as a Bothan or Amaran in Coruscant, if people didn't know better.",
+                "How is it that you can actually keep cool with all that fur?",
+                "If you say you're bored, then I am bored too. Farewell."
+            ],
+            "felin" : [
+                "Go fluff yourself!",
+                "What do you mean that you're not a Wookiee?",
+                "Do I smell? Please let me know if I do.",
+                "Those ears of yours are so big, I guess I had not best whisper even within a sec of you.",
+                "You could pass yourself off as a Bothan or Amaran in Coruscant, if people didn't know better.",
+                "How is it that you can actually keep cool with all that fur?"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/converse/apex/zabrak",
+        "value": [
+            "Do I smell? Please let me know if I do.",
+            "I may be related to Humans, but please don't lump us with them.",
+            "I take offence to being called Kong.",
+            "Good day to you, my zabrak friend.",
+            "Don't sneak too much, cat. Miniknog is watching.",
+            "Your freedom fills me with joy, friend",
+            "My fur is in terrible shape, how do I make it look nice like yours?"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/avian/zabrak",
+        "value": [
+            "In all the books in our libraries, I have never read about your race.",
+            "I wish I could fly.",
+            "It's okay, I only eat seeds.",
+            "I don't know about the rabbit items in our tombs.",
+            "Cou cou!",
+            "I wish Avians were descended from rabbits, not birds."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/floran/zabrak",
+        "value": [
+            "Floran greets stranger.",
+            "Have nice day.",
+            "Ssstranger is like human. But with hornsss.",
+            "How is sstranger person?",
+            "Sssup new friend?",
+            "Nice meeting you.",
+            "Floran happy we met.",
+            "Can Floran help you?",
+            "Is sstranger ok?",
+            "Welcome."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/glitch/zabrak",
+        "value": [
+            "Eager. Salutations.",
+            "Welcoming. I will always welcome new friends!",
+            "Friendly. It is wonderful to meet you.",
+            "Excited. Yay! A new fuzzy friend!",
+            "Cordial. Hello my fine fuzzy fellow.",
+            "Surly. Hi...",
+            "Merry. Welcome, welcome, welcome!"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/human/zabrak",
+        "value": [
+            "You must be feeling horny, what with those horns all around your head!",
+            "I could almost mistake you as being one of my species. Wait, are you?",
+            "..."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/hylotl/zabrak",
+        "value": [
+            "I got my 3 eyes on you.",
+            "Well to me, you smell funny.",
+            "You are overly fuzzy.",
+            "Your ears are a work of art.",
+            "We don't have to stay underwater like most people think.",
+            "Do you produce art?",
+            "Why do you hate the Human anyway?",
+            "We are praised for our architecture."
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/converse/novakid/zabrak",
+        "value": [
+            "Howdy, howdy and howdy once more!",
+            "This town ain't big enough for the both of us.",
+            "Howdy my fuzzy lil' partner.",
+            "I can tell y'all aren't from around here."
+        ]
+    }
+     
+     
+]

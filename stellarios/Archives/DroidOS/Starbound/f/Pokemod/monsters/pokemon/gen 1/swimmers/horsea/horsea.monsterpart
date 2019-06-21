@@ -1,0 +1,9 @@
+{
+  "name" : "horsea",
+  "category" : "horsea",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "horsea.png"
+  }
+}

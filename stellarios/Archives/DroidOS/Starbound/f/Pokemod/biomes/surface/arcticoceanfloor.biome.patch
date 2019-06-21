@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/pool/2/1",
+    "value": "shellder"
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/pool/3/1",
+    "value": "lapras"
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/pool/4/1",
+    "value": "goldeen"
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/pool/5/1",
+    "value": "magikarp"
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/pool/6/1",
+    "value": "tentacool"
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      1,
+      "horsea"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      1,
+      "seadra"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      1,
+      "seaking"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      1,
+      "dragonair"
+    ]
+  },
+  
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      1,
+      "gyarados"
+    ]
+  }
+]

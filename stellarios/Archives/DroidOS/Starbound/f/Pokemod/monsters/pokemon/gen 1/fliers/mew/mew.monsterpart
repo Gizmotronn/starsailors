@@ -1,0 +1,9 @@
+{
+  "name" : "mew",
+  "category" : "mew",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "mew.png"
+  }
+}

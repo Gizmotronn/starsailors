@@ -1,0 +1,26 @@
+{
+  "objectName" : "SWMe11mounted",
+  "colonyTags" : ["swrace","combat"],
+  "rarity" : "Rare",
+  "description" : "A mounted E11 Rifle.",
+  "shortdescription" : "Mounted E11",
+  "race" : "apex",
+  "category" : "decorative",
+  "price" : 800,
+  "printable" : false,
+
+  
+  "inventoryIcon" : "e11mountedicon.png",
+  "orientations" : [
+    {
+      "image" : "e11mounted.png:<color>",
+      "imagePosition" : [-16, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

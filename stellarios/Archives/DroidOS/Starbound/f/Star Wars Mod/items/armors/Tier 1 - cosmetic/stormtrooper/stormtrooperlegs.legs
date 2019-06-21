@@ -1,0 +1,42 @@
+{
+  "itemName" : "SWM2stormtrooperlegs",
+  "price" : 2500,
+  "inventoryIcon" : "icons.png:pants",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "legwear",
+  "description" : "Stormtrooper Leggings",
+  "shortdescription" : "Stormtrooper Leggings",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
+
+   "colorOptions" : [
+    // Normal
+    { "FFFFFF" : "FFFFFF", "E5E5E5" : "E5E5E5", "959595" : "959595", "252525" : "252525" },
+    // BLACK
+    { "FFFFFF" : "838383", "E5E5E5" : "555555", "959595" : "383838", "252525" : "151515" },
+    // GREY
+    { "FFFFFF" : "b5b5b5", "E5E5E5" : "808080", "959595" : "555555", "252525" : "303030" },
+    // WHITE
+    { "FFFFFF" : "FFFFFF", "E5E5E5" : "E5E5E5", "959595" : "959595", "252525" : "252525" },
+    // RED
+    { "FFFFFF" : "f4988c", "E5E5E5" : "d93a3a", "959595" : "932625", "252525" : "601119" },
+    // ORANGE
+    { "FFFFFF" : "ffd495", "E5E5E5" : "ea9931", "959595" : "af4e00", "252525" : "6e2900" },
+    // YELLOW
+    { "FFFFFF" : "ffffa7", "E5E5E5" : "e2c344", "959595" : "a46e06", "252525" : "642f00" },
+    // GREEN
+    { "FFFFFF" : "b2e89d", "E5E5E5" : "51bd3b", "959595" : "247824", "252525" : "144216" },
+    // BLUE
+    { "FFFFFF" : "96cbe7", "E5E5E5" : "5588d4", "959595" : "344495", "252525" : "1a1c51" },
+    // PURPLE
+    { "FFFFFF" : "d29ce7", "E5E5E5" : "a451c4", "959595" : "6a2284", "252525" : "320c40" },
+    // PINK
+    { "FFFFFF" : "eab3db", "E5E5E5" : "d35eae", "959595" : "97276d", "252525" : "59163f" },
+    // BROWN
+    { "FFFFFF" : "ccae7c", "E5E5E5" : "a47844", "959595" : "754c23", "252525" : "472b13" }
+  ]
+  
+}

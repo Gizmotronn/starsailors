@@ -1,0 +1,9 @@
+{
+  "name" : "chansey",
+  "category" : "chansey",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "chansey.png"
+  }
+}

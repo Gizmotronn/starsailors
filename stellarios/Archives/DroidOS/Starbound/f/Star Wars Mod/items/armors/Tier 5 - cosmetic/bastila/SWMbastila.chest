@@ -1,0 +1,23 @@
+{
+  "itemName" : "SWM2bastilachest",
+  "price" : 2500,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "chestwear",
+  "description" : "Bastila's Chest",
+  "shortdescription" : "Bastila's Chest",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  }
+}

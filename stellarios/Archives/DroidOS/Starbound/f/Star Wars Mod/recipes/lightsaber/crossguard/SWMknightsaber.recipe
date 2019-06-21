@@ -1,0 +1,8 @@
+{
+  "input" : [
+     { "item" : "kybercrystal", "count" : 3 },
+	{ "item" : "titaniumbar", "count" : 10 }
+  ],
+  "output" : { "item" : "SWMknightcrosssaber", "count" : 1 },
+  "groups" : [ "af", "t3"]
+}

@@ -1,0 +1,98 @@
+{
+  "type" : "pokemontrainer",
+  "baseType" : "hostile",
+
+  "dropPools" : [ "banditTreasure" ],
+
+  "scriptConfig" : {
+    "dialog" : {
+      "attack" : {
+        "default" : {
+          "default" : [
+            "Attack!"
+          ]
+        },
+        "human" : {
+          "default" : [
+            "Battle Me!",
+            "I will defeat the elite four!",
+            "I want to be the very best, the best there ever was!",
+            "Friendship is the key to raising strong Pokemon."
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "pmgalladehead" } ],
+            "chest" : [ { "name" : "pmgalladechest" } ],
+            "legs" : [ { "name" : "pmgalladepants" } ],
+            "primary" : [
+              "trainerpokeball"
+            ]
+          },
+		  {
+            "head" : [ { "name" : "pmgardevoirhead" } ],
+            "chest" : [ { "name" : "pmgardevoirchest" } ],
+            "legs" : [ { "name" : "pmgardevoirpants" } ],
+            "primary" : [
+              "trainerpokeball"
+            ]
+          },
+		   {
+            "head" : [ { "name" : "pmkirliahead" } ],
+            "chest" : [ { "name" : "pmkirliachest" } ],
+            "legs" : [ { "name" : "pmkirliapants" } ],
+            "primary" : [
+              "trainerpokeball"
+            ]
+          },
+		  {
+            "head" : [ { "name" : "pmraltshead" } ],
+            "chest" : [ { "name" : "pmraltschest" } ],
+            "legs" : [ { "name" : "pmraltspants" } ],
+            "primary" : [
+              "trainerpokeball"
+            ]
+          },
+		   {
+            "head" : [ { "name" : "pmtahead" } ],
+            "chest" : [ { "name" : "pmtachest" } ],
+            "legs" : [ { "name" : "pmtapants" } ],
+            "primary" : [
+              "trainerpokeball"
+            ]
+          },
+		    {
+            "head" : [ { "name" : "pmtmhead" } ],
+            "chest" : [ { "name" : "pmtmchest" } ],
+            "legs" : [ { "name" : "pmtmpants" } ],
+            "primary" : [
+              "trainerpokeball"
+            ]
+          },
+		  {
+            "head" : [ { "name" : "pmtrhead" } ],
+            "chest" : [ { "name" : "pmtrchest" } ],
+            "legs" : [ { "name" : "pmtrpants" } ],
+            "primary" : [
+              "trainerpokeball"
+            ]
+          },
+		   {
+            "head" : [ { "name" : "pmtrlhead" } ],
+            "chest" : [ { "name" : "pmtrlchest" } ],
+            "legs" : [ { "name" : "pmtrlpants" } ],
+            "primary" : [
+              "trainerpokeball"
+            ]
+          }
+		  
+        ] ]
+    ]
+  }
+}

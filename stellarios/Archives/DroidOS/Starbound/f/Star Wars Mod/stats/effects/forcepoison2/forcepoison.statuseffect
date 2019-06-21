@@ -1,0 +1,15 @@
+{
+  "name" : "forcepoison2",
+
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "forcepoison.lua"
+  ],
+
+  "animationConfig" : "forcepoison.animation",
+
+  "label" : "Poisoned",
+  "icon" : "/interface/statuses/poison.png"
+}

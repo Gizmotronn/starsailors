@@ -1,0 +1,34 @@
+{
+  "itemName" : "SWMdesertspeederbikecontroller",
+  "level" : 1,
+  "price" : 12500,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Create a desert speeder from stored nanites.",
+  "shortdescription" : "Desert speeder Controller",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "desertspeeder.png",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "hoverbikedesertspeeder",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/hoverbike/hoverbikespeederwarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "speederbikecontroller.png"
+  },
+
+  "inventoryIcon" : "desertspeederbikecontroller.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/desertspeederbikecontroller.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/desertspeederbikecontroller.png:full"
+
+}

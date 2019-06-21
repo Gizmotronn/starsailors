@@ -1,0 +1,13 @@
+{
+  "frameGrid" : {
+    "size" : [30, 30],
+    "dimensions" : [5, 3],
+
+    "names" : [
+      [ "idle.1", "attack.1", null, null, null],
+      [ "fly.1", "fly.2", null, null, null ],
+      [ "hurt.1", null, null, null, null ]
+    ]
+  }
+
+}

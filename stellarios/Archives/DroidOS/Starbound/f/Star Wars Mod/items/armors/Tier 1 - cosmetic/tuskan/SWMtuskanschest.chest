@@ -1,0 +1,25 @@
+{
+  "itemName" : "SWM2tuskanschest",
+  "price" : 4000,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "chestarmour",
+  "description" : "Tuskan Raider chest",
+  "shortdescription" : "Tuskan's Chestpiece",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  }  
+
+   
+}

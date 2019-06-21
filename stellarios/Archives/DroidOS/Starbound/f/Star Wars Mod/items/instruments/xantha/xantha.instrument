@@ -1,0 +1,20 @@
+{
+  "itemName" : "SWMxantha",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "xanthaicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A string instrument that sounds like an electric guitar",
+  "shortdescription" : "Xantha",
+  "largeImage" : "xantha.png",
+  "image" : "xantha.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "xantha.png",
+  "activeAngle" : -40,
+  "activeHandPosition" : [0.1, 0.9],
+
+  "handPosition" : [0, 0.7],
+  "twoHanded" : true,
+  "kind" : "overdriveguitar"
+}

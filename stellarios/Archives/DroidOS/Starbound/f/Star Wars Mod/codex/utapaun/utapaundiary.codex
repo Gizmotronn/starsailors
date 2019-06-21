@@ -1,0 +1,21 @@
+{
+	"id" : "utapaundiary",
+	"title" : "Society and culture",
+	"description" : "About Utapauns.",
+	"icon" : "utapauncover1.png",
+  "contentPages" : [
+  "Pau'ans served as leaders early in their lives, often managing teams of Utai laborers. This gave them experience that would be used later in their life.
+  Pau'an society was a blend of a variety of styles and cultures, borne from the ancient merger with the Utai. Built into the sinkhole walls. ",
+
+"Pau'an civilization began around 57,000 BBY. It was believed that settlers traveled to Utapau hoping to find a hospitable world to colonize after the destruction of their homeworld."
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

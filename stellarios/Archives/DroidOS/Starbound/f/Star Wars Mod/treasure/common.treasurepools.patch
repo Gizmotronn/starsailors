@@ -1,0 +1,581 @@
+[
+ 
+  {
+    "op": "add",
+    "path": "/basicSwmTreasure",
+    "value": [
+      [
+        0,
+        {
+          "pool": [
+            {
+              "weight": 0.30,
+              "pool": "chestMoney"
+            },
+            {
+              "weight": 0.25,
+              "pool": "swmHealingItem"
+            },
+            {
+              "weight": 0.25,
+              "pool": "thrownSwmWeapon"
+            },
+            {
+              "weight": 0.10,
+              "pool": "swmInstrument"
+            },
+			{
+              "weight": 0.10,
+              "pool": "swmFood"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/thrownSwmWeapon",
+    "value": [
+      [
+        0,
+        {
+          "pool": [
+            {
+              "weight": 0.3,
+              "item": [
+                "SWMcyrogrenade",
+                3
+              ]
+            },
+            {
+              "weight": 0.3,
+              "item": [
+                "SWMiongrenade",
+                3
+              ]
+            },
+            {
+              "weight": 0.4,
+              "item": [
+                "SWMprotongrenade",
+                3
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        1.9,
+        {
+          "pool": [
+            {
+              "weight": 0.3,
+              "item": [
+                "SWMcyrogrenade",
+                5
+              ]
+            },
+            {
+              "weight": 0.3,
+              "item": [
+                "SWMiongrenade",
+                5
+              ]
+            },
+            {
+              "weight": 0.4,
+              "item": [
+                "SWMprotongrenade",
+                5
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        2.9,
+        {
+          "pool": [
+            {
+              "weight": 0.3,
+              "item": [
+                "SWMcyrogrenade",
+                7
+              ]
+            },
+            {
+              "weight": 0.3,
+              "item": [
+                "SWMiongrenade",
+                7
+              ]
+            },
+            {
+              "weight": 0.4,
+              "item": [
+                "SWMprotongrenade",
+                7
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        3.9,
+        {
+          "pool": [
+            {
+              "weight": 0.3,
+              "item": [
+                "SWMcyrogrenade",
+                9
+              ]
+            },
+            {
+              "weight": 0.3,
+              "item": [
+                "SWMiongrenade",
+                9
+              ]
+            },
+            {
+              "weight": 0.4,
+              "item": [
+                "SWMprotongrenade",
+                9
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        4.9,
+        {
+          "pool": [
+            {
+              "weight": 0.3,
+              "item": [
+                "SWMcyrogrenade",
+                11
+              ]
+            },
+            {
+              "weight": 0.3,
+              "item": [
+                "SWMiongrenade",
+                11
+              ]
+            },
+            {
+              "weight": 0.4,
+              "item": [
+                "SWMprotongrenade",
+                11
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        5.9,
+        {
+          "pool": [
+            {
+              "weight": 0.3,
+              "item": [
+                "SWMcyrogrenade",
+                13
+              ]
+            },
+            {
+              "weight": 0.3,
+              "item": [
+                "SWMiongrenade",
+                13
+              ]
+            },
+            {
+              "weight": 0.4,
+              "item": [
+                "SWMprotongrenade",
+                13
+              ]
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/swmInstrument",
+    "value": [
+      [
+        0,
+        {
+          "pool": [
+            {
+              "weight": 0.0007,
+              "item": [
+                "SWMbandfill",
+                1
+              ]
+            },
+            {
+              "weight": 0.0008,
+              "item": [
+                "SWMslitherhorn",
+                1
+              ]
+            },
+            {
+              "weight": 0.0007,
+              "item": [
+                "SWMxantha",
+                1
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMhallikset",
+                1
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMbawoonka",
+                1
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMblissl",
+                1
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMdoubleviol",
+                1
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMfanfar",
+                1
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMfloonorp",
+                1
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMkastadrum",
+                1
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMmandolin",
+                1
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMsabriquet",
+                1
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMsacredhorn",
+                1
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMserptrumpet",
+                1
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMtraz",
+                1
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMvalahorn",
+                1
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMwinddrum",
+                1
+              ]
+            }			
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/swmHealingItem",
+    "value": [
+      [
+        0,
+        {
+          "pool": [
+            {
+              "weight": 0.4,
+              "item": [
+                "SWMbactabottle",
+                2
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        3.9,
+        {
+          "pool": [
+            {
+              "weight": 0.4,
+              "item": [
+                "SWMbactabottle",
+                4
+              ]
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  
+  {
+    "op": "add",
+    "path": "/swmFood",
+    "value": [
+      [
+        0,
+        {
+          "pool": [
+            {
+              "weight": 0.0007,
+              "item": [
+                "SWMaccarrgm",
+                4
+              ]
+            },
+            {
+              "weight": 0.0008,
+              "item": [
+                "SWMaddermoss",
+                4
+              ]
+            },
+            {
+              "weight": 0.0007,
+              "item": [
+                "SWMahrisa",
+                3
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMaircake",
+                2
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMbanthablaster",
+                5
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMbfgumbo",
+                4
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMblobcandy",
+                3
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMbloodsoup",
+                2
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMcrispic",
+                2
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMdarkcookie",
+                3
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMdianogapie",
+                4
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMfishak",
+                5
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMgarrmorl",
+                3
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMhubba",
+                4
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMksaa",
+                2
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMkwevvu",
+                3
+              ]
+            },
+			{
+              "weight": 0.0008,
+              "item": [
+                "SWMmist",
+                5
+              ]
+            },	
+{
+              "weight": 0.0008,
+              "item": [
+                "SWMneuvian",
+                4
+              ]
+            },
+{
+              "weight": 0.0008,
+              "item": [
+                "SWMnutricake",
+                6
+              ]
+            },	
+{
+              "weight": 0.0008,
+              "item": [
+                "SWMquill",
+                2
+              ]
+            },	
+{
+              "weight": 0.0008,
+              "item": [
+                "SWMsandcookie",
+                3
+              ]
+            },	
+{
+              "weight": 0.0008,
+              "item": [
+                "SWMsquirmer",
+                4
+              ]
+            },	
+{
+              "weight": 0.0008,
+              "item": [
+                "SWMtarinetea",
+                5
+              ]
+            },	
+{
+              "weight": 0.0008,
+              "item": [
+                "SWMtreebread",
+                2
+              ]
+            },
+{
+              "weight": 0.0008,
+              "item": [
+                "SWMtrimpian",
+                3
+              ]
+            },	
+{
+              "weight": 0.0008,
+              "item": [
+                "SWMvagnerian",
+                4
+              ]
+            },
+{
+              "weight": 0.0008,
+              "item": [
+                "SWMvegeparsine",
+                2
+              ]
+            }			
+          ]
+        }
+      ]
+    ]
+  }
+  
+  
+  ]

@@ -1,0 +1,21 @@
+{
+  "kind" : "wh321forcerain",
+  "definition" : {
+    "type" : "ember",
+    "size" : 0.8,
+    "color" : [49, 166, 255, 255],
+    "light" : [68, 80, 176],
+    "fade" : 1,
+    "initialVelocity" : [0.0, -5 ],
+    "finalVelocity" : [0.0, -0.5],
+    "approach" : [0, 1.0],
+    "timeToLive" : 0.5,
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.425,
+    "layer" : "back",
+    "variance" : {
+      "finalVelocity" : [0.5, 1.5],
+      "size" : 0.4
+    }
+  }
+}

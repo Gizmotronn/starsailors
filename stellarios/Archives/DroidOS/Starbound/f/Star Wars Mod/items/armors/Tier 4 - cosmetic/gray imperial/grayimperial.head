@@ -1,0 +1,14 @@
+{
+  "itemName" : "SWM2grayimperialhelm",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Gray Imperial Hat.",
+  "shortdescription" : "Gray Imperial Hat",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"
+}

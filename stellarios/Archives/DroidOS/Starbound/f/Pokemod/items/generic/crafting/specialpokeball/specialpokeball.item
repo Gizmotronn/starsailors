@@ -1,0 +1,10 @@
+{
+  "itemName" : "specialpokeball",
+  "price" : 60,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "specialpokeball.png",
+  "description" : "Special pokeball given by Professor Oak. Use it at the DNA station.",
+  "shortdescription" : "Special Pokeball",
+  "itemTags" : [ "reagent" ]
+}

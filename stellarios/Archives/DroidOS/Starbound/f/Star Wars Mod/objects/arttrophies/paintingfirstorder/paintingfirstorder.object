@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintingfirstorder",
+  "colonyTags" : ["swrace","pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "Symbol for the First Order.",
+  "shortdescription" : "First Order Symbol",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+ 
+
+  "inventoryIcon" : "paintingfirstordericon.png",
+  "orientations" : [
+    {
+      "image" : "paintingfirstorder.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

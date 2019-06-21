@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 5000 }
+    
+  ],
+  "output" : { "item" : "SWMwinnebagocontroller", "count" : 1 },
+  "groups" : [ "swm","vehicle" ]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "electabuzz",
+  "category" : "electabuzz",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "electabuzz.png"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "type" : "swjedi",
+  "baseType" : "swmerchant",
+
+  "scriptConfig" : {
+    "questGenerator" : {
+      "pools" : ["common"]
+    },
+
+    "merchant" : {
+      "waitTime" : 10,
+      "storeRadius" : -1,
+      "categories" : {
+        "default" : [ "swforcepowers" ]
+      },
+      "buyFactorRange" : [ 1.0, 1.0 ],
+      "sellFactorRange" : [ 0.2, 0.2 ],
+      "numItems" : 7,
+      "paneLayoutOverride" : {
+        "windowtitle" : {
+          "title" : "  Force Teacher",
+          "subtitle" : "  Learn to use Force Powers!"
+        }
+      }
+    },
+
+    "dialog" : {
+      "merchant" : {
+        "start" : {
+          "default" : {
+            "default" : [
+              "Listen. Feel the Force."
+            ]
+          },
+        "end" : {
+          "default" : {
+            "default" : [
+              "May the Force be with you."
+            ]
+          }
+        }
+      }
+    }
+	}
+  },
+"matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+			{"name" : "SWM2jedi3hood", "parameters" : { "colorIndex" : [11] }} ],
+            "chest" : [{"name" :  "SWM2jedi3chest", "parameters" : { "colorIndex" : [11] }} ],
+            "legs" : [ {"name" : "SWM2jedi3pants", "parameters" : { "colorIndex" : [11] } }],
+			"back" : [ ""],
+			"primary" : [ "SWMknightsaber" ]
+          }
+        ] ]
+    ]
+  }
+}
+

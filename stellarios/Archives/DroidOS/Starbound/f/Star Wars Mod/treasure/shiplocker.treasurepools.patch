@@ -1,0 +1,51 @@
+[
+  {
+    "op": "add",
+    "path": "/wookieStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+	    {"item" : [ "flashlight" ]},
+        {"item" : [ "torch", 10 ]},
+        {"item" : [ "SWMbasicbowcaster", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]}
+      ]
+    }]]
+  },
+  
+  {
+    "op": "add",
+    "path": "/rodianStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+	    {"item" : [ "flashlight" ]},
+        {"item" : [ "torch", 10 ]},
+        {"item" : [ "SWMbasicdl44blasterpistol", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]}
+      ]
+    }]]
+  },
+  
+  {
+    "op": "add",
+    "path": "/tuskanStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+	    {"item" : [ "flashlight" ]},
+        {"item" : [ "torch", 10 ]},
+        {"item" : [ "SWMtuskanshead", 1 ]},
+		{"item" : [ "SWMbasicgaderffii", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]}
+      ]
+    }]]
+  }
+]
+

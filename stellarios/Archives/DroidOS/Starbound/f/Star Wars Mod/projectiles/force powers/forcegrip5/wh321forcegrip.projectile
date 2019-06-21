@@ -1,0 +1,43 @@
+{
+  "projectileName" : "wh321fgprojectile5",
+  "physics" : "laser",
+  "timeToLive" : 6.25,
+  "image" : "wh321invisibleweapon.png",
+  "animationCycle" : 1.0,
+  "frameNumber" : 1,
+  "periodicActions" : [
+    {
+      "time" : 0.1,
+      "repeat" : false,
+      "action" : "sound",
+      "options" : [ "/sfx/tech/vehicle_disappear1.ogg" ]
+    }
+  ],
+  "actionOnReap" : [],
+  "speed" : 75,
+  "power" : 5.0,
+
+  "onlyHitTerrain" : true,
+  "physicsForces" : {
+    "pull" : {
+      "type" : "RadialForceRegion",
+      "categoryWhitelist" : ["monster", "npc"],
+      "outerRadius" : 2,
+      "innerRadius" : 2,
+      "targetRadialVelocity" : -50,
+      "controlForce" : 50000
+    }
+  },
+
+  "renderLayer" : "Player+1",
+  "orientationLocked" : true,
+  "fullbright" : true,
+  "emitters" : [ ],
+
+  "piercing" : false,
+  "bounces" : -1,
+
+  "scripts" : [ "wh321fgprojectile.lua" ],
+  
+  "persistentAudio" : "/sfx/projectiles/zone_push_loop.ogg"
+}

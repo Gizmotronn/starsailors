@@ -1,0 +1,34 @@
+{
+  "itemName" : "SWMxwingcontroller",
+  "level" : 1,
+  "price" : 25000,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Create an X-Wing from stored nanites.",
+  "shortdescription" : "X-Wing",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "xwing.png",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "xwing",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/xwing/xwingwarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "xwingcontroller.png"
+  },
+
+  "inventoryIcon" : "xwingcontroller.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/xwingcontroller.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/xwingcontroller.png:full"
+
+}

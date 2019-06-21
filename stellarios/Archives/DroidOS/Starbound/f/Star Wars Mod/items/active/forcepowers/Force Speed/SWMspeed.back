@@ -1,0 +1,16 @@
+{
+  "itemName" : "SWMforcespeed",
+  "price" : 300,
+  "inventoryIcon" : "speed.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "rarity" : "Rare",
+  "description" : "Use the Force to run faster.  - back slot item",
+  "shortdescription" : "Force Speed",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+
+  "statusEffects" : [
+   "runboost"
+  ]
+}

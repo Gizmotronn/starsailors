@@ -1,0 +1,9 @@
+{
+  "name" : "psyduck",
+  "category" : "psyduck",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "psyduck.png"
+  }
+}

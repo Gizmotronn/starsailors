@@ -1,0 +1,28 @@
+{
+  "objectName" : "SWMholocron",
+  "colonyTags" : ["jedi","swrace"],
+  "rarity" : "Legendary",
+  "description" : "Information-storage datacron devices used by both the Jedi Order and the Sith.",
+  "shortdescription" : "Holocron",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 125,
+  "health" : 1.5,
+
+
+  "inventoryIcon" : "holocronicon.png",
+   "orientations" : [
+    {
+      "dualImage" : "holocron.png:<color>.<frame>",
+      
+      "imagePosition" : [0, 0],
+      "frames" : 6,
+      "animationCycle" : 1.5,
+      
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

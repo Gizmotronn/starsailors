@@ -1,0 +1,27 @@
+{
+  "frameGrid" : {
+    "size" : [92, 72],
+    "dimensions" : [9, 4],
+
+    "names" : [
+      [ null, "idle.1", null, "inactive.1", null, null, null, null, null ],
+      [ null, "move.1", "move.2", "move.3", "move.4", "move.5", "move.6", "move.7", "move.8" ],
+      [ null, "jump.1", "jump.2", null, "fall.1", "fall.2", null, null, null ],
+      [ null, "swim.1", "swim.2", "swim.3", "swim.4", "swim.5", "swim.6", null, null ]
+    ]
+  },
+
+  "aliases" : {
+    "idle" : "idle.1",
+	"bmove.1" : "move.8",
+	"bmove.2" : "move.7",
+	"bmove.3" : "move.6",
+	"bmove.4" : "move.5",
+	"bmove.5" : "move.4",
+	"bmove.6" : "move.3",
+	"bmove.7" : "move.2",
+	"bmove.8" : "move.1"
+	
+	
+  }
+}

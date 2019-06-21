@@ -1,0 +1,15 @@
+{
+  "itemName" : "SWM2lukehead2",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Luke Skywalker's Return of the Jedi outfit.",
+  "shortdescription" : "Luke Skywalker's Hood",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"  
+ 
+}

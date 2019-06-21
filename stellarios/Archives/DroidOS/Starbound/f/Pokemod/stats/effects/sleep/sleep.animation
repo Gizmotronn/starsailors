@@ -1,0 +1,16 @@
+{
+  "particleEmitters" : {
+    "sparks" : {
+      "enabled" : true,
+      "emissionRate" : 0.25,
+      "particles" : [
+        {
+          "particle" : "sleep"
+        },
+        {
+          "particle" : "sleep"
+        }
+      ]
+    }
+  }
+}

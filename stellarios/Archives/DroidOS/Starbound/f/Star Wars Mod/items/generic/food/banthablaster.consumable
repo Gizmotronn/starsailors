@@ -1,0 +1,29 @@
+{
+  "itemName" : "SWMbanthablaster",
+  "rarity" : "Uncommon",
+  "price" : 500,
+  "category" : "drink",
+  "inventoryIcon" : "banthablaster.png",
+  "description" : "A  pink-and-green alcoholic drink that fizzes and pops.",
+  "shortdescription" : "Bantha Blaster",
+  "effects" : [ [
+    {
+        "effect" : "runboostfood",
+        "duration" : 248
+    },
+    {
+        "effect" : "jumpboostfood",
+        "duration" : 248
+    }
+  ] ],
+  "foodValue" : 55,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ]
+}

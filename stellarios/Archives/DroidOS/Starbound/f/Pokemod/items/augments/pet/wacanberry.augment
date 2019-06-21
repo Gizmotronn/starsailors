@@ -1,0 +1,21 @@
+{
+  "itemName" : "wacanberry",
+  "price" : 200,
+  "rarity" : "Uncommon",
+  "tooltipKind" : "petcollar",
+  "category" : "petCollar",
+  "inventoryIcon" : "wacanberry.png",
+  "description" : "A  held item that lowers the effectiveness of Electric-Type moves.",
+  "shortdescription" : "Wacan Berry",
+
+  "collar" : {
+    "name" : "heldwacanberry",
+    "displayName" : "Wacan Berry",
+    "displayIcon" : "/items/augments/pet/wacanberry.png",
+    "effects" : [ "electricblockaugment" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupcollar" ],
+
+  "scripts" : [ "/scripts/augments/collar.lua" ]
+}

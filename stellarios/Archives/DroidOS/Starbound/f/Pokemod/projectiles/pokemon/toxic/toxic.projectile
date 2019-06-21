@@ -1,0 +1,15 @@
+{
+  "projectileName" : "toxic",
+  "image" : "toxic.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 6,
+  "timeToLive" : 2.5,
+  "power" : 0,
+  "speed" : 15,
+  
+  "damageKind" : "poison",
+  "damageKindImage" : "/interface/statuses/tar.png",
+  "statusEffects" : [
+    "strongpoison"
+  ]
+}

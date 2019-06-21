@@ -1,0 +1,22 @@
+[
+  {
+    "op": "add",
+    "path": "/interactAction",
+    "value": "OpenCraftingInterface"
+  },
+  {
+    "op": "add",
+    "path": "/interactData",
+    "value": {
+      "config": "/interface/windowconfig/craftingpokemon.config",
+      "filter": [
+        "pokemon"
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "crafting"
+  }
+]

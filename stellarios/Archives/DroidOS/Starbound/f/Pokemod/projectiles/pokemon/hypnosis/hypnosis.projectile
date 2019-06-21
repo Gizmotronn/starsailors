@@ -1,0 +1,13 @@
+{
+  "projectileName" : "hypnosis",
+  "image" : "hypnosis.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,  
+  "power" : 0,
+  "speed" : 40,
+  "damageKind" : "psychic",  
+   "damageKindImage" : "icon.png",
+  "statusEffects" : [
+    "sleep"
+  ]
+}

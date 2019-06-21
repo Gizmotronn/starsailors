@@ -1,0 +1,21 @@
+{
+	"id" : "nower",
+	"title" : "Nower Jebel",
+	"description" : "Information About Nower Jebel.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+ 
+ "Nower Jebel was a human male senator who represented the agricultural planet of Uyter in the Imperial Senate in the year 0 BBY.",
+ 
+ "Jebel was secretly the Minister of Finance of the Alliance to Restore the Republic, and was present on Yavin 4 in the Great Temple of Massassi during the events leading up to the Battle of Scarif.",
+ 
+ "During the High Command meeting, he was one of the Alliance Cabinet members who mistrusted the former criminal Jyn Erso, disbelieved the existence of the Empire's planet killer superweapon—the Death Star—and supported the idea of disbanding the Rebel forces.",
+
+ "n the year 5 ABY, about a year after the Alliance reorganized into the New Republic, Jebel had become a member of the new Galactic Senate and maintained his position as Minister of Finance."
+ 
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

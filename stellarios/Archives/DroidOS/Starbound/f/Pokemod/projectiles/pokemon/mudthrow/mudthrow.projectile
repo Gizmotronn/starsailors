@@ -1,0 +1,15 @@
+{
+  "projectileName" : "mudthrow",
+  "image" : "mudthrow.png",
+  "physics" : "grenade",
+  "damageKindImage" : "mudthrow.png",
+  "speed" : 19,
+  "animationCycle" : 0.5,
+  "frameNumber" : 1,
+  "power" : 50,
+  "emitters" : [ "defaultbrown" ],
+  "damageKind" : "ground",
+  "statusEffects" : [
+    "mudslow"
+  ]
+}

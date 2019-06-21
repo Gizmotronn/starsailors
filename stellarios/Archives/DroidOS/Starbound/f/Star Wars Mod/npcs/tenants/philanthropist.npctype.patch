@@ -1,0 +1,130 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/twilek",
+    "value": {
+      "default": [
+       "Even the Banking Clan fears to whisper my name, that shows you how many Credits and Voxels I've got under my belt.",
+	   "That lesai lizard Mutdah's got nothing on me, I am held in esteem in IGBC circles.",
+	   "Not even all the banks of Muunilinst could dream of holding all the wealth I own!",
+	   "How did I become rich? easy: I could do the Kessel Spice Run in less than 12 parsecs when I was young!",
+	   "With my wealth, I could tun this place into a rival of Coruscant or Munn City. But counting all my Credits is so much more fun.",
+	   "What are these Pixels you speak of? Are they a new galactic cryptocurrency?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/bothan",
+    "value": {
+      "default": [
+       "Even the Banking Clan fears to whisper my name, that shows you how many Credits and Voxels I've got under my belt.",
+"That lesai lizard Mutdah's got nothing on me, I am held in esteem in IGBC circles.",
+"Not even all the banks of Muunilinst could dream of holding all the wealth I own!",
+"How did I become rich? easy: I could do the Kessel Spice Run in less than 12 parsecs when I was young!",
+"With my wealth, I could tun this place into a rival of Coruscant or Munn City. But counting all my Credits is so much more fun.",
+"What are these Pixels you speak of? Are they a new galactic cryptocurrency?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/sith",
+    "value": {
+      "default": [
+      "Even the Banking Clan fears to whisper my name, that shows you how many Credits and Voxels I've got under my belt.",
+"That lesai lizard Mutdah's got nothing on me, I am held in esteem in IGBC circles.",
+"Not even all the banks of Muunilinst could dream of holding all the wealth I own!",
+"How did I become rich? easy: I could do the Kessel Spice Run in less than 12 parsecs when I was young!",
+"With my wealth, I could tun this place into a rival of Coruscant or Munn City. But counting all my Credits is so much more fun.",
+"What are these Pixels you speak of? Are they a new galactic cryptocurrency?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/mawg",
+    "value": {
+      "default": [
+        "Even the Banking Clan fears to whisper my name, that shows you how many Credits and Voxels I've got under my belt.",
+"That lesai lizard Mutdah's got nothing on me, I am held in esteem in IGBC circles.",
+"Not even all the banks of Muunilinst could dream of holding all the wealth I own!",
+"How did I become rich? easy: I could do the Kessel Spice Run in less than 12 parsecs when I was young!",
+"With my wealth, I could tun this place into a rival of Coruscant or Munn City. But counting all my Credits is so much more fun.",
+"What are these Pixels you speak of? Are they a new galactic cryptocurrency?",
+"So you want to get rich quick? That's easy! Try monopolising the export of fresh air from Druidia!",
+"Even a dozen Druish kings couldn't make in a lifetimes what I've got on my cashbook!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/diathim",
+    "value": {
+      "default": [
+       "Even the Banking Clan fears to whisper my name, that shows you how many Credits and Voxels I've got under my belt.",
+"That lesai lizard Mutdah's got nothing on me, I am held in esteem in IGBC circles.",
+"Not even all the banks of Muunilinst could dream of holding all the wealth I own!",
+"How did I become rich? easy: I could do the Kessel Spice Run in less than 12 parsecs when I was young!",
+"With my wealth, I could tun this place into a rival of Coruscant or Munn City. But counting all my Credits is so much more fun.",
+"What are these Pixels you speak of? Are they a new galactic cryptocurrency?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/utapaun",
+    "value": {
+      "default": [
+       "Even the Banking Clan fears to whisper my name, that shows you how many Credits and Voxels I've got under my belt.",
+"That lesai lizard Mutdah's got nothing on me, I am held in esteem in IGBC circles.",
+"Not even all the banks of Muunilinst could dream of holding all the wealth I own!",
+"How did I become rich? easy: I could do the Kessel Spice Run in less than 12 parsecs when I was young!",
+"With my wealth, I could tun this place into a rival of Coruscant or Munn City. But counting all my Credits is so much more fun.",
+"What are these Pixels you speak of? Are they a new galactic cryptocurrency?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/rodian",
+    "value": {
+      "default": [
+       "Even the Banking Clan fears to whisper my name, that shows you how many Credits and Voxels I've got under my belt.",
+"That lesai lizard Mutdah's got nothing on me, I am held in esteem in IGBC circles.",
+"Not even all the banks of Muunilinst could dream of holding all the wealth I own!",
+"How did I become rich? easy: I could do the Kessel Spice Run in less than 12 parsecs when I was young!",
+"With my wealth, I could tun this place into a rival of Coruscant or Munn City. But counting all my Credits is so much more fun.",
+"What are these Pixels you speak of? Are they a new galactic cryptocurrency?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/togruta",
+    "value": {
+      "default": [
+        "Even the Banking Clan fears to whisper my name, that shows you how many Credits and Voxels I've got under my belt.",
+"That lesai lizard Mutdah's got nothing on me, I am held in esteem in IGBC circles.",
+"Not even all the banks of Muunilinst could dream of holding all the wealth I own!",
+"How did I become rich? easy: I could do the Kessel Spice Run in less than 12 parsecs when I was young!",
+"With my wealth, I could tun this place into a rival of Coruscant or Munn City. But counting all my Credits is so much more fun.",
+"What are these Pixels you speak of? Are they a new galactic cryptocurrency?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/zabrak",
+    "value": {
+      "default": [
+        "Even the Banking Clan fears to whisper my name, that shows you how many Credits and Voxels I've got under my belt.",
+"That lesai lizard Mutdah's got nothing on me, I am held in esteem in IGBC circles.",
+"Not even all the banks of Muunilinst could dream of holding all the wealth I own!",
+"How did I become rich? easy: I could do the Kessel Spice Run in less than 12 parsecs when I was young!",
+"With my wealth, I could tun this place into a rival of Coruscant or Munn City. But counting all my Credits is so much more fun.",
+"What are these Pixels you speak of? Are they a new galactic cryptocurrency?"
+      ]
+    }
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "name" : "vulpix",
+  "category" : "vulpix",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "vulpix.png"
+  }
+}

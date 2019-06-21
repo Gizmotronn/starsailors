@@ -1,0 +1,24 @@
+{
+	"id" : "thejedi4",
+	"title" : "The Jedi Order Part 4",
+	"description" : "Information About The Jedi Order.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+  "Many ancient and semi-legendary organizations have been proposed to be the forerunners of the Jedi Order, including the Order of Dai Bendu, the Followers of Palawa, and the Chatos Academy. Of all of the ancient Force traditions, though, the true origin of the Order was found on the lush planet Tython in the Deep Core.",
+  
+  "The galaxy's best philosophers, priests, scientists, and warriors were brought to Tython circa 36,453 BBY by mysterious, pyramidal ships called Tho Yor to discuss their discoveries involving the enigmatic and mystical energy known as the Force. These people, known as Tythans, eventually came to identify as the Je'daii Order, a group of  Force-sensitives determined to keep an internal balance between the light side, or Ashla and the dark side, called Bogan.",
+  
+  "For millennia the Je'daii Order flourished on Tython, erecting great temples and monuments to the Force and remaining ever vigilant to the lures of both the light and the dark. Ultimately around 25,793 BBY, several hundred years before the founding of the Galactic Republic, a conflict arose between the followers of Ashla, or light side of the Force, and the followers of Bogan.",
+
+  "Known as the Force Wars, the conflict was waged over the course of a decade and took a terrible toll on the planet, sending Tython out of balance and destroying the ecosystem. In the end, the followers of Bogan were defeated. The Je'daii enamored by the light side of the Force, or Ashla professed that it was stronger than the Bogan and the more virtuous path to walk.",
+
+  "Abandoning the Je'daii teachings of balance, this splinter group began calling themselves Jedi and formed a Jedi Council consisting of the founding members; Jedi Masters Rajivari, Garon Jard, Cala Brin and Ters Sendon. Believing that they were given command over the Force in order to assist those in need, the Jedi wished to defeat those who used the dark side and vanquish all those whom they perceived as evil.",
+
+  "During the Jedi's earliest days one of its founders, Master Rajivari, broke away and encouraged his followers to abandon the light and look to Bogan for guidance and power. Rajivari's followers were attacked by the Jedi Order. When the True Dark Sons were scattered and leaderless, the victorious Jedi Order decided to abandon Tython, taking with them all surviving text and scriptures they could find."
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

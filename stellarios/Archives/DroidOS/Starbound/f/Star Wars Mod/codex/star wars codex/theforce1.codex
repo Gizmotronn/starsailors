@@ -1,0 +1,22 @@
+{
+	"id" : "theforce1",
+	"title" : "The Force Part 1",
+	"description" : "Information About The Force.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+  "The Force was an energy field that connected all living things in the galaxy. The power of the Force could be used by individuals who were sensitive to it, a power that was tapped through the midi-chlorians. The Force had many alternate names. The Lasats, for example, used to call it the Ashla, and described it as 'the spirit of the galaxy.' The Force as a recorded concept existed for well over 25,000 years. ",
+
+  "Usage of the Force granted a number of useful powers, such as the ability to sense impending attacks; to push and lift physical objects; influence the thoughts of others, known as the 'Jedi mind trick'; and even see the future or maintain one's consciousness after death. Dark side users strong with the Force could summon lightning from their fingertips.",
+  
+  "Jedi taught younglings that the Force could be used for many purposes, including protection, persuasion, wisdom, the manipulation of matter and the performance of great physical feats."
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

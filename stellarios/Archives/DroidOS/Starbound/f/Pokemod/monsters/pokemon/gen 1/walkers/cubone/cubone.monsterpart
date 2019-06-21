@@ -1,0 +1,9 @@
+{
+  "name" : "cubone",
+  "category" : "cubone",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "cubone.png"
+  }
+}

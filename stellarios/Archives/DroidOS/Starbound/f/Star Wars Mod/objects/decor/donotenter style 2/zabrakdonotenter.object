@@ -1,0 +1,35 @@
+{
+  "objectName" : "zabrakdonotenter",
+  "colonyTags" : ["evil","odd","swrace"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+
+  "apexDescription" : "These signs are a common sight back home, but the script is unknown to me.",
+  "avianDescription" : "Under whose authority was this sign written?",
+  "floranDescription" : "Sssilly sssign.",
+  "glitchDescription" : "Stumped. This is a script I wasn't programmed to know anything about.",
+  "humanDescription" : "Looks like the entrance to a fraternity house. Or a sorority hall. Not sure if I ought to be here.",
+  "hylotlDescription" : "Looks vaguely like some dead language from Earth, but I can't be sure. Maybe it's a warning?",
+  "novakidDescription" : "By golly, it's all Greek to me! and I don't even know what a Greek is, honest!",
+  "felinDescription" : "Nobody ain't got time to read this.",
+  "feneroxDescription" : "Strange sign. Unknown script. Can't read!",
+
+  "description" : "A metal sign imprinted with 'Do not enter' in Tionese script.",
+  "shortdescription" : "Tionese 'Do Not Enter' Sign",
+  "race" : "zabrak",
+
+  "inventoryIcon" : "zabrakdonotentericon.png",
+  "orientations" : [
+    {
+      "image" : "zabrakdonotenter.png:<color>",
+      "imagePosition" : [-16, -8],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

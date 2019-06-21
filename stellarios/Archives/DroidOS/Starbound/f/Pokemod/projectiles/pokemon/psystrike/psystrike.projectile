@@ -1,0 +1,20 @@
+{
+  "projectileName" : "psystrike",
+  "image" : "psystrike.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 3,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "flippable" : true,
+  
+  "statusEffects" : [ ],
+  "power" : 70,
+  "speed" : 0.2,
+  "damageKind" : "default",
+
+  "timeToLive" : 7,
+
+  "scripts" : [ "psystrike.lua" ],
+  "delayTime" : 1.5,
+  "triggerSpeed" : 100
+}

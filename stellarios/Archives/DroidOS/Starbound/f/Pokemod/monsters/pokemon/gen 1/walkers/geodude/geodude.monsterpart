@@ -1,0 +1,9 @@
+{
+  "name" : "geodude",
+  "category" : "geodude",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "geodude.png"
+  }
+}

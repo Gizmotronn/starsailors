@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintingad",
+  "colonyTags" : ["swrace","pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "Advertisement.",
+  "shortdescription" : "Advertisement",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+  
+
+  "inventoryIcon" : "paintingadicon.png",
+  "orientations" : [
+    {
+      "image" : "paintingad.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

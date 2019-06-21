@@ -1,0 +1,31 @@
+{
+  "objectName" : "SWMithorianfence",
+  "colonyTags" : ["swrace", "ithorian"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A force field fence.",
+  "shortdescription" : "Force Field Fence",
+  "race" : "ithorian",
+
+  "ithorianDescription" : "This feature ought to be commonplace on many Ithorian installations, right?",
+  "glitchDescription" : "Dismissive. It's like a force field, only infinitesimally more useless and not as economical.",
+  "novakidDescription" : "Now there's a thing for keeping them damned Ringrams penned in!",
+  "hylotlDescription" : "It's an interesting concept, but wasteful in the amount of energy required to keep it active.",
+  "feneroxDescription" : "Strange fence. Energy field. Still jumpable. Not useful.",
+
+  "inventoryIcon" : "ithorianfenceicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "ithorianfence.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

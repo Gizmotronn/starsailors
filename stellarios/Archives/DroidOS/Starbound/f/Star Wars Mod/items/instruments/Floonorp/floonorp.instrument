@@ -1,0 +1,20 @@
+{
+  "itemName" : "SWMfloonorp",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "icon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A floonorp, made of podracer engine parts.",
+  "shortdescription" : "floonorp",
+  "largeImage" : "floonorp.png",
+  "image" : "floonorp.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "floonorp.png",
+  "activeAngle" : 6,
+  "activeHandPosition" : [0.2, -0.1],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "saxophone"
+}

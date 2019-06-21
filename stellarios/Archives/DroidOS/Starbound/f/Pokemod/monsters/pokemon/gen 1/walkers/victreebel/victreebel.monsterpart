@@ -1,0 +1,9 @@
+{
+  "name" : "victreebel",
+  "category" : "victreebel",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "victreebel.png"
+  }
+}

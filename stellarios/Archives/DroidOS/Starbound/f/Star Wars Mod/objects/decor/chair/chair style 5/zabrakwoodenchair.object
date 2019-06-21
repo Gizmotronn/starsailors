@@ -1,0 +1,50 @@
+{
+  "objectName" : "zabrakwoodenchair",
+  "colonyTags" : ["swrace"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 75,
+  "description" : "A wooden dining chair.",
+  "shortdescription" : "Chair Style 5",
+  "race" : "zabrak",
+
+  "apexDescription" : "These simple chairs are mass produced. I once found 'Help Us' etched into a chair frame.",
+  "avianDescription" : "The legs on this chair wobble.",
+  "floranDescription" : "Floran craft better chair, massterful craftsmen.",
+  "glitchDescription" : "Obsessive. One chair leg is three millimetres longer than the others.",
+  "humanDescription" : "An uncomfortable wobbly chair.",
+  "hylotlDescription" : "A labour of love this was not.",
+  "novakidDescription" : "The kind of chair built for jus' sittin'.",
+
+  "inventoryIcon" : "zabrakwoodenchairicon.png",
+  "orientations" : [
+    {
+      "image" : "zabrakwoodenchair.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "direction" : "left",
+      "flipImages" : true,
+      "sitPosition" : [3, 22],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "zabrakwoodenchair.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "direction" : "right",
+      "sitPosition" : [1, 22],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false
+
+}

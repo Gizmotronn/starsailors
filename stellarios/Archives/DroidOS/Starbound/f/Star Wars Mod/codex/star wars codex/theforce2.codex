@@ -1,0 +1,18 @@
+{
+	"id" : "theforce2",
+	"title" : "The Force Part 2",
+	"description" : "Information About The Force.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+  "Certain individuals that were not Force-sensitive sometimes doubted its very existence. For example, Han Solo once stated, when asked by Luke Skywalker if he believed in the Force, that 'I've never seen anything to make me believe that there's one all-powerful Force controlling everything.'",
+
+  "Solo's adventures with Skywalker, however, did eventually change his opinion. This was also the case of Imperial officers during the later days of the Empire's reign: this led to several officers, such as Conan Antonio Motti, seeing Darth Vader as being nothing more than a sorcerer and the ways of the Force as an 'ancient religion.'",
+
+  "However, higher-ranking officers who had been around during the Clone Wars, such as Grand Moff Wilhuff Tarkin, knew that the power of the Force was real; they simply believed that the Jedi were extinct and that Vader was the last who could use their power. "
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

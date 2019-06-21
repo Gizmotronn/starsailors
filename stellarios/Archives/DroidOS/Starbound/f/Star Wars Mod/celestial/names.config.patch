@@ -1,0 +1,2774 @@
+[
+  {
+    "op": "replace",
+    "path": "/systemNames/0/1",
+    "value": "Csilla"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/1/1",
+    "value": "Klasse Ephemora"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/2/1",
+    "value": "Ilum"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/3/1",
+    "value": "Mobus"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/4/1",
+    "value": "Rakata Prime"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/5/1",
+    "value": "Zonama Sekot"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/6/1",
+    "value": "Zaadja"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/7/1",
+    "value": "G'rho"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/8/1",
+    "value": "Rattatak"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/9/1",
+    "value": "Selvaris"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/10/1",
+    "value": "Reecee"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/11/1",
+    "value": "Ord Mirit"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/12/1",
+    "value": "Pantolomin"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/13/1",
+    "value": "Fresia"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/14/1",
+    "value": "Phu"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/15/1",
+    "value": "Widek"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/16/1",
+    "value": "Khomm"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/17/1",
+    "value": "Duro"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/18/1",
+    "value": "Tarkin's Fang"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/19/1",
+    "value": "Ebaq"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/20/1",
+    "value": "Corellia"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/21/1",
+    "value": "Antar"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/22/1",
+    "value": "Denon"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/23/1",
+    "value": "Aleen"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/24/1",
+    "value": "Atzerri"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/25/1",
+    "value": "Gyndine"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/26/1",
+    "value": "Commenar"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/27/1",
+    "value": "Yavin"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/28/1",
+    "value": "Mandalore"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/29/1",
+    "value": "Cularin"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/30/1",
+    "value": "Tarhassin"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/31/1",
+    "value": "Ruusan"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/32/1",
+    "value": "Byss"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/33/1",
+    "value": "Ojom"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/34/1",
+    "value": "Widek"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/35/1",
+    "value": "Galantos"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/36/1",
+    "value": "Oroaturoo"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/37/1",
+    "value": "Fresia"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/38/1",
+    "value": "Metellos"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/39/1",
+    "value": "Ruan"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/40/1",
+    "value": "Vulpter"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/41/1",
+    "value": "Coruscant"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/42/1",
+    "value": "Jagga-Two"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/43/1",
+    "value": "Kiribi"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/44/1",
+    "value": "Caamas"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/45/1",
+    "value": "Alderaan"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/46/1",
+    "value": "Kuat"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/47/1",
+    "value": "Humbarine"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/48/1",
+    "value": "Telti"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/49/1",
+    "value": "Ambria"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/50/1",
+    "value": "Hok"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/51/1",
+    "value": "Canti"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/52/1",
+    "value": "Caloria"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/53/1",
+    "value": "Tanger"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/54/1",
+    "value": "Reena"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/55/1",
+    "value": "Tillo"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/56/1",
+    "value": "Tocco"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/57/1",
+    "value": "Lupani"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/58/1",
+    "value": "Cauper"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/59/1",
+    "value": "Rellio"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/60/1",
+    "value": "Soterios"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/61/1",
+    "value": "Garobi"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/62/1",
+    "value": "Barnaba"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/63/1",
+    "value": "Hellios"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/64/1",
+    "value": "Lynx"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/65/1",
+    "value": "Lamuir"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/66/1",
+    "value": "Mrisst"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/67/1",
+    "value": "Lusk"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/68/1",
+    "value": "Alisandor"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/69/1",
+    "value": "Sefon"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/70/1",
+    "value": "Tamber"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/71/1",
+    "value": "Danju"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/72/1",
+    "value": "Pelagon"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/73/1",
+    "value": "Grella"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/74/1",
+    "value": "Procopia"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/75/1",
+    "value": "Nyssa"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/76/1",
+    "value": "Lorenz"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/77/1",
+    "value": "Nella"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/78/1",
+    "value": "Dampher"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/79/1",
+    "value": "Ullion"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/80/1",
+    "value": "Monadin"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/81/1",
+    "value": "Redrish"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/82/1",
+    "value": "Renegg"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/83/1",
+    "value": "Horthov"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/84/1",
+    "value": "Sacorria"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/85/1",
+    "value": "Talfaglio"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/86/1",
+    "value": "Derilyn"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/87/1",
+    "value": "Torina"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/88/1",
+    "value": "Merisee"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/89/1",
+    "value": "Korad"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/90/1",
+    "value": "Coyn"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/91/1",
+    "value": "Bodrin"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/92/1",
+    "value": "Alluuvia"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/93/1",
+    "value": "Kuras"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/94/1",
+    "value": "Elrood"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/95/1",
+    "value": "Halbara"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/96/1",
+    "value": "Cargamalis"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/97/1",
+    "value": "Aztubek"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/98/1",
+    "value": "Javin"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/99/1",
+    "value": "Kumru"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/100/1",
+    "value": "Burnin Konn"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/101/1",
+    "value": "Varonat"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/102/1",
+    "value": "Bespin"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/103/1",
+    "value": "Polmanar"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/104/1",
+    "value": "Shuldene"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/105/1",
+    "value": "Hoth"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/106/1",
+    "value": "Tokmia"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/107/1",
+    "value": "Ertegas"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/108/1",
+    "value": "Darlyn Boda"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/109/1",
+    "value": "Orn Kios"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/110/1",
+    "value": "Ozu"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/111/1",
+    "value": "Isde Naha"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/112/1",
+    "value": "Togominda"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/113/1",
+    "value": "Gerrenthum"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/114/1",
+    "value": "Aargau"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/115/1",
+    "value": "Aargonar"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/116/1",
+    "value": "Aaris"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/117/1",
+    "value": "Abregado-rae"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/118/1",
+    "value": "Achillea"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/119/1",
+    "value": "Adumar"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/120/1",
+    "value": "Af'El"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/121/1",
+    "value": "Alluuvia"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/122/1",
+    "value": "Allyuen"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/123/1",
+    "value": "Almania"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/124/1",
+    "value": "Almaran"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/125/1",
+    "value": "Anaxes"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/126/1",
+    "value": "Ankus"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/127/1",
+    "value": "Annaj"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/128/1",
+    "value": "Anoat"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/129/1",
+    "value": "Anobis"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/130/1",
+    "value": "Anoth"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/131/1",
+    "value": "Ansion"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/132/1",
+    "value": "Antemeridias"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/133/1",
+    "value": "Aquaris"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/134/1",
+    "value": "Arbra"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/135/1",
+    "value": "Arkania"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/136/1",
+    "value": "Balmorra"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/137/1",
+    "value": "Bandomeer"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/138/1",
+    "value": "Bastion"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/139/1",
+    "value": "Bestine"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/140/1",
+    "value": "Bothawui"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/141/1",
+    "value": "Bpfassh"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/142/1",
+    "value": "Cato Neimoidia"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/143/1",
+    "value": "Cerea"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/144/1",
+    "value": "Cesya"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/145/1",
+    "value": "Chalacta"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/146/1",
+    "value": "Cholganna"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/147/1",
+    "value": "Concord Dawn"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/148/1",
+    "value": "Dagobah"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/149/1",
+    "value": "Dellalt"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/150/1",
+    "value": "De'nel "
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/151/1",
+    "value": "Devaron"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/152/1",
+    "value": "Dorvalla"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/153/1",
+    "value": "Druckenwell"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/154/1",
+    "value": "Ehjenla"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/155/1",
+    "value": "Elshandruu Pica"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/156/1",
+    "value": "Endor"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/157/1",
+    "value": "Exocron"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/158/1",
+    "value": "Firrerre"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/159/1",
+    "value": "Galidraan"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/160/1",
+    "value": "Gandle Ott"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/161/1",
+    "value": "Gravlex Med "
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/162/1",
+    "value": "Humbarine"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/163/1",
+    "value": "High Chunah"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/164/1",
+    "value": "Helska"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/165/1",
+    "value": "Iktotch"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/166/1",
+    "value": "Indellian"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/167/1",
+    "value": "Jumus"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/168/1",
+    "value": "Kaikielius"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/169/1",
+    "value": "Kal'Shebbol"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/170/1",
+    "value": "Kashyyyk"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/171/1",
+    "value": "Kessel"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/172/1",
+    "value": "Kiffex"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/173/1",
+    "value": "Kinyen"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/174/1",
+    "value": "Klasse Ephemora"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/175/1",
+    "value": "Korriban"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/176/1",
+    "value": "Kuat"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/177/1",
+    "value": "Kubindi"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/178/1",
+    "value": "Kwenn"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/179/1",
+    "value": "Lahsbane"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/180/1",
+    "value": "Lok"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/181/1",
+    "value": "Maya Kovel "
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/182/1",
+    "value": "Merkat"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/183/1",
+    "value": "M'haeli"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/184/1",
+    "value": "Mon Calamari"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/185/1",
+    "value": "Morishim"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/186/1",
+    "value": "Mrlsst"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/187/1",
+    "value": "Munto Codru"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/188/1",
+    "value": "Muskree "
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/189/1",
+    "value": "Muunilinst"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/190/1",
+    "value": "Mygeeto"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/191/1",
+    "value": "Naboo"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/192/1",
+    "value": "Nak Shimor"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/193/1",
+    "value": "Nal Hutta "
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/194/1",
+    "value": "Netolio"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/195/1",
+    "value": "Nigel"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/196/1",
+    "value": "Nirauan"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/197/1",
+    "value": "Nothoiin"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/198/1",
+    "value": "Novolek"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/199/1",
+    "value": "Nyrvana"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/200/1",
+    "value": "Obroa-skai "
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/201/1",
+    "value": "Oon Tien "
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/202/1",
+    "value": "Ord Biniir "
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/203/1",
+    "value": "Ord Canfre"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/204/1",
+    "value": "Ord Janon"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/205/1",
+    "value": "Ord Mantell "
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/206/1",
+    "value": "Ord Radama "
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/207/1",
+    "value": "Oroaturoo"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/208/1",
+    "value": "Osirrag"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/209/1",
+    "value": "Ottega"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/210/1",
+    "value": "Pantolomin"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/211/1",
+    "value": "Pergitor"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/212/1",
+    "value": "Phaeda"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/213/1",
+    "value": "Phindar"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/214/1",
+    "value": "Polis Massa "
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/215/1",
+    "value": "Polmanar"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/216/1",
+    "value": "Polneye"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/217/1",
+    "value": "Praesitlyn"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/218/1",
+    "value": "Q'Maere"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/219/1",
+    "value": "Queyta"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/220/1",
+    "value": "Recopia"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/221/1",
+    "value": "Redrish"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/222/1",
+    "value": "Rhen Var"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/223/1",
+    "value": "Sacorria"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/224/1",
+    "value": "Saleucami"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/225/1",
+    "value": "Senali"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/226/1",
+    "value": "Sanyassa"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/227/1",
+    "value": "Sarapin"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/228/1",
+    "value": "Selvaris"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/229/1",
+    "value": "Shadda-Bi Boran"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/230/1",
+    "value": "Shusugaunt"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/231/1",
+    "value": "Siskeen"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/232/1",
+    "value": "Sluis Van "
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/233/1",
+    "value": "Sorella"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/234/1",
+    "value": "Taboon"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/235/1",
+    "value": "Talfaglio"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/236/1",
+    "value": "Tatooine"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/237/1",
+    "value": "Dantooine"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/238/1",
+    "value": "Timbra Ott"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/239/1",
+    "value": "Tiss'Sharl"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/240/1",
+    "value": "Togominda"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/241/1",
+    "value": "Togoria"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/242/1",
+    "value": "Toprawa"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/243/1",
+    "value": "Toydaria"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/244/1",
+    "value": "Troiken"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/245/1",
+    "value": "Utapau"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/246/1",
+    "value": "Vaal"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/247/1",
+    "value": "Vaath'kror"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/248/1",
+    "value": "Vasha"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/249/1",
+    "value": "Velmor"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/250/1",
+    "value": "Vinsoth"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/251/1",
+    "value": "Widek"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/252/1",
+    "value": "Yag'Dhul "
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/253/1",
+    "value": "Yalara"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/254/1",
+    "value": "Zeltros"
+  },
+  {
+    "op": "replace",
+    "path": "/systemNames/255/1",
+    "value": "Zorbia"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemNames/256"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  },
+  {
+    "op": "remove",
+    "path": "/systemSuffixNames/0"
+  }
+]

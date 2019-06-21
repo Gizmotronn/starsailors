@@ -1,0 +1,21 @@
+{
+	"id" : "tuskandiary",
+	"title" : "Sand People",
+	"description" : "About Tuskans.",
+	"icon" : "toydariancover1.png",
+  "contentPages" : [
+  "Tusken Raiders were a species native to the desert world of Tatooine. Their homeworld's harsh environment resulted in them being extremely xenophobic & territorial of their native resources, often attacking the outskirts of smaller settlements.",
+
+"Males wore rough wrappings and garments that provided protection and allowed ease of movement.
+Females could be distinguished by their elaborate jeweled masks with eyeslits and torso-covering sand-shrouds."
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

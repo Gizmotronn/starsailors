@@ -1,0 +1,44 @@
+{
+  "objectName" : "squirtlebox",
+  "colonyTags" : ["pokemon"],
+  "price" : 100,
+  "printable" : false,
+  "rarity" : "Uncommon",
+  "description" : "Place this pokeball on the ground, then interact to release a Squirtle to capture.",
+  "shortdescription" : "Squirtle Pokeball",
+  "race" : "generic",
+  "category" : "decorative",
+
+  "inventoryIcon" : "squirtleboxicon.png",
+  "orientations" : [
+    {
+      "image" : "squirtlebox.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+      "frames" : 1,
+      "animationCycle" : 1.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "squirtlebox.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+      "frames" : 1,
+      "animationCycle" : 1.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "unbreakable" : true,
+  "rooting" : true,
+
+  "breakDropPool" : "empty",
+
+  "scripts" : [ "squirtlebox.lua" ],
+  "scriptDelta" : 60
+}

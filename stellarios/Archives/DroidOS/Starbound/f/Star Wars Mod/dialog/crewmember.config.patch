@@ -1,0 +1,182 @@
+[
+	{
+		"op": "add",
+		"path": "/converse/wookie",
+		"value": {
+			"default": [
+				"I look so amazing in this uniform.",
+				"Howdy.",
+				"Seen any good leathers lately? I'm asking for a friend."
+				
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/sith",
+		"value": {
+			"default": [
+				"I look so amazing in this uniform.",
+				"Howdy.",
+				"Seen any good leathers lately? I'm asking for a friend."
+				
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/togruta",
+		"value": {
+			"default": [
+				"I look so amazing in this uniform.",
+				"Howdy.",
+				"Seen any good leathers lately? I'm asking for a friend."
+				
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/toydarian",
+		"value": {
+			"default": [
+				"I look so amazing in this uniform.",
+				"Howdy.",
+				"Seen any good leathers lately? I'm asking for a friend."
+				
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/utapaun",
+		"value": {
+			"default": [
+				"I look so amazing in this uniform.",
+				"Howdy.",
+				"Seen any good leathers lately? I'm asking for a friend."
+				
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/rodian",
+		"value": {
+			"default": [
+				"Rodians always shoot first!",
+				"Howdy.",
+				"Seen any good leathers lately? I'm asking for a friend."
+				
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/tuskan",
+		"value": {
+			"default": [
+				"I look so amazing in this uniform.",
+				"Howdy.",
+				"Seen any good leathers lately? I'm asking for a friend."
+				
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/zabrak",
+		"value": {
+			"default": [
+				"I look so amazing in this uniform.",
+				"Howdy.",
+				"Seen any good leathers lately? I'm asking for a friend."
+				
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/converse/ithorian",
+		"value": {
+			"default": [
+				"I look so amazing in this uniform.",
+				"Howdy.",
+				"Seen any good leathers lately? I'm asking for a friend."
+				
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/mawg",
+		"value": {
+			"default": [
+				"I look so amazing in this uniform.",
+				"Howdy.",
+				"Seen any good leathers lately? I'm asking for a friend."
+				
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/droid",
+		"value": {
+			"default": [
+				"I look so amazing in this uniform.",
+				"Howdy.",
+				"Seen any spare parts lately? I'm asking for a friend."
+				
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/twilek",
+		"value": {
+			"default": [
+				"I look so amazing in this uniform.",
+				"Howdy.",
+				"Seen any good leathers lately? I'm asking for a friend."
+				
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/bothan",
+		"value": {
+			"default": [
+				"I look so amazing in this uniform.",
+				"Howdy.",
+				"Seen any good leathers lately? I'm asking for a friend."
+				
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/diathim",
+		"value": {
+			"default": [
+				"I look so amazing in this uniform.",
+				"Howdy.",
+				"Seen any good leathers lately? I'm asking for a friend."
+				
+			]
+		}
+	}
+]

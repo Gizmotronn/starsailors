@@ -1,0 +1,80 @@
+{
+  "itemName" : "SWMforceheal",
+  "level" : 6,
+  "price" : 1440,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Use the Force to speed up your body's natural healing.",
+  "shortdescription" : "Force Heal",
+  "category" : "staff",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","staff"],
+  "tooltipKind" : "staff",
+
+  "animation" : "forceheal.animation",
+  "animationParts" : {
+    "staff" : "forceheal.png",
+    "stone" : "",
+    "chargeEffect" : "staffglow.png"
+  },
+  
+  "inventoryIcon" : "forcehealicon.png",
+
+  "scripts" : ["/items/active/weapons/staff/staff.lua"],
+
+  "stances" : {
+    "idle" : {
+      "armRotation" : -90,
+      "weaponRotation" : 0,
+      "twoHanded" : false,
+
+      "allowRotate" : false,
+      "allowFlip" : true
+    },
+    "charge" : {
+      "duration" : 0.1,
+      "armRotation" : 20,
+      "weaponRotation" : -20,
+      "twoHanded" : true,
+
+      "allowRotate" : false,
+      "allowFlip" : true
+    },
+    "charged" : {
+      "armRotation" : 20,
+      "weaponRotation" : -20,
+      "twoHanded" : true,
+
+      "allowRotate" : false,
+      "allowFlip" : false
+    },
+    "discharge" : {
+      "duration" : 0.5,
+      "armRotation" : 20,
+      "weaponRotation" : -20,
+      "twoHanded" : true,
+
+      "allowRotate" : false,
+      "allowFlip" : false
+    },
+    "cooldown" : {
+      "duration" : 0.5,
+      "armRotation" : -45,
+      "weaponRotation" : 0,
+      "twoHanded" : true,
+
+      "allowRotate" : false,
+      "allowFlip" : false
+    }
+  },
+
+  "elementalType" : "electric",
+  "primaryAbilityType" : "healingzone",
+  "primaryAbility" : {
+
+  },
+
+  
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

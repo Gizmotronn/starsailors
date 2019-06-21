@@ -1,0 +1,15 @@
+{
+  "itemName" : "pmtrhead",
+  "price" : 75,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headwear",
+  "description" : "The hat of Team Rocket's uniform.",
+  "shortdescription" : "Team Rocket hat",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"
+}

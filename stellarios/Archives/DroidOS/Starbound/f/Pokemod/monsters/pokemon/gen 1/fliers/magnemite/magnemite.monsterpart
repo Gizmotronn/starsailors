@@ -1,0 +1,9 @@
+{
+  "name" : "magnemite",
+  "category" : "magnemite",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "magnemite.png"
+  }
+}

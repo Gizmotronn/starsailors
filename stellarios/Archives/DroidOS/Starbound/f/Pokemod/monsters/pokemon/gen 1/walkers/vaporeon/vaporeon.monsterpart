@@ -1,0 +1,9 @@
+{
+  "name" : "vaporeon",
+  "category" : "vaporeon",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "vaporeon.png"
+  }
+}

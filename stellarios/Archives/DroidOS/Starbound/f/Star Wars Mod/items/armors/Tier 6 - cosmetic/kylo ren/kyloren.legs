@@ -1,0 +1,13 @@
+{
+  "itemName" : "SWM2kylolegs",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Kylo Ren's Pants.",
+  "shortdescription" : "Kylo Ren's Pants",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}

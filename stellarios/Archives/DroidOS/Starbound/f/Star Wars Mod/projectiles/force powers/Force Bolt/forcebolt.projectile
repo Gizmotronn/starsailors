@@ -1,0 +1,15 @@
+{
+  "projectileName" : "forcebolt",
+  "image" : "forcebolt.png",
+  "animationCycle" : 0.7,
+  "frameNumber" : 6,
+  "speed" : 10,
+  "damagePoly" : [ [-18, 0], [-12, -12], [0, -18], [12, -12], [18, 0], [12, 12], [0, 18], [-12, 12] ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageKind" : "electric",
+  "lightColor" : [28, 181, 238],
+  "timeToLive" : 0.45,
+  "pointLight" : true
+}

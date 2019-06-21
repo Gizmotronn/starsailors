@@ -1,0 +1,9 @@
+{
+  "name" : "magneton",
+  "category" : "magneton",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "magneton.png"
+  }
+}

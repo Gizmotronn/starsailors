@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintingwow",
+  "colonyTags" : ["pretty","valuable", "swrace"],
+  "rarity" : "Rare",
+  "description" : "Weapon of War.",
+  "shortdescription" : "Weapon of War Painting",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+ 
+
+  "inventoryIcon" : "paintingwowicon.png",
+  "orientations" : [
+    {
+      "image" : "paintingwow.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

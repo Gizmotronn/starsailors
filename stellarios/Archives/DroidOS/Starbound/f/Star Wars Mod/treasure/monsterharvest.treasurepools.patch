@@ -1,0 +1,19 @@
+[
+  {
+    "op": "add",
+    "path": "/nerfHarvest",
+    "value": [
+      [
+        1,
+        {
+          "pool": [
+            {
+              "weight": 1,
+              "item": "leather"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

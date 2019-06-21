@@ -1,0 +1,21 @@
+{
+	"id" : "zabrakdiary",
+	"title" : "Zabraks",
+	"description" : "Information on Zabraks",
+	"icon" : "zabrakcover1.png",
+  "contentPages" : [
+  "Zabraks were a near-human carnivorous species native to the planet Iridonia. The species had distinctive horns atop their heads and two hearts.",
+
+"Although most male Zabraks lived on Iridonia, some lived on Dathomir under the rule of the Nightsisters.
+Zabraks were considered to be proud, self-determined and even arrogant to some, yet they nevertheless were one of the most independent species in the galaxy."
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

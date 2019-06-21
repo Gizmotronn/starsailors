@@ -1,0 +1,26 @@
+{
+  "type" : "tuskanbandit",
+  "baseType" : "hostile",
+
+  "levelVariance" : [0, 0],
+
+  "dropPools" : [ "banditTreasure" ],
+  
+  "items" : {
+    "override" : [
+      [0, [ {
+        "head" : [ { "name" : "SWM2tuskanhead" } ],
+            "chest" : [ { "name" : "SWM2tuskanchest" } ],
+            "legs" : [ { "name" : "SWM2tuskanlegs" } ],
+            "primary" : [
+              
+              "SWMtuskancyclerT1",
+			  "SWMbasicgaderffiiT1"
+        ],
+        "alt" : [
+          { "name" : "flashlight" }
+        ]
+      } ] ]
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "itemName" : "SWM2tuskanslegs",
+  "price" : 1600,
+  "inventoryIcon" : "icons.png:pants",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "legarmour",
+  "description" : "Common clothing of a Tuskan Raider",
+  "shortdescription" : "Tuskan Trousers",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pantsm.png",
+  "femaleFrames" : "pantsf.png"
+}

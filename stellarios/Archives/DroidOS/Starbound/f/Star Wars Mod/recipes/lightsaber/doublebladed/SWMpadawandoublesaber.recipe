@@ -1,0 +1,10 @@
+{
+  "input" : [
+    
+	{ "item" : "kybercrystal", "count" : 2},
+	{ "item" : "ironbar", "count" : 15 },
+	{ "item" : "silverbar", "count" : 10}
+  ],
+  "output" : { "item" : "SWMpadawandoublesaber", "count" : 1 },
+  "groups" : [ "af", "t2"]
+}

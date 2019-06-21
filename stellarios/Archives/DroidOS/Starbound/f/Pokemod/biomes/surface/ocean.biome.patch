@@ -1,0 +1,830 @@
+[
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/select",
+    "value": 4
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/pool/0/0",
+    "value": 0.1111
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/pool/0/1",
+    "value": "charmander"
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/pool/1/0",
+    "value": 0.1111
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/pool/1/1",
+    "value": "bulbasaur"
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/pool/2/0",
+    "value": 0.1111
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/pool/2/1",
+    "value": "squirtle"
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/pool/3/0",
+    "value": 0.1111
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/pool/3/1",
+    "value": "caterpie"
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/pool/4/0",
+    "value": 0.1111
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/pool/4/1",
+    "value": "weedle"
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/pool/5/0",
+    "value": 0.1111
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/0/pool/5/1",
+    "value": "rattata"
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "ekans"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "pikachu"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "sandshrew"
+    ]
+  },
+  
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "nidoranf"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "nidoranm"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "clefairy"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "vulpix"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "jigglypuff"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "oddish"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "paras"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "venonat"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "diglett"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "meowth"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "psyduck"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "mankey"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "growlithe"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "poliwag"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "abra"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "machop"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "bellsprout"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "geodude"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "ponyta"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "slowpoke"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "farfetchd"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "doduo"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "seel"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "grimer"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "drowzee"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "krabby"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "exeggcute"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "cubone"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "hitmonchan"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "hitmonlee"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "lickitung"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "koffing"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "rhyhorn"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "chansey"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "tangela"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "kangaskhan"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "staryu"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "mrmime"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "scyther"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "jynx"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "electabuzz"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "magmar"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "pinsir"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "tauros"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "ditto"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "eevee"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "porygon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "snorlax"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "alakazam"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "arbok"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "arcanine"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "blastoise"
+    ]
+  },
+  
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "charizard"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "charmeleon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "clefable"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "dodrio"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "dragonite"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "exeggutor"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "flareon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "jolteon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "vaporeon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "wigglytuff"
+    ]
+  },
+   {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "muk"
+    ]
+  },
+   {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "golem"
+    ]
+  },
+   {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "graveler"
+    ]
+  },
+   {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "hypno"
+    ]
+  },
+   {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "marowak"
+    ]
+  },
+   {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "metapod"
+    ]
+  },
+   {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "ivysaur"
+    ]
+  },
+   {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "venusaur"
+    ]
+  },
+   {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "weepinbell"
+    ]
+  },
+   {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "victreebel"
+    ]
+  },
+   {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "wartortle"
+    ]
+  },
+   {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "kadabra"
+    ]
+  },
+   {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "persian"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "primeape"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "machamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "machoke"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "kingler"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/0/pool/-",
+    "value": [
+      0.1111,
+      "weezing"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/1/select",
+    "value": 3
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/1/pool/0/0",
+    "value": 0.3
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/1/pool/0/1",
+    "value": "pidgey"
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/1/pool/1/1",
+    "value": "spearow"
+  },
+  {
+    "op": "replace",
+    "path": "/spawnProfile/groups/1/pool/2/1",
+    "value": "zubat"
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/1/pool/-",
+    "value": [
+      0.3,
+      "gastly"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/1/pool/-",
+    "value": [
+      0.3,
+      "magnemite"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/1/pool/-",
+    "value": [
+      0.3,
+      "haunter"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/1/pool/-",
+    "value": [
+      0.3,
+      "aerodactyl"
+    ]
+  },
+    {
+    "op": "add",
+    "path": "/spawnProfile/groups/1/pool/-",
+    "value": [
+      0.3,
+      "articuno"
+    ]
+  },
+   {
+    "op": "add",
+    "path": "/spawnProfile/groups/1/pool/-",
+    "value": [
+      0.3,
+      "butterfree"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/1/pool/-",
+    "value": [
+      0.3,
+      "mew"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/1/pool/-",
+    "value": [
+      0.3,
+      "mewtwo"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/spawnProfile/groups/1/pool/-",
+    "value": [
+      0.3,
+      "magneton"
+    ]
+  }
+]

@@ -1,0 +1,216 @@
+{
+    "animatedParts": {
+        "stateTypes": {
+            "jumping": {
+                "default": "off",
+                "states": {
+                    "off": {
+                        "frames": 1,
+                        "mode": "end"
+                    },
+                    "on": {
+                        "frames": 2,
+						"cycle" : 0.1,
+                        "mode": "loop"
+                    },
+					"invisible": {
+						"frames": 1,
+						"mode": "end"
+					}
+                }
+            }
+        },
+        "parts": {
+            "wings": {
+                "partStates": {
+                    "jumping": {
+                        "off": {
+                            "properties": {
+                                "centered": true,
+                                "image": "wings.png:flap.<frame>",
+								"zLevel" : -1
+                            }
+						},
+							
+                        "on": {
+                            "properties": {
+                                "centered": true,
+                                "image": "wings.png:flap.<frame>",
+								"zLevel" : -1
+                            }
+                        },
+						
+						"invisible":{
+							"properties":{
+								"centered":true
+							}
+						}
+                    }
+                }
+            }
+        }
+    },
+    "particleEmitters": {
+        "wallJump.left": {
+            "particles": [
+                {
+                    "particle": {
+                        "type": "animated",
+                        "animation": "/animations/jumpsmoke/jumpsmoke.animation",
+                        "fade": 0.9,
+                        "position": [
+                            -0.5,
+                            -1.5
+                        ],
+                        "rotation": -90,
+                        "timeToLive": 0.4
+                    }
+                }
+            ]
+        },
+        "wallJump.right": {
+            "particles": [
+                {
+                    "particle": {
+                        "type": "animated",
+                        "animation": "/animations/jumpsmoke/jumpsmoke.animation",
+                        "fade": 0.9,
+                        "position": [
+                            0.5,
+                            -1.5
+                        ],
+                        "rotation": 90,
+                        "timeToLive": 0.4
+                    }
+                }
+            ]
+        },
+        "wallSlide.left": {
+            "emissionRate": 15,
+            "particles": [
+                {
+                    "particle": {
+                        "type": "animated",
+                        "animation": "/animations/dust1/dust1.animation",
+                        "layer": "front",
+                        "fade": 0.9,
+                        "destructionAction": "shrink",
+                        "destructionTime": 0.4,
+                        "position": [
+                            -0.5,
+                            -1.5
+                        ],
+                        "initialVelocity": [
+                            0,
+                            -1
+                        ],
+                        "timeToLive": 0.4,
+                        "variance": {
+                            "initialVelocity": [
+                                2,
+                                1
+                            ]
+                        }
+                    }
+                },
+                {
+                    "particle": {
+                        "type": "animated",
+                        "animation": "/animations/dust1/dust1.animation",
+                        "layer": "front",
+                        "fade": 0.9,
+                        "destructionAction": "shrink",
+                        "destructionTime": 0.4,
+                        "position": [
+                            -0.5,
+                            -2.25
+                        ],
+                        "initialVelocity": [
+                            0,
+                            -1
+                        ],
+                        "timeToLive": 0.4,
+                        "variance": {
+                            "initialVelocity": [
+                                2,
+                                1
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "wallSlide.right": {
+            "emissionRate": 15,
+            "particles": [
+                {
+                    "particle": {
+                        "type": "animated",
+                        "animation": "/animations/dust1/dust1.animation",
+                        "layer": "front",
+                        "fade": 0.9,
+                        "destructionAction": "shrink",
+                        "destructionTime": 0.4,
+                        "position": [
+                            0.5,
+                            -1.5
+                        ],
+                        "initialVelocity": [
+                            0,
+                            -1
+                        ],
+                        "timeToLive": 0.4,
+                        "variance": {
+                            "initialVelocity": [
+                                2,
+                                1
+                            ]
+                        }
+                    }
+                },
+                {
+                    "particle": {
+                        "type": "animated",
+                        "animation": "/animations/dust1/dust1.animation",
+                        "layer": "front",
+                        "fade": 0.9,
+                        "destructionAction": "shrink",
+                        "destructionTime": 0.4,
+                        "position": [
+                            0.5,
+                            -2.25
+                        ],
+                        "initialVelocity": [
+                            0,
+                            -1
+                        ],
+                        "timeToLive": 0.4,
+                        "variance": {
+                            "initialVelocity": [
+                                2,
+                                1
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "sounds": {
+        "multiJumpSound": [
+            "/tech/jump/crustoise_charge.ogg"
+        ],
+        "wallJumpSound": [
+            "/sfx/tech/tech_walljump.ogg"
+        ],
+        "wallGrab": [
+            "/sfx/blocks/footstep_stone.ogg"
+        ],
+        "wallSlideLoop": [
+            "/sfx/tech/tech_wallslide.ogg"
+        ],
+		"hoverSound": [
+			"/tech/jump/bobfae_fly.ogg"
+		]
+    }
+}

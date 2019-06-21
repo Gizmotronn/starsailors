@@ -1,0 +1,178 @@
+[
+  {
+    "op": "add",
+    "path": "/pools/ocean/uncommon/2",
+    "value": {
+      "monster": "horsea",
+      "day": true,
+      "night": true,
+      "shallow": true,
+      "deep": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pools/ocean/uncommon/3",
+    "value": {
+      "monster": "tentacool",
+      "day": true,
+      "night": true,
+      "shallow": true,
+      "deep": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pools/ocean/uncommon/4",
+    "value": {
+      "monster": "shellder",
+      "day": true,
+      "night": true,
+      "shallow": true,
+      "deep": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pools/ocean/uncommon/5",
+    "value": {
+      "monster": "goldeen",
+      "day": true,
+      "night": true,
+      "shallow": true,
+      "deep": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pools/ocean/uncommon/6",
+    "value": {
+      "monster": "magikarp",
+      "day": true,
+      "night": true,
+      "shallow": true,
+      "deep": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pools/ocean/uncommon/7",
+    "value": {
+      "monster": "lapras",
+      "day": true,
+      "night": true,
+      "shallow": true,
+      "deep": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pools/toxic/uncommon/1",
+    "value": {
+      "monster": "horsea",
+      "day": true,
+      "night": true,
+      "shallow": true,
+      "deep": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pools/toxic/uncommon/2",
+    "value": {
+      "monster": "tentacool",
+      "day": true,
+      "night": true,
+      "shallow": true,
+      "deep": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pools/toxic/uncommon/3",
+    "value": {
+      "monster": "shellder",
+      "day": true,
+      "night": true,
+      "shallow": true,
+      "deep": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pools/toxic/uncommon/4",
+    "value": {
+      "monster": "goldeen",
+      "day": true,
+      "night": true,
+      "shallow": true,
+      "deep": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pools/arctic/common/2",
+    "value": {
+      "monster": "horsea",
+      "day": true,
+      "night": true,
+      "shallow": true,
+      "deep": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pools/arctic/common/3",
+    "value": {
+      "monster": "tentacool",
+      "day": true,
+      "night": true,
+      "shallow": true,
+      "deep": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pools/arctic/common/4",
+    "value": {
+      "monster": "shellder",
+      "day": true,
+      "night": true,
+      "shallow": true,
+      "deep": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pools/arctic/common/5",
+    "value": {
+      "monster": "goldeen",
+      "day": true,
+      "night": true,
+      "shallow": true,
+      "deep": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pools/arctic/common/5",
+    "value": {
+      "monster": "magikarp",
+      "day": true,
+      "night": true,
+      "shallow": true,
+      "deep": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pools/arctic/common/5",
+    "value": {
+      "monster": "lapras",
+      "day": true,
+      "night": true,
+      "shallow": true,
+      "deep": true
+    }
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "objectName" : "zabrakarmchair",
+  "colonyTags" : ["swrace", "toydarian"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 95,
+  "description" : "An Armchair!",
+  "shortdescription" : "Armchair Style 3",
+  "race" : "zabrak",
+
+  "apexDescription" : "It makes me itch.",
+  "avianDescription" : "Such a comfortable seat.",
+  "floranDescription" : "Sssickening.",
+  "glitchDescription" : "Displeased. This chair offends my optics.",
+  "humanDescription" : "A depressing armchair. Comfortable though!",
+  "hylotlDescription" : "What effect must such.. inelegance have on the mind?",
+  "novakidDescription" : "It ain't pretty, but it's comfortable.",
+
+  "inventoryIcon" : "zabrakarmchairicon.png",
+  
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  
+  "orientations" : [
+    {
+      "image" : "zabrakarmchair.png:<color>",
+      "imagePosition" : [-16, 0],
+      "flipImages" : true,
+      "direction" : "left",
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "sitPosition" : [4, 20]
+    },
+    {
+      "image" : "zabrakarmchair.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "sitPosition" : [4, 20]
+    }
+  ]
+}

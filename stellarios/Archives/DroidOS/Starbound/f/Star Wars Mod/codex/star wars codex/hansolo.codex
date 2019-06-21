@@ -1,0 +1,23 @@
+{
+	"id" : "hansolo",
+	"title" : "Han Solo",
+	"description" : "Information About Han Solo.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+ 
+ "Han Solo was a human male smuggler who became a leader in the Alliance to Restore the Republic and an instrumental figure in the defeat of the Galactic Empire during the Galactic Civil War.",
+ 
+ "He hailed from Corellia and became a smuggler in the employ of Jabba the Hutt, even completing the Kessel Run in less than twelve parsecs with his prized ship, the Millennium Falcon.",
+ 
+ "After the Battle of Hoth, Solo sought safe refuge with Organa—with whom he had fallen in love—Chewbacca, and Threepio on Cloud City, which was operated by his old friend Lando Calrissian.",
+ 
+ "Captured by the Sith Lord Darth Vader as part of a trap to bait Skywalker to the city, Solo was frozen in carbonite and taken to Jabba's Palace on Tatooine by the bounty hunter Boba Fett, where he remained encased in carbonite for months until he was rescued by his friends.",
+ 
+ "He married Organa, and the two had a son, Ben Solo. The boy struggled with the dark side of the Force—like his mother, who was the daughter of Darth Vader and twin sister of Luke Skywalker."
+ 
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintingparty",
+  "colonyTags" : ["pretty","valuable", "swrace"],
+  "rarity" : "Rare",
+  "description" : "A poster for a party, but the text dopesn't make sense. Is it slang?",
+  "shortdescription" : "Party Poster",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+  
+
+  "inventoryIcon" : "paintingpartyicon.png",
+  "orientations" : [
+    {
+      "image" : "paintingparty.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

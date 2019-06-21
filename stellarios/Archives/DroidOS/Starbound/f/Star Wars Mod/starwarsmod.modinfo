@@ -1,0 +1,14 @@
+{
+"name" : "Star Wars Mod",
+"version" : "v1.2.3",
+"path" : ".",
+"requires" : [],
+"includes" : [],
+"metadata":
+{
+"author" : "ProjectMayhem",
+"version" : "1.0",
+"description" : "Star Wars mod for Starbound",
+"support_url" : ""
+}
+}

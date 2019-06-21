@@ -1,0 +1,9 @@
+{
+  "name" : "magmar",
+  "category" : "magmar",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "magmar.png"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "projectileName" : "payday",
+  "speed" : 30,
+  "bounces" : 1,
+  "physics" : "grenade",
+  "image" : "payday.png",
+  "animationCycle" : 0.5,
+  "power" : 15,
+  "frameNumber" : 1,
+  "damageKind" : "normal",
+  "actionOnReap" : [
+    {
+      "action" : "item",
+      "name" : "money"
+    }
+  ],
+
+  "emitters" : [ "lighttrailfast" ]
+
+
+
+}

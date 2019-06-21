@@ -1,0 +1,9 @@
+{
+  "name" : "persian",
+  "category" : "persian",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "persian.png"
+  }
+}

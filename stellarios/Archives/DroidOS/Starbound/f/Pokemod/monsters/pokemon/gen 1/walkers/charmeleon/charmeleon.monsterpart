@@ -1,0 +1,9 @@
+{
+  "name" : "charmeleon",
+  "category" : "charmeleon",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "charmeleon.png"
+  }
+}

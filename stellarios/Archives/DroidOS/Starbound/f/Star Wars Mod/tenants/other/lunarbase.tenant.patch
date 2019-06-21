@@ -1,0 +1,18 @@
+[
+  {
+    "op": "replace",
+    "path": "/tenants/0/species",
+    "value": [
+      "human",
+      "wookie",
+      "sith",
+      "zabrak",
+      "mawg",
+      "bothan",
+      "twilek",
+      "utapaun",
+      "togruta",
+      "rodian"
+    ]
+  }
+]

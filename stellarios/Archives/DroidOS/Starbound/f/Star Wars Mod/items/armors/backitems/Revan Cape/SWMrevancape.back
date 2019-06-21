@@ -1,0 +1,18 @@
+{
+  "itemName" : "SWMrevancape",
+  "inventoryIcon" : "revancapebackicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "rarity" : "Uncommon",
+  "description" : "Revan's Cape.",
+  "shortdescription" : "Revan's Cape",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+"acceptsAugmentType" : "back",
+  "statusEffects" : [
+    {
+      "stat" : "breathProtection",
+      "amount" : 1.0
+    }
+  ]
+}

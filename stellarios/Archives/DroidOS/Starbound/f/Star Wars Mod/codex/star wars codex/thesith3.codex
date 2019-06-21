@@ -1,0 +1,27 @@
+{
+	"id" : "thesith3",
+	"title" : "The Sith Order Part 3",
+	"description" : "Information About The Sith Order.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+  "Such philosophies were embraced and taught at Sith academies, where students were encouraged to challenge one another and fight for prestige that would be recognized by the headmaster of the academy. At the academy on Korriban during the Jedi Civil War, students were tasked with gaining prestige so they might become one of the 'chosen few' accepted into the ranks of Darth Malak's Sith Empire.",
+
+  "The strife to achieve prestige caused rivalries and animosity between the students, as there were few tasks that offered prestige, and many prospective Sith. Similarly, the students of the academy during the New Sith Wars were pitted against each other in dueling sessions atop the academy.",
+
+  "It was during these dueling sessions that intense rivalries were formed - rivalries that resulted in the deaths of students Fohargh and Sirak at the hands of Darth Bane. The cornerstone of a Sith's power was emotion. While the Jedi taught that fear, anger, and pain were negative emotions to be overcome, the Sith believed that these strong emotions were natural, and aided individuals in their survival.",
+
+  "By harnessing their emotions rather than suppressing them, the Sith believed they could achieve true power. This belief was in stark contrast to that of the Jedi, who strived to place themselves beyond such base emotions. Indeed, the Sith saw passion as the only real way to fully understand the Force.",
+
+  "However, the Sith believed strongly that the worthy could control their emotions and use them, while the weak were ruled by them. In accordance, Dark Lady Lumiya refused to accept Jacen Solo as a Sith Lord until he was able to control his anger instead of becoming a slave to it, and Freedon Nadd renounced his faith in Exar Kun shortly before his destruction, when he discovered the limitless ambition Kun served."
+  
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

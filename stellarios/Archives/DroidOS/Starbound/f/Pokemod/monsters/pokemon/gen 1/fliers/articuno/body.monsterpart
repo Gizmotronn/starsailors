@@ -1,0 +1,9 @@
+{
+  "name" : "articuno",
+  "category" : "articuno",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "articuno.png"
+  }
+}

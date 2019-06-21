@@ -1,0 +1,21 @@
+{
+  "itemName" : "yacheberry",
+  "price" : 200,
+  "rarity" : "Uncommon",
+  "tooltipKind" : "petcollar",
+  "category" : "petCollar",
+  "inventoryIcon" : "yacheberry.png",
+  "description" : "A  held item that lowers the effectiveness of Ice-Type moves.",
+  "shortdescription" : "Yache Berry",
+
+  "collar" : {
+    "name" : "heldyacheberry",
+    "displayName" : "yache Berry",
+    "displayIcon" : "/items/augments/pet/yacheberry.png",
+    "effects" : [ "iceblockaugment" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupcollar" ],
+
+  "scripts" : [ "/scripts/augments/collar.lua" ]
+}

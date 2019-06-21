@@ -1,0 +1,85 @@
+{
+    "config": {
+        "shipUpgrades": {
+            "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+            "maxFuel": 22000
+        }
+    },
+    "backgroundOverlays": [
+        {
+            "image": "frigateback.png",
+            "position": [
+                0,
+                0
+            ],
+            "fullbright": true
+        },
+       
+        {
+            "image": "frigatebacklit.png",
+            "position": [
+                0,
+                0
+            ]
+        },
+       
+        {
+            "image": "decal0back.png",
+            "position": [
+                0,
+                0
+            ]
+        },
+        {
+            "image": "decal0front.png",
+            "position": [
+                241.7,
+                0.5
+            ]
+        },
+        {
+            "image": "decal1back.png",
+            "position": [
+                0,
+                0
+            ]
+        },
+        {
+            "image": "decal1front.png",
+            "position": [
+                241.7,
+                0.5
+            ]
+        },
+        {
+            "image": "decal2back.png",
+            "position": [
+                0,
+                0
+            ]
+        },
+        {
+            "image": "decal2front.png",
+            "position": [
+                241.7,
+                0.5
+            ]
+        },
+        {
+            "image": "decal3back.png",
+            "position": [
+                0,
+                0
+            ]
+        },
+        {
+            "image": "decal3front.png",
+            "position": [
+                241.7,
+                0.5
+            ]
+        }
+    ],
+    "blockKey": "blockKey.config:blockKey",
+    "blockImage": "frigate8blocks.png"
+}

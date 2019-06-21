@@ -1,0 +1,9 @@
+{
+  "name" : "graveler",
+  "category" : "graveler",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "graveler.png"
+  }
+}

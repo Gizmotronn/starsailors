@@ -1,0 +1,85 @@
+{
+  "itemName" : "SWMf11dT1",
+  "price" : 960,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A blaster rifle manufactured by Sonn-Blas Corporation.",
+  "shortdescription" : "F-11D Blaster Rifle",
+  "tooltipKind" : "gun",
+  "category" : "assaultRifle",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","ranged","assaultrifle"],
+  "level" : 1,
+
+  "inventoryIcon" : "f11d.png",
+
+  "animation" : "/items/active/weapons/ranged/gun.animation",
+  "animationParts" : {
+    "butt" : "",
+    "middle" : "f11d.png",
+    "barrel" : "",
+    "muzzleFlash" : "/items/active/ranged/muzzleflash2.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : ["/sfx/ranged/blasterrifle.wav"]
+    }
+  },
+
+  "baseOffset" : [1, 0.15],
+  "muzzleOffset" : [2.2, 0.125],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : 0.11,
+    "baseDps" : 10.5,
+    "energyUsage" : 36.5,
+    "inaccuracy" : 0.02,
+
+    "projectileCount" : 1,
+    "fireType" : "auto",
+
+    "projectileType" : "blaster",
+    "projectileParameters" : {
+      "knockback" : 5
+    },
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 3,
+        "weaponRotation" : 3,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.11,
+        "armRotation" : 3,
+        "weaponRotation" : 3,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  },
+
+  "altAbilityType" : "spray",
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

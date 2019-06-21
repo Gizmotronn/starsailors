@@ -1,0 +1,44 @@
+{
+  "objectName" : "SWMcraftingtable",
+  "printable" : false,
+  "colonyTags" : ["starwars", "industrial", "mechanical", "electronic"],
+  "rarity" : "Legendary",
+  "description" : "Craft Star Wars-based furnishings, tools and gadgets here!",
+  "shortdescription" : "SWG Crafting Station",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 200,
+
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/SWMcraftingtable.config",
+    "filter" : [ "swm" ]
+  },
+
+  "apexDescription" : "It is the biggest gift that you can ever give someone.'",
+  "avianDescription" : "It is the biggest gift that you can ever give someone.",
+  "floranDescription" : "Biggessst gift that you can ever give sssomeone.",
+  "glitchDescription" : "Intrigued. This item can create items designed in a galaxy far, far away.",
+  "humanDescription" : "Just the gift you could by for someone every Fourth of May.",
+  "hylotlDescription" : "It is the biggest gift that you can ever give someone.",
+  "novakidDescription" : "The biggest and bestest gift ever created a long time ago!",
+  "kemonoDescription" : "It's your favorite.",
+  "feneroxDescription" : "Strange gift. From afar. Operate?",
+  "felinDescription" : "It's a nerd's favorite gift, sure; but certainly not mine.",
+
+  "inventoryIcon" : "SWMcraftingtableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "SWMcraftingtable.png:<color>.<frame>",
+      
+      "imagePosition" : [-20, 0],
+      "frames" : 24,
+      "animationCycle" : 3.5,
+      
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

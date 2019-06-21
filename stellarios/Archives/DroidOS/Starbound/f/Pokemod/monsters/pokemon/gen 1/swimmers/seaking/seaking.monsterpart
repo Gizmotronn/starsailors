@@ -1,0 +1,9 @@
+{
+  "name" : "seaking",
+  "category" : "seaking",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "seaking.png"
+  }
+}

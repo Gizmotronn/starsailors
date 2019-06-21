@@ -1,0 +1,45 @@
+{
+  "itemName" : "SWMzabrakdoublesaber",
+  "price" : 160,
+  "level" : 1,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Doubleblade Lightsaber",
+  "shortdescription" : " Doubleblade Lightsaber",
+  "tooltipKind" : "sword",
+  "category" : "spear",
+  "twoHanded" : true,
+  "itemTags" : ["weapon", "melee", "spear"],
+"inventoryIcon" : "redsabericon.png",
+    "animation" : "reddoublesaber.animation",
+  "animationParts" : {
+    "blade" : "blade/blade.png",
+    "handle" : "handle/zabrak.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/swing_lightsaber.ogg" ]
+      
+    }
+  },
+
+  "scripts" : ["/items/active/weapons/melee/energymeleeweapon.lua"],
+
+  "activeTime" : 6.0,
+
+  "elementalType" : "physical",
+
+  "primaryAbilityType" : "spearstab",
+  "primaryAbility" : {
+    "fireTime" : [0.83, 1.11],
+    "baseDps" : [37.5, 39.5],
+    "damageConfig" : {
+      "knockbackRange" : [25, 35]
+    }
+  },
+"altAbilityType" : "spearspin",
+  
+  "builder" : "/items/buildscripts/buildweapon.lua"
+  
+  
+}

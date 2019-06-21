@@ -1,0 +1,322 @@
+01-12-2016 07:21:17 | --------------------------------------------
+01-12-2016 07:21:17 | Truevision3D Debug/Log File
+01-12-2016 07:21:17 | --------------------------------------------
+01-12-2016 07:21:17 | Engine Version : 6.5
+01-12-2016 07:21:17 | ENGINE INFO : DLL Compilation time Nov 11 2009 23:25:02
+01-12-2016 07:21:17 | DEVICE INIT : Initialize Depth
+01-12-2016 07:21:17 | DEVICE INIT : Initializing the device in windowed mode, with a render surface size of 1280x720, format 22, depthbuffer 75
+01-12-2016 07:21:17 | VIEWPORT MANAGER : Main viewport initialization
+01-12-2016 07:21:17 | VIEWPORT MANAGER : Main viewport initialized (1280x720)
+01-12-2016 07:21:17 | DEVICE INIT : Initialization successful !
+01-12-2016 07:21:17 | DEVICE INFO :  3D Card : Intel(R) HD Graphics Family  | Card ID : 2582 | Driver ID : 987308
+01-12-2016 07:21:17 | DEVICE INFO : Available texture memory : 4088 MB
+01-12-2016 07:21:17 | DEVICE INFO : Vertex Shaders 3.0 supported in hardware.
+01-12-2016 07:21:17 | DEVICE INFO : Pixel Shaders 3.0 supported in hardware.
+01-12-2016 07:21:17 | DEVICE INFO : Driver used is a DirectX9-level driver 'igdumdim32.dll'. Excellent
+01-12-2016 07:21:17 | DEVICE INFO : Card Type Geforce6xxx/7xxx/8xxx/ATIRadeonX1xxx  Level card, third generation of programmable card
+01-12-2016 07:21:18 | TEXTURE MANAGER : Format of alpha texture changed to DXT1.
+01-12-2016 07:21:18 | TEXTURE MANAGER : Format of non-alpha texture changed to DXT1.
+01-12-2016 07:21:18 | TEXTURE MANAGER : Successfully created a render surface 1280x720 on slot 2
+01-12-2016 07:21:18 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\graphics\Calibri 12.dds' successful 'NONAME' on index 3 
+01-12-2016 07:21:18 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\graphics\Calibri 9.dds' successful 'NONAME' on index 4 
+01-12-2016 07:21:18 | TEXTURE MANAGER : Format of alpha texture changed to 21.
+01-12-2016 07:21:18 | TEXTURE MANAGER : Format of non-alpha texture changed to 22.
+01-12-2016 07:21:18 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\graphics\ui-logos.dds' successful 'NONAME' on index 5 
+01-12-2016 07:21:18 | TEXTURE MANAGER : Loading of '##STREAM:' successful 'stoplight' on index 6 
+01-12-2016 07:21:18 | TEXTURE MANAGER : Loading of '##STREAM:' successful 'stoplightbw' on index 7 
+01-12-2016 07:21:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\graphics\Calibri 10.dds' successful 'NONAME' on index 8 
+01-12-2016 07:21:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\graphics\Calibri 11.dds' successful 'NONAME' on index 9 
+01-12-2016 07:21:19 | TEXTURE MANAGER : Creation of texture 'webpageawesome' succeeded, format 21, size (352x660)
+01-12-2016 07:21:19 | TEXTURE MANAGER : Creation of texture 'webpageawesomealt' succeeded, format 21, size (352x660)
+01-12-2016 07:21:19 | TEXTURE MANAGER : Creation of texture 'webpagetutor' succeeded, format 21, size (352x100)
+01-12-2016 07:21:19 | TEXTURE MANAGER : Creation of texture 'webpagetutoralt' succeeded, format 21, size (352x100)
+01-12-2016 07:21:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\graphics\Calibri 8.dds' successful 'NONAME' on index 14 
+01-12-2016 07:21:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\graphics\Calibri 13.dds' successful 'NONAME' on index 15 
+01-12-2016 07:21:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\graphics\Calibri 14.dds' successful 'NONAME' on index 16 
+01-12-2016 07:21:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\graphics\Calibri 15.dds' successful 'NONAME' on index 17 
+01-12-2016 07:21:19 | SHADER MANAGER : Shader 'lighting' successfully created from string.
+01-12-2016 07:21:19 | TEXTURE MANAGER : Successfully created a render surface 512x512 on slot 18
+01-12-2016 07:21:19 | TEXTURE MANAGER : Successfully created a render surface 512x512 on slot 19
+01-12-2016 07:21:19 | TEXTURE MANAGER : Successfully created a render surface 512x512 on slot 20
+01-12-2016 07:21:19 | TEXTURE MANAGER : Format of alpha texture changed to DXT1.
+01-12-2016 07:21:19 | TEXTURE MANAGER : Format of non-alpha texture changed to DXT1.
+01-12-2016 07:21:19 | TEXTURE MANAGER : Loading of '##STREAM:' successful 'MilkyWay1' on index 21 
+01-12-2016 07:21:20 | TEXTURE MANAGER : Loading of '##STREAM:' successful 'MilkyWay2' on index 22 
+01-12-2016 07:21:20 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\TrailFade.dds' successful 'TrailFade' on index 23 
+01-12-2016 07:21:20 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\ParticleMark.dds' successful 'Particle' on index 24 
+01-12-2016 07:21:20 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\ParticleSolid.dds' successful 'ParticleSolid' on index 25 
+01-12-2016 07:21:20 | STREAM MANAGER : Couldn't open file 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\galaxycluster.dds'
+01-12-2016 07:21:20 | TEXTURE MANAGER : Couldn't find the texture file C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\galaxycluster.dds.
+01-12-2016 07:21:20 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\starpoint.dds' successful 'starpoint' on index 26 
+01-12-2016 07:21:20 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\graphics\ui-elements.dds' successful 'ui-elements.dds' on index 27 
+01-12-2016 07:21:20 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\graphics\ui-icons.dds' successful 'ui-icons.dds' on index 28 
+01-12-2016 07:21:22 | MINI MESH MANAGER : Minimesh created with 1501 items
+01-12-2016 07:21:22 | CTVMiniMesh::EnableMinimesh : Index Out Of Range  1501
+01-12-2016 07:21:22 | MESH MANAGER : Loading of mesh file 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\skydome.x' succeeded in 47 ms ( 528 faces, 334 vertices ) ID 5
+01-12-2016 07:21:22 | TEXTURE MANAGER : Format of alpha texture changed to 21.
+01-12-2016 07:21:22 | TEXTURE MANAGER : Format of non-alpha texture changed to 22.
+01-12-2016 07:21:22 | TEXTURE MANAGER : Format of alpha texture changed to DXT1.
+01-12-2016 07:21:22 | TEXTURE MANAGER : Format of non-alpha texture changed to DXT1.
+01-12-2016 07:21:22 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\starglow.dds' successful 'StarGlow' on index 29 
+01-12-2016 07:21:23 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\ImpactMark.dds' successful 'ImpactMark' on index 30 
+01-12-2016 07:21:23 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\Saturn-RingColors.dds' successful 'SaturnRingColors' on index 31 
+01-12-2016 07:21:23 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\Gradient-Rainbow.dds' successful 'GradientRainbow' on index 32 
+01-12-2016 07:21:23 | TEXTURE MANAGER : Format of alpha texture changed to 21.
+01-12-2016 07:21:23 | TEXTURE MANAGER : Format of non-alpha texture changed to 22.
+01-12-2016 07:21:23 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\Gradient-Awesome.jpg' successful 'GradientAwesome' on index 33 
+01-12-2016 07:21:23 | TEXTURE MANAGER : Format of alpha texture changed to DXT1.
+01-12-2016 07:21:23 | TEXTURE MANAGER : Format of non-alpha texture changed to DXT1.
+01-12-2016 07:21:23 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\InterlacedCheck.png' successful 'InterlacedCheck' on index 34 
+01-12-2016 07:21:23 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\InterlacedRow.png' successful 'InterlacedRow' on index 35 
+01-12-2016 07:21:23 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\InterlacedColumn.png' successful 'InterlacedColumn' on index 36 
+01-12-2016 07:21:23 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\star.dds' successful 'star.dds' on index 37 
+01-12-2016 07:21:23 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\MoonDiffuse.dds' successful 'MoonDiffuse.dds' on index 38 
+01-12-2016 07:21:24 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\MoonNormal.dds' successful 'MoonNormal.dds' on index 39 
+01-12-2016 07:21:24 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\mercury.dds' successful 'mercury.dds' on index 40 
+01-12-2016 07:21:24 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\venus.dds' successful 'venus.dds' on index 41 
+01-12-2016 07:21:24 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\earth.dds' successful 'earth.dds' on index 42 
+01-12-2016 07:21:24 | TEXTURE MANAGER : Format of alpha texture changed to 21.
+01-12-2016 07:21:24 | TEXTURE MANAGER : Format of non-alpha texture changed to 22.
+01-12-2016 07:21:24 | TEXTURE MANAGER : Creation of texture 'webpageawesome' succeeded, format 21, size (352x685)
+01-12-2016 07:21:24 | TEXTURE MANAGER : Creation of texture 'webpageawesomealt' succeeded, format 21, size (352x685)
+01-12-2016 07:21:25 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\mars.dds' successful 'mars.dds' on index 10 
+01-12-2016 07:21:25 | TEXTURE MANAGER : Format of alpha texture changed to DXT1.
+01-12-2016 07:21:25 | TEXTURE MANAGER : Format of non-alpha texture changed to DXT1.
+01-12-2016 07:21:26 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\jupiter.dds' successful 'jupiter.dds' on index 44 
+01-12-2016 07:21:26 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\saturn.dds' successful 'saturn.dds' on index 45 
+01-12-2016 07:21:26 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\uranus.dds' successful 'uranus.dds' on index 46 
+01-12-2016 07:21:26 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\neptune.dds' successful 'neptune.dds' on index 47 
+01-12-2016 07:21:26 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\jupiter-europa.dds' successful 'jupiter-europa.dds' on index 48 
+01-12-2016 07:21:26 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\jupiter-ganymede.dds' successful 'jupiter-ganymede.dds' on index 49 
+01-12-2016 07:21:26 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\jupiter-io.dds' successful 'jupiter-io.dds' on index 50 
+01-12-2016 07:21:26 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\saturn-mimas.dds' successful 'saturn-mimas.dds' on index 51 
+01-12-2016 07:21:26 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\jupiter-callisto.dds' successful 'jupiter-callisto.dds' on index 52 
+01-12-2016 07:21:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\saturn-titan.dds' successful 'saturn-titan.dds' on index 53 
+01-12-2016 07:21:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\saturn-iapetus.dds' successful 'saturn-iapetus.dds' on index 54 
+01-12-2016 07:21:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\uranus-miranda.dds' successful 'uranus-miranda.dds' on index 55 
+01-12-2016 07:21:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\dice.dds' successful 'dice.dds' on index 56 
+01-12-2016 07:21:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\baseball.dds' successful 'baseball.dds' on index 57 
+01-12-2016 07:21:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\football.dds' successful 'football.dds' on index 58 
+01-12-2016 07:21:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\bowlingball.dds' successful 'bowlingball.dds' on index 59 
+01-12-2016 07:21:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\poolball-cue.jpg' successful 'poolball-cue.jpg' on index 60 
+01-12-2016 07:21:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\tennisball.dds' successful 'tennisball.dds' on index 61 
+01-12-2016 07:21:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\golfball.dds' successful 'golfball.dds' on index 62 
+01-12-2016 07:21:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\galaxyclusterlayer.dds' successful 'galaxyclusterlayer.dds' on index 63 
+01-12-2016 07:21:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\forestmoon.dds' successful 'forestmoon.dds' on index 64 
+01-12-2016 07:21:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\white.dds' successful 'white.dds' on index 65 
+01-12-2016 07:22:02 | MINI MESH MANAGER : Minimesh created with 1501 items
+01-12-2016 07:22:02 | CTVMiniMesh::EnableMinimesh : Index Out Of Range  1501
+01-12-2016 07:22:02 | MESH MANAGER : Loading of mesh file 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\skydome.x' succeeded in 0 ms ( 528 faces, 334 vertices ) ID 9
+01-12-2016 07:22:02 | TEXTURE MANAGER : Format of alpha texture changed to 21.
+01-12-2016 07:22:02 | TEXTURE MANAGER : Format of non-alpha texture changed to 22.
+01-12-2016 07:22:14 | MINI MESH MANAGER : Minimesh created with 34 items
+01-12-2016 07:22:14 | MINI MESH MANAGER : Minimesh created with 1 items
+01-12-2016 07:22:19 | TEXTURE MANAGER : Format of alpha texture changed to DXT1.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Format of non-alpha texture changed to DXT1.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Mercury - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Mercury - icon.dds' successful 'Mercury - icon.dds' on index 67 
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Venus - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Earth - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Venus - icon.dds' successful 'Venus - icon.dds' on index 68 
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Mars - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Jupiter - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Earth - icon.dds' successful 'Earth - icon.dds' on index 69 
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Saturn - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Uranus - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Mars - icon.dds' successful 'Mars - icon.dds' on index 70 
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Neptune - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Eris - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Jupiter - icon.dds' successful 'Jupiter - icon.dds' on index 71 
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Pluto - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Ceres - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Saturn - icon.dds' successful 'Saturn - icon.dds' on index 72 
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Haumea - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Makemake - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Uranus - icon.dds' successful 'Uranus - icon.dds' on index 73 
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Neptune - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Neptune - icon.dds' successful 'Neptune - icon.dds' on index 74 
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Eris - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Pluto - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Eris - icon.dds' successful 'Eris - icon.dds' on index 75 
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Ceres - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Haumea - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Pluto - icon.dds' successful 'Pluto - icon.dds' on index 76 
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Makemake - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Ceres - icon.dds' successful 'Ceres - icon.dds' on index 77 
+01-12-2016 07:22:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Haumea - icon.dds' successful 'Haumea - icon.dds' on index 78 
+01-12-2016 07:22:19 | TEXTURE MANAGER : Couldn't find the texture 'Makemake - icon.dds' in the texture list.
+01-12-2016 07:22:19 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Makemake - icon.dds' successful 'Makemake - icon.dds' on index 79 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Sun - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Sun - icon.dds' successful 'Sun - icon.dds' on index 80 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Rigel - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Alpha Centauri A - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Rigel - icon.dds' successful 'Rigel - icon.dds' on index 81 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Alpha Centauri B - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Wolf 359 - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Alpha Centauri A - icon.dds' successful 'Alpha Centauri A - icon.dds' on index 82 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Sirius - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Polaris - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Alpha Centauri B - icon.dds' successful 'Alpha Centauri B - icon.dds' on index 83 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Alderamin - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'VY Canis Majoris - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Wolf 359 - icon.dds' successful 'Wolf 359 - icon.dds' on index 84 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Pollux - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Arcturus - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Sirius - icon.dds' successful 'Sirius - icon.dds' on index 85 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Mu Cephei - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Betelgeuse - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Polaris - icon.dds' successful 'Polaris - icon.dds' on index 86 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Antares - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Aldebaran - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Alderamin - icon.dds' successful 'Alderamin - icon.dds' on index 87 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Deneb - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'VV Cephei - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\VY Canis Majoris - icon.dds' successful 'VY Canis Majoris - icon.dds' on index 88 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Barnard's Star - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Eta Carinae - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Pollux - icon.dds' successful 'Pollux - icon.dds' on index 89 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Arcturus - icon.dds' successful 'Arcturus - icon.dds' on index 90 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Mu Cephei - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Betelgeuse - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Mu Cephei - icon.dds' successful 'Mu Cephei - icon.dds' on index 91 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Antares - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Aldebaran - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Betelgeuse - icon.dds' successful 'Betelgeuse - icon.dds' on index 92 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Deneb - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'VV Cephei - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Antares - icon.dds' successful 'Antares - icon.dds' on index 93 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Barnard's Star - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Eta Carinae - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Aldebaran - icon.dds' successful 'Aldebaran - icon.dds' on index 94 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Deneb - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Deneb - icon.dds' successful 'Deneb - icon.dds' on index 95 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'VV Cephei - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Barnard's Star - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\VV Cephei - icon.dds' successful 'VV Cephei - icon.dds' on index 96 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Eta Carinae - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Barnard's Star - icon.dds' successful 'Barnard's Star - icon.dds' on index 97 
+01-12-2016 07:22:27 | TEXTURE MANAGER : Couldn't find the texture 'Eta Carinae - icon.dds' in the texture list.
+01-12-2016 07:22:27 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Eta Carinae - icon.dds' successful 'Eta Carinae - icon.dds' on index 98 
+01-12-2016 07:22:29 | TEXTURE MANAGER : Couldn't find the texture 'Milky Way - icon.dds' in the texture list.
+01-12-2016 07:22:29 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Milky Way - icon.dds' successful 'Milky Way - icon.dds' on index 99 
+01-12-2016 07:22:29 | TEXTURE MANAGER : Couldn't find the texture 'Andromeda - icon.dds' in the texture list.
+01-12-2016 07:22:29 | TEXTURE MANAGER : Couldn't find the texture 'Triangulum - icon.dds' in the texture list.
+01-12-2016 07:22:29 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Andromeda - icon.dds' successful 'Andromeda - icon.dds' on index 100 
+01-12-2016 07:22:29 | TEXTURE MANAGER : Couldn't find the texture 'Large Magellanic Cloud - icon.dds' in the texture list.
+01-12-2016 07:22:29 | TEXTURE MANAGER : Couldn't find the texture 'Small Magellanic Cloud - icon.dds' in the texture list.
+01-12-2016 07:22:29 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Triangulum - icon.dds' successful 'Triangulum - icon.dds' on index 101 
+01-12-2016 07:22:29 | TEXTURE MANAGER : Couldn't find the texture 'NGC 300 - icon.dds' in the texture list.
+01-12-2016 07:22:29 | TEXTURE MANAGER : Couldn't find the texture 'NGC 55 - icon.dds' in the texture list.
+01-12-2016 07:22:29 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Large Magellanic Cloud - icon.dds' successful 'Large Magellanic Cloud - icon.dds' on index 102 
+01-12-2016 07:22:29 | TEXTURE MANAGER : Couldn't find the texture 'M110 - icon.dds' in the texture list.
+01-12-2016 07:22:29 | TEXTURE MANAGER : Couldn't find the texture 'M32 - icon.dds' in the texture list.
+01-12-2016 07:22:29 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Small Magellanic Cloud - icon.dds' successful 'Small Magellanic Cloud - icon.dds' on index 103 
+01-12-2016 07:22:29 | TEXTURE MANAGER : Couldn't find the texture 'IC 1101 - icon.dds' in the texture list.
+01-12-2016 07:22:29 | TEXTURE MANAGER : Couldn't find the texture 'NGC 300 - icon.dds' in the texture list.
+01-12-2016 07:22:29 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\NGC 300 - icon.dds' successful 'NGC 300 - icon.dds' on index 104 
+01-12-2016 07:22:29 | TEXTURE MANAGER : Couldn't find the texture 'NGC 55 - icon.dds' in the texture list.
+01-12-2016 07:22:29 | TEXTURE MANAGER : Couldn't find the texture 'M110 - icon.dds' in the texture list.
+01-12-2016 07:22:29 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\NGC 55 - icon.dds' successful 'NGC 55 - icon.dds' on index 105 
+01-12-2016 07:22:29 | TEXTURE MANAGER : Couldn't find the texture 'M32 - icon.dds' in the texture list.
+01-12-2016 07:22:30 | TEXTURE MANAGER : Couldn't find the texture 'IC 1101 - icon.dds' in the texture list.
+01-12-2016 07:22:30 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\M110 - icon.dds' successful 'M110 - icon.dds' on index 106 
+01-12-2016 07:22:30 | TEXTURE MANAGER : Couldn't find the texture 'M32 - icon.dds' in the texture list.
+01-12-2016 07:22:30 | TEXTURE MANAGER : Couldn't find the texture 'IC 1101 - icon.dds' in the texture list.
+01-12-2016 07:22:30 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\M32 - icon.dds' successful 'M32 - icon.dds' on index 107 
+01-12-2016 07:22:30 | TEXTURE MANAGER : Couldn't find the texture 'IC 1101 - icon.dds' in the texture list.
+01-12-2016 07:22:30 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\IC 1101 - icon.dds' successful 'IC 1101 - icon.dds' on index 108 
+01-12-2016 07:22:31 | MINI MESH MANAGER : Minimesh created with 165 items
+01-12-2016 07:22:31 | MINI MESH MANAGER : Minimesh created with 1 items
+01-12-2016 07:22:31 | MINI MESH MANAGER : Minimesh created with 146 items
+01-12-2016 07:22:31 | MINI MESH MANAGER : Minimesh created with 1 items
+01-12-2016 07:22:45 | MINI MESH MANAGER : Minimesh created with 1501 items
+01-12-2016 07:22:45 | CTVMiniMesh::EnableMinimesh : Index Out Of Range  1501
+01-12-2016 07:22:46 | MESH MANAGER : Loading of mesh file 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\media\skydome.x' succeeded in 0 ms ( 528 faces, 334 vertices ) ID 11
+01-12-2016 07:23:15 | MINI MESH MANAGER : Minimesh created with 165 items
+01-12-2016 07:23:15 | MINI MESH MANAGER : Minimesh created with 1 items
+01-12-2016 07:24:04 | MINI MESH MANAGER : Minimesh created with 1000 items
+01-12-2016 07:24:04 | MINI MESH MANAGER : Minimesh created with 1000 items
+01-12-2016 07:24:07 | MINI MESH MANAGER : Minimesh created with 500 items
+01-12-2016 07:24:07 | MINI MESH MANAGER : Minimesh created with 500 items
+01-12-2016 07:24:09 | MINI MESH MANAGER : Minimesh created with 1000 items
+01-12-2016 07:24:09 | MINI MESH MANAGER : Minimesh created with 1000 items
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Moon - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Moon - icon.dds' successful 'Moon - icon.dds' on index 109 
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Titan - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Europa - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Titan - icon.dds' successful 'Titan - icon.dds' on index 110 
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Ganymede - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Dione - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Europa - icon.dds' successful 'Europa - icon.dds' on index 111 
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Mimas - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Io - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Ganymede - icon.dds' successful 'Ganymede - icon.dds' on index 112 
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Callisto - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Triton - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Dione - icon.dds' successful 'Dione - icon.dds' on index 113 
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Iapetus - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Miranda - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Mimas - icon.dds' successful 'Mimas - icon.dds' on index 114 
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Pandora - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Io - icon.dds' successful 'Io - icon.dds' on index 115 
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Callisto - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Callisto - icon.dds' successful 'Callisto - icon.dds' on index 116 
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Triton - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Iapetus - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Triton - icon.dds' successful 'Triton - icon.dds' on index 117 
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Miranda - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Pandora - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Iapetus - icon.dds' successful 'Iapetus - icon.dds' on index 118 
+01-12-2016 07:24:10 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Miranda - icon.dds' successful 'Miranda - icon.dds' on index 119 
+01-12-2016 07:24:10 | TEXTURE MANAGER : Couldn't find the texture 'Pandora - icon.dds' in the texture list.
+01-12-2016 07:24:10 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Pandora - icon.dds' successful 'Pandora - icon.dds' on index 120 
+01-12-2016 07:24:26 | MINI MESH MANAGER : Minimesh created with 49 items
+01-12-2016 07:24:26 | MINI MESH MANAGER : Minimesh created with 1 items
+01-12-2016 07:24:39 | TEXTURE MANAGER : Couldn't find the texture 'Pool Ball - icon.dds' in the texture list.
+01-12-2016 07:24:39 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Pool Ball - icon.dds' successful 'Pool Ball - icon.dds' on index 121 
+01-12-2016 07:24:39 | TEXTURE MANAGER : Couldn't find the texture 'Football - icon.dds' in the texture list.
+01-12-2016 07:24:39 | TEXTURE MANAGER : Couldn't find the texture 'Baseball - icon.dds' in the texture list.
+01-12-2016 07:24:39 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Football - icon.dds' successful 'Football - icon.dds' on index 122 
+01-12-2016 07:24:39 | TEXTURE MANAGER : Couldn't find the texture 'Bowling Ball - icon.dds' in the texture list.
+01-12-2016 07:24:39 | TEXTURE MANAGER : Couldn't find the texture 'Teapot - icon.dds' in the texture list.
+01-12-2016 07:24:40 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Baseball - icon.dds' successful 'Baseball - icon.dds' on index 123 
+01-12-2016 07:24:40 | TEXTURE MANAGER : Couldn't find the texture 'Dice - icon.dds' in the texture list.
+01-12-2016 07:24:40 | TEXTURE MANAGER : Couldn't find the texture 'Monolith - icon.dds' in the texture list.
+01-12-2016 07:24:40 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Bowling Ball - icon.dds' successful 'Bowling Ball - icon.dds' on index 124 
+01-12-2016 07:24:40 | TEXTURE MANAGER : Couldn't find the texture 'Ring - icon.dds' in the texture list.
+01-12-2016 07:24:40 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Teapot - icon.dds' successful 'Teapot - icon.dds' on index 125 
+01-12-2016 07:24:40 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Dice - icon.dds' successful 'Dice - icon.dds' on index 126 
+01-12-2016 07:24:40 | TEXTURE MANAGER : Couldn't find the texture 'Monolith - icon.dds' in the texture list.
+01-12-2016 07:24:40 | TEXTURE MANAGER : Couldn't find the texture 'Ring - icon.dds' in the texture list.
+01-12-2016 07:24:40 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Monolith - icon.dds' successful 'Monolith - icon.dds' on index 127 
+01-12-2016 07:24:40 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Ring - icon.dds' successful 'Ring - icon.dds' on index 128 
+01-12-2016 07:24:42 | MINI MESH MANAGER : Minimesh created with 165 items
+01-12-2016 07:24:42 | MINI MESH MANAGER : Minimesh created with 1 items
+01-12-2016 07:24:44 | MESH MANAGER : CTVMesh::SetTexture  : Texture index out of range (-1)
+01-12-2016 07:24:44 | MESH MANAGER : CTVMesh::SetMaterial  : Material index out of range (-1)
+01-12-2016 07:24:45 | MESH MANAGER : CTVMesh::SetTexture  : Texture index out of range (-1)
+01-12-2016 07:24:45 | MESH MANAGER : CTVMesh::SetMaterial  : Material index out of range (-1)
+01-12-2016 07:24:47 | TEXTURE MANAGER : Couldn't find the texture 'Pallas - icon.dds' in the texture list.
+01-12-2016 07:24:47 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Pallas - icon.dds' successful 'Pallas - icon.dds' on index 129 
+01-12-2016 07:24:47 | TEXTURE MANAGER : Couldn't find the texture 'Vesta - icon.dds' in the texture list.
+01-12-2016 07:24:47 | TEXTURE MANAGER : Couldn't find the texture 'Ixion - icon.dds' in the texture list.
+01-12-2016 07:24:47 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Vesta - icon.dds' successful 'Vesta - icon.dds' on index 130 
+01-12-2016 07:24:47 | TEXTURE MANAGER : Couldn't find the texture 'Orcus - icon.dds' in the texture list.
+01-12-2016 07:24:47 | TEXTURE MANAGER : Couldn't find the texture 'Sedna - icon.dds' in the texture list.
+01-12-2016 07:24:47 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Ixion - icon.dds' successful 'Ixion - icon.dds' on index 131 
+01-12-2016 07:24:47 | TEXTURE MANAGER : Couldn't find the texture 'Apophis - icon.dds' in the texture list.
+01-12-2016 07:24:47 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Orcus - icon.dds' successful 'Orcus - icon.dds' on index 132 
+01-12-2016 07:24:47 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Sedna - icon.dds' successful 'Sedna - icon.dds' on index 133 
+01-12-2016 07:24:47 | TEXTURE MANAGER : Couldn't find the texture 'Apophis - icon.dds' in the texture list.
+01-12-2016 07:24:47 | TEXTURE MANAGER : Loading of 'C:\Program Files (x86)\Steam\steamapps\common\Universe Sandbox\icons\Apophis - icon.dds' successful 'Apophis - icon.dds' on index 134 
+01-12-2016 07:25:07 | TEXTURE MANAGER : Couldn't find the texture 'xaxis' in the texture list.
+01-12-2016 07:25:07 | TEXTURE MANAGER : Couldn't find the texture 'xaxis' in the texture list.
+01-12-2016 07:26:25 | TEXTURE MANAGER : Saving texture to 'C:\Users\liam.arbuckle\Documents\Universe Sandbox\Images\Universe Sandbox - 20160112-072624 - 23407.png'
+01-12-2016 07:26:31 | TEXTURE MANAGER : Format of alpha texture changed to 21.
+01-12-2016 07:26:31 | TEXTURE MANAGER : Format of non-alpha texture changed to 22.
+01-12-2016 07:26:31 | TEXTURE MANAGER : Creation of texture 'webpageawesome' succeeded, format 21, size (352x660)
+01-12-2016 07:26:31 | TEXTURE MANAGER : Creation of texture 'webpageawesomealt' succeeded, format 21, size (352x660)
+01-12-2016 07:26:35 | TEXTURE MANAGER : Creation of texture 'webpageawesome' succeeded, format 21, size (352x685)
+01-12-2016 07:26:35 | TEXTURE MANAGER : Creation of texture 'webpageawesomealt' succeeded, format 21, size (352x685)
+01-12-2016 07:28:05 | START UNLOAD
+01-12-2016 07:28:05 | RESOURCE MANAGER : Engine successfully unloaded

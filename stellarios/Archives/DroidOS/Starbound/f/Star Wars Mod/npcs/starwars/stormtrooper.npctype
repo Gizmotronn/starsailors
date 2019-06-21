@@ -1,0 +1,26 @@
+{
+  "type" : "stormtrooper",
+  "baseType" : "hostile",
+
+  "levelVariance" : [0, 0],
+
+  "dropPools" : [ "banditTreasure" ],
+  
+  "items" : {
+    "override" : [
+      [0, [ {
+        "head" : [ { "name" : "SWM2stormtrooperhelm" } ],
+            "chest" : [ { "name" : "SWM2stormtrooperchest" } ],
+            "legs" : [ { "name" : "SWM2stormtrooperlegs" } ],
+            "primary" : [
+              "SWMe11T1",
+              "SWMe11T2"
+             
+        ],
+        "alt" : [
+          { "name" : "flashlight" }
+        ]
+      } ] ]
+    ]
+  }
+}

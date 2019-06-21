@@ -1,0 +1,9 @@
+{
+  "name" : "lapras",
+  "category" : "lapras",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "lapras.png"
+  }
+}
