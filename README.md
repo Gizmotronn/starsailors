@@ -87,6 +87,8 @@ http://acord.tech/stellarios-swct-1
 ### Starbound
 Files for ACORD starbound world are located here: https://gitlab.com/acord-robotics/robodev/s2rd-stellarios/tree/master/stellarios/s2-rd/Games/Starbound
 
+Acord-Robotics/robodev/s2rd-stellarios/stellarios/s2rd/games/starbound
+
 Photos: http://acord.tech/sb
 
 
