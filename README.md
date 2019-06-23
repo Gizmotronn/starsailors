@@ -25,6 +25,8 @@ ACORD Robotics, founded in December 2015, is currently creating robots, games, s
 
 Star Sailors is an online-RPG which will be bundled together with StellariOS in the ACORD app.
 
+[05f9ecs2rda0d2](allianceofdroids.org.au/aod/star-sailors)
+
 # ACORD Network
 * [Portal](http://allianceofdroids.org.au)
 * [Git](http://acord.tech/gitlab)
