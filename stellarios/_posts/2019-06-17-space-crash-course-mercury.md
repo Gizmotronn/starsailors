@@ -1,5 +1,5 @@
 ---
-title: Space Crash Course #1 - Mercury
+title: Mercury - Space Crash Course #1
 published: true
 image: /assets/img/blog/Space Crash Course 1 - Mercury.png
 description: Space is a huge place. With so much going on, there’s a few people that have trouble with understanding space. If you’re one of those people, have no fear, as help is here! Today we're looking at Mercury! Check out the original post at http://acord.tech/8d455
