@@ -5,6 +5,8 @@ image: /assets/img/blog/Space Crash Course 1 - Mercury.png
 description: Space is a huge place. With so much going on, there’s a few people that have trouble with understanding space. If you’re one of those people, have no fear, as help is here! Today we're looking at Mercury! Check out the original post at http://acord.tech/8d455
 ---
 
+# About Space Crash Course
+
 Every week, I’ll upload a post on Medium to do with a particular object in space. We’ll start off with the planets of the Solar System, progressing to the moons and the sun, and then the asteroids and comets. After the Solar System, we’ll go over some of the greatest probes we’ve sent into space.
 
 Ever since its discovery (nobody knows exactly who discovered Mercury, however the Ancient Romans knew about it), we’ve known Mercury was fast — it was named after the Roman messenger of the Gods. But I doubt that anyone back then knew exactly how fast Mercury moved. Thanks to modern technology, we now know that Mercury moves at roughly 170,000 kilometers an hour (for a comparison, the Earth moves at 107,000 kilometers an hour).
