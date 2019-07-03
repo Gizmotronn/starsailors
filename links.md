@@ -5,6 +5,10 @@ description: >
 
 # ACORD Navigation
 
+## Star Sailors
+
+* [Read Star Sailors: Earthlings](http://acord-robotics.github.io/starsailors/starsailors)
+
 ## Social
 [Steam](http://steamcommunity.com/id/droidology) - my steam account, which shows the games I'm playing as well as some ACORD games in the future
 
