@@ -14,6 +14,8 @@ The book is split into 10 parts - a prologue, 8 chapters, and an epilogue.
 
 * [Prologue](http://acord-robotics.github.io/starsailors/earth-prologue)
 * [Chapter 1](http://acord-robotics.github.io/starsailors/earth-ch-1)
+* [Chapter 2](http://acord-robotics.github.io/starsailors/earth-ch-2)
+* [Chapter 3](http://acord-robotics.github.io/starsailors/earth-ch-3)
 
 ## The Game
 
