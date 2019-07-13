@@ -29,7 +29,7 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    rss:   http://allianceofdroids.org.au
+    # rss:   http://allianceofdroids.org.au
     reddit:		   http://acord-robotics.github.io/starsailors/acord
     github:      IrisDroidology             
     download:	 https://github.com/acord-robotics/starsailors/archive/master.zip
