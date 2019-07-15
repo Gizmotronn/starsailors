@@ -52,13 +52,13 @@ menu:
     url:               /stellarios/
   - title:             Documentation
     url:               /docs/ 
-  - title:             Links
-    url:               /links/  
-  - title:             Star Sailors Novel
-    url:               /novel/
+  - title:             Site Map
+    url:               /compass/  
+  - title:             About
+    url:               /about/
   - title:             Stellarios Repo
     url:               http://github.com/acord-robotics/stellarios
-  - title:             ACORD Network
+  - title:             ACORD Corporation Network
     url:               http://acord-robotics.github.io/acordnews/    
 
 # Add links to the footer.
