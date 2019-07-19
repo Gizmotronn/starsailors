@@ -100,7 +100,12 @@ Right as Starrix was about to send a message to Professor Eros, he was interrupt
 
 
 
-Menteth took a step back. "The Premier has sent a communique. He needs to talk to you." At that moment, alarms started blaring. Menteth's aid, Roux [Emilien Roux] was beside Menteth in an instant. "Sir, we're under attack by pirates. We need to move the fleet!" exclaimed Roux. "They've bought an ion cannon, and they've almost finished charging it. We'll be gone if they strike us!"
+Menteth took a step back. "The Premier has sent a communique. He needs to talk to you." At that moment, alarms started blaring. Menteth's aid, Roux [Emilien Roux] was beside Menteth in an instant. "Sir, we're under attack by pirates. We need to move the fleet!" exclaimed Roux. 
+
+Menteth turned away and pulled out his comlink. Sure enough, there were pirates. *How  curious*, he thought. *For them to know we're here they must have been from the Commonwealth...*
+
+"Sir! They've bought an ion cannon, and they've almost finished charging it. We'll be gone if they strike us!" Roux pleaded. "What are your commands?"
+
 
 
 
