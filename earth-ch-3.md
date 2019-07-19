@@ -102,11 +102,11 @@ Right as Starrix was about to send a message to Professor Eros, he was interrupt
 
 Menteth took a step back. "The Premier has sent a communique. He needs to talk to you." At that moment, alarms started blaring. Menteth's aid, Roux [Emilien Roux] was beside Menteth in an instant. "Sir, we're under attack by pirates. We need to move the fleet!" exclaimed Roux. 
 
-Menteth turned away and pulled out his comlink. Sure enough, there were pirates. *How  curious*, he thought. *For them to know we're here they must have been from the Commonwealth...*
+Menteth turned away and pulled out his comlink. Sure enough, there were pirates, bright red dots on the screen symbolising the attack cruisers. *How  curious*, he thought. *For them to know we're here they must have been from the Commonwealth...*
 
 "Sir! They've bought an ion cannon, and they've almost finished charging it. We'll be gone if they strike us!" Roux pleaded. "What are your commands?"
 
+Menteth snapped out of it. Pirates or commonwealth, if the opposition struck with the ion cannon they'd be long gone. Ion cannons are large weapons that fry a spaceship. It doesn't destroy it, but the cannon renders the ship inoperable - cannons, sublight drives and the hyperspace engines won't work. 
 
 
-
-Starrix looked over the bridge and his men coolly. 
+Starrix looked over the bridge and his men coolly.
