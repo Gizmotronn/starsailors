@@ -2,6 +2,7 @@
 layut: about
 title: Star Sailors Earthlings - Chapter 3
 published: true
+
 ---
 
 The cabin was dark. Gilbert McInstay was searching for his space suit. He didn't like what "prepare for boarding" sounded like. **Where is it, where is it**, he thought over and over. Reaching into an unmarked supply bin, he felt some cloth. It was the space suits! 
@@ -86,15 +87,11 @@ Gilbert quickly decided to say nothing at all. Why would the Commonwealth's flee
 
 Starrix left the creature and proceeded to the bridge. The translator must be faulty - but it had been designed by the best! Professor Eros was the foremost Miydlian scientist, and was loyal to the commonwealth. Starrix needed to find Eros, and ask him what was going on. He pulled out his comlink and navigated to the squad application. Eros's bubble popped up in the dorms. 
 
-
 Right as Starrix was about to send a message to Professor Eros, he was interrupted by Menteth, a young recruit from the Kepler Army Barracks (KAB). Focused and eager, he had become the shadow of Starrix. But right now, Menteth was starting to get on his nerves.
-
 
 "Sir?" Menteth inquired. 
 
-
 "What is it?" Starrix replied testily. He didn't have time for this. 
-
 
 Menteth took a step back. "The Premier has sent a communique. He needs to talk to you." At that moment, alarms started blaring. Menteth's aid, Roux [Emilien Roux] was beside Menteth in an instant. "Sir, we're under attack by pirates. We need to move the fleet!" exclaimed Roux. 
 
@@ -114,8 +111,16 @@ Before Menteth could make a decision, Starrix steppd up to Menteth. His antennae
 
 Menteth had been a fighter pilot before becoming an aide to Starrix. He knew how focused you had to be in combat. "Sir, with all due respect, what makes you think he'll fight for us and will be able to win? He didn't respond to you at all when you first talked to him."
 
-*Interesting*, Starrix thought. *How does he know that?* "We need to know what he can do, why he was so important to them. And remember, we thought this would be a simple retrieve and explore mission - we bought practically no combat fighters with us! Give him THB-4. [THB-4 is a type of drug commonly given to troops that the Commonwealth Fleet had captured. It would put them in a dream-like state. They wouldn't know anything more than the fact that they're in a combat situation and would maintain their full abiities. It is ideal in this situation to get Gilbert to lead the assualt with those he considered enemies, as Gilbert would just be focussing on the battle. It was also a good depressant for those suffering from PTSD in the fleets.]And I can't believe we forgot this, but round up his other ships - we need to know who they are!" *After we're back at Midgard, I'll be able to take a long look and see how Menteth knows things that he has no right to no.* Was it possible  that there was a spy?
+*Interesting*, Starrix thought. *How does he know that?* "We need to know what he can do, why he was so important to them. And remember, we thought this would be a simple retrieve and explore mission - we bought practically no combat fighters with us! Give him THB-4. [THB-4 is a type of drug commonly given to troops that the Commonwealth Fleet had captured. It would put them in a dream-like state. They wouldn't know anything more than the fact that they're in a combat situation and would maintain their full abiities. It is ideal in this situation to get Gilbert to lead the assualt with those he considered enemies, as Gilbert would just be focussing on the battle. It was also a good depressant for those suffering from PTSD in the fleets.] And I can't believe we forgot this, but round up his other ships - we need to know who they are!" *After we're back at Midgard, I'll be able to take a long look and see how Menteth knows things that he has no right to no.* Was it possible  that there was a spy?
 
 "Yes sir, I'll get the medicine and I'll notify Roux to move in on the rest of the ships. What's this alien's name?"
 
 "Gilbert McInstay."
+
+------
+
+Gilbert woke up and rubbed his tired eyes. *It's time for me to do my duty,* he thought. His eyes blinked repeatedly as he got up from his sleep bunk, and he looked down to see a flight suit as his style of dress today.
+
+He made his way out of the square room he had woken up in and made his way through the corridor into the mess hall. His legs operated on auto-pilot, and he knew instinctively where he was going, even though it was concerning him that he didn't consciously think where he was going to until he had left his room.
+
+There is a situation where you may be consciously thinking something, for example "I've got a doctors appointment at 3 pm", but at the *exact same time* another part of you may be thinking "I've got to leave very soon to get there." In these situations, there are 2 - and sometimes more - distinct voices that you can clearly understand. It was like this for Gilbert. His legs took him from his bunk into the mess hall, while he was thinking at the same time *Where am I going?* and *I hope I'm not late*. One of the problems with THB-4
