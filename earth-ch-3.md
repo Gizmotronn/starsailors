@@ -123,4 +123,6 @@ Gilbert woke up and rubbed his tired eyes. *It's time for me to do my duty,* he 
 
 He made his way out of the square room he had woken up in and made his way through the corridor into the mess hall. His legs operated on auto-pilot, and he knew instinctively where he was going, even though it was concerning him that he didn't consciously think where he was going to until he had left his room.
 
-There is a situation where you may be consciously thinking something, for example "I've got a doctors appointment at 3 pm", but at the *exact same time* another part of you may be thinking "I've got to leave very soon to get there." In these situations, there are 2 - and sometimes more - distinct voices that you can clearly understand. It was like this for Gilbert. His legs took him from his bunk into the mess hall, while he was thinking at the same time *Where am I going?* and *I hope I'm not late*. One of the problems with THB-4
+There is a situation where you may be consciously thinking something, for example "I've got a doctors appointment at 3 pm", but at the *exact same time* another part of you may be thinking "I've got to leave very soon to get there." In these situations, there are 2 - and sometimes more - distinct voices that you can clearly understand. It was like this for Gilbert. His legs took him from his bunk into the mess hall, while he was thinking at the same time *Where am I going?* and *I hope I'm not late*. Gilbert would be able to take care of the fighters in his normal state of mind, but what about now?
+
+End of chapter 3
