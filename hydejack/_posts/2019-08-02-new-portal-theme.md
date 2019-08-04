@@ -8,3 +8,5 @@ published: true
 I was looking around for some good buddypress themes just out of interest on Wednesday or Thursday, and I came across a theme called "Olympus". Now, I had no real intentions of changing the theme of the ACORD website from Aardvark - it had, after all, served me pretty well. The only real problem I had with Aardvark was the header menu, but that could easily be fixed, and the other members of ACORD had no problem with it.
 
 However, that all changed when I came across the Olympus theme.
+
+![img](/assets/img/blog/01_mainpreview.jpg)
