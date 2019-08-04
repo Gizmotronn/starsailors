@@ -10,3 +10,14 @@ I was looking around for some good buddypress themes just out of interest on Wed
 However, that all changed when I came across the Olympus theme.
 
 ![img](/assets/img/blog/01_mainpreview.jpg)
+
+This theme uses a plugin called [Youzer](http://youzer.kainelabs.com). The cool thing about this plugin is that it gives a complete overhaul of the traditional buddypress structure and layout, and adds a number of really awesome things as well:
+
+* New buddypress tab - overview. This is where users can set widgets for their profile, for example portfolio or about me
+* 14 different header styles
+* Completely customizable navigation
+* Much more - check out [their website](http://youzer.kainelabs.com) to see more
+
+I'd tangled with Youzer in the past when I was using the Thrive theme by Dunhakdis, however it had become a bit of an eyesore with Thrive contrasting strongly with it. I'd contemplated going back to it with Aardvark, however the Aardvark theme was fine without it.
+
+But a theme built *for* Youzer? That was something that I'd never seen before, and *definitely* something worth looking into. 
