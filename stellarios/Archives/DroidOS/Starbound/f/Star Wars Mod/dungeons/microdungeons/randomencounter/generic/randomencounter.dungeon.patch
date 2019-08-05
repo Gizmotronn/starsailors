@@ -1,0 +1,81 @@
+[
+  { "op" : "add", "path" : "/metadata/anchor/-", "value" : "utapauntradingcaravan" },
+  { "op" : "add", "path" : "/metadata/anchor/-", "value" : "tuskanbanditcamp" },
+  { "op" : "add", "path" : "/metadata/anchor/-", "value" : "stormtroopercamp" },
+  
+  { "op" : "add", "path" : "/tiles/-", "value" : {
+    "value" : [100, 10, 0, 255],
+    "comment" : "utapaun merchant",
+    "brush" : [ [ "npc",
+      {
+        "kind" : "npc",
+        "species" : "utapaun",
+        "typeName" : "merchant",
+        "parameters" : {
+          "scriptConfig" : {
+            "merchant" : {
+              "storeRadius" : -1,
+              "categories" : { "default" : [ "basicmerchant", "randomguns", "randomswords" ] },
+              "numItems" : 10
+            }
+          }
+        }
+      }
+    ] ]
+  } },
+  { "op" : "add", "path" : "/tiles/-", "value" : {
+    "value" : [100, 20, 0, 255],
+    "comment" : "tuskan bandit",
+    "brush" : [ [ "npc",
+      {
+        "kind" : "npc",
+        "species" : "tuskan",
+        "typeName" : "tuskanbandit",
+        "parameters" : { "persistent" : true }
+      }
+    ] ]
+  } },
+  
+   { "op" : "add", "path" : "/tiles/-", "value" : {
+    "value" : [100, 20, 0, 255],
+    "comment" : "Stormtrooper",
+    "brush" : [ [ "npc",
+      {
+        "kind" : "npc",
+        "species" : "human",
+        "typeName" : "stormtrooper",
+        "parameters" : { "persistent" : true }
+      }
+    ] ]
+  } },
+  
+  { "op" : "add", "path" : "/tiles/-", "value" : {
+    "value" : [100, 30, 0, 255],
+    "comment" : "rodian bandit",
+    "brush" : [ [ "npc",
+      {
+        "kind" : "npc",
+        "species" : "rodian",
+        "typeName" : "rodianbandit",
+        "parameters" : { "persistent" : true }
+      }
+    ] ]
+  } },
+ 
+
+ { "op" : "add", "path" : "/parts/-", "value" : {
+    "name" : "utapauntradingcaravan", "rules" : [ ],
+    "def" : [ "image", [ "utapauntradingcaravan.png", "utapauntradingcaravan-objects.png" ] ]
+  } },
+  
+   { "op" : "add", "path" : "/parts/-", "value" : {
+    "name" : "stormtroopercamp", "rules" : [ ],
+    "def" : [ "image", [ "stormtroopercamp.png", "stormtroopercamp-objects.png" ] ]
+  } },
+ 
+
+ { "op" : "add", "path" : "/parts/-", "value" : {
+    "name" : "tuskanbanditcamp", "rules" : [ ],
+    "def" : [ "image", [ "tuskanbanditcamp.png", "tuskanbanditcamp-objects.png" ] ]
+  } }
+]

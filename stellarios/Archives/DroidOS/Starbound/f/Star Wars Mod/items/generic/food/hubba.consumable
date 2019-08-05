@@ -1,0 +1,24 @@
+{
+  "itemName" : "SWMhubba",
+  "rarity" : "Common",
+  "price" : 125,
+  "category" : "preparedFood",
+  "inventoryIcon" : "hubba.png",
+  "description" : "A type of melon that grew in rock recesses on the planet of Tatooine.",
+  "shortdescription" : "Hubba Gourd",
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 180
+    }
+  ] ],
+  "foodValue" : 20,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

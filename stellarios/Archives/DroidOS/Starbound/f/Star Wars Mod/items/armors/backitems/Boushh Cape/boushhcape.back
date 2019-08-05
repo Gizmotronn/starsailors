@@ -1,0 +1,18 @@
+{
+  "itemName" : "SWMboushhcape",
+  "inventoryIcon" : "boushhcapebackicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "rarity" : "Rare",
+  "description" : "Boushh's Cape.",
+  "shortdescription" : "Boushh's Cape",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+  "acceptsAugmentType" : "back",
+ "statusEffects" : [
+    {
+      "stat" : "breathProtection",
+      "amount" : 1.0
+    }
+  ]
+}

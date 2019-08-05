@@ -1,0 +1,9 @@
+{
+  "name" : "drowzee",
+  "category" : "drowzee",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "drowzee.png"
+  }
+}

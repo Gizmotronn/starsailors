@@ -1,0 +1,253 @@
+{
+  "metadata" : {
+    "name" : "invadedfloranhutvillage",
+    "species" : "floran",
+    "rules" : [
+    ],
+    "anchor" : [ "invadedfloranflat2" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 15,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "invadedfloranhut2",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedfloranhut2" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranhut2.json" ]
+    },
+    {
+      "name" : "invadedfloranhut3",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedfloranhut3" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranhut3.json" ]
+    },
+    {
+      "name" : "invadedfloranhut4",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedfloranhut4" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranhut4.json" ]
+    },
+    {
+      "name" : "invadedfloranhut5",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedfloranhut5" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranhut5.json" ]
+    },
+    {
+      "name" : "invadedfloranhut5clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedfloranhut5clue" ] ],
+        [ "doNotCombineWith", [ "invadedfloranhut5", "invadedfloranflat1clue", "invadedfloranhut6clue", "invadedfloranhut12clue", "invadedfloranhut13clue"] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranhut5clue.json" ]
+    },
+    {
+      "name" : "invadedfloranhut6",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedfloranhut6" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranhut6.json" ]
+    },
+    {
+      "name" : "invadedfloranhut6clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedfloranhut6clue" ] ],
+        [ "doNotCombineWith", [ "invadedfloranhut6", "invadedfloranflat1clue", "invadedfloranhut5clue", "invadedfloranhut12clue", "invadedfloranhut13clue"] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranhut6clue.json" ]
+    },
+    {
+      "name" : "invadedfloranhut7",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedfloranhut7" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranhut7.json" ]
+    },
+    {
+      "name" : "invadedfloranhut8",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedfloranhut8" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranhut8.json" ]
+    },
+    {
+      "name" : "invadedfloranhut9",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedfloranhut9" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranhut9.json" ]
+    },
+    {
+      "name" : "invadedfloranhut10",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedfloranhut10" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranhut10.json" ]
+    },
+    {
+      "name" : "invadedfloranhut11",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedfloranhut11" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranhut11.json" ]
+    },
+    {
+      "name" : "invadedfloranhut12",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedfloranhut12" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranhut12.json" ]
+    },
+    {
+      "name" : "invadedfloranhut12clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedfloranhut12clue" ] ],
+        [ "doNotCombineWith", [ "invadedfloranhut12", "invadedfloranflat1clue", "invadedfloranhut5clue", "invadedfloranhut6clue", "invadedfloranhut13clue"] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranhut12clue.json" ]
+    },
+    {
+      "name" : "invadedfloranhut13",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedfloranhut13" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranhut13.json" ]
+    },
+    {
+      "name" : "invadedfloranhut13clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedfloranhut13clue" ] ],
+        [ "doNotCombineWith", [ "invadedfloranhut13", "invadedfloranflat1clue", "invadedfloranhut5clue", "invadedfloranhut6clue", "invadedfloranhut12clue"] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranhut13clue.json" ]
+    },
+    {
+      "name" : "floranburriedhut1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "floranburriedhut1" ] ]
+
+      ],
+      "def" : [ "tmx", "floranburriedhut1.json" ]
+    },
+    {
+      "name" : "floranburriedhut2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "floranburriedhut2" ] ]
+
+      ],
+      "def" : [ "tmx", "floranburriedhut2.json" ]
+    },
+    {
+      "name" : "floranburriedhut3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "floranburriedhut3" ] ]
+
+      ],
+      "def" : [ "tmx", "floranburriedhut3.json" ]
+    },
+    {
+      "name" : "invadedfloranflat1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedfloranflat1" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranflat1.json" ]
+    },
+     {
+      "name" : "invadedfloranflat1clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedfloranflat1clue" ] ],
+        [ "doNotCombineWith", [ "invadedfloranflat1", "invadedfloranhut5clue", "invadedfloranhut6clue", "invadedfloranhut12clue", "invadedfloranhut13clue"] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranflat1clue.json" ]
+    },
+    {
+      "name" : "invadedfloranflat2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedfloranflat2" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedfloranflat2.json" ]
+    },
+    {
+      "name" : "invadedfloranhutvillageendleft1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "invadedfloranhutvillageendleft1.json" ] ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "invadedfloranhutvillageendright1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "invadedfloranhutvillageendright1.json" ] ],
+      "chance" : 0
+    },
+    {
+      "name" : "invadedfloranhutvillageendhillleft1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "invadedfloranhutvillageendhillleft1.json" ] ],
+      "chance" : 0
+    },
+    {
+      "name" : "invadedfloranhutvillageendhillright1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "invadedfloranhutvillageendhillright1.json" ] ],
+      "chance" : 0
+    }
+  ]
+}

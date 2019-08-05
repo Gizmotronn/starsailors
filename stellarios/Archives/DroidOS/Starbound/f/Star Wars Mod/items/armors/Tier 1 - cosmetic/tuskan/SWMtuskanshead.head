@@ -1,0 +1,15 @@
+{
+  "itemName" : "SWM2tuskanshead",
+  "price" : 2400,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headarmour",
+  "description" : "Head wrap of a Tuskan Raider.",
+  "shortdescription" : "Tuskan's Helm",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "headm.png",
+  "femaleFrames" : "headf.png",
+  "mask" : "mask.png"
+}

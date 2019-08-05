@@ -1,0 +1,15 @@
+{
+  "name" : "pkmnslow",
+  "blockingStat" : "tarStatusImmunity",
+  "effectConfig" : {},
+  "defaultDuration" : 3,
+
+  "scripts" : [
+    "pkmnslow.lua"
+  ],
+
+  "animationConfig" : "pkmnslow.animation",
+
+  "label" : "Slow",
+  "icon" : "/interface/statuses/tar.png"
+}

@@ -1,0 +1,24 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel"],
+	  "maxFuel" : 500,
+      "crewSize" : 2
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "avaliandromedaT2.png",
+      "position" : [0,0],
+      "fullbright" : true
+    },
+    {
+      "image" : "avaliandromedaT2lit.png",
+      "position" : [0,0]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "avaliandromedaT2blocks.png"
+}

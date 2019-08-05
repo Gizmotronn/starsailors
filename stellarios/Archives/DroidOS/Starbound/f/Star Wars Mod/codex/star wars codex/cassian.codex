@@ -1,0 +1,25 @@
+{
+	"id" : "cassian",
+	"title" : "Cassian Jeron Andor",
+	"description" : "Information on Cassian Andor.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+  
+  "Cassian Jeron Andor was a human male who was born on the planet Fest in 26 BBY to a human father and unknown mother. During the Clone Wars, Andor joined an insurrectionist cell backed by the Confederacy of Independent Systems that operated in the wilds of the Outer Rim Territories and fought against the Galactic Republic. ",
+  
+  "Andor saw his first combat experience in this cell as a child soldier in 20 BBY by tossing rocks and bottles at Republic walkers and clone troopers. Sometime during his life Andor's father was killed at the Carida Academy during a protest against the expansion of Republic militarism.",
+  
+  "Prior to 0 BBY, Andor joined the Alliance to Restore the Republic after being recruited by General Davits Draven. Holding the rank of Captain, Andor served as an officer in the Alliance's Intelligence branch.",
+  
+  "A veteran spy of the Rebellion, Andor maintained a network of contacts throughout the galaxy who kept him informed about the activities of the Galactic Empire. Sometime during his career, Andor encountered the Imperial security droid K-2SO and reprogrammed him to serve the Alliance.",
+  
+  "As a member of the Rebellion, Andor wore a brown Corellian-cut field jacket that depicted his military rank and also held a personal identifier transponder that concealed a suicide pill. He also wore brown military fatigues and wielded an BlasTech A280-CFE blaster, a modular blaster pistol that could be reconfigured into an assault rifle or sniper rifle.",
+  
+  "As an auxiliary concealed sidearm Cassian also used a small and slim sporting blaster. Due to his years of law-bending, Andor has honed his escapology skills as he carried a compact security kit hidden inside one of his boots."
+ 
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

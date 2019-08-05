@@ -1,0 +1,104 @@
+{
+  "itemName" : "SWMforcegripT5",
+  "level" : 5,
+  "price" : 1440,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Grab them, choke them!",
+  "shortdescription" : "Force Choke T5",
+  "category" : "forcepower",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","staff"],
+  "tooltipKind" : "staff",
+     "learnBlueprintsOnPickup" : [ "SWMforcegripT6" ],
+
+  "animation" : "wh321fg.animation",
+  "animationParts" : {
+    "staff" : "invisibleweapon.png",
+    "stone" : "",
+    "chargeEffect" : ""
+  },
+  "animationCustom" : {
+    "particleEmitters" : {
+      "wh321forcecharge" : {
+        "offsetRegion" : [1.5, 0.0, 0.0, 0.0]
+      }
+    }
+  },
+
+  "inventoryIcon" : "wh321fgicon.png",
+
+  "scripts" : ["/items/active/weapons/staff/staff.lua"],
+
+  "stances" : {
+    "idle" : {
+      "armRotation" : 0,
+      "weaponRotation" : 0,
+      "twoHanded" : false,
+
+      "allowRotate" : true,
+      "allowFlip" : true
+    },
+    "charge" : {
+      "duration" : 0.1,
+      "armRotation" : 0,
+      "weaponRotation" : 0,
+      "twoHanded" : false,
+
+      "allowRotate" : true,
+      "allowFlip" : true
+    },
+    "charged" : {
+      "armRotation" : 0,
+      "weaponRotation" : 0,
+      "twoHanded" : false,
+
+      "allowRotate" : true,
+      "allowFlip" : true
+    },
+    "discharge" : {
+      "duration" : 0.1,
+      "armRotation" : 0,
+      "weaponRotation" : 0,
+      "twoHanded" : false,
+
+      "allowRotate" : true,
+      "allowFlip" : true
+    },
+    "cooldown" : {
+      "duration" : 0.1,
+      "armRotation" : 0,
+      "weaponRotation" : 0,
+      "twoHanded" : false,
+
+      "allowRotate" : true,
+      "allowFlip" : true
+    }
+  },
+
+  "elementalType" : "wh321force",
+
+  "primaryAbilityType" : "forcegrip",
+  "primaryAbility" : {
+
+  "type" : "forcegrip",
+    "name" : "Forcegrip",
+    "scripts" : ["/items/abilities/forcegrip/wh321forcegrip.lua"],
+    "class" : "ControlProjectile",
+
+    "energyCost" : 60,
+
+    "maxCastRange" : 40,
+
+    "projectileCount" : 1,
+    "projectileType" : "wh321fgprojectile5",
+    "projectileParameters" : {
+      "baseDamage" : 100
+    }
+  
+  },
+
+  "altAbilities" : [ ],
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

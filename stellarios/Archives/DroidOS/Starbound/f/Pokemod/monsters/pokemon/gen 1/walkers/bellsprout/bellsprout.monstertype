@@ -1,0 +1,291 @@
+{
+  "type" : "bellsprout",
+  "shortdescription" : "bellsprout",
+  "description" : "A carnivorous Pokémon that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+
+  "categories" : [ "bellsprout" ],
+  "parts" : [ "body" ],
+
+  "animation" : "bellsprout.animation",
+
+  "dropPools" : [ { "default" : "grassPokemonTreasure", "bow" : "grassPokemonTreasure" } ],
+
+  "baseParameters" : {
+    "scripts" : [
+      "/monsters/monster.lua"
+    ],
+
+    "behavior" : "monster",
+
+    "behaviorConfig" : {
+      "damageOnTouch" : true,
+
+      "targetQueryRange" : 20,
+      "targetOnDamage" : true,
+      "keepTargetInSight" : true,
+      "keepTargetInRange" : 50,
+      "targetOutOfSightTime" : 2.5,
+
+      "foundTargetActions" : [ { "name" : "action-aggrohop" } ],
+
+      "fleeActions" : [],
+
+      "hostileActions" : [
+        {
+          "name" : "action-fire",
+          "cooldown" : 2.5,
+          "parameters" : {
+            "requireLineOfSight" : true,
+            "maximumRange" : 30,
+            "maxXRange" : 30,
+            "maxYRange" : 30,
+            "minimumRange" : 0,
+            "windupState" : "",
+            "windupTime" : 0.0,
+
+            "projectileType" : "poisonpowder",
+            "projectileParameters" : {
+              "speed" : 20,
+              "timeToLive" : 2.0
+            },
+            "fireOffset" : [1, 1.3],
+            "aimAtTarget" : true,
+            "aimDirection" : [0, 0],
+            "inaccuracy" : 0.1,
+            "projectileCount" : 1,
+            "projectileInterval" : 0.00,
+            "fireState" : "",
+            "fireDelay" : 0.2,
+            "fireSound" : "",
+
+            "winddownState" : "fire",
+            "winddownTime" : 0.5
+          }
+        },
+		
+		{
+          "name" : "action-fire",
+          "cooldown" : 4.0,
+          "parameters" : {
+            "requireLineOfSight" : true,
+            "maximumRange" : 30,
+            "maxXRange" : 30,
+            "maxYRange" : 30,
+            "minimumRange" : 0,
+            "windupState" : "",
+            "windupTime" : 0.0,
+
+            "projectileType" : "stunpowder",
+            "projectileParameters" : {
+              "speed" : 20,
+              "timeToLive" : 2.0
+            },
+            "fireOffset" : [1, 1.3],
+            "aimAtTarget" : true,
+            "aimDirection" : [0, 0],
+            "inaccuracy" : 0.1,
+            "projectileCount" : 1,
+            "projectileInterval" : 0.00,
+            "fireState" : "",
+            "fireDelay" : 0.2,
+            "fireSound" : "",
+
+            "winddownState" : "fire",
+            "winddownTime" : 0.5
+          }
+        }
+      ],
+
+      "periodicActions" : [],
+
+      "approachActions" : [
+        {
+          "name" : "approach-walk",
+          "parameters" : {
+            "canJump" : false,
+            "run" : true
+          }
+        }
+      ],
+
+      "followActions" : [
+        {
+          "name" : "approach-teleport",
+          "parameters" : {
+          }
+        },
+        {
+          "name" : "approach-walk",
+          "parameters" : {
+            "canJump" : true
+          }
+        }
+      ],
+
+      "wanderActions" : [
+        {
+          "name" : "wander-walk",
+          "cooldown" : 6.0,
+          "parameters" : {
+            "wanderTime" : [5, 15]
+          }
+        }
+      ]
+    },
+
+    "touchDamage" : {
+      "poly" : [ [0.5, 1.125], [1, 0.625], [1, -0.625], [0.5, -1.125], [-0.5, -1.125], [-1, -0.625], [-1, 0.625], [-0.5, 1.125] ],
+      "damage" : 10,
+
+      "teamType" : "enemy",
+      "damageSourceKind" : "slash",
+      "knockback" : 20,
+      "statusEffects" : [ ]
+    },
+
+    "metaBoundBox" : [-4, -4, 4, 4],
+    "scale" : 1.0,
+
+    "movementSettings" : {
+      "collisionPoly" : [ [0.5, 1.125], [1, 0.625], [1, -0.625], [0.5, -1.125], [-0.5, -1.125], [-1, -0.625], [-1, 0.625], [-0.5, 1.125] ],
+
+      "mass" : 1.0,
+      "walkSpeed" : 3,
+      "runSpeed" : 5,
+
+      "airFriction" : 0,
+
+      "airJumpProfile" : {
+        "jumpSpeed" : 45.0,
+        "jumpInitialPercentage" : 1.0,
+        "jumpHoldTime" : 0.0
+      }
+    },
+
+    "bodyMaterialKind" : "organic",
+
+    "knockoutTime" : 0.3,
+    "knockoutAnimationStates" : {
+      "damage" : "stunned"
+    },
+    "deathParticles" : "deathPoof",
+    "knockoutEffect" : "",
+
+    "statusSettings" : {
+      "statusProperties" : {
+        "targetMaterialKind" : "organic"
+      },
+
+      "appliesEnvironmentStatusEffects" : false,
+      "appliesWeatherStatusEffects" : true,
+      "minimumLiquidStatusEffectPercentage" : 0.1,
+
+      "primaryScriptSources" : [
+        "/stats/monster_primary.lua"
+      ],
+      "primaryScriptDelta" : 5,
+
+      "stats" : {
+        "knockbackStunTime" : {
+          "baseValue" : 0.25
+        },
+        "knockbackThreshold" : {
+          "baseValue" : 9
+        },
+        "maxHealth" : {
+          "baseValue" : 150
+        },
+        "protection" : {
+          "baseValue" : 0.25
+        },
+        "healthRegen" : {
+          "baseValue" : 0.25
+        },
+        "powerMultiplier" : {
+          "baseValue" : 1.0
+        },
+        "physicalResistance" : {
+          "baseValue" : 0.0
+        },
+        "fireResistance" : {
+          "baseValue" : -1.0
+        },
+        "fireStatusImmunity" : {
+          "baseValue" : -1.0
+        },
+		 "flyingResistance" : {
+          "baseValue" : -1.0
+        },
+        "flyingStatusImmunity" : {
+          "baseValue" : -1.0
+        },
+		 "psychicResistance" : {
+          "baseValue" : -1.0
+        },
+        "psychicStatusImmunity" : {
+          "baseValue" : -1.0
+        },
+        "iceResistance" : {
+          "baseValue" : -1.0
+        },
+        "iceStatusImmunity" : {
+          "baseValue" : -1.0
+        },
+		 "fightingResistance" : {
+          "baseValue" : 0.5
+        },
+        "fightingStatusImmunity" : {
+          "baseValue" : 0.5
+        },
+        "electricResistance" : {
+          "baseValue" : 0.5
+        },
+        "electricStatusImmunity" : {
+          "baseValue" : 0.5
+        },
+		 "grassResistance" : {
+          "baseValue" : 0.5
+        },
+        "grassStatusImmunity" : {
+          "baseValue" : 0.5
+        },
+		 "bugResistance" : {
+          "baseValue" : -2.0
+        },
+        "bugStatusImmunity" : {
+          "baseValue" : -2.0
+        },
+		 "waterResistance" : {
+          "baseValue" : 0.5
+        },
+        "waterStatusImmunity" : {
+          "baseValue" : 0.5
+        },
+        "poisonResistance" : {
+          "baseValue" : 0.0
+        },
+        "poisonStatusImmunity" : {
+          "baseValue" : 0.0
+        }
+      },
+
+      "resources" : {
+        "stunned" : {
+          "deltaValue" : -1.0,
+          "initialValue" : 0.0
+        },
+        "health" : {
+          "maxStat" : "maxHealth",
+          "deltaStat" : "healthRegen",
+          "defaultPercentage" : 100
+        }
+      }
+    },
+
+    "mouthOffset" : [0, 0],
+    "feetOffset" : [0, 0],
+    "capturable" : true,
+    "captureHealthFraction" : 0.5,
+    "nametagColor" : [64, 200, 255]
+  }
+}

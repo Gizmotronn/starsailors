@@ -1,0 +1,64 @@
+{
+  "objectName" : "wookiedoor",
+  "colonyTags" : ["swrace", "toydarian", "door"],
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 125,
+  "description" : "This door is made of vines.",
+  "shortdescription" : "Door Style 2",
+  "race" : "wookie",
+
+  "apexDescription" : "This door looks easy to get past.",
+  "avianDescription" : "A weak door. The breeze could slip through.",
+  "floranDescription" : "Door that lacks ssstrength.",
+  "glitchDescription" : "Upset. Such weak materials.",
+  "humanDescription" : "Why would anyone do this?",
+  "hylotlDescription" : "This door would easily catch fire.",
+  "novakidDescription" : "A very weak door.",
+
+  "inventoryIcon" : "wookiedooricon.png",
+  "orientations" : [
+    {
+      "image" : "wookiedoor.png:default",
+      "flipImages" : true,
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "left"
+    },
+    {
+      "image" : "wookiedoor.png:default",
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "right"
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/wookiedoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/wookiedoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "wookiedoor.png"
+  },
+  "animationPosition" : [-20, 0],
+
+  "inputNodes" : [ [-1, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}

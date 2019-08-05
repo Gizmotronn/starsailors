@@ -1,0 +1,6 @@
+[
+    { "op" : "add", "path" : "/forcelightning", "value" : "/items/active/forcepowers/ForceLightningalt/forcelightning.weaponability" },
+	{ "op" : "add", "path" : "/wh321forcegrip", "value" : "/items/forcepowers/abilities/forcegrip/wh321forcegrip.weaponability" },
+	{ "op" : "add", "path" : "/deadshot", "value" : "/items/active/ranged/abilities/deadshot/deadshot.weaponability" },
+	{ "op" : "add", "path" : "/saberthrow", "value" : "/items/abilities/saberthrow/saberthrow.weaponability" }
+]

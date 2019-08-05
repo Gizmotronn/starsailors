@@ -1,0 +1,10 @@
+{
+  "author" : "ProjectMayhem",
+  "description" : "Update 7/14/18\n\nNew starter pokemon quest added. After completiting the Repair Gate quest, you will be able to talk to Elliot, the tech lab guy and pick up a quest to visit Professor Oak. Talk to him again to warp to Oak's Lab. Talk to oak to get a special pokeball. Use the DNA machine on the right side of the lab to load DNA into the pokeball. Check your objects tab for a new pokeball object, place it on the ground in daylight, with plenty of space around it, interact to spawn the pokemon you loaded. Make sure to have a pokeball to capture it.",
+  "friendlyName" : "Pokemod",
+  "link" : "steam://url/CommunityFilePage/1334948994",
+  "name" : "Pokemod",
+  "steamContentId" : "1334948994",
+  "tags" : "NPCs and Creatures",
+  "version" : "6.0"
+}

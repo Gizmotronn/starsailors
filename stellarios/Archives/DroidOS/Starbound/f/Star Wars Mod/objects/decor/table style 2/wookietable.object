@@ -1,0 +1,33 @@
+{
+  "objectName" : "wookietable",
+  "colonyTags" : ["swrace","commerce"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 105,
+  "description" : "Made of Wroshyr wood.",
+  "shortdescription" : "Table Style 2",
+  "race" : "wookie",
+
+  "apexDescription" : "A basic table.",
+  "avianDescription" : "A table.",
+  "floranDescription" : "A table for putting thingsss on",
+  "glitchDescription" : "Sarcastic. A very interesting find.",
+  "humanDescription" : "Looks like a table.",
+  "hylotlDescription" : "A table built for eveyday use.",
+  "novakidDescription" : "A wooden table.",
+
+  "inventoryIcon" : "wookietableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "wookietable.png:<color>",
+      "imagePosition" : [-23, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

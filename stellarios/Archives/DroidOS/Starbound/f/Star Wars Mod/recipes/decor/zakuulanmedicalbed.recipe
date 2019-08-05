@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 25 }
+  ],
+  "output" : {
+    "item" : "zakuulanmedicalbed",
+    "count" : 1
+  },
+  "groups" : [ "swm","decor" ]
+}

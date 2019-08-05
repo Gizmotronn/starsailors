@@ -1,0 +1,54 @@
+{
+  "objectName" : "wookielamp3",
+  "colonyTags" : ["swrace", "toydarian","light"],
+  "rarity" : "Common",
+  "description" : "A paper ceiling lamp with cloud design.",
+  "shortdescription" : "Paper Lantern Style 1",
+  "race" : "wookie",
+
+  "category" : "light",
+  "price" : 75,
+  "lightColor" : [217, 217, 190],
+
+  "apexDescription" : "These ceiling lamps have been known to catch fire. Their owners aren't permitted to replace them, however.",
+  "avianDescription" : "This light is covered in paper. It doesn't seem safe.",
+  "floranDescription" : "Floran think lamp burnss like sssun.",
+  "glitchDescription" : "Cautious. Paper temperature too high.",
+  "humanDescription" : "A paper lamp. I hope it's safe.",
+  "hylotlDescription" : "The Hylotl make similar lamps from paper and flame.",
+  "novakidDescription" : "A type of paper lamp hangin' from the ceiling.",
+
+  "inventoryIcon" : "wookielamp3icon.png",
+  "orientations" : [
+    {
+      "image" : "wookielamp3.png:<color>.<frame>",
+      "imagePosition" : [-8, -8],
+      "animationPosition" : [-8, -8],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationParts" : {
+    "bg" : "wookielamp3.png",
+    "fg" : "wookielamp3lit.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/tinywallswitch.ogg" ],
+      "off" : [ "/sfx/objects/tinywallswitch.ogg" ]
+    }
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  // "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+}

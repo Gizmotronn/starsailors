@@ -1,0 +1,40 @@
+{
+  "objectName" : "nerfegg",
+  "colonyTags" : [],
+  "printable" : false,
+  "rarity" : "Rare",
+  "category" : "farmBeastEgg",
+  "price" : 2000,
+
+  "description" : "Hatches into a nerf calf, which grows into an adult nerf. Nerf produce leather.",
+  "shortdescription" : "Nerf Egg",
+  "race" : "generic",
+
+    "inventoryIcon" : "nerfegg.png:idle.1",
+  "orientations" : [
+    {
+      "image" : "nerfegg.png:idle.1",
+      "imagePosition" : [-7, -3],
+
+      "spaces" : [ [-1, 0], [-1, 1], [0, 0], [0, 1], [1, 0], [1, 1] ],
+      "anchors" : [ "bottom" ],
+
+      "direction" : "right"
+    }
+  ],
+
+  "animation" : "/objects/farmables/eggs/farmableegg.animation",
+  "animationPosition" : [-7, -3],
+  "animationParts" : {
+    "egg" : "nerfegg.png"
+  },
+
+  "scripts" : ["/objects/farmables/eggs/farmableegg.lua"],
+  "scriptDelta" : 60,
+
+  "hatchTime" : 40,
+  "forceHatchTime" : 80,
+
+  "spawnMonster" : "nerfbaby",
+  "spawnOffset" : [0.5, 0.5]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "koffing",
+  "category" : "koffing",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "koffing.png"
+  }
+}

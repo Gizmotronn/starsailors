@@ -1,0 +1,16 @@
+{
+  "name" : "outrage",
+  "blockingStat" : "dragonStatusImmunity",
+
+  "effectConfig" : {},
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "outrage.lua"
+  ],
+
+  "animationConfig" : "outrage.animation",
+
+  "label" : "Outrage",
+  "icon" : "/interface/statuses/poison.png"
+}

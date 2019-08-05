@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintingrebel",
+  "colonyTags" : ["pretty","valuable", "swrace"],
+  "rarity" : "Rare",
+  "description" : "Symbol for the Rebel Alliance.",
+  "shortdescription" : "Rebel Alliance Symbol",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+ 
+
+  "inventoryIcon" : "paintingrebelicon.png",
+  "orientations" : [
+    {
+      "image" : "paintingrebel.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

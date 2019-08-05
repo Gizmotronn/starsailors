@@ -1,0 +1,9 @@
+{
+  "name" : "metapod",
+  "category" : "metapod",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "metapod.png"
+  }
+}

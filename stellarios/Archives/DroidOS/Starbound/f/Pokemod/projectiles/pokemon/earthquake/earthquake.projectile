@@ -1,0 +1,21 @@
+{
+  "projectileName" : "earthquake",
+  "image" : "earthquake.png",
+  "animationCycle" : 0.75,
+  "animationLoops" : true,
+  "timeToLive" : 4,
+  "frameNumber" : 5,
+  "power" : 50,
+  "speed" : 0,
+ 
+ 
+  "damagePoly" : [
+    [-35, 6], [35, 6], [35, -6], [-35, -6]
+  ],
+  "piercing" : true,
+  "flippable" : true,
+    
+  "damageKind" : "ground",
+  "statusEffects" : [ ],
+  "emitters" : ["shockwavedust"]
+}

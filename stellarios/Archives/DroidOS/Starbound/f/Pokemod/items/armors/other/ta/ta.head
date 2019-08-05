@@ -1,0 +1,15 @@
+{
+  "itemName" : "pmtahead",
+  "price" : 75,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headwear",
+  "description" : "The hat of Team Aqua's uniform.",
+  "shortdescription" : "Team Aqua hat",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"
+}

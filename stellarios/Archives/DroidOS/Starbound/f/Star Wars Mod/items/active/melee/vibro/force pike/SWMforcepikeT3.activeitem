@@ -1,0 +1,64 @@
+{
+  "itemName" : "SWMforcepikeT3",
+  "price" : 1080,
+  "level" : 3,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Spear-like melee weapon with a vibro-edged head",
+  "shortdescription" : " Force Pike",
+  "tooltipKind" : "sword",
+  "category" : "spear",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","spear"],
+   "inventoryIcon" : "forcepikeicon.png",
+
+  "animation" : "spear.animation",
+  "animationParts" : { },
+  "animationCustom" : { },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "aimOffset" : -1.0,
+
+  "primaryAbilityType" : "spearstab",
+  "primaryAbility" : {
+    "fireTime" : [0.83, 1.11],
+    "baseDps" : [10.5, 11.5],
+    "damageConfig" : {
+      "damageSourceKind" : "<elementalType>spear",
+      "knockbackRange" : [10, 15]
+    }
+  },
+
+  "builder" : "/items/buildscripts/buildweapon.lua",
+  "builderConfig" : [{
+    "elementalType" : [
+      "electric"
+      
+    ],
+    "elementalConfig" : {
+        "electric" : {
+        "primaryAbility" : { "damageConfig" : { "statusEffects" : [ "electrified" ] } },
+        "fireSounds" : [ [ "/sfx/melee/swing_spear_electric1.ogg", "/sfx/melee/swing_spear_electric2.ogg", "/sfx/melee/swing_spear_electric3.ogg" ] ]
+      }
+    },
+    "animationParts" : {
+      "blade" : {
+        "path" : "blade.png",
+        "paletteSwap" : true
+      },
+      "handle" : {
+        "path" : "handle.png",
+        "paletteSwap" : true
+      }
+    },
+    "altAbilities" : [
+      "blinkexplosion",
+      "barrier",
+      "elementalspin",
+      "rocketspear"
+    ],
+    "palette" : "/items/active/weapons/colors/melee.weaponcolors"
+    
+  }]
+}

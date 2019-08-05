@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "teleportercore", "count" : 1 }    
+  ],
+  "output" : { "item" : "wookieteleporter", "count" : 1 },
+  "groups" : [ "swm","decor" ]
+}

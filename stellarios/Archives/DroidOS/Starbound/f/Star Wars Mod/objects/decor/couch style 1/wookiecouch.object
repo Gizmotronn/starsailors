@@ -1,0 +1,57 @@
+{
+  "objectName" : "wookiecouch",
+  "colonyTags" : ["swrace", "toydarian"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 150,
+  "description" : "Sit in comfort on this 100% authentic Wookie-Fur couch.",
+  "shortdescription" : "Couch Style 1",
+  "race" : "wookie",
+
+  "apexDescription" : "Another ugly piece of furniture.",
+  "avianDescription" : "An abhorrent fur covers this chair.",
+  "floranDescription" : "Ssmells old.",
+  "glitchDescription" : "Appalled. Many design principles ignored.",
+  "humanDescription" : "This chair sucks the life out of the room.",
+  "hylotlDescription" : "A very unattractive piece of furniture.",
+  "novakidDescription" : "I guess it's for sitting on and not for lookin' at.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+
+  "inventoryIcon" : "wookiecouchicon.png",
+  "orientations" : [
+    {
+      "image" : "wookiecouch.png:<color>",
+      "sitCoverImage" : "/objects/wookie/wookiecouch/wookiecouchcover.png",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-10, 22], // Right
+        [3, 22] // Left
+      ],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "wookiecouch.png:<color>",
+      "sitCoverImage" : "/objects/wookie/wookiecouch/wookiecouchcover.png",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-2, 22], // Left
+        [11, 22] // Right
+      ],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+
+}

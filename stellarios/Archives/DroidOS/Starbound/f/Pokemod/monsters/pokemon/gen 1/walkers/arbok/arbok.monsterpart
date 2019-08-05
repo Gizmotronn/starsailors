@@ -1,0 +1,9 @@
+{
+  "name" : "arbok",
+  "category" : "arbok",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "arbok.png"
+  }
+}

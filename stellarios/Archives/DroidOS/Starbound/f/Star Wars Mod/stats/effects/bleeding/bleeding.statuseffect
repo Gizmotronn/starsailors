@@ -1,0 +1,16 @@
+{
+  "name" : "bleeding",
+  
+
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "bleeding.lua"
+  ],
+
+  "animationConfig" : "bleeding.animation",
+
+  "label" : "bleeding",
+  "icon" : "/interface/statuses/absorb.png"
+}

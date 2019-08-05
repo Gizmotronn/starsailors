@@ -1,0 +1,15 @@
+{
+  "name" : "wh321forcegripstun",
+
+
+  "effectConfig" : {},
+  "defaultDuration" : 0.1,
+
+  "scripts" : [
+    "wh321forcegripstun.lua"
+  ],
+
+  "animationConfig" : "wh321forcegripstun.animation"
+
+  
+}

@@ -1,0 +1,33 @@
+{
+	"id" : "revan",
+	"title" : "Revan",
+	"description" : "Information About Revan.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+ 
+"Revan was a Human male who played pivotal roles as both Jedi and Sith in the Mandalorian Wars and the Jedi Civil War.",
+
+"Believed to have been born in the Outer Rim Territories, the man later known as Revan was born around the year 3994 BBY and studied under a number of different Jedi Masters as a Padawan of the Jedi Order.",
+
+"Leading the Revanchist movement in defiance of the Jedi Council's wishes and taking on the name of Revan, the Knight donned the mask of a fallen Mandalorian as he joined the Republic Military's fight and was appointed Supreme Commander.",
+
+"Revan and his friend Malak, followed the trail of a mysterious Sith influence on the Mandalorian Wars to the Unknown Regions, where the two discovered a reconstituted Sith Empire and were turned to the dark side of the Force by the Sith Emperor",
+
+"Sent back to the Republic as advance agents, the newly anointed Dark Lords of the Sith Darth Revan and Darth Malak broke free of the Emperor's mental control and established their own empire with the Star Forge, an ancient space station of great power that had been built by the Rakata species. ",
+
+"Revan was betrayed by his Sith apprentice Malak and captured by the Jedi Knight Bastila Shan, who saved Revan and formed a Force bond with her captive.",
+
+"With his mind wiped, Revan was given a new identity as a Republic soldier by the Jedi Council and stationed aboard the Republic warship Endar Spire. ",
+
+"However, when Malak attacked the Spire above the planet Taris in a failed attempt to capture Bastila Shan, Revan joined forces with the Republic officer Carth Onasi and a number of other individuals on Taris to locate Shan and escape the world before Malak destroyed the planet's surface.",
+
+"Revan brought a fallen Shan back to the light side of the Force with his love and defeated Malak, earning the Cross of Glory and the title of Prodigal Knight."
+ 
+ 
+ 
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

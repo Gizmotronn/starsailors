@@ -1,0 +1,9 @@
+{
+  "name" : "dodrio",
+  "category" : "dodrio",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "dodrio.png"
+  }
+}

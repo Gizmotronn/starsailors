@@ -1,0 +1,15 @@
+{
+  "projectileName" : "hydropump",
+  "image" : "hydropump.png",
+  "animationCycle" : 0.3,
+  "frameNumber" : 4,
+  "speed" : 0,
+  "orientationLocked" : false,
+  "damagePoly" : [ [0, 1], [120, 1], [120, -1], [0, -1] ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "emitters" : [  "defaultlightblue",  "defaultlightblue",  "defaultlightblue"  ],
+  "damageKind" : "water",
+  "lightColor" : [176, 200, 248]
+}

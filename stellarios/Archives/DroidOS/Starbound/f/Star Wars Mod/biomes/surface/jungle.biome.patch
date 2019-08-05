@@ -1,0 +1,17 @@
+[
+  
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/-",
+    "value": {
+      "mode": "floor",
+      "priority": 1,
+      "variants": 1,
+      "distribution": "/biomes/swmdistributions.config:swmmicrodungeon",
+      "type": "microdungeon",
+      "microdungeons": [
+        "wookiewatchtower1"
+      ]
+    }
+  }
+]

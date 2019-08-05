@@ -1,0 +1,19 @@
+{
+  "itemName" : "SWMwinddrum",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "winddrum.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Wind drums were ancient ritual musical instruments once used by the Grans, a three-eyed, goat-faced species from the planet of Kinyen.",
+  "shortdescription" : "Wind Drum",
+  "largeImage" : "winddrum.png",
+  "image" : "winddrum.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "winddrum.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0, -0.1],
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "drumkit"
+}

@@ -1,0 +1,21 @@
+{
+	"id" : "sithdiary",
+	"title" : "Sith",
+	"description" : "Information on Sith",
+	"icon" : "sithcover1.png",
+  "contentPages" : [
+  
+"The Sith, known alternatively as Red Sith or Sith Purebloods, were a species of red-skinned Humanoids that originated on the world of Korriban, before eventually resettling on the ice-world of Ziost.",
+
+"Also distinct for their bone spurs, facial tentacles, and genetic predispositions toward both left-handedness and the dark side of the Force, the Sith species coalesced into an empire ruled first by kings and later by Dark Lords."
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

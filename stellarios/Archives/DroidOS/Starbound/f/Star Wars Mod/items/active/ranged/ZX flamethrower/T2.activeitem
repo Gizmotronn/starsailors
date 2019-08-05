@@ -1,0 +1,46 @@
+{
+  "itemName" : "SWMzxT2",
+  "price" : 1200,
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "Commonly used by bounty hunters.",
+  "shortdescription" : " ZX Flame Projector",
+  "tooltipKind" : "gun",
+  "category" : "uniqueWeapon",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","ranged","uniqueWeapon"],
+  "level" : 2,
+  "inventoryIcon" : "barrel.png",
+
+ "animation" : "/items/active/weapons/ranged/gun.animation",
+  "animationParts" : {
+    "butt" : "",
+    "middle" : "",
+    "barrel" : "barrel.png",
+    "muzzleFlash" : ""
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fireStart" : [ "/sfx/gun/flamethrower_start.ogg" ],
+      "fireLoop" : [ "/sfx/gun/flamethrower_loop.ogg" ],
+      "fireEnd" : [ "/sfx/gun/flamethrower_stop.ogg" ]
+    }
+  },
+  "baseOffset" : [1.9, 0.0],
+  "muzzleOffset" : [0.0, 0.125],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "fire",
+
+  "primaryAbilityType" : "flamethrower",
+  "primaryAbility" : {
+    "baseDps" : 5.8,
+    "energyUsage" : 40
+  },
+"handGrip" : "outside",
+  "altAbilityType" : "fuelairtrail",
+  "altAbility" : {},
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

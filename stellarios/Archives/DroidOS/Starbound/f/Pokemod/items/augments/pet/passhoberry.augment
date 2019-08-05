@@ -1,0 +1,21 @@
+{
+  "itemName" : "passhoberry",
+  "price" : 200,
+  "rarity" : "Uncommon",
+  "tooltipKind" : "petcollar",
+  "category" : "petCollar",
+  "inventoryIcon" : "passhoberry.png",
+  "description" : "A  held item that lowers the effectiveness of Water-Type moves.",
+  "shortdescription" : "Passho Berry",
+
+  "collar" : {
+    "name" : "heldpasshoberry",
+    "displayName" : "Passho Berry",
+    "displayIcon" : "/items/augments/pet/passhoberry.png",
+    "effects" : [ "waterblockaugment" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupcollar" ],
+
+  "scripts" : [ "/scripts/augments/collar.lua" ]
+}

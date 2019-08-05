@@ -1,0 +1,231 @@
+{
+  "metadata" : {
+    "name" : "invadedaviannativevillage",
+    "species" : "avian",
+    "rules" : [
+    ],
+    "anchor" : [ "invadedaviannativevillageendleft1", "invadedaviannativevillageendright1" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 20,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "invadedaviannativevillagehouse1",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagehouse1" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagehouse1.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagehouse2",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagehouse2" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagehouse2.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagehouse3",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagehouse3" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagehouse3.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagehouse4",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagehouse4" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagehouse4.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagehouse5",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagehouse5" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagehouse5.json" ]
+    },
+     {
+      "name" : "invadedaviannativevillagehouse5clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagehouse5clue" ] ],
+        [ "doNotCombineWith", [ "invadedaviannativevillagehouse5", "invadedaviannativevillagetempleground1clue", "invadedaviannativevillagetowertop1clue", "invadedaviannativevillagesmallhouse1clue", "invadedaviannativevillagesmallhouse2clue" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagehouse5clue.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagehouse6",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagehouse6" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagehouse6.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagehouse7",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagehouse7" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagehouse7.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagesmallhouse1",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagesmallhouse1" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagesmallhouse1.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagesmallhouse1clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagesmallhouse1clue" ] ],
+        [ "doNotCombineWith", [ "invadedaviannativevillagesmallhouse1", "invadedaviannativevillagetempleground1clue", "invadedaviannativevillagetowertop1clue", "invadedaviannativevillagesmallhouse2clue", "invadedaviannativevillagehouse5clue" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagesmallhouse1clue.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagesmallhouse2",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagesmallhouse2" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagesmallhouse2.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagesmallhouse2clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagesmallhouse2clue" ] ],
+        [ "doNotCombineWith", [ "invadedaviannativevillagesmallhouse2", "invadedaviannativevillagetempleground1clue", "invadedaviannativevillagetowertop1clue", "invadedaviannativevillagesmallhouse1clue", "invadedaviannativevillagehouse5clue" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagesmallhouse2clue.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagetowerentrance1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagetowerentrance1" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagetowerentrance1.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagetempleground1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagetempleground1" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagetempleground1.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagetempleground1clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagetempleground1clue" ] ],
+        [ "doNotCombineWith", [ "invadedaviannativevillagetempleground1", "invadedaviannativevillagetowertop1clue", "invadedaviannativevillagesmallhouse1clue", "invadedaviannativevillagesmallhouse2clue", "invadedaviannativevillagehouse5clue" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagetempleground1clue.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagetowerfloor1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagetowerfloor1" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagetowerfloor1.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagetowerfloor2",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagetowerfloor2" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagetowerfloor2.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagetowerfloor3",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagetowerfloor3" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagetowerfloor3.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagetowertop1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagetowertop1" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagetowertop1.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagetowertop1clue",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagetowertop1clue" ] ],
+        [ "doNotCombineWith", [ "invadedaviannativevillagetowertop1", "invadedaviannativevillagetempleground1clue", "invadedaviannativevillagesmallhouse1clue", "invadedaviannativevillagesmallhouse2clue", "invadedaviannativevillagehouse5clue" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagetowertop1clue.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillagetowertop2",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedaviannativevillagetowertop2" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedaviannativevillagetowertop2.json" ]
+    },
+    {
+      "name" : "invadedaviannativevillageendleft1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "invadedaviannativevillageendleft1.json" ] ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "invadedaviannativevillageendright1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "invadedaviannativevillageendright1.json" ] ],
+      "chance" : 0
+    }
+  ]
+}

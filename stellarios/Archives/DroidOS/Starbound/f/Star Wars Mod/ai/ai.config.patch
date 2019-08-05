@@ -1,0 +1,136 @@
+[
+
+		
+	{
+		"op" : "add",
+		"path" : "/species/wookie",
+		"value" : {
+			"aiFrames" : "WookieAI.png",
+			"portraitFrames" : "portraits/wookieportrait.png",
+			"staticFrames" : "staticWookie.png"	
+		}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/togruta",
+		"value" : {
+			"aiFrames" : "TogrutaAI.png",
+			"portraitFrames" : "portraits/togrutaportrait.png",
+			"staticFrames" : "staticTogruta.png"	
+		}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/diathim",
+		"value" : {
+			"aiFrames" : "DiathimAI.png",
+			"portraitFrames" : "portraits/diathimeportrait.png",
+			"staticFrames" : "staticDiathim.png"	
+		}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/sith",
+		"value" : {
+			"aiFrames" : "SithAI.png",
+			"portraitFrames" : "portraits/sithportrait.png",
+			"staticFrames" : "staticSith.png"	
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/species/utapaun",
+		"value" : {
+			"aiFrames" : "UtapaunAI.png",
+			"portraitFrames" : "portraits/utapaunportrait.png",
+			"staticFrames" : "staticUtapaun.png"	
+		}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/rodian",
+		"value" : {
+			"aiFrames" : "RodianAI.png",
+			"portraitFrames" : "portraits/rodianportrait.png",
+			"staticFrames" : "staticRodian.png"	
+		}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/tuskan",
+		"value" : {
+			"aiFrames" : "ToydarianAI.png",
+			"portraitFrames" : "portraits/toydarianportrait.png",
+			"staticFrames" : "staticToydarian.png"	
+		}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/zabrak",
+		"value" : {
+			"aiFrames" : "ZabrakAI.png",
+			"portraitFrames" : "portraits/zabrakportrait.png",
+			"staticFrames" : "staticZabrak.png"	
+		}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/ithorian",
+		"value" : {
+			"aiFrames" : "IthorianAI.png",
+			"portraitFrames" : "portraits/ithorianportrait.png",
+			"staticFrames" : "staticIthorian.png"	
+		}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/mawg",
+		"value" : {
+			"aiFrames" : "MawgAI.png",
+			"portraitFrames" : "portraits/mawgportrait.png",
+			"staticFrames" : "staticMawg.png"	
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/species/droid",
+		"value" : {
+			"aiFrames" : "DroidAI.png",
+			"portraitFrames" : "portraits/droidportrait.png",
+			"staticFrames" : "staticDroid.png"	
+		}
+	},
+	
+	
+	
+	{
+		"op" : "add",
+		"path" : "/species/twilek",
+		"value" : {
+			"aiFrames" : "TwilekAI.png",
+			"portraitFrames" : "portraits/twilekportrait.png",
+			"staticFrames" : "staticTwilek.png"	
+		}
+	},	
+	
+	
+	{
+		"op" : "add",
+		"path" : "/species/bothan",
+		"value" : {
+			"aiFrames" : "BothanAI.png",
+			"portraitFrames" : "portraits/bothanportrait.png",
+			"staticFrames" : "staticBothan.png"	
+		}
+	}
+	
+	
+]

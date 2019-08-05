@@ -1,0 +1,14 @@
+{
+  "projectileName" : "dreameater",
+  "image" : "dreameater.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,  
+  "power" : 60,
+  "speed" : 40,
+  "damageKind" : "psychic",  
+   "damageKindImage" : "icon.png",
+   "statusEffects" : [
+    "sleep"
+  ]
+  
+}

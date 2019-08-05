@@ -1,0 +1,24 @@
+{
+  "itemName" : "SWMneuvian",
+  "rarity" : "Uncommon",
+  "price" : 525,
+  "category" : "preparedFood",
+  "inventoryIcon" : "neuvian.png",
+  "description" : "Consist of frozen cream and fruit and was served in a wide bowl.",
+  "shortdescription" : "Neuvian Sundae",
+  "effects" : [ [
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 630
+    }
+  ] ],
+  "foodValue" : 70,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

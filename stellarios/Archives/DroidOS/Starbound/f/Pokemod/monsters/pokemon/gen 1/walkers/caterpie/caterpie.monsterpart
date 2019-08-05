@@ -1,0 +1,9 @@
+{
+  "name" : "caterpie",
+  "category" : "caterpie",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "caterpie.png"
+  }
+}

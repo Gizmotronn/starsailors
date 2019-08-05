@@ -1,0 +1,34 @@
+{
+	"id" : "rex",
+	"title" : "CT-7567",
+	"description" : "Information About CT-7567.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+ 
+"CT-7567, nicknamed 'Rex,' was a veteran clone trooper captain who oversaw Torrent Company of the Grand Army of the Republic's famed 501st Legion during the Clone Wars.",
+
+"Rex participated in many battles over the course of the war, and was fond of his dual DC-17 blaster pistols, which he used extensively in battle.",
+
+"As the captain of the 501st, Rex served as second-in-command to Jedi General Anakin Skywalker, whose bravery and unorthodoxy in battle he came to share. ",
+
+"He was close friends with Marshal Commander Cody, with their relationship mirroring that of their respective Jedi Generals, Skywalker and Obi-Wan Kenobi. ",
+
+"At the Battle of Christophsis, Rex became a mentor to Skywalker's newly assigned Padawan, Ahsoka Tano, with whom he forged a strong bond.",
+
+"While on a listening post inspection tour with Cody, Rex rallied a small team of rookie soldiers to retake Rishi Station, which they thereafter destroyed to thwart Confederate General Grievous's planned invasion of Kamino.",
+
+"Throughout his career, Rex proved to be an effective leader who truly cared for the men under his command, even as he began to doubt his own future—and those of his clone brethren—in the Republic. "
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

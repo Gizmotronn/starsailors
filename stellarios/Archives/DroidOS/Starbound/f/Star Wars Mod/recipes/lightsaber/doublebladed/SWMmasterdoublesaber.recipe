@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "kybercrystal", "count" : 2 },
+	{ "item" : "durasteelbar", "count" : 20 }
+  ],
+  "output" : { "item" : "SWMmasterdoublesaber", "count" : 1 },
+  "groups" : [ "af", "t4"]
+}

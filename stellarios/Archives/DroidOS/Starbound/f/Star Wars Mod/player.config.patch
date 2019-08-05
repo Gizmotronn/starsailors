@@ -1,0 +1,484 @@
+[ 
+
+
+
+// Theron Shan
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2theronchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2theronlegs" }},
+
+// Darth Scabrous  
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2scabrouschest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2scabrouslegs" }},
+
+// Bastila
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2bastilachest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2bastilalegs" }},
+
+// Luke Skywalker
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2lukechest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2lukelegs" }},
+
+// Luke Skywalker Return of the Jedi
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2lukechest2" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2lukelegs2" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2lukehead2" }},
+
+// Armitage Hux
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2huxhead" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2huxchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2huxlegs" }},
+
+// Plo Koon
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2plochest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2plolegs" }},
+
+// Admiral Statura
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2staturachest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2staturalegs" }},
+
+// Jedi 
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2jedirobeupper" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2jedirobelower" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2jedihood" }},
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2jedi3chest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2jedi3pants" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2jedi3hood" }},
+
+// Sith
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2sithchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2sithlegs" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2sithhood" }},
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2sith2chest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2sith2pants" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2sith2hood" }},
+
+// Imperial Knight
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2imperialknightupper" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2imperialknightlower" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2imperialknightcape" }},
+
+
+// Revan
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2revanchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2revanpants" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2revanhood" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2revancape" }},
+
+
+// Saw Gerrera
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2sawchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2sawpants" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2sawcloak" }},
+
+// Orson Krennic
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2krennicchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2krennicpants" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2krenniccloak" }},
+
+// Antoc Merrick
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2merrickchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2merrickpants" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2merrickhelm" }},
+
+// Tuskan
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2tuskanchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2tuskanpants" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2tuskanhelm" }},
+
+// Wiloff Tarkin
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2tarkinchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2tarkinpants" }},
+
+
+
+// Darth Nihilus
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2nihiluschest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2nihiluspants" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2nihilushood" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2nihiluscape" }},
+
+// Darth Vader
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2vaderchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2vaderpants" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2vaderhead" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2vadercape" }},
+
+// Republic Commando
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2commandochest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2commandopants" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2commandohead" }},
+
+// Boushh
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2boushhchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2boushhpants" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2boushhhelm" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2boushhcape" }},
+
+// Darth Bane
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2banechest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2banelegs" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2banehead" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2banecape" }},
+
+// Freedon Nadd
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2naddchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2naddlegs" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2naddhead" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2naddcape" }},
+
+// Kylo Ren
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2kylochest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2kylolegs" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2kylohead" }},
+
+// Ulic
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2ulicchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2uliclegs" }},
+
+
+// Smuggler
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2smugglerchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2smugglerpants" }},
+
+// Cassian Andor
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2cassianchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2cassianpants" }},
+
+
+// Back Items
+
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2crystalcloak" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2mandalorianjetpack" }},
+
+// Misc
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "ithorianinvishead" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "ithorianinvislegs" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "ithorianinvischest" }},
+
+
+
+// Black Imperial
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2blackimperiallegs" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2blackimperialhead" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2blackimperialchest" }},
+
+// Gray Imperial
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2grayimperialpants" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2grayimperialhelm" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2grayimperialchest" }},
+
+
+// Senator Jebel
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2jebelchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2jebelpants" }},
+
+
+// General Dodonna
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2dodonnachest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2dodonnapants" }},
+
+// Mon Mothma
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2mothmachest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2mothmapants" }},
+
+// Bail Organa
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2bailchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2bailpants" }},
+
+// Boba Fett
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2bobafettpants" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2bobafetthead" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2bobafettchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2bobablaster" }},
+
+// Boba Fett 2
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2bobalegs" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2bobahead" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2bobachest" }},
+
+// Jango Fett
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2jangolegs" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2jangohead" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2jangochest" }},
+
+
+// Captain Rex
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2rexlegs" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2rexhead" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2rexchest" }},
+
+// CC-2224 'Cody'
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2codypants" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2codyhead" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2codychest" }},
+
+// Dash Rendar
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2dashpants" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2dashchest" }},
+
+// Stormtrooper
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2stormtrooperhelm" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2stormtrooperlegs" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2stormtrooperchest" }},
+
+// Scout Trooper
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2scouttrooperhelm" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2scouttrooperlegs" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2scouttrooperchest" }},
+
+// Snowtrooper
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2snowtrooperhelm" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2snowtrooperlegs" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2snowtrooperchest" }},
+
+// Sandtrooper
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2sandtrooperhelm" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2sandtrooperlegs" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2sandtrooperchest" }},
+
+
+// Royal Guard
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2royalguardhelm" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2royalguardlegs" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWM2royalguardchest" }},
+
+
+// Combat Tag
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMtrainingdroid" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMe11mounted" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMdxr6mounted" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMgunchest" }},
+
+// Jedi Tag
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMholocron" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMcrystal" }},
+
+
+// Art
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMgunganheadstatue" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMbobafettstatue" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMemperorstatue" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingsith" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingjedi" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingdeathstar" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingfirstrepublic" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintinggalacticempire" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingnihilus" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingoldrepublic" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingseparatist" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingfirstorder" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingrebel" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingkraytdragon" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingpetals1" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingpetals2" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingpetals3" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingresidentalhouse" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingblueleaftemple" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingblumbush" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingboffaplant" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintinggrunda" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingtwilekgirl" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingad" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingendor" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingbestine" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingcastwing" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingdecimator" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingwow" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingdunespeeder" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingwookie" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingwookie2" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingkashyyyk" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingvictory" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingbio" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingparty" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingvalley" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingclone" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMpaintingclone2" }},
+
+// Decor
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMhanginglight" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMarmoireelegant" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMatstchair" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMcolotank" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMlargebed" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMcabinetelegant" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMcarbonitesolo" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMdarthmelt" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMrebojukebox" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiearmchair" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiebardoor" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiebed" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiebench" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiebookcase" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookieceilinglight" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiechest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiecider" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiecomfychair" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiecouch" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiecounter1" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiecupboard" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiedesk" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiedesk2" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiedonotenter" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookieflag" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiedoor" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiefridge" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookielamp1" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookielamp2" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookielamp3" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookielocker" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiesink" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiespeaker" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiestoragelocker" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiestatue1" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiestatue" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookietable" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookieteleporter" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookietent" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookievasesmall1" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookievasemedium1" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookievaselarge1" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookievinebed" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiewardrobe" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiewoodenchair" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "wookiewoodenshelves" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakarmchair" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakbed" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakbench" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakbookcase" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakceilinglight" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakchest" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakcider" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakcomfychair" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakcouch" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakcounter1" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakcupboard" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakdesk" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakdesk2" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakdonotenter" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakflag" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakdoor" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakfridge" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabraklamp1" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabraklamp2" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabraklamp3" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabraklocker" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabraksink" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakspeaker" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakstoragelocker" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabraktable" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakteleporter" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabraktent" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakvasesmall1" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakvasemedium1" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakvaselarge1" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakvinebed" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakwardrobe" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakwoodenchair" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zabrakwoodenshelves" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "deathstarsign" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "swsign" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "barracksbunkbed" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "basicmetalbed" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "hospitalbed" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "imperialmedicalbed" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "huttlounger" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "luxurybedblack" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "luxurybedorange" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "luxurybedplum" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "zakuulanmedicalbed" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "revanitecampbed" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "vosskabed" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "templebed" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "sithbunkbed" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "starfortressstasisbunk" }},
+
+
+
+// Vehicles
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMspeederbikecontroller" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMlandspeederbikecontroller" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMdesertspeederbikecontroller" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMwinnebagocontroller" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMxwingcontroller" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMawingcontroller" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMnsfcontroller" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMfalconcontroller" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMbanthacontroller" }},
+
+
+
+
+// Codex
+{ "op" : "add", "path" : "/defaultCodexes/wookie", "value" : [ "protectorate1", "protectorate2", "wookiediary" ] },
+{ "op" : "add", "path" : "/defaultCodexes/toydarian", "value" : [ "protectorate1", "protectorate2", "toydariandiary" ] },
+{ "op" : "add", "path" : "/defaultCodexes/utapaun", "value" : [ "protectorate1", "protectorate2", "utapaundiary" ] },
+{ "op" : "add", "path" : "/defaultCodexes/tuskan", "value" : [ "protectorate1", "protectorate2", "tuskandiary" ] },
+{ "op" : "add", "path" : "/defaultCodexes/rodian", "value" : [ "protectorate1", "protectorate2", "rodiandiary" ] },
+{ "op" : "add", "path" : "/defaultCodexes/zabrak", "value" : [ "protectorate1", "protectorate2", "zabrakdiary" ] },
+{ "op" : "add", "path" : "/defaultCodexes/ithorian", "value" : [ "protectorate1", "protectorate2", "ithoriandiary" ] },
+{ "op" : "add", "path" : "/defaultCodexes/mawg", "value" : [ "protectorate1", "protectorate2", "mawgdiary" ] },
+{ "op" : "add", "path" : "/defaultCodexes/droid", "value" : [ "protectorate1", "protectorate2", "droiddiary" ] },
+{ "op" : "add", "path" : "/defaultCodexes/bothan", "value" : [ "protectorate1", "protectorate2", "bothandiary" ] },
+{ "op" : "add", "path" : "/defaultCodexes/twilek", "value" : [ "protectorate1", "protectorate2", "twilekdiary" ] },
+{ "op" : "add", "path" : "/defaultCodexes/sith", "value" : [ "protectorate1", "protectorate2", "sithdiary" ] },
+{ "op" : "add", "path" : "/defaultCodexes/diathim", "value" : [ "protectorate1", "protectorate2", "diathimdiary" ] },
+{ "op" : "add", "path" : "/defaultCodexes/togruta", "value" : [ "protectorate1", "protectorate2", "togrutadiary" ] },
+
+// Misc
+
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMcraftingtable" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMbazaarterminal" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "narcissiststation" }},
+{"op" : "add","path" : "/defaultBlueprints/tier1/-","value" : { "item" : "SWMancientforge" }}
+
+
+]

@@ -1,0 +1,40 @@
+{
+  "objectName" : "SWMatstchair",
+  "colonyTags" : ["gothic", "swrace", "toydarian"],
+  "rarity" : "Common",
+  "description" : "A chair made from the remains of an AT-ST.",
+  "shortdescription" : "AT-ST Chair",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 115,
+
+  
+
+  "inventoryIcon" : "atstchairicon.png",
+  "orientations" : [
+    {
+      "image" : "atstchair.png:<color>",
+      "imagePosition" : [-8, 0],
+
+      "direction" : "left",
+      "flipImages" : false,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "atstchair.png:<color>",
+      "imagePosition" : [-8, 0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [20, 20]
+
+}

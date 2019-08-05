@@ -1,0 +1,13 @@
+{
+  "name" : "wh321npcfalling",
+
+
+  "effectConfig" : {},
+  "defaultDuration" : 100,
+
+  "scripts" : [
+    "wh321npcfalling.lua"
+  ]
+
+  
+}

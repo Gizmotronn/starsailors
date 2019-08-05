@@ -1,0 +1,9 @@
+{
+  "name" : "machoke",
+  "category" : "machoke",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "machoke.png"
+  }
+}

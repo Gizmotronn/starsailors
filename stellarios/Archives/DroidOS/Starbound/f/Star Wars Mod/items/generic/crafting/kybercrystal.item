@@ -1,0 +1,15 @@
+{
+  "itemName" : "kybercrystal",
+  "price" : 10,
+  "rarity" : "Uncommon",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "kybercrystal.png",
+  "description" : "Used for crafting Lightsabers.",
+  "shortdescription" : "Kyber Crystal",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [
+"SWMyounglingsaber",
+"SWMyounglingdoublesaber",
+"SWMyounglingcrosssaber"
+]
+}

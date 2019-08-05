@@ -1,0 +1,34 @@
+{
+  "itemName" : "SWMlandspeederbluebikecontroller",
+  "level" : 1,
+  "price" : 12500,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Create a Blue Landspeeder from stored nanites.",
+  "shortdescription" : "Blue Landspeeder Controller",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "landspeederblue.png",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "hoverbikelandspeederblue",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/hoverbike/hoverbikespeederwarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "speederbikecontroller.png"
+  },
+
+  "inventoryIcon" : "landspeederbikecontroller.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/landspeederbikecontroller.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/landspeederbikecontroller.png:full"
+
+}

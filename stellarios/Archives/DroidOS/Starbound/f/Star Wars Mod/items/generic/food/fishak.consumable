@@ -1,0 +1,25 @@
+{
+  "itemName" : "SWMfishak",
+  "rarity" : "Common",
+  "price" : 150,
+  "category" : "drink",
+  "inventoryIcon" : "fishak.png",
+  "description" : "A mixed, alcoholic drink, and a favorite at the Binary Bar.",
+  "shortdescription" : "Angerian Fishak Surprise",
+  "effects" : [ [
+    {
+        "effect" : "runboostfood",
+        "duration" : 135
+    }
+  ] ],
+  "foodValue" : 15,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ]
+}

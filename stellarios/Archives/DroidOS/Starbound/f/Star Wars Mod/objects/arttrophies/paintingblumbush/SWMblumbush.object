@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintingblumbush",
+  "colonyTags" : ["swrace","pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "Painting of a Blumbush.",
+  "shortdescription" : "Blumbush Painting",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+  
+
+  "inventoryIcon" : "paintingblumbushicon.png",
+  "orientations" : [
+    {
+      "image" : "paintingblumbush.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

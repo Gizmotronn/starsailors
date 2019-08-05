@@ -1,0 +1,17 @@
+{
+  "ability" : {
+    "type" : "forcegrip",
+    "name" : "Forcegrip",
+    "scripts" : ["/items/forcepowers/abilities/forcegrip/wh321forcegrip.lua"],
+    "class" : "ControlProjectile",
+
+    "energyCost" : 60,
+
+    "maxCastRange" : 25,
+
+    "projectileType" : "wh321fgprojectile",
+    "projectileParameters" : {
+      "baseDamage" : 6
+    }
+  }
+}

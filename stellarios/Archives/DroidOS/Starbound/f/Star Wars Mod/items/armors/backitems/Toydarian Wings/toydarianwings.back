@@ -1,0 +1,20 @@
+{
+  "itemName" : "toydarianwings",
+  "price" : 2500,
+  "inventoryIcon" : "icon.png",
+  "rarity" : "Rare",
+  "category" : "backwear",
+  "description" : "Wings of a Toydarian",
+  "shortdescription" : "Toydarian Wings",
+  "tooltipKind" : "back",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+  "maxStack" : 1,
+  
+  "statusEffects" : [
+	"wingtech"
+  ],
+  
+  "pickupQuestTemplates" : [ "itemhack" ]
+}

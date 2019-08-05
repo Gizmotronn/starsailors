@@ -1,0 +1,20 @@
+{
+  "itemName" : "SWMtraz",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "trazicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "The Traz was a musical instrument similar in appearance to the slitherhorn.",
+  "shortdescription" : "traz",
+  "largeImage" : "traz.png",
+  "image" : "traz.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "traz.png",
+  "activeAngle" : 6,
+  "activeHandPosition" : [0.2, -0.1],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "saxophone"
+}

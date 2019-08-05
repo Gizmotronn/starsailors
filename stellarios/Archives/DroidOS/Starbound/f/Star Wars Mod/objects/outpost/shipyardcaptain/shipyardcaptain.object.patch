@@ -1,0 +1,43 @@
+[
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": { "item" : "speederbikecontroller" }
+  },
+  
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": { "item" : "landspeederbikecontroller" }
+  },
+  
+  { 
+    "op": "add", 
+    "path": "/interactData/items/-",
+    "value": { "item": "xwingcontroller" } 
+  },
+  
+  { 
+    "op": "add", 
+    "path": "/interactData/items/-",
+    "value": { "item": "nsfcontroller" } 
+  },
+  
+  { 
+    "op": "add", 
+    "path": "/interactData/items/-",
+    "value": { "item": "awingcontroller" } 
+  },
+  
+  { 
+    "op": "add", 
+    "path": "/interactData/items/-",
+    "value": { "item": "winnebagocontroller" } 
+  },
+  
+  { 
+    "op": "add", 
+    "path": "/interactData/items/-",
+    "value": { "item": "falconcontroller" } 
+  }
+]

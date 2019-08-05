@@ -1,0 +1,75 @@
+{
+  "objectName" : "zabrakceilinglight",
+  "colonyTags" : ["swrace","light", "zabrak"],
+  "rarity" : "Common",
+  "description" : "A light fixture hanging from chains.",
+  "shortdescription" : "Iridonian Hanging Chain Light",
+  "race" : "generic",
+  "zabrakDescription" : "A light fixture hanging from chains, ideal for building space stations or planetary installations.",
+  "humanDescription" : "Some say that this ceiling light would be better off produced in fifty shades of grey, but the red paint job gives it a sensual allure nonetheless.",
+  "apexDescription" : "A light fixture.",
+  "avianDescription" : "It's a light, but not an attractive one.",
+  "floranDescription" : "Shiny lightsss.",
+  "hylotlDescription" : "This light is harsh and unforgiving.",
+  "novakidDescription" : "A light that works, what more could you want?",
+  "glitchDescription" : "Nonplussed. A light fixture hanging from chains.",
+  "feneroxDescription" : "Ceiling light. Chain mounted. Bright red. For Zabrak. Not Fenerox.",
+
+  "category" : "light",
+  "price" : 90,
+  "printable" : true,
+  "lightColor" : [174, 211, 229],
+  "pointLight" : true,
+  "pointBeam" : 2,
+  "beamAmbience" : 0.3,
+
+  "inventoryIcon" : "zabrakceilinglighticon.png",
+  "orientations" : [
+    {
+      "image" : "zabrakceilinglight.png:<color>.<frame>",
+      "imagePosition" : [-12, 0],
+      "animationParts" : {
+        "bg" : "zabrakceilinglight.png",
+        "fg" : "zabrakceilinglightlit.png"
+      },
+      "animationPosition" : [-12, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ],
+      "lightPosition" : [0, 1],
+      "beamAngle" : 270
+    },
+    {
+      "image" : "zabrakceilinglight.png:<color>.<frame>",
+      "imagePosition" : [-12, 0],
+      "animationParts" : {
+        "bg" : "zabrakceilinglight.png",
+        "fg" : "zabrakceilinglightlit.png"
+      },
+      "animationPosition" : [-12, 0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ],
+      "lightPosition" : [0, 1],
+      "beamAngle" : 270
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationParts" : {
+    "bg" : "zabrakceilinglight.png",
+    "fg" : "zabrakceilinglightlit.png"
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+}

@@ -1,0 +1,20 @@
+{
+  "modId" : 301,
+  "modName" : "kyber",
+  "itemDrop" : "kybercrystal",
+  "description" : "Kyber Crystal.",
+  "breaksWithTile" : true,
+  "health" : 4,
+  "harvestLevel" : 2,
+
+  "miningSounds" : [ "/sfx/tools/pickaxe_ore.ogg", "/sfx/tools/pickaxe_ore2.ogg" ],
+  "miningParticle" : "orespark",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "kyber.png",
+    "variants" : 8,
+    "multiColored" : false,
+    "zLevel" : 0
+  }
+}

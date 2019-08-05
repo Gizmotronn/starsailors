@@ -1,0 +1,25 @@
+{
+  "itemName" : "SWMksaa",
+  "rarity" : "Common",
+  "price" : 440,
+  "category" : "preparedFood",
+  "inventoryIcon" : "ksaa.png",
+  "description" : "A strong, bitter red tonic consumed by the Ssi-ruu.",
+  "shortdescription" : "Ksaa",
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 315
+    }
+  ] ],
+  "foodValue" : 35,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ]
+}

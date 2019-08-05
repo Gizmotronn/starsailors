@@ -1,0 +1,873 @@
+[
+	{
+		"op": "add",
+		"path": "/merchantStart/wookie",
+		"value": {
+			"default": [
+				"Welcome to my store.",
+				"How may I help you?",
+				"Welcome welcome welcome."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/wookie",
+		"value": {
+			"default": [
+				"See you next time!",
+				"Please come back soon",
+				"Your pixels are always good here.",
+				"Pleasure doing business with you!",
+				"It was a pleasure having you here.",
+				"Great to see you!",
+				"Let's do business again."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/wookie",
+		"value": {
+			"default": [
+				"Right this way.",
+				"Please follow me.",
+				"Come with me."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/wookie",
+		"value": {
+			"default": [
+				"Welcome!",
+				"Let's talk business.",
+				"Now that we are here, how can I help you?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/wookie",
+		"value": {
+			"default" : [
+				"Goods for sale!",
+				"Hey you, come check out my amazing wares!",
+				"Best deals around!",
+				"Cheap buys!"
+			]
+			
+		}
+	},
+{
+		"op": "add",
+		"path": "/merchantStart/toydarian",
+		"value": {
+			"default": [
+				"Welcome to my store.",
+				"How may I help you?",
+				"Republic credits are no good here."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/toydarian",
+		"value": {
+			"default": [
+				"See you next time!",
+				"Please come back soon",
+				"Your pixels are always good here.",
+				"Pleasure doing business with you!",
+				"It was a pleasure having you here.",
+				"Great to see you!",
+				"Let's do business again."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/toydarian",
+		"value": {
+			"default": [
+				"Right this way.",
+				"Please follow me.",
+				"Come with me."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/toydarian",
+		"value": {
+			"default": [
+				"Welcome!",
+				"Let's talk business.",
+				"Now that we are here, how can I help you?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/toydarian",
+		"value": {
+			"default" : [
+				"Goods for sale!",
+				"Hey you, come check out my amazing wares!",
+				"Best deals around!",
+				"Cheap buys!"
+			]
+			
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/merchantStart/utapaun",
+		"value": {
+			"default": [
+				"Welcome to my store.",
+				"How may I help you?",
+				"Welcome welcome welcome."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/utapaun",
+		"value": {
+			"default": [
+				"See you next time!",
+				"Please come back soon",
+				"Your pixels are always good here.",
+				"Pleasure doing business with you!",
+				"It was a pleasure having you here.",
+				"Great to see you!",
+				"Let's do business again."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/utapaun",
+		"value": {
+			"default": [
+				"Right this way.",
+				"Please follow me.",
+				"Come with me."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/utapaun",
+		"value": {
+			"default": [
+				"Welcome!",
+				"Let's talk business.",
+				"Now that we are here, how can I help you?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/utapaun",
+		"value": {
+			"default" : [
+				"Goods for sale!",
+				"Hey you, come check out my amazing wares!",
+				"Best deals around!",
+				"Cheap buys!"
+			]
+			
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/merchantStart/rodian",
+		"value": {
+			"default": [
+				"Welcome to my store.",
+				"How may I help you?",
+				"Welcome welcome welcome."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/rodian",
+		"value": {
+			"default": [
+				"See you next time!",
+				"Please come back soon",
+				"Your pixels are always good here.",
+				"Pleasure doing business with you!",
+				"It was a pleasure having you here.",
+				"Great to see you!",
+				"Let's do business again."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/rodian",
+		"value": {
+			"default": [
+				"Right this way.",
+				"Please follow me.",
+				"Come with me."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/rodian",
+		"value": {
+			"default": [
+				"Welcome!",
+				"Let's talk business.",
+				"Now that we are here, how can I help you?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/rodian",
+		"value": {
+			"default" : [
+				"Goods for sale!",
+				"Hey you, come check out my amazing wares!",
+				"Best deals around!",
+				"Cheap buys!"
+			]
+			
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantStart/tuskan",
+		"value": {
+			"default": [
+				"Welcome to my store.",
+				"How may I help you?",
+				"Welcome welcome welcome."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/tuskan",
+		"value": {
+			"default": [
+				"See you next time!",
+				"Please come back soon",
+				"Your pixels are always good here.",
+				"Pleasure doing business with you!",
+				"It was a pleasure having you here.",
+				"Great to see you!",
+				"Let's do business again."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/tuskan",
+		"value": {
+			"default": [
+				"Right this way.",
+				"Please follow me.",
+				"Come with me."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/tuskan",
+		"value": {
+			"default": [
+				"Welcome!",
+				"Let's talk business.",
+				"Now that we are here, how can I help you?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/tuskan",
+		"value": {
+			"default" : [
+				"Goods for sale!",
+				"Hey you, come check out my amazing wares!",
+				"Best deals around!",
+				"Cheap buys!"
+			]
+			
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/merchantStart/zabrak",
+		"value": {
+			"default": [
+				"Welcome to my store.",
+				"How may I help you?",
+				"Welcome welcome welcome."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/zabrak",
+		"value": {
+			"default": [
+				"See you next time!",
+				"Please come back soon",
+				"Your pixels are always good here.",
+				"Pleasure doing business with you!",
+				"It was a pleasure having you here.",
+				"Great to see you!",
+				"Let's do business again."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/zabrak",
+		"value": {
+			"default": [
+				"Right this way.",
+				"Please follow me.",
+				"Come with me."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/zabrak",
+		"value": {
+			"default": [
+				"Welcome!",
+				"Let's talk business.",
+				"Now that we are here, how can I help you?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/zabrak",
+		"value": {
+			"default" : [
+				"Goods for sale!",
+				"Hey you, come check out my amazing wares!",
+				"Best deals around!",
+				"Cheap buys!"
+			]
+			
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/merchantStart/ithorian",
+		"value": {
+			"default": [
+				"Welcome to my store.",
+				"How may I help you?",
+				"Welcome welcome welcome."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/ithorian",
+		"value": {
+			"default": [
+				"See you next time!",
+				"Please come back soon",
+				"Your pixels are always good here.",
+				"Pleasure doing business with you!",
+				"It was a pleasure having you here.",
+				"Great to see you!",
+				"Let's do business again."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/ithorian",
+		"value": {
+			"default": [
+				"Right this way.",
+				"Please follow me.",
+				"Come with me."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/ithorian",
+		"value": {
+			"default": [
+				"Welcome!",
+				"Let's talk business.",
+				"Now that we are here, how can I help you?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/ithorian",
+		"value": {
+			"default" : [
+				"Goods for sale!",
+				"Hey you, come check out my amazing wares!",
+				"Best deals around!",
+				"Cheap buys!"
+			]
+			
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/merchantStart/mawg",
+		"value": {
+			"default": [
+				"Welcome to my store.",
+				"How may I help you?",
+				"Welcome welcome welcome."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/mawg",
+		"value": {
+			"default": [
+				"See you next time!",
+				"Please come back soon",
+				"Your pixels are always good here.",
+				"Pleasure doing business with you!",
+				"It was a pleasure having you here.",
+				"Great to see you!",
+				"Let's do business again."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/mawg",
+		"value": {
+			"default": [
+				"Right this way.",
+				"Please follow me.",
+				"Come with me."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/mawg",
+		"value": {
+			"default": [
+				"Welcome!",
+				"Let's talk business.",
+				"Now that we are here, how can I help you?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/mawg",
+		"value": {
+			"default" : [
+				"Goods for sale!",
+				"Hey you, come check out my amazing wares!",
+				"Best deals around!",
+				"Cheap buys!"
+			]
+			
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/merchantStart/droid",
+		"value": {
+			"default": [
+				"Welcome to my store.",
+				"How may I help you?",
+				"Welcome welcome welcome."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/droid",
+		"value": {
+			"default": [
+				"See you next time!",
+				"Please come back soon",
+				"Your pixels are always good here.",
+				"Pleasure doing business with you!",
+				"It was a pleasure having you here.",
+				"Great to see you!",
+				"Let's do business again."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/droid",
+		"value": {
+			"default": [
+				"Right this way.",
+				"Please follow me.",
+				"Come with me."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/droid",
+		"value": {
+			"default": [
+				"Welcome!",
+				"Let's talk business.",
+				"Now that we are here, how can I help you?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/droid",
+		"value": {
+			"default" : [
+				"Goods for sale!",
+				"Hey you, come check out my amazing wares!",
+				"Best deals around!",
+				"Cheap buys!"
+			]
+			
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/merchantStart/bothan",
+		"value": {
+			"default": [
+				"Welcome to my store.",
+				"How may I help you?",
+				"Welcome welcome welcome."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/bothan",
+		"value": {
+			"default": [
+				"See you next time!",
+				"Please come back soon",
+				"Your pixels are always good here.",
+				"Pleasure doing business with you!",
+				"It was a pleasure having you here.",
+				"Great to see you!",
+				"Let's do business again."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/bothan",
+		"value": {
+			"default": [
+				"Right this way.",
+				"Please follow me.",
+				"Come with me."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/bothan",
+		"value": {
+			"default": [
+				"Welcome!",
+				"Let's talk business.",
+				"Now that we are here, how can I help you?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/bothan",
+		"value": {
+			"default" : [
+				"Goods for sale!",
+				"Hey you, come check out my amazing wares!",
+				"Best deals around!",
+				"Cheap buys!"
+			]
+			
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/merchantStart/twilek",
+		"value": {
+			"default": [
+				"Welcome to my store.",
+				"How may I help you?",
+				"Welcome welcome welcome."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/twilek",
+		"value": {
+			"default": [
+				"See you next time!",
+				"Please come back soon",
+				"Your pixels are always good here.",
+				"Pleasure doing business with you!",
+				"It was a pleasure having you here.",
+				"Great to see you!",
+				"Let's do business again."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/twilek",
+		"value": {
+			"default": [
+				"Right this way.",
+				"Please follow me.",
+				"Come with me."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/twilek",
+		"value": {
+			"default": [
+				"Welcome!",
+				"Let's talk business.",
+				"Now that we are here, how can I help you?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/twilek",
+		"value": {
+			"default" : [
+				"Goods for sale!",
+				"Hey you, come check out my amazing wares!",
+				"Best deals around!",
+				"Cheap buys!"
+			]
+			
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/merchantStart/sith",
+		"value": {
+			"default": [
+				"Welcome to my store.",
+				"How may I help you?",
+				"Welcome welcome welcome."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/sith",
+		"value": {
+			"default": [
+				"See you next time!",
+				"Please come back soon",
+				"Your pixels are always good here.",
+				"Pleasure doing business with you!",
+				"It was a pleasure having you here.",
+				"Great to see you!",
+				"Let's do business again."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/sith",
+		"value": {
+			"default": [
+				"Right this way.",
+				"Please follow me.",
+				"Come with me."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/sith",
+		"value": {
+			"default": [
+				"Welcome!",
+				"Let's talk business.",
+				"Now that we are here, how can I help you?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/sith",
+		"value": {
+			"default" : [
+				"Goods for sale!",
+				"Hey you, come check out my amazing wares!",
+				"Best deals around!",
+				"Cheap buys!"
+			]
+			
+		}
+	},
+	
+	
+	
+	{
+		"op": "add",
+		"path": "/merchantStart/diathim",
+		"value": {
+			"default": [
+				"Welcome to my store.",
+				"How may I help you?",
+				"Welcome welcome welcome."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/diathim",
+		"value": {
+			"default": [
+				"See you next time!",
+				"Please come back soon",
+				"Your pixels are always good here.",
+				"Pleasure doing business with you!",
+				"It was a pleasure having you here.",
+				"Great to see you!",
+				"Let's do business again."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/diathim",
+		"value": {
+			"default": [
+				"Right this way.",
+				"Please follow me.",
+				"Come with me."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/diathim",
+		"value": {
+			"default": [
+				"Welcome!",
+				"Let's talk business.",
+				"Now that we are here, how can I help you?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/diathim",
+		"value": {
+			"default" : [
+				"Goods for sale!",
+				"Hey you, come check out my amazing wares!",
+				"Best deals around!",
+				"Cheap buys!"
+			]
+			
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/merchantStart/togruta",
+		"value": {
+			"default": [
+				"Welcome to my store.",
+				"How may I help you?",
+				"Welcome welcome welcome."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/togruta",
+		"value": {
+			"default": [
+				"See you next time!",
+				"Please come back soon",
+				"Your pixels are always good here.",
+				"Pleasure doing business with you!",
+				"It was a pleasure having you here.",
+				"Great to see you!",
+				"Let's do business again."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/togruta",
+		"value": {
+			"default": [
+				"Right this way.",
+				"Please follow me.",
+				"Come with me."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/togruta",
+		"value": {
+			"default": [
+				"Welcome!",
+				"Let's talk business.",
+				"Now that we are here, how can I help you?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/togruta",
+		"value": {
+			"default" : [
+				"Goods for sale!",
+				"Hey you, come check out my amazing wares!",
+				"Best deals around!",
+				"Cheap buys!"
+			]
+			
+		}
+	}
+	
+	
+	
+	
+]

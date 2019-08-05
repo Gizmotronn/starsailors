@@ -1,0 +1,9 @@
+{
+  "name" : "grimer",
+  "category" : "grimer",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "grimer.png"
+  }
+}

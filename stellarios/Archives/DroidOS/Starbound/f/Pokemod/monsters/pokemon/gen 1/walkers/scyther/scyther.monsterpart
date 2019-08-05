@@ -1,0 +1,9 @@
+{
+  "name" : "scyther",
+  "category" : "scyther",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "scyther.png"
+  }
+}

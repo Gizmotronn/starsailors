@@ -1,0 +1,9 @@
+{
+  "name" : "wigglytuff",
+  "category" : "wigglytuff",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "wigglytuff.png"
+  }
+}

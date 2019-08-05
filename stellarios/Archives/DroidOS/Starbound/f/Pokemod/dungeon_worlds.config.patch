@@ -1,0 +1,15 @@
+[
+  {
+    "op" : "add",
+    "path" : "/oak",
+    "value" : {
+      "primaryDungeon" : "oak",
+      "threatLevel" : 1,
+      "gravity" : 40,
+      "worldSize" : [2000, 2000],
+      "dungeonBaseHeight" : 1000,
+      "ambientLightLevel" : [75, 85, 100],
+	  "ambientNoises" : "/sfx/dungeons/oak.ogg"
+    }
+  }
+]

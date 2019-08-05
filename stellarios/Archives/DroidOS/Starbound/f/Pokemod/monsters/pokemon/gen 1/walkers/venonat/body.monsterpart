@@ -1,0 +1,9 @@
+{
+  "name" : "venonat",
+  "category" : "venonat",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "venonat.png"
+  }
+}

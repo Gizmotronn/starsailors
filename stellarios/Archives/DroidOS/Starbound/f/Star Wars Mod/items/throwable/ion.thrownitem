@@ -1,0 +1,30 @@
+{
+  "itemName" : "SWMiongrenade",
+  "price" : 50,
+  "rarity" : "Common",
+  "category" : "throwableItem",
+  "inventoryIcon" : "ion.png",
+  "image" : "ion.png",
+  "shortdescription" : "Ion Grenade",
+  "description" : "A great way to blow stuff up. Be careful where you throw them!",
+
+  "ammoUsage" : 1,
+
+  "edgeTrigger" : true,
+  "windupTime" : 0.0,
+  "cooldown" : 0.4,
+
+  "projectileType" : "gion",
+  "projectileConfig" : {
+    "speed" : 25,
+    "power" : 30,
+    "periodicActions" : [
+      {
+        "time" : 0,
+        "repeat" : false,
+        "action" : "sound",
+        "options" : [ "/sfx/projectiles/throw_item.ogg" ]
+      }
+    ]
+  }
+}

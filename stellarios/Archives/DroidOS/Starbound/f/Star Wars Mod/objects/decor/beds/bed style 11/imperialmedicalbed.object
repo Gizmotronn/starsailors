@@ -1,0 +1,45 @@
+{
+  "objectName" : "imperialmedicalbed",
+  "colonyTags" : ["ithorian", "rodian", "mawg", "zabrak", "droid", "tuskan", "utapaun", "wookie", "sith", "bothan", "twilek", "diathim", "toydarian"],
+  "printable" : false,
+  "rarity" : "Uncommon",
+  "description" : "Sith Empire's hospital bed.",
+  "shortdescription" : "Bed Style 11",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 300,
+
+  "apexDescription" : "Sith Empire's hospital bed.",
+  "avianDescription" : "Sith Empire's hospital bed.",
+  "floranDescription" : "Sith Empire's hospital bed.",
+  "glitchDescription" : "Statement. Sith Empire's hospital bed.",
+  "humanDescription" : "Sith Empire's hospital bed.",
+  "hylotlDescription" : "Sith Empire's hospital bed.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [0, 20],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/decor/beds/bed style 11/imperialmedicalbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "regeneration4"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "swtoricon3.png",
+  "orientations" : [
+    {
+      "dualImage" : "imperialmedicalbed.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

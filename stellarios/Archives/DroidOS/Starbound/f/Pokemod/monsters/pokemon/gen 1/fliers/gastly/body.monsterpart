@@ -1,0 +1,9 @@
+{
+  "name" : "gastly",
+  "category" : "gastly",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "gastly.png"
+  }
+}

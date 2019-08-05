@@ -29,10 +29,11 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    facebook:   http://allianceofdroids.org.au
-    steam:		   http://acord-robotics.github.io/starsailors/acord
+    # rss:   http://allianceofdroids.org.au
+    reddit:		   http://acord-robotics.github.io/starsailors/acord
     github:      IrisDroidology             
     download:	 https://github.com/acord-robotics/starsailors/archive/master.zip
+    steam:       droidology
     # email:           irisdroidology@allianceofdroids.org.au
     # rss:             https://<url>/feed.xml
     # facebook:        Droidology

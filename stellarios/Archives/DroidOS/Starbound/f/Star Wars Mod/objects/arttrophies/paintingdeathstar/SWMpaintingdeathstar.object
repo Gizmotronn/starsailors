@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintingdeathstar",
+  "colonyTags" : ["swrace","pretty","valuable", "jedi"],
+  "rarity" : "Rare",
+  "description" : "Painting of the Death Star.",
+  "shortdescription" : "Death Star Painting",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+ 
+
+  "inventoryIcon" : "paintingdeathstaricon.png",
+  "orientations" : [
+    {
+      "image" : "paintingdeathstar.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

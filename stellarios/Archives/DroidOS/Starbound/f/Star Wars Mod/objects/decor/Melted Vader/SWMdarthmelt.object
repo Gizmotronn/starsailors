@@ -1,0 +1,26 @@
+{
+  "objectName" : "SWMdarthmelt",
+  "colonyTags" : ["swrace", "toydarian"],
+  "rarity" : "Legendary",
+  "category" : "decorative",
+  "price" : 170,
+  "description" : "Darth Vader's melted helmet",
+  "shortdescription" : "Vader's melted helmet",
+  "race" : "generic",
+  "health" : 1.5,
+
+  
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "darthmelt.png:default",
+      "imagePosition" : [-8, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+
+  
+}

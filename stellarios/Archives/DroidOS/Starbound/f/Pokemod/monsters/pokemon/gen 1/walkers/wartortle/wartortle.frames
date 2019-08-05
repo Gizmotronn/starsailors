@@ -1,0 +1,16 @@
+{
+  "frameGrid" : {
+    "size" : [25, 25],
+    "dimensions" : [5, 3],
+
+    "names" : [
+      [ "idle.1", "fire.1", "charge.1", "charge.2", "charge.3"],
+      [ "walk.1", "walk.2", "walk.3", null, null ],
+      [ "jump.1", "fall.1", "hurt.1", null, null]
+    ]
+  },
+   "aliases" : {
+  	"windup.1" : "idle.1",
+  	"winddown.1" : "idle.1"
+  }
+}

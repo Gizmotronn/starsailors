@@ -1,0 +1,15 @@
+{
+  "name" : "wh321npcdrowning",
+
+
+  "effectConfig" : {},
+  "defaultDuration" : 100,
+
+  "scripts" : [
+    "wh321npcdrowning.lua"
+  ],
+  
+  "animationConfig" : "wh321npcdrowning.animation"
+
+  
+}

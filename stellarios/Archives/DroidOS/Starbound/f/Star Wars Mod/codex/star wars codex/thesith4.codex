@@ -1,0 +1,22 @@
+{
+	"id" : "thesith4",
+	"title" : "The Sith Order Part 4",
+	"description" : "Information About The Sith Order.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+  "However, not all emotions were embraced by the Sith. They, like the Jedi, considered 'love' a dangerous emotion, but for different reasons. The Jedi discouraged love because it led to attachment, but the Sith taught that love led to mercy, which was anathema to them. While Darth Sidious preyed on Anakin Skywalker's love for his wife in order to corrupt him, he had no intention of allowing the relationship to survive Skywalker's fall to the dark side.",
+
+  "Darth Bane had fallen in love with fellow Sith pupil Githany, however he did not allow himself to retain any connections to her, and did not regret her death on Ruusan. However, this didn't stop some Sith from taking lovers and allowing themselves to feel this emotion. Darth Malgus, for example, had a lover, Eleena Daru. In Malgus's case however, he eventually killed Daru as he realized that she constituted an intolerable weakness."
+
+  
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

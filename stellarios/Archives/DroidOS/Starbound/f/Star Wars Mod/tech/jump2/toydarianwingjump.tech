@@ -1,0 +1,42 @@
+{
+  "name" : "toydarianwingjump2",
+  "type" : "legs",
+
+  "scripts" : ["toydarianwingjump.lua"],
+  "animator" : "toydarianwingjump.animation",
+
+  "description" : "Toydarian Wings",
+  "shortDescription" : "Toydarian Wings",
+  "rarity" : "Common",
+  "icon" : "/tech/toydarianwingjump.png",
+
+  "chipCost" : 8,
+  "layer" : "back",
+
+  "multiJumpCount" : 1,
+  "multiJumpModifier" : 0.75,
+  
+  "multiJumpEnergy" : 15,
+  "hoverEnergy" : 0.25,
+
+  "wallSensors" : [1.0, 1.75, 2.5],
+  "wallDetectThreshold" : 1,
+
+  "wallReleaseTime" : 0.15,
+
+  "wallGrabFreezeTime" : 0.15,
+  "wallJumpXVelocity" : 15,
+  "wallSlideParameters" : {
+    "airJumpProfile" : {
+      "jumpInitialPercentage" : 1.0
+    },
+    "airForce" : 0,
+    "airFriction" : 10.0
+  },
+  "fallingParameters" : {
+    "airForce" : 30,
+    "runSpeed" : 14,
+    "walkSpeed" : 14
+  },
+  "maxFallSpeed" : -14
+}

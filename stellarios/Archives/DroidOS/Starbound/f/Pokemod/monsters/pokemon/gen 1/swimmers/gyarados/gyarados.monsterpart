@@ -1,0 +1,9 @@
+{
+  "name" : "gyarados",
+  "category" : "gyarados",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "gyarados.png"
+  }
+}

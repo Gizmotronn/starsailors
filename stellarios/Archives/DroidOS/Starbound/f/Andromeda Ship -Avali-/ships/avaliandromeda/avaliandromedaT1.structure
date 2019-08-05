@@ -1,0 +1,24 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : [],
+	  "maxFuel" : 500,
+      "crewSize" : 2
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "avaliandromedaT1.png",
+      "position" : [0,0],
+      "fullbright" : true
+    },
+    {
+      "image" : "avaliandromedaT1lit.png",
+      "position" : [0,0]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "avaliandromedaT1blocks.png"
+}

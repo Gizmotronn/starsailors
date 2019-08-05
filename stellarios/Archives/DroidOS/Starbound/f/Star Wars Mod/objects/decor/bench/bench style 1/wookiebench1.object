@@ -1,0 +1,57 @@
+{
+  "objectName" : "wookiebench",
+  "colonyTags" : ["swrace", "wookie"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 125,
+  "description" : "A beautiful wooden bench.",
+  "shortdescription" : "Bench Style 1",
+  "race" : "wookie",
+
+  "apexDescription" : "Move along, nothing to see here.",
+  "avianDescription" : "Move along, nothing to see here.",
+  "floranDescription" : "Move along, nothing to see here.",
+  "glitchDescription" : "Nonplussed. This isn't really anything.",
+  "humanDescription" : "Move along, nothing to see here.",
+  "hylotlDescription" : "Move along, nothing to see here.",
+  "novakidDescription" : "Move along, nothing to see here.",
+  "feneroxDescription" : "Nothing here. Nothing doing. Boring!",
+  "felinDescription" : "Move along, nothing to see here.",
+
+  "inventoryIcon" : "wookiebench1icon.png",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+
+  "orientations" : [
+    {
+      "image" : "wookiebench1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-13, 22], // Right
+        [5, 22] // Left
+      ],
+
+      "spaces" : [ [-2,0],[-1,0],[0,0],[1,0],[2,0],[-2,1],[-1,1],[0,1],[1,1],[2,1],[-2,2],[-1,2],[0,2],[1,2],[2,2] ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "wookiebench1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-5, 22], // Left
+        [13, 22] // Right
+      ],
+
+      "spaces" : [ [-2,0],[-1,0],[0,0],[1,0],[2,0],[-2,1],[-1,1],[0,1],[1,1],[2,1],[-2,2],[-1,2],[0,2],[1,2],[2,2] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

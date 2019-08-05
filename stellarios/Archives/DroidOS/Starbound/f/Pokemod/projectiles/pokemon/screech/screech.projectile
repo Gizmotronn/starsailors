@@ -1,0 +1,18 @@
+{
+  "projectileName" : "screech",
+  "image" : "screech.png",
+  "animationCycle" : 1,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 4,
+  "power" : 0,
+  "speed" : 20,
+  
+  "timeToLive" : 3,
+ 
+  "piercing" : false,
+  "statusEffects" : [
+    "acidarmor"
+  ],
+  "damageKind" : "normal"
+  
+}

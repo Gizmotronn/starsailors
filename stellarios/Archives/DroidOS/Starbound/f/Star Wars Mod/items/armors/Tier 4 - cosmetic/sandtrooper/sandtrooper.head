@@ -1,0 +1,15 @@
+{
+  "itemName" : "SWM2sandtrooperhelm",
+  "price" : 2500,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "headwear",
+  "description" : "Sandtrooper Helm",
+  "shortdescription" : "Sandtrooper Helm",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "jedi_starwars",
+  "priority": 4,
+
+  "colonyTagCriteria": {
+    "light": 1,
+    "door": 1,
+    "swrace": 2,
+    "jedi": 4
+  },
+
+ 
+  
+  "tenants": [
+    {
+      "spawn": "npc",
+      "species": ["bothan", "mawg", "rodian", "zabrak", "diathim", "sith", "utapaun", "ithorian", "togruta", "twilek", "wookie"],
+      "type": "swjedi",
+      "overrides": {
+        "damageTeamType" : "friendly"
+       }
+     }
+   ],
+
+  "rent": {
+    "periodRange": [900.0, 1800.0],
+    "pool": "swmGift"
+  }
+}

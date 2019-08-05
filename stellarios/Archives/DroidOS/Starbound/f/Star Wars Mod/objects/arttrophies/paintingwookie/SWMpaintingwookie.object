@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintingwookie",
+  "colonyTags" : ["pretty","valuable", "swrace"],
+  "rarity" : "Rare",
+  "description" : "Painting of a Wookie to celebrate Life Day.",
+  "shortdescription" : "Wookie Painting 1 of 2",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+  
+
+  "inventoryIcon" : "paintingwookieicon.png",
+  "orientations" : [
+    {
+      "image" : "paintingwookie.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

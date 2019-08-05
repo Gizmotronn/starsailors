@@ -1,0 +1,9 @@
+{
+  "name" : "farfetch'd",
+  "category" : "farfetch'd",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "farfetch'd.png"
+  }
+}

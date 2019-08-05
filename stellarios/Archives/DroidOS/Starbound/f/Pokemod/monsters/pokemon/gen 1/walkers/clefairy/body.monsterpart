@@ -1,0 +1,9 @@
+{
+  "name" : "clefairy",
+  "category" : "clefairy",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "clefairy.png"
+  }
+}

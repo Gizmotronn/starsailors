@@ -1,0 +1,9 @@
+{
+  "name" : "doduo",
+  "category" : "doduo",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "doduo.png"
+  }
+}

@@ -1,0 +1,32 @@
+{
+	"id" : "thejedi2",
+	"title" : "The Jedi Order Part 2",
+	"description" : "Information About The Jedi Order.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+  "A thousand years later, after the Great Sith War, the Sith Empire manipulated the Mandalorians into attacking the indolent Republic. The Jedi Council forbade the Order's members from participating in the following war, but two Jedi, Revan and Alek, garnered the support of many of their peers and entered the war on the side of the Republic.",
+    
+  "Prevailing after a long and bloody conflict, Revan and the Jedi who had followed him disappeared after the war's final battle. When they returned, they had turned to the dark side, and during the war that followed most of the Jedi Order was either destroyed or seduced by Revan's teachings.",
+
+  "During the aftermath the Order was left numbering less than one-hundred Jedi. In light of this, the remaining members of the Jedi Council officially disbanded the Order. Shortly thereafter, nearly all the remaining Jedi were consumed by Darth Nihilus when they convened on Katar.",
+
+  "However, the exiled Jedi Knight Meetra Surik defeated the Sith Triumvirate of Darth's Nihilus, Sion, and Traya, and reformed the Order with the help of the Lost Jedi.",
+
+ "About three hundred years after the Jedi Civil War, the ancient Sith Empire had again become strong enough to directly challenge the Jedi and the Republic for control over the galaxy. The initial onslaught of the Sith Empire saw over half of the Republic's territory fall into Sith hands, but the Republic managed to check the Sith's advance in the Mid-Rim.",
+
+ "After a time, the Sith Empire surprised the galaxy by offering a truce, which was accepted by the Republic. However, the Sith used the lull in the war to launch a surprise attack on Coruscant. The capture of the Republic capital allowed the Sith to extort many concessions from the Republic, and the resulting Treaty of Coruscant was slanted heavily in the Empire's favor.",
+
+ "This began the Cold War, which lasted for about twenty years. Afterwards, the conflict began anew, and the Republic would eventually emerge victorious."
+
+  
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

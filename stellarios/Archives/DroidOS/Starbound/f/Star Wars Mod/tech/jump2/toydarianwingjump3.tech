@@ -1,0 +1,43 @@
+{
+  "name" 					: "toydarianwingjumpspeed3",
+  "type" 					: "legs",
+
+  "scripts" 				: ["toydarianwingjump.lua"],
+  "animator" 				: "toydarianwingjump3.animation",
+
+  "description" 			: "Glide faster than you ever did! Warning, reduced air control and flight performance.",
+  "shortDescription" 		: "toydarian Wings",
+  "rarity" 					: "Legendary",
+  "icon" 					: "/tech/toydarianwingjump.png",
+
+  "chipCost" 				: 8,
+  "layer" 					: "back",
+
+  "multiJumpCount" 			: 1,
+  "multiJumpModifier" 		: 0.60,
+  
+  "multiJumpEnergy" 		: 20,
+  "hoverEnergy" 			: 0.2,
+
+  "wallSensors" 			: [1.0, 1.75, 2.5],
+  "wallDetectThreshold" 	: 1,
+
+  "wallReleaseTime" 		: 0.15,
+
+  "wallGrabFreezeTime" 		: 0.15,
+  "wallJumpXVelocity" 		: 15,
+  "wallSlideParameters" 	: {
+    "airJumpProfile" 		: {
+    "jumpInitialPercentage" : 1.0
+  },
+    "airForce" 				: 0,
+    "airFriction" 			: 10.0
+  },
+  "fallingParameters" 		: {
+    "airForce" 				: 20,
+    "runSpeed" 				: 45,
+    "walkSpeed" 			: 45
+  },
+  "maxFallSpeed" 			: -5,
+  "sideSpeed" 				: 0.75
+}

@@ -1,0 +1,28 @@
+{
+  "itemName" : "SWMvegeparsine",
+  "rarity" : "Uncommon",
+  "price" : 515,
+  "category" : "preparedFood",
+  "inventoryIcon" : "vegeparsine.png",
+  "description" : "A superior version of veghash, more popular with the rich.",
+  "shortdescription" : "Vegeparsine",
+  "effects" : [ [
+    {
+        "effect" : "ragefood",
+        "duration" : 293
+    },
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 293
+    }
+  ] ],
+  "foodValue" : 65,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "projectileName" : "bonemerang",
+  "image" : "bonemerang.png",
+ "animationCycle" : 0.25,
+  "frameNumber" : 2,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "power" : 15.0,
+  "speed" : 25,
+  "damageKind" : "ground"
+}

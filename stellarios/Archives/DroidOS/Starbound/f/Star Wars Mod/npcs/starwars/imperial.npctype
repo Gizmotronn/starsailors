@@ -1,0 +1,26 @@
+{
+  "type" : "imperial",
+  "baseType" : "hostile",
+
+  "levelVariance" : [0, 0],
+
+  "dropPools" : [ "banditTreasure" ],
+  
+  "items" : {
+    "override" : [
+      [0, [ {
+        "head" : [ { "name" : "SWM2blackimperialhead" } ],
+            "chest" : [ { "name" : "SWM2blackimperialchest" } ],
+            "legs" : [ { "name" : "SWM2blackimperiallegs" } ],
+            "primary" : [
+              "SWMdl44T1",
+              "SWMdl44T2"
+             
+        ],
+        "alt" : [
+          { "name" : "flashlight" }
+        ]
+      } ] ]
+    ]
+  }
+}

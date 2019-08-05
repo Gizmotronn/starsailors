@@ -1,0 +1,9 @@
+{
+  "name" : "onix",
+  "category" : "onix",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "onix.png"
+  }
+}

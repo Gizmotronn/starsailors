@@ -1,0 +1,10 @@
+[
+  {
+    "op": "add",
+    "path": "/undergroundPlaceables/items/1/objectSets/0/pool/1",
+    "value": [
+      3.0,
+      "kyberrock"
+    ]
+  }
+]

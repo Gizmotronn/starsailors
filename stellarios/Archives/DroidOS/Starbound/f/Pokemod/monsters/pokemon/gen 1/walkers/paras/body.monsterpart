@@ -1,0 +1,9 @@
+{
+  "name" : "paras",
+  "category" : "paras",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "paras.png"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "projectileName" : "wh321falleffectpr",
+  "image" : "wh321invisibleweapon.png",
+  "animationCycle" : 1.0,
+  "frameNumber" : 1,
+  "damageKind" : "wh321invisible",
+  "power" : 0,
+  "timeToLive" : 0.1,
+  "damagePoly" : [ [0.1, 0.1], [-0.1, 0.1], [-0.1, -0.1], [0.1, -0.1] ],
+  "statusEffects" : [
+    "wh321npcfalling"
+  ]
+}

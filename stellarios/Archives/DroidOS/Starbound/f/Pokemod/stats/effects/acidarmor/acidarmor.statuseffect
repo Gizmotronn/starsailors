@@ -1,0 +1,11 @@
+{
+  "name" : "acidarmor",
+  "effectConfig" : {
+  	"protectionModifier" : 0.25
+  },
+  "defaultDuration" : 3,
+
+  "scripts" : [
+    "acidarmor.lua"
+  ]
+}

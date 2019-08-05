@@ -1,0 +1,58 @@
+{
+  "objectName" : "swsign",
+  "colonyTags" : ["swrace", "toydarian","light"],
+  "rarity" : "Common",
+  "description" : "Star Wars Logo Light Up Sign.",
+  "shortdescription" : "Light Style 3",
+  "race" : "wookie",
+
+  
+
+  "category" : "light",
+  "price" : 85,
+  "lightColor" : [217, 217, 190],
+
+  "inventoryIcon" : "swsignicon.png",
+  "orientations" : [
+    {
+      "image" : "swsign.png:<color>.<frame>",
+      "imagePosition" : [-6, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      "flipImages" : false,
+      "direction" : "left",
+      "lightPosition" : [0, 1],
+      "animationPosition" : [-6, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "swsign.png:<color>.<frame>",
+      "imagePosition" : [-6, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+      "animationPosition" : [-6, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationParts" : {
+    "bg" : "swsign.png",
+    "fg" : "swsignlit.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/tinywallswitch.ogg" ],
+      "off" : [ "/sfx/objects/tinywallswitch.ogg" ]
+    }
+  },
+  
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ]
+}

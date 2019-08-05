@@ -1,0 +1,9 @@
+{
+  "name" : "exeggcute",
+  "category" : "exeggcute",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "exeggcute.png"
+  }
+}

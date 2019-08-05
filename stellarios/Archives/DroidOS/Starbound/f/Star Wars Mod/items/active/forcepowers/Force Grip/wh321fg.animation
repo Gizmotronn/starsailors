@@ -1,0 +1,100 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "charge" : {
+        "default" : "idle",
+        "states" : {
+          "idle" : {},
+          "charge" : {
+            "frames" : 13,
+            "cycle" : 1.3,
+            "mode" : "transition",
+            "transition" : "spark"
+          },
+          "spark" : {
+            "frames" : 3,
+            "cycle" : 0.3,
+            "mode" : "transition",
+            "transition" : "charged"
+          },
+          "charged" : {
+            "frames" : 4,
+            "cycle" : 0.5,
+            "mode" : "loop"
+          },
+          "discharge" : {
+            "frames" : 3,
+            "cycle" : 0.3,
+            "mode" : "transition",
+            "transition" : "idle"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "staff" : {
+        "properties" : {
+          "zLevel" : 0,
+          "centered" : true,
+          "image" : "<partImage>",
+          "offset" : [0.0, 0.0],
+          "transformationGroups" : ["weapon"]
+        }
+      },
+      "stone" : {
+        "properties" : {
+          "zLevel" : 1,
+          "centered" : true,
+          "fullbright" : true,
+          "image" : "<partImage>",
+          "offset" : [0.0, 0.0],
+          "focalPoint" : [0.0, 2.5],
+          "transformationGroups" : ["weapon"]
+        }
+      },
+      "chargeEffect" : {
+        "properties" : {
+          "zLevel" : 2,
+          "fullbright" : true,
+          "centered" : true,
+          "offset" : [-0.125, 1.875],
+          "transformationGroups" : ["weapon"]
+        }
+      }
+    }
+  },
+
+  "transformationGroups" : {
+    "weapon" : {}
+  },
+
+
+
+  "particleEmitters" : {
+    "wh321forcecharge" : {
+      "active" : false,
+      "transformationGroups" : ["weapon"],
+      "emissionRate" : 10,
+      "offsetRegion" : [-0.5, 1.25, 0.5, 2.75],
+      "particles" : [
+		{"particle" : "wh321fgswoosh"},
+        {"particle" : "wh321fgswoosh2"},
+        {"particle" : "wh321fgswoosh3"}
+      ]
+    }
+  },
+
+  "sounds" : {
+    
+
+    "wh321forcecharge" : ["/sfx/melee/staff_charge4_electric.ogg"],
+    "wh321forcefullcharge" : ["/sfx/melee/elemental_aura_activate.ogg"],
+    "wh321forcechargedloop" : ["/sfx/melee/staff_charged_electric2.ogg"],
+    "wh321forcedischarge" : ["/sfx/melee/elemental_aura_deactivate1.ogg"],
+    "wh321forceactivate" : ["/sfx/melee/travelingslash_electric4.ogg", "/sfx/melee/travelingslash_electric5.ogg"],
+
+
+    "zoneactivate" : ["/sfx/melee/staff_aura_activate.ogg"]
+  }
+}

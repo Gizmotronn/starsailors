@@ -1,0 +1,21 @@
+{
+  "itemName" : "rindoberry",
+  "price" : 200,
+  "rarity" : "Uncommon",
+  "tooltipKind" : "petcollar",
+  "category" : "petCollar",
+  "inventoryIcon" : "rindoberry.png",
+  "description" : "A  held item that lowers the effectiveness of Grass-Type moves.",
+  "shortdescription" : "Rindo Berry",
+
+  "collar" : {
+    "name" : "heldrindoberry",
+    "displayName" : "rindo Berry",
+    "displayIcon" : "/items/augments/pet/rindoberry.png",
+    "effects" : [ "grassblockaugment" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupcollar" ],
+
+  "scripts" : [ "/scripts/augments/collar.lua" ]
+}

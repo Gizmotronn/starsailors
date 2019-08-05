@@ -1,0 +1,20 @@
+{
+  "particleEmitters" : {
+    "forcerain" : {
+      "enabled" : true,
+      "emissionRate" : 7.0,
+      "particles" : [
+        { "particle" : "wh321forcerain" },
+		{ "particle" : "wh321forcerain2" },
+		{ "particle" : "wh321forcerain3" }
+      ]
+    }
+  },
+  "lights" : {
+    "glow" : {
+      "active" : false,
+      "position" : [0, 0],
+      "color" : [191, 103, 2]
+    }
+  }
+}

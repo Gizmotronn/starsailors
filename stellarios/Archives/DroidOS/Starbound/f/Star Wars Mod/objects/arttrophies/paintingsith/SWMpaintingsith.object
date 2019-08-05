@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintingsith",
+  "colonyTags" : ["pretty","valuable", "swrace", "jedi"],
+  "rarity" : "Rare",
+  "description" : "Symbol for the Sith.",
+  "shortdescription" : "Sith Symbol",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+ 
+
+  "inventoryIcon" : "paintingsithicon.png",
+  "orientations" : [
+    {
+      "image" : "paintingsith.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

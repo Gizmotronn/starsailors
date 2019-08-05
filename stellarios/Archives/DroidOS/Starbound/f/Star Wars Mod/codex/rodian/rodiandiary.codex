@@ -1,0 +1,21 @@
+{
+	"id" : "rodiandiary",
+	"title" : "Rodian Info.",
+	"description" : "About Rodians.",
+	"icon" : "rodiancover1.png",
+  "contentPages" : [
+  "Rodians were a species of reptilian humanoids. They possessed large pupil-less eyes that could see in infrared spectrum, slender snouts, pointed ears, twin saucer-like antennae that detected vibrations atop their heads, and a ridge of spines cresting their skulls.
+  Rodians also became notorious for working as bounty hunters ",
+
+"Rodians evolved on the planet Rodia, and eventually joined the Galactic Republic by the time of the Invasion of Naboo."
+
+
+
+
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

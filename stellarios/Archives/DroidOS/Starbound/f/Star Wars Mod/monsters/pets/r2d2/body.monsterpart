@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "petr2d2",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "petr2d2.png"
+  }
+}

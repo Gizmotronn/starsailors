@@ -1,0 +1,80 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "attack" : {
+        "default" : "idle",
+        "states" : {
+          "idle" : { 
+            "properties" : {
+              "particleEmittersOff" : ["swoosh"],
+			  "lightsOn" : ["glow"]
+            }
+          },
+          "fire" : {
+            "frames" : 3,
+            "cycle" : 0.095,
+            "mode" : "transition",
+            "transition" : "idle",
+            "properties" : {
+              "particleEmittersOn" : ["swoosh"],
+			  "lightsOn" : ["glow"]
+            }
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "weapon" : {
+        "properties" : {
+          "transformationGroups" : ["weapon"],
+          "rotationCenter" : [0, 0],
+		  "offset" : [0, 0.6],
+          "centered" : true,
+          "image" : "<partImage>:<hand>"
+        }
+      },
+      "swoosh" : {
+        "properties" : {
+          "transformationGroups" : ["weapon","swoosh"],
+          "centered" : true,
+          "offset" : [0, 0],
+          "zLevel" : 1
+        },
+
+        "partStates" : {
+          "attack" : {
+            "idle" : { },
+            "fire" : {
+              "properties" : {
+                "image" : "<partImage>:<frame>",
+                "damageArea" : [[-1, -1.1], [1.0, -0.6], [1.0, 0.8], [-1, 1.3]]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "transformationGroups" : {
+    "weapon" : {},
+    "swoosh" : {}
+  },
+
+  "particleEmitters" : {
+    "swoosh" : {
+      "particles" : [] 
+    }
+  },
+  "sounds" : {
+    "fire" : [ ]
+  },
+  "lights" : {
+    "glow" : {
+      "position" : [0, 2.0],
+      "color" : [255, 251, 140],
+      "transformationGroups" : ["weapon"]
+    }
+  }
+}

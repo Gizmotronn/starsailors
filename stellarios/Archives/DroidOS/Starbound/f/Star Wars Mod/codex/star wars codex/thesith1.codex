@@ -1,0 +1,23 @@
+{
+	"id" : "thesith1",
+	"title" : "The Sith Order Part 1",
+	"description" : "Information About The Sith Order.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+  "The Sith Order was a sect of Force-sensitives who utilized the dark side of the Force. The term 'Sith' originally referred to a species of aliens native to the planets Korriban and Ziost, who were later enslaved and ruled by exiled Dark Jedi from the Galactic Republic. These Dark Jedi had once been members of the Jedi Order, a monastic Force religion dedicated to peace through the use of the light side of the Force.",
+
+  "The Dark Jedi, who refused to rely exclusively on the light side, challenged the Jedi by giving in to the dark side, which started the Hundred-Year Darkness. However, they had been defeated and subsequently exiled from known space, which led to their discovery of the Sith species.",
+
+  "Following centuries of interbreeding and mixing of cultures between the aliens and the exiles, the Sith would no longer be identified by their race, but by their dedication to the ancient Sith philosophy. This religious order would survive in many different incarnations throughout galactic history.",
+
+  "The rise of a new leader, or Dark Lord, would often cause drastic reorganizations in the cult, however the Sith would always be characterized by their lust for power and their desire to destroy the Jedi Order. The Sith were the most infamous of all dark side religions, and the members of the cult were often seen as the pinnacle of power within the dark side.",
+  
+  "Throughout their long history, the Sith commanded several Empires and initiated many galactic wars. With such great influence, the Sith religion inspired many cults that weren't technically part of the Sith Order, nor did they consist of actual Sith. Instead, they were founded and made up of Sith devotees and other Force-sensitives dedicated to prolonging the teachings and the memory of the Sith."
+
+ 
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

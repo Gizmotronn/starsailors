@@ -1,0 +1,16 @@
+{
+  "name" : "strongpoison",
+  "blockingStat" : "poisonStatusImmunity",
+
+  "effectConfig" : {},
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "strongpoison.lua"
+  ],
+
+  "animationConfig" : "strongpoison.animation",
+
+  "label" : "Poisoned",
+  "icon" : "/interface/statuses/poison.png"
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "arcanine",
+  "category" : "arcanine",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "arcanine.png"
+  }
+}

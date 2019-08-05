@@ -1,0 +1,22 @@
+{
+  "projectileName" : "prehydropump",
+  "image" : "prehydropump.png",
+  "animationCycle" : 0.5,
+  "timeToLive" : 0.5,
+  "frameNumber" : 3,
+  "speed" : 0,
+  "orientationLocked" : false,
+  "damagePoly" : [  ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageKind" : "water",
+  "lightColor" : [176, 200, 248],
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "hydropump",
+      "inheritDamageFactor" : 1
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "objectName" : "wookielamp1",
+  "colonyTags" : ["swrace","light"],
+  "rarity" : "Common",
+  "description" : "A small lamp with a tree design.",
+  "shortdescription" : "Wookiee Table Lamp",
+  "race" : "wookie",
+
+  "wookieDescription" : "If you wanted to underwhelm people on Life Day, this could do as a gift.",
+  "twilekDescription" : "Just because it's got a Tree on it doesn't mean it's an ideal Life Day present.",
+  "feneroxDescription" : "Table lamp. Tree ornament. Why?",
+  "apexDescription" : "This lamp has a tree design on the lampshade. But why?",
+  "avianDescription" : "Does anyone like trees?",
+  "floranDescription" : "Sssucky tree lamp!",
+  "glitchDescription" : "Cheerful. The Glitch enjoy light.",
+  "humanDescription" : "An old lamp, with what appears to be a tree on the lampshade.",
+  "hylotlDescription" : "The lamp emits a dull light.",
+  "novakidDescription" : "A lamp. Nothin' special about it.",
+
+  "category" : "light",
+  "price" : 85,
+  "lightColor" : [217, 217, 190],
+
+  "inventoryIcon" : "wookielamp1icon.png",
+  "orientations" : [
+    {
+      "image" : "wookielamp1.png:<color>.<frame>",
+      "imagePosition" : [-6, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [0, 1],
+      "animationPosition" : [-6, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "wookielamp1.png:<color>.<frame>",
+      "imagePosition" : [-6, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+      "animationPosition" : [-6, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationParts" : {
+    "bg" : "wookielamp1.png",
+    "fg" : "wookielamp1lit.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/tinywallswitch.ogg" ],
+      "off" : [ "/sfx/objects/tinywallswitch.ogg" ]
+    }
+  },
+  
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ]
+}

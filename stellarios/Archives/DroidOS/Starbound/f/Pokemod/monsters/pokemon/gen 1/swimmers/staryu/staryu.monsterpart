@@ -1,0 +1,9 @@
+{
+  "name" : "staryu",
+  "category" : "staryu",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "staryu.png"
+  }
+}

@@ -1,0 +1,481 @@
+[
+	{
+		"op": "add",
+		"path": "/helpme/wookie",
+		"value": {
+			"default": [
+				"AAHHHH",
+				"Help me!",
+				"Raaaaaawr!"
+			]
+		}
+	/* },
+	{
+		"op": "add",
+		"path": "/helpthem/wookie",
+		"value": {
+			"default": [
+				"Hurm-Rawrgh.",
+				"Graaaaagh"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/encourage/wookie",
+		"value": {
+			"default": [
+				"Go! Go! Go!",
+				"Woooo",
+				"Huzzah!",
+				"Roar!"
+			]
+		}
+	*/ },
+	
+	{
+		"op": "add",
+		"path": "/helpme/toydarian",
+		"value": {
+			"default": [
+				"AAHHHH",
+				"Help me!",
+				"Don't take my pixels!"
+			]
+		}
+	/* },
+	{
+		"op": "add",
+		"path": "/helpthem/toydarian",
+		"value": {
+			"default": [
+				"I'll help if you have the pixels.",
+				"You can't afford my help."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/encourage/toydarian",
+		"value": {
+			"default": [
+				"Go! Go! Go!",
+				"Woooo!",
+				"Huzzah!",
+				"Earn them pixels!"
+			]
+		}
+	*/ },
+	
+	{
+		"op": "add",
+		"path": "/helpme/utapaun",
+		"value": {
+			"default": [
+				"AAHHHH",
+				"Help me!",
+				"Raaaaaawr!"
+			]
+		}
+	/* },
+	{
+		"op": "add",
+		"path": "/helpthem/utapaun",
+		"value": {
+			"default": [
+				"Hurm-Rawrgh.",
+				"Graaaaagh"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/encourage/utapaun",
+		"value": {
+			"default": [
+				"Go! Go! Go!",
+				"Woooo",
+				"Huzzah!",
+				"Roar!"
+			]
+		}
+	*/ },
+	
+	{
+		"op": "add",
+		"path": "/helpme/rodian",
+		"value": {
+			"default": [
+				"AAHHHH",
+				"Help me!",
+				"Raaaaaawr!"
+			]
+		}
+	/* },
+	{
+		"op": "add",
+		"path": "/helpthem/rodian",
+		"value": {
+			"default": [
+				"Hurm-Rawrgh.",
+				"Graaaaagh"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/encourage/rodian",
+		"value": {
+			"default": [
+				"Go! Go! Go!",
+				"Woooo",
+				"Huzzah!",
+				"Roar!"
+			]
+		}
+	*/ },
+	
+	{
+		"op": "add",
+		"path": "/helpme/tuskan",
+		"value": {
+			"default": [
+				"AAHHHH",
+				"Help me!",
+				"Raaaaaawr!"
+			]
+		}
+	/* },
+	{
+		"op": "add",
+		"path": "/helpthem/tuskan",
+		"value": {
+			"default": [
+				"Hurm-Rawrgh.",
+				"Graaaaagh"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/encourage/tuskan",
+		"value": {
+			"default": [
+				"Go! Go! Go!",
+				"Woooo",
+				"Huzzah!",
+				"Roar!"
+			]
+		}
+	*/ },
+	
+	{
+		"op": "add",
+		"path": "/helpme/zabrak",
+		"value": {
+			"default": [
+				"AAHHHH",
+				"Help me!",
+				"Raaaaaawr!"
+			]
+		}
+	/* },
+	{
+		"op": "add",
+		"path": "/helpthem/zabrak",
+		"value": {
+			"default": [
+				"They deserve to die.",
+				"Graaaaagh"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/encourage/zabrak",
+		"value": {
+			"default": [
+				"Go! Go! Go!",
+				"Woooo",
+				"Huzzah!",
+				"Roar!"
+			]
+		}
+	*/ },
+	
+	{
+		"op": "add",
+		"path": "/helpme/ithorian",
+		"value": {
+			"default": [
+				"AAHHHH",
+				"Help me!",
+				"Raaaaaawr!"
+			]
+		}
+	/* },
+	{
+		"op": "add",
+		"path": "/helpthem/ithorian",
+		"value": {
+			"default": [
+				"Hurm-Rawrgh.",
+				"Graaaaagh"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/encourage/ithorian",
+		"value": {
+			"default": [
+				"Go! Go! Go!",
+				"Woooo",
+				"Huzzah!",
+				"Roar!"
+			]
+		}
+	*/ },
+	
+	{
+		"op": "add",
+		"path": "/helpme/mawg",
+		"value": {
+			"default": [
+				"AAHHHH",
+				"Help me!",
+				"Raaaaaawr!"
+			]
+		}
+	/* },
+	{
+		"op": "add",
+		"path": "/helpthem/mawg",
+		"value": {
+			"default": [
+				"Hurm-Rawrgh.",
+				"Graaaaagh"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/encourage/mawg",
+		"value": {
+			"default": [
+				"Go! Go! Go!",
+				"Woooo",
+				"Huzzah!",
+				"Roar!"
+			]
+		}
+	*/ },
+	
+	{
+		"op": "add",
+		"path": "/helpme/droid",
+		"value": {
+			"default": [
+				"AAHHHH",
+				"Help me!",
+				"Raaaaaawr!"
+			]
+		}
+	/* },
+	{
+		"op": "add",
+		"path": "/helpthem/droid",
+		"value": {
+			"default": [
+				"Hurm-Rawrgh.",
+				"Graaaaagh"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/encourage/droid",
+		"value": {
+			"default": [
+				"Go! Go! Go!",
+				"Woooo",
+				"Huzzah!",
+				"Roar!"
+			]
+		}
+	*/ },
+	
+	{
+		"op": "add",
+		"path": "/helpme/twilek",
+		"value": {
+			"default": [
+				"AAHHHH",
+				"Help me!",
+				"Raaaaaawr!"
+			]
+		}
+	/* },
+	{
+		"op": "add",
+		"path": "/helpthem/twilek",
+		"value": {
+			"default": [
+				"Hurm-Rawrgh.",
+				"Graaaaagh"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/encourage/twilek",
+		"value": {
+			"default": [
+				"Go! Go! Go!",
+				"Woooo",
+				"Huzzah!",
+				"Roar!"
+			]
+		}
+	*/ },
+	
+	{
+		"op": "add",
+		"path": "/helpme/bothan",
+		"value": {
+			"default": [
+				"AAHHHH",
+				"Help me!",
+				"Raaaaaawr!"
+			]
+		}
+	/* },
+	{
+		"op": "add",
+		"path": "/helpthem/bothan",
+		"value": {
+			"default": [
+				"Hurm-Rawrgh.",
+				"Graaaaagh"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/encourage/bothan",
+		"value": {
+			"default": [
+				"Go! Go! Go!",
+				"Woooo",
+				"Huzzah!",
+				"Roar!"
+			]
+		}
+	*/ },
+	
+	
+	{
+		"op": "add",
+		"path": "/helpme/sith",
+		"value": {
+			"default": [
+				"AAHHHH",
+				"Help me!",
+				"Don't take my pixels!"
+			]
+		}
+	/* },
+	
+	{
+		"op": "add",
+		"path": "/helpthem/sith",
+		"value": {
+			"default": [
+				"I'll help if you have the pixels.",
+				"You can't afford my help."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/encourage/sith",
+		"value": {
+			"default": [
+				"Go! Go! Go!",
+				"Woooo!",
+				"Huzzah!",
+				"Earn them pixels!"
+			]
+		}
+	*/ },
+	
+	
+	{
+		"op": "add",
+		"path": "/helpme/diathim",
+		"value": {
+			"default": [
+				"AAHHHH",
+				"Help me!",
+				"Raaaaaawr!"
+			]
+		}
+	/* },
+	{
+		"op": "add",
+		"path": "/helpthem/diathim",
+		"value": {
+			"default": [
+				"They deserve to die.",
+				"Graaaaagh"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/encourage/diathim",
+		"value": {
+			"default": [
+				"Go! Go! Go!",
+				"Woooo",
+				"Huzzah!",
+				"Roar!"
+			]
+		}
+	*/ },
+	
+	
+	{
+		"op": "add",
+		"path": "/helpme/togruta",
+		"value": {
+			"default": [
+				"AAHHHH",
+				"Help me!",
+				"Raaaaaawr!"
+			]
+		}
+	/* },
+	{
+		"op": "add",
+		"path": "/helpthem/togruta",
+		"value": {
+			"default": [
+				"Hurm-Rawrgh.",
+				"Graaaaagh"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/encourage/togruta",
+		"value": {
+			"default": [
+				"Go! Go! Go!",
+				"Woooo",
+				"Huzzah!",
+				"Roar!"
+			]
+		}
+	*/ }
+]

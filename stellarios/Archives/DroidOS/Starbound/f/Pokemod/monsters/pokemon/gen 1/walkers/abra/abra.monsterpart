@@ -1,0 +1,9 @@
+{
+  "name" : "abra",
+  "category" : "abra",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "abra.png"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "itemName" : "SWMfalconcontroller",
+  "level" : 1,
+  "price" : 25000,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Create an Millennium Falcon from stored nanites.",
+  "shortdescription" : "Millennium Falcon",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "falcon.png",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "falcon",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/falcon/falconwarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "falconcontroller.png"
+  },
+
+  "inventoryIcon" : "falconcontroller.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/falconcontroller.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/falconcontroller.png:full"
+
+}

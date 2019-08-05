@@ -1,0 +1,44 @@
+{
+  "objectName" : "charmanderbox",
+  "colonyTags" : ["pokemon"],
+  "price" : 100,
+  "printable" : false,
+  "rarity" : "Uncommon",
+  "description" : "Place this pokeball on the ground, then interact to release a Charmander to capture.",
+  "shortdescription" : "Charmander Pokeball",
+  "race" : "generic",
+  "category" : "decorative",
+
+  "inventoryIcon" : "charmanderboxicon.png",
+  "orientations" : [
+    {
+      "image" : "charmanderbox.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+      "frames" : 1,
+      "animationCycle" : 1.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "charmanderbox.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+      "frames" : 1,
+      "animationCycle" : 1.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "unbreakable" : true,
+  "rooting" : true,
+
+  "breakDropPool" : "empty",
+
+  "scripts" : [ "charmanderbox.lua" ],
+  "scriptDelta" : 60
+}

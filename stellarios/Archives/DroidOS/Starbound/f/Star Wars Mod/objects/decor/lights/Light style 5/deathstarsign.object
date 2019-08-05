@@ -1,0 +1,69 @@
+{
+  "objectName" : "deathstarsign",
+  "colonyTags" : ["swrace", "light"],
+  "rarity" : "Common",
+  "description" : "Death Star Light Up Sign.",
+  "shortdescription" : "Death Star Wall Light",
+  "race" : "generic",
+
+  "apexDescription" : "I am glad the Miniknog hasn't built one of these yet.",  
+  "avianDescription" : "Is this supposed to be a moon of some sort?",
+  "floranDescription" : "Issss it made of green cheesssse? wait, Floran don't like cheessse.",
+  "glitchDescription" : "Fascinated. An intricately shaped wall light.",
+  "humanDescription" : "That's no moon!",
+  "twilekDescription" : "That's no moon!",
+  "hylotlDescription" : "An egregious display of excessive militaristic force.",
+  "novakidDescription" : "A massive wall light shaped like a space station. Wonder if it's made of green cheese?",
+  "mawgDescription" : "A massive wall light shaped like a space station. Wonder if it's made of green cheese?",
+  "feneroxDescription" : "Odd furniture. Circle shape. A starbase?",
+  "felinDescription" : "Is that supposed to be a space station ?",  
+  "bothanDescription" : "An affront to my race that trivialises the sacrifices of my kin!",
+
+  "category" : "light",
+  "price" : 85,
+  "lightColor" : [217, 217, 190],
+
+  "inventoryIcon" : "deathstarsignicon.png",
+  "orientations" : [
+    {
+      "image" : "deathstarsign.png:<color>.<frame>",
+      "imagePosition" : [-6, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [0, 1],
+      "animationPosition" : [-6, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "deathstarsign.png:<color>.<frame>",
+      "imagePosition" : [-6, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+      "animationPosition" : [-6, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationParts" : {
+    "bg" : "deathstarsign.png",
+    "fg" : "deathstarsignlit.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/tinywallswitch.ogg" ],
+      "off" : [ "/sfx/objects/tinywallswitch.ogg" ]
+    }
+  },
+  
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ]
+}

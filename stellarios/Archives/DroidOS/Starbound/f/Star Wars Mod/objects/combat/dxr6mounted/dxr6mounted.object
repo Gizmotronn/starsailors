@@ -1,0 +1,26 @@
+{
+  "objectName" : "SWMdxr6mounted",
+  "colonyTags" : ["swrace","combat"],
+  "rarity" : "Rare",
+  "description" : "A mounted dxr6 Rifle.",
+  "shortdescription" : "Mounted dxr6",
+  "race" : "apex",
+  "category" : "decorative",
+  "price" : 800,
+  "printable" : false,
+
+  
+  "inventoryIcon" : "dxr6mountedicon.png",
+  "orientations" : [
+    {
+      "image" : "dxr6mounted.png:<color>",
+      "imagePosition" : [-16, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

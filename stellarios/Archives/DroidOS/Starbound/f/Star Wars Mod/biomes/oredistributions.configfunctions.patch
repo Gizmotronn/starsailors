@@ -1,0 +1,73 @@
+[
+	{
+		"op" : "add",
+		"path" : "/depth1/0/1/-", 
+		"value" : [ "kyber", 0.20]
+	},
+
+{
+"op" : "add",
+"path" : "/depth2/0/1/-", 
+"value" : [ "kyber", 0.30]
+},
+
+{
+"op" : "add",
+"path" : "/depth3/0/1/-", 
+"value" : [ "kyber", 0.40]
+},
+
+{
+"op" : "add",
+"path" : "/core/0/1/-", 
+"value" : [ "kyber", 0.40]
+},
+
+{
+"op" : "add",
+"path" : "/depth1/1/1/-", 
+"value" : [ "kyber", 0.20]
+},
+
+{
+"op" : "add",
+"path" : "/depth2/1/1/-", 
+"value" : [ "kyber", 0.30]
+},
+
+{
+"op" : "add",
+"path" : "/depth3/1/1/-", 
+"value" : [ "kyber", 0.30]
+},
+
+{
+"op" : "add",
+"path" : "/core/1/1/-", 
+"value" : [ "kyber", 0.50]
+},
+
+{
+		"op" : "add",
+		"path" : "/depth1/2/1/-", 
+		"value" : [ "kyber", 0.40]
+	},
+
+{
+"op" : "add",
+"path" : "/depth2/2/1/-", 
+"value" : [ "kyber", 0.50]
+},
+
+{
+"op" : "add",
+"path" : "/depth3/2/1/-", 
+"value" : [ "kyber", 0.60]
+},
+
+{
+"op" : "add",
+"path" : "/core/2/1/-", 
+"value" : [ "kyber", 0.70]
+}
+]

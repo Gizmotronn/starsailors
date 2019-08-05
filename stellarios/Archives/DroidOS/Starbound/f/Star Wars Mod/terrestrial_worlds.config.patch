@@ -1,0 +1,964 @@
+[
+  {
+    "op": "add",
+    "path": "/planetTypes/forest/layers/surface/dungeons/3",
+    "value": [
+      1.1,
+      "invadedapexcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/forest/layers/surface/dungeons/4",
+    "value": [
+      1.1,
+      "invadedapexbase"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/forest/layers/surface/dungeons/5",
+    "value": [
+      1,
+      "invadedapexcity"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desert/layers/surface/dungeons/4",
+    "value": [
+      1.1,
+      "invadedapexcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desert/layers/surface/dungeons/5",
+    "value": [
+      1.1,
+      "invadedapexbase"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desert/layers/surface/dungeons/6",
+    "value": [
+      1,
+      "invadedapexcity"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/savannah/layers/surface/dungeons/4",
+    "value": [
+      1.1,
+      "invadedapexcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/savannah/layers/surface/dungeons/5",
+    "value": [
+      1.1,
+      "invadedapexbase"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/savannah/layers/surface/dungeons/6",
+    "value": [
+      1,
+      "invadedapexcity"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snow/layers/surface/dungeons/4",
+    "value": [
+      1.1,
+      "invadedapexcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snow/layers/surface/dungeons/5",
+    "value": [
+      1.1,
+      "invadedapexbase"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snow/layers/surface/dungeons/6",
+    "value": [
+      1,
+      "invadedapexcity"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/jungle/layers/surface/dungeons/4",
+    "value": [
+      1.1,
+      "invadedapexcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/jungle/layers/surface/dungeons/5",
+    "value": [
+      1.1,
+      "invadedapexbase"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/jungle/layers/surface/dungeons/6",
+    "value": [
+      1,
+      "invadedapexcity"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/alien/layers/surface/dungeons/4",
+    "value": [
+      1.1,
+      "invadedapexcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/alien/layers/surface/dungeons/5",
+    "value": [
+      1.1,
+      "invadedapexbase"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/alien/layers/surface/dungeons/6",
+    "value": [
+      1,
+      "invadedapexcity"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundra/layers/surface/dungeons/4",
+    "value": [
+      1.1,
+      "invadedapexcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundra/layers/surface/dungeons/5",
+    "value": [
+      1.1,
+      "invadedapexbase"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundra/layers/surface/dungeons/6",
+    "value": [
+      1,
+      "invadedapexcity"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/midnight/layers/surface/dungeons/4",
+    "value": [
+      1.1,
+      "invadedapexcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/midnight/layers/surface/dungeons/5",
+    "value": [
+      1.1,
+      "invadedapexbase"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/midnight/layers/surface/dungeons/6",
+    "value": [
+      1,
+      "invadedapexcity"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/volcanic/layers/surface/dungeons/4",
+    "value": [
+      1.1,
+      "invadedapexcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/volcanic/layers/surface/dungeons/5",
+    "value": [
+      1.1,
+      "invadedapexbase"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/volcanic/layers/surface/dungeons/6",
+    "value": [
+      1,
+      "invadedapexcity"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/scorchedcity/layers/surface/dungeons/4",
+    "value": [
+      1.1,
+      "invadedapexcamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/scorchedcity/layers/surface/dungeons/5",
+    "value": [
+      1.1,
+      "invadedapexbase"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/scorchedcity/layers/surface/dungeons/6",
+    "value": [
+      1,
+      "invadedapexcity"
+    ]
+  },
+  
+  {
+    "op": "add",
+    "path": "/planetTypes/forest/layers/surface/dungeons/8",
+    "value": [
+      1.5,
+      "invadedaviantomb"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/forest/layers/surface/dungeons/9",
+    "value": [
+      1.5,
+      "invadedaviantemple"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/forest/layers/surface/dungeons/10",
+    "value": [
+      1.5,
+      "invadedaviannativevillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/forest/layers/surface/dungeons/11",
+    "value": [
+      1.5,
+      "invadedavianvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/forest/layers/surface/dungeons/12",
+    "value": [
+      1.5,
+      "invadedavianairship"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desert/layers/surface/dungeons/9",
+    "value": [
+      1.5,
+      "invadedaviantomb"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desert/layers/surface/dungeons/10",
+    "value": [
+      1.5,
+      "invadedaviantemple"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desert/layers/surface/dungeons/11",
+    "value": [
+      1.5,
+      "invadedaviannativevillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desert/layers/surface/dungeons/12",
+    "value": [
+      1.5,
+      "invadedavianvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desert/layers/surface/dungeons/13",
+    "value": [
+      1.5,
+      "invadedavianairship"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/savannah/layers/surface/dungeons/9",
+    "value": [
+      1.5,
+      "invadedaviantomb"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/savannah/layers/surface/dungeons/10",
+    "value": [
+      1.5,
+      "invadedaviantemple"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/savannah/layers/surface/dungeons/11",
+    "value": [
+      1.5,
+      "invadedaviannativevillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/savannah/layers/surface/dungeons/12",
+    "value": [
+      1.5,
+      "invadedavianvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/savannah/layers/surface/dungeons/13",
+    "value": [
+      1.5,
+      "invadedavianairship"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snow/layers/surface/dungeons/9",
+    "value": [
+      1.5,
+      "invadedaviantomb"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snow/layers/surface/dungeons/10",
+    "value": [
+      1.5,
+      "invadedaviantemple"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snow/layers/surface/dungeons/11",
+    "value": [
+      1.5,
+      "invadedaviannativevillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snow/layers/surface/dungeons/12",
+    "value": [
+      1.5,
+      "invadedavianvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snow/layers/surface/dungeons/13",
+    "value": [
+      1.5,
+      "invadedavianairship"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/jungle/layers/surface/dungeons/9",
+    "value": [
+      1.5,
+      "invadedaviantomb"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/jungle/layers/surface/dungeons/10",
+    "value": [
+      1.5,
+      "invadedaviantemple"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/jungle/layers/surface/dungeons/11",
+    "value": [
+      1.5,
+      "invadedaviannativevillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/jungle/layers/surface/dungeons/12",
+    "value": [
+      1.5,
+      "invadedavianvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/jungle/layers/surface/dungeons/13",
+    "value": [
+      1.5,
+      "invadedavianairship"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/alien/layers/surface/dungeons/9",
+    "value": [
+      1.5,
+      "invadedaviantomb"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/alien/layers/surface/dungeons/10",
+    "value": [
+      1.5,
+      "invadedaviantemple"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/alien/layers/surface/dungeons/11",
+    "value": [
+      1.5,
+      "invadedaviannativevillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/alien/layers/surface/dungeons/12",
+    "value": [
+      1.5,
+      "invadedavianvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/alien/layers/surface/dungeons/13",
+    "value": [
+      1.5,
+      "invadedavianairship"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundra/layers/surface/dungeons/9",
+    "value": [
+      1.5,
+      "invadedaviantomb"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundra/layers/surface/dungeons/10",
+    "value": [
+      1.5,
+      "invadedaviantemple"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundra/layers/surface/dungeons/11",
+    "value": [
+      1.5,
+      "invadedaviannativevillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundra/layers/surface/dungeons/12",
+    "value": [
+      1.5,
+      "invadedavianvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundra/layers/surface/dungeons/13",
+    "value": [
+      1.5,
+      "invadedavianairship"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/midnight/layers/surface/dungeons/9",
+    "value": [
+      1.5,
+      "invadedaviantomb"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/midnight/layers/surface/dungeons/10",
+    "value": [
+      1.5,
+      "invadedaviantemple"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/midnight/layers/surface/dungeons/11",
+    "value": [
+      1.5,
+      "invadedaviannativevillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/midnight/layers/surface/dungeons/12",
+    "value": [
+      1.5,
+      "invadedavianvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/midnight/layers/surface/dungeons/13",
+    "value": [
+      1.5,
+      "invadedavianairship"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/volcanic/layers/surface/dungeons/9",
+    "value": [
+      1.5,
+      "invadedaviantomb"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/volcanic/layers/surface/dungeons/10",
+    "value": [
+      1.5,
+      "invadedaviantemple"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/volcanic/layers/surface/dungeons/11",
+    "value": [
+      1.5,
+      "invadedaviannativevillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/volcanic/layers/surface/dungeons/12",
+    "value": [
+      1.5,
+      "invadedavianvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/volcanic/layers/surface/dungeons/13",
+    "value": [
+      1.5,
+      "invadedavianairship"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/scorchedcity/layers/surface/dungeons/9",
+    "value": [
+      1.5,
+      "invadedaviantomb"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/scorchedcity/layers/surface/dungeons/10",
+    "value": [
+      1.5,
+      "invadedaviantemple"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/scorchedcity/layers/surface/dungeons/11",
+    "value": [
+      1.5,
+      "invadedaviannativevillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/scorchedcity/layers/surface/dungeons/12",
+    "value": [
+      1.5,
+      "invadedavianvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/scorchedcity/layers/surface/dungeons/13",
+    "value": [
+      1.5,
+      "invadedavianairship"
+    ]
+  },
+  
+  {
+    "op": "add",
+    "path": "/planetTypes/forest/layers/surface/dungeons/13",
+    "value": [
+      4.5,
+      "invadedfloranvillagetower"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/forest/layers/surface/dungeons/14",
+    "value": [
+      4.5,
+      "invadedfloranhutvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/forest/layers/surface/dungeons/15",
+    "value": [
+      4.5,
+      "invadedfloranhuntinggrounds"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/forest/layers/surface/dungeons/16",
+    "value": [
+      4.5,
+      "invadedflorancanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desert/layers/surface/dungeons/13",
+    "value": [
+      4.5,
+      "invadedfloranvillagetower"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desert/layers/surface/dungeons/14",
+    "value": [
+      4.5,
+      "invadedfloranhutvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desert/layers/surface/dungeons/15",
+    "value": [
+      4.5,
+      "invadedfloranhuntinggrounds"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desert/layers/surface/dungeons/16",
+    "value": [
+      4.5,
+      "invadedflorancanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/savannah/layers/surface/dungeons/13",
+    "value": [
+      4.5,
+      "invadedfloranvillagetower"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/savannah/layers/surface/dungeons/14",
+    "value": [
+      4.5,
+      "invadedfloranhutvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/savannah/layers/surface/dungeons/15",
+    "value": [
+      4.5,
+      "invadedfloranhuntinggrounds"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/savannah/layers/surface/dungeons/16",
+    "value": [
+      4.5,
+      "invadedflorancanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snow/layers/surface/dungeons/13",
+    "value": [
+      4.5,
+      "invadedfloranvillagetower"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snow/layers/surface/dungeons/14",
+    "value": [
+      4.5,
+      "invadedfloranhutvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snow/layers/surface/dungeons/15",
+    "value": [
+      4.5,
+      "invadedfloranhuntinggrounds"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snow/layers/surface/dungeons/16",
+    "value": [
+      4.5,
+      "invadedflorancanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/jungle/layers/surface/dungeons/13",
+    "value": [
+      4.5,
+      "invadedfloranvillagetower"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/jungle/layers/surface/dungeons/14",
+    "value": [
+      4.5,
+      "invadedfloranhutvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/jungle/layers/surface/dungeons/15",
+    "value": [
+      4.5,
+      "invadedfloranhuntinggrounds"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/jungle/layers/surface/dungeons/16",
+    "value": [
+      4.5,
+      "invadedflorancanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/alien/layers/surface/dungeons/13",
+    "value": [
+      4.5,
+      "invadedfloranvillagetower"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/alien/layers/surface/dungeons/14",
+    "value": [
+      4.5,
+      "invadedfloranhutvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/alien/layers/surface/dungeons/15",
+    "value": [
+      4.5,
+      "invadedfloranhuntinggrounds"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/alien/layers/surface/dungeons/16",
+    "value": [
+      4.5,
+      "invadedflorancanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundra/layers/surface/dungeons/13",
+    "value": [
+      4.5,
+      "invadedfloranvillagetower"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundra/layers/surface/dungeons/14",
+    "value": [
+      4.5,
+      "invadedfloranhutvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundra/layers/surface/dungeons/15",
+    "value": [
+      4.5,
+      "invadedfloranhuntinggrounds"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundra/layers/surface/dungeons/16",
+    "value": [
+      4.5,
+      "invadedflorancanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/midnight/layers/surface/dungeons/13",
+    "value": [
+      4.5,
+      "invadedfloranvillagetower"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/midnight/layers/surface/dungeons/14",
+    "value": [
+      4.5,
+      "invadedfloranhutvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/midnight/layers/surface/dungeons/15",
+    "value": [
+      4.5,
+      "invadedfloranhuntinggrounds"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/midnight/layers/surface/dungeons/16",
+    "value": [
+      4.5,
+      "invadedflorancanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/volcanic/layers/surface/dungeons/13",
+    "value": [
+      4.5,
+      "invadedfloranvillagetower"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/volcanic/layers/surface/dungeons/14",
+    "value": [
+      4.5,
+      "invadedfloranhutvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/volcanic/layers/surface/dungeons/15",
+    "value": [
+      4.5,
+      "invadedfloranhuntinggrounds"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/volcanic/layers/surface/dungeons/16",
+    "value": [
+      4.5,
+      "invadedflorancanyon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/scorchedcity/layers/surface/dungeons/13",
+    "value": [
+      4.5,
+      "invadedfloranvillagetower"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/scorchedcity/layers/surface/dungeons/14",
+    "value": [
+      4.5,
+      "invadedfloranhutvillage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/scorchedcity/layers/surface/dungeons/15",
+    "value": [
+      4.5,
+      "invadedfloranhuntinggrounds"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/scorchedcity/layers/surface/dungeons/16",
+    "value": [
+      4.5,
+      "invadedflorancanyon"
+    ]
+  }
+]

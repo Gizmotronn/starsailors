@@ -1,0 +1,67 @@
+{
+  "metadata" : {
+    "name" : "invadedavianairship",
+    "species" : "avian",
+    "rules" : [
+    ],
+    "anchor" : [ "invadedavianairshipclue1", "invadedavianairshipclue2", "invadedavianairshipclue3", "invadedavianairshipclue4" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 15,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "invadedavianairship",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedavianairship" ] ],
+        [ "doNotCombineWith", [ "invadedavianairshipclue1", "invadedavianairshipclue2", "invadedavianairshipclue3", "invadedavianairshipclue4" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedavianairship.json" ]
+    },
+    {
+      "name" : "invadedavianairshipclue1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedavianairshipclue1" ] ],
+        [ "doNotCombineWith", [ "invadedavianairship", "invadedavianairshipclue2", "invadedavianairshipclue3", "invadedavianairshipclue4" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedavianairshipclue1.json" ]
+    },
+    {
+      "name" : "invadedavianairshipclue2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedavianairshipclue2" ] ],
+        [ "doNotCombineWith", [ "invadedavianairshipclue1", "invadedavianairship", "invadedavianairshipclue3", "invadedavianairshipclue4" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedavianairshipclue2.json" ]
+    },
+    {
+      "name" : "invadedavianairshipclue3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedavianairshipclue3" ] ],
+        [ "doNotCombineWith", [ "invadedavianairshipclue1", "invadedavianairshipclue2", "invadedavianairship", "invadedavianairshipclue4" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedavianairshipclue3.json" ]
+    },
+    {
+      "name" : "invadedavianairshipclue4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "invadedavianairshipclue4" ] ],
+        [ "doNotCombineWith", [ "invadedavianairshipclue1", "invadedavianairshipclue2", "invadedavianairshipclue3", "invadedavianairship" ] ]
+
+      ],
+      "def" : [ "tmx", "invadedavianairshipclue4.json" ]
+    }
+  ]
+}

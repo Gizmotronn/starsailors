@@ -1,0 +1,27 @@
+{
+  "objectName" : "SWMpaintingvictory",
+  "colonyTags" : ["pretty","valuable", "swrace"],
+  "rarity" : "Rare",
+  "description" : "A poster of Darth Vader with the text 'Victory through Conform.'",
+  "shortdescription" : "Victory Painting",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 700,
+  "printable" : false,
+
+  
+
+  "inventoryIcon" : "paintingvictoryicon.png",
+  "orientations" : [
+    {
+      "image" : "paintingvictory.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

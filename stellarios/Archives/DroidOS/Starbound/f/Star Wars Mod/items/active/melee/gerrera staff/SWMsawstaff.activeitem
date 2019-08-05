@@ -1,0 +1,45 @@
+{
+  "itemName" : "SWMsawstaff",
+  "price" : 660,
+  "maxStack" : 1,
+  "level" : 5,
+  "rarity" : "Legendary",
+  "description" : "Staff used by Saw Gerrera.",
+  "shortdescription" : "Gerrera Staff",
+  "tooltipKind" : "sword",
+  "category" : "axe",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","melee"],
+
+  "animation" : "axe.animation",
+  "animationParts" : { },
+  "animationCustom" : { },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "primaryAbilityType" : "axecleave",
+  "primaryAbility" : {
+    "fireTime" : [0.5, 0.67],
+    "baseDps" : [18.5, 22.5]
+     },
+  "elementalType" : "physical",
+
+  "builder" : "/items/buildscripts/buildweapon.lua",
+  "builderConfig" : [{
+    
+    
+    "animationParts" : {
+      "blade" : {
+        "path" : "blade.png",
+        "paletteSwap" : true
+      },
+      "handle" : {
+        "path" : "handle.png",
+        "paletteSwap" : true
+      }
+    },
+    "altAbilities" : [ ],
+    "palette" : "/items/active/weapons/colors/melee.weaponcolors",
+    "iconDrawables" : [ "blade", "handle" ]
+  }]
+}

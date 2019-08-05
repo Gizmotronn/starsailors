@@ -1,0 +1,194 @@
+{
+  "kind" : "mawg",
+  
+  "charCreationTooltip" : {
+	"title" : "mawg",
+	"subTitle" : "O2",
+	"description" : "Mawgs are a mixed species, part human and part dog."
+  },
+  "nameGen" : [ "/species/mawgnamegen.config:names", "/species/mawgnamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/humanhurt_male1.ogg", "/sfx/humanoid/humanhurt_female1.ogg" ],
+  "charGenTextLabels" : [ "Fur colour", "N/A", "Shirt", "Legwear", "Underwear", "Ear colour", "Shirt colour", "Legwear colour", "MAWG", "Personality" ],
+  "skull" : "/humanoid/mawg/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=9a95f7FF?replace=31a6ffFF=6158f3FF",
+ "defaultBlueprints" : {
+    "tier1" : [
+
+	
+// Mod Items
+      { "item" : "SWMmawglightsaber" },
+
+// Empty Hands
+      { "item" : "flagskroob" },
+
+// Anvil
+      { "item" : "novatier1head" },
+      { "item" : "novatier1chest" },
+      { "item" : "novatier1pants" },
+      { "item" : "novatier2head" },
+      { "item" : "novatier2chest" },
+      { "item" : "novatier2pants" },
+      { "item" : "ironrevolver" },
+      { "item" : "ironassaultrifle" },
+      { "item" : "tungstenmagnum" },
+      { "item" : "tungstenshotgun" },
+
+
+// Anvil2
+      { "item" : "novatier3head" },
+      { "item" : "novatier3chest" },
+      { "item" : "novatier3pants" },
+      { "item" : "novatier4head" },
+      { "item" : "novatier4chest" },
+      { "item" : "novatier4pants" },
+      { "item" : "titaniummachinepistol" },
+      { "item" : "titaniumsniperrifle" },
+      { "item" : "durasteelrevolver" },
+      { "item" : "durasteelassaultrifle" },
+
+// Anvil3
+      { "item" : "novatier5ahead" },
+      { "item" : "novatier5achest" },
+      { "item" : "novatier5apants" },
+      { "item" : "novatier6ahead" },
+      { "item" : "novatier6achest" },
+      { "item" : "novatier6apants" },
+
+      { "item" : "novatier5mhead" },
+      { "item" : "novatier5mchest" },
+      { "item" : "novatier5mpants" },
+      { "item" : "novatier6mhead" },
+      { "item" : "novatier6mchest" },
+      { "item" : "novatier6mpants" },
+
+      { "item" : "novatier5shead" },
+      { "item" : "novatier5schest" },
+      { "item" : "novatier5spants" },
+      { "item" : "novatier6shead" },
+      { "item" : "novatier6schest" },
+      { "item" : "novatier6spants" },
+
+      { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" },
+
+// Furniture Table 2
+      { "item" : "humanstoragelocker" },
+      { "item" : "humanshipdoor" },
+      { "item" : "humanshiphatch" },
+
+// Spinning Wheel
+      { "item" : "conceptchest" },
+      { "item" : "conceptlegs" },
+      { "item" : "coolchest" },
+      { "item" : "coollegs" },
+      { "item" : "sweatervestchest" },
+      { "item" : "sweatervestlegs" },
+      { "item" : "workoutchest" },
+      { "item" : "workoutlegs" },
+	  { "item" : "apexcommanderjacket" },
+      { "item" : "apexcommanderpants" },
+      { "item" : "apexnavyjacket" },
+      { "item" : "apexnavypants" },
+      { "item" : "apexofficerjacket" },
+      { "item" : "apexofficerpants" },
+      { "item" : "apexspecialistjacket" },
+      { "item" : "apexspecialistpants" },
+	    { "item" : "avianadventurershirt" },
+      { "item" : "avianadventurerpants" },
+      { "item" : "aviancommonershirt" },
+      { "item" : "aviancommonerlegs" },
+      { "item" : "avianfancyshirt" },
+      { "item" : "avianfancyskirt" },
+      { "item" : "avianworkershirt" },
+      { "item" : "avianworkerpants" },
+	   { "item" : "craftsmenchest" },
+      { "item" : "craftsmenlegs" },
+      { "item" : "merchantchest" },
+      { "item" : "merchantlegs" },
+      { "item" : "noblechest" },
+      { "item" : "noblelegs" },
+      { "item" : "peasantchest" },
+      { "item" : "peasantlegs" },
+	  { "item" : "floranfurnivourchest" },
+      { "item" : "floranfurnivourlegs" },
+      { "item" : "floranhunterchest" },
+      { "item" : "floranhunterlegs" },
+      { "item" : "floranleafchest" },
+      { "item" : "floranleaflegs" },
+      { "item" : "floranpeltchest" },
+      { "item" : "floranpeltlegs" },
+	  { "item" : "kimonochest" },
+      { "item" : "kimonolegs" },
+      { "item" : "monkchest" },
+      { "item" : "monklegs" },
+      { "item" : "traditionalchest" },
+      { "item" : "traditionallegs" },
+      { "item" : "traineechest" },
+      { "item" : "traineelegs" },
+	  { "item" : "novakidfancychest" },
+      { "item" : "novakidfancypants" },
+      { "item" : "novakidjacket" },
+      { "item" : "novakidjacketpants" },
+      { "item" : "novakidsuspenders" },
+      { "item" : "novakidsuspenderspants" },
+      { "item" : "novakidwaistcoat" },
+      { "item" : "novakidblackpants" }  
+    ]
+  },
+  "headOptionAsFacialhair" : true,
+  "altOptionAsUndyColor" : true,
+  "genders" : [
+    {
+      "name" : "male",
+      "image" : "/interface/title/male.png",
+      "characterImage" : "/interface/title/mawg.png",
+      "hair" : [ "fem55" ],
+      "shirt" : [ "workoutchest", "coolchest", "conceptchest", "sweatervestchest", "hoodiechest", "hoodiechest2", "protectorateshirtchest", "protectoratevestchest"  ],
+      "pants" : [ "workoutlegs", "coollegs", "conceptlegs", "sweatervestlegs", "jeans1legs", "jeans2legs", "jeans3legs" ],
+     "facialHairGroup" : "beardmale",
+      "facialHair" : [ "1"],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/female.png",
+      "characterImage" : "/interface/title/mawg.png",
+      "hair" : [ "fem55" ],
+      "shirt" : [ "workoutchest", "coolchest", "conceptchest", "sweatervestchest", "hoodiechest", "hoodiechest2", "protectorateshirtchest", "protectoratevestchest" ],
+      "pants" : [ "workoutlegs", "coollegs", "conceptlegs", "sweatervestlegs", "jeans1legs", "jeans2legs", "jeans3legs" ],
+     "facialHairGroup" : "beardmale",
+      "facialHair" : [ "1"],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  "bodyColor" : [
+    { "9E6A40" : "9E6A40", "895B38" : "895B38", "6F2919" : "6F2919", "020202" : "020202" },
+    { "9E6A40" : "EAEAEA", "895B38" : "D6D6D6", "6F2919" : "BCBCBC", "020202" : "020202" },
+	{ "9E6A40" : "808080", "895B38" : "6D6D6D", "6F2919" : "595959", "020202" : "020202" },
+	{ "9E6A40" : "565656", "895B38" : "444444", "6F2919" : "2D2D2D", "020202" : "FFE6BF" }
+  ],
+  "undyColor" : [
+    { "dc1f00" : "4d76ad", "be1b00" : "395187", "951500" : "20325b" },
+    { "dc1f00" : "7c41b8", "be1b00" : "6c2f90", "951500" : "471962" },
+    { "dc1f00" : "c63442", "be1b00" : "9b2724", "951500" : "6a1210" },
+    { "dc1f00" : "eaa245", "be1b00" : "b47020", "951500" : "834a0c" },
+    { "dc1f00" : "e3e13a", "be1b00" : "a8a614", "951500" : "848008" },
+    { "dc1f00" : "6ab841", "be1b00" : "45902f", "951500" : "296219" },
+    { "dc1f00" : "535353", "be1b00" : "363636", "951500" : "111111" },
+    { "dc1f00" : "e6e6e6", "be1b00" : "979797", "951500" : "6f6f6f" },
+    { "dc1f00" : "9e9e9e", "be1b00" : "6e6e6e", "951500" : "434343" },
+    { "dc1f00" : "f794f8", "be1b00" : "d355c1", "951500" : "b72c95" }
+  ],
+  "hairColor" : [
+   { "9E6A40" : "9E6A40", "895B38" : "895B38", "6F2919" : "6F2919", "020202" : "020202" },
+    { "9E6A40" : "EAEAEA", "895B38" : "D6D6D6", "6F2919" : "BCBCBC", "020202" : "020202" },
+	{ "9E6A40" : "808080", "895B38" : "6D6D6D", "6F2919" : "595959", "020202" : "020202" },
+	{ "9E6A40" : "565656", "895B38" : "444444", "6F2919" : "2D2D2D", "020202" : "FFE6BF" }
+  ]
+}

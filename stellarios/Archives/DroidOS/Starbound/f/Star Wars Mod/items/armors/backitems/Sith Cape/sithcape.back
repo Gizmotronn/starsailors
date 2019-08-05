@@ -1,0 +1,18 @@
+{
+  "itemName" : "SWMsithcape",
+  "inventoryIcon" : "sithcape.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "rarity" : "Common",
+  "description" : "Sith's Cape.",
+  "shortdescription" : "Sith's Cape",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+"acceptsAugmentType" : "back",
+  "statusEffects" : [
+    {
+      "stat" : "breathProtection",
+      "amount" : 1.0
+    }
+  ]
+}

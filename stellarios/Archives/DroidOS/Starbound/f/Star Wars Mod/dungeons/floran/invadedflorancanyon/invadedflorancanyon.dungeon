@@ -1,0 +1,158 @@
+{
+  "metadata" : {
+    "name" : "invadedflorancanyon",
+    "species" : "floran",
+    "rules" : [
+    ],
+    "anchor" : [ "invadedflorancanyonentrance1", "invadedflorancanyonentrance2" ],
+    "maxRadius" : 1000000,
+    "maxParts" : 6,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "invadedflorancanyonentrance1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyonentrance1.json" ]
+    },
+    {
+      "name" : "invadedflorancanyonentrance2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyonentrance2.json" ]
+    },
+    {
+      "name" : "invadedflorancanyon1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyon1.json" ]
+    },
+    {
+      "name" : "invadedflorancanyon2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyon2.json" ]
+    },
+    {
+      "name" : "invadedflorancanyon3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyon3.json" ]
+    },
+    {
+      "name" : "invadedflorancanyon4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyon4.json" ]
+    },
+    {
+      "name" : "invadedflorancanyon5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyon5.json" ]
+    },
+    {
+      "name" : "invadedflorancanyon6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyon6.json" ]
+    },
+    {
+      "name" : "invadedflorancanyon7",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyon7.json" ]
+    },
+    {
+      "name" : "invadedflorancanyon8",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyon8.json" ]
+    },
+    {
+      "name" : "invadedflorancanyonside1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyonside1.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "invadedflorancanyonside2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyonside2.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "invadedflorancanyonside3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyonside3.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "invadedflorancanyonside4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyonside4.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "invadedflorancanyonend1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyonend1.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "invadedflorancanyonend2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyonend2.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "invadedflorancanyonend3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyonend3.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "invadedflorancanyonend4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "invadedflorancanyonend4.json" ],
+      "chance" : 0
+    }
+  ]
+}

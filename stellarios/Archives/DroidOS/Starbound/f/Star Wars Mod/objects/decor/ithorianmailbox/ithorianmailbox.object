@@ -1,0 +1,56 @@
+{
+  "objectName" : "ithorianmailbox",
+  "colonyTags" : ["swrace", "storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 65,
+  "description" : "A floating mailbox.",
+  "shortdescription" : "Mailbox",
+  "race" : "ithorian",
+  "health" : 1.5,
+
+  "ithorianDescription" : "I'm not sure how this works. Is it meeant to allow intergalactic couriers to pack up parcels as they go?",
+  "feneroxDescription" : "Floating mailbox. Receives parcels? unsure.",
+  "humanDescription" : "A floating mailbox? but what's the point if we're all getting our correspondence in electronic format?",
+  "glitchDescription" : "Puzzled. What is this device supposed to do?",
+  
+  "inventoryIcon" : "ithorianmailboxicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "ithorianmailbox.png:<color>.<frame>",
+      "imagePosition" : [-8, 0],
+      "frames" : 4,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600,
+
+  "scripts" : [ "/scripts/npcToyObject.lua" ],
+  "npcToy" : {
+    "influence" : [
+      "mailbox",
+      "mailboxComplete"
+    ],
+    "defaultReactions" : {
+      "mailbox" : [
+        [1.0, "postmail"]
+      ],
+      "mailboxComplete" : [
+        [1.0, "smile"]
+      ]
+    },
+    "preciseStandPositionLeft" : [-1.0, 0.0],
+    "preciseStandPositionRight" : [1.0, 0.0],
+    "maxNpcs" : 1
+  }
+}

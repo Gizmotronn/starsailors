@@ -1,0 +1,1837 @@
+[
+  {
+    "name" : "horsea",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "horsea",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "seadra",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "seadra",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "seaking",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "seaking",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "lapras",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "lapras",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "goldeen",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "goldeen",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "shellder",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "shellder",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+ 
+  {
+    "name" : "tentacool",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "tentacool",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "magikarp",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "magikarp",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+   {
+    "name" : "dragonair",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "dragonair",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "bulbasaur",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "bulbasaur",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "vaporeon",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "vaporeon",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "venusaur",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "venusaur",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "victreebel",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "victreebel",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "wartortle",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "wartortle",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "weepinbell",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "weepinbell",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "wigglytuff",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "wigglytuff",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+ {
+    "name" : "dragonite",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "dragonite",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+   {
+    "name" : "exeggutor",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "exeggutor",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+   {
+    "name" : "flareon",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "flareon",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+   {
+    "name" : "gengar",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "gengar",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+   {
+    "name" : "golem",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "enclosed",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "golem",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+   {
+    "name" : "graveler",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "enclosed",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "graveler",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+   {
+    "name" : "dugtrio",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "enclosed",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "dugtrio",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+    
+   {
+    "name" : "charmander",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "charmander",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+   
+  
+    {
+    "name" : "pikachu",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "pikachu",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+    {
+    "name" : "oddish",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.08,
+    "monsterType" : "oddish",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "abra",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.04,
+    "monsterType" : "abra",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "bellsprout",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "bellsprout",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "caterpie",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.07,
+    "monsterType" : "caterpie",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "clefairy",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "clefairy",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "cubone",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "cubone",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "diglett",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.08,
+    "monsterType" : "diglett",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "doduo",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.07,
+    "monsterType" : "doduo",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "drowzee",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "drowzee",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "ekans",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "ekans",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "exeggcute",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "exeggcute",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "farfetchd",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "farfetchd",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "gastly",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "gastly",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+   {
+    "name" : "haunter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "haunter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "geodude",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "enclosed",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "geodude",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "grimer",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "grimer",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+   {
+    "name" : "hypno",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "hypno",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+   {
+    "name" : "ivysaur",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "ivysaur",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+   {
+    "name" : "jolteon",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "jolteon",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+   {
+    "name" : "kadabra",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "kadabra",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+   {
+    "name" : "marowak",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "marowak",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+   {
+    "name" : "metapod",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "metapod",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+   {
+    "name" : "muk",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "muk",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "growlithe",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "growlithe",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "hitmonchan",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.04,
+    "monsterType" : "hitmonchan",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "hitmonlee",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.04,
+    "monsterType" : "hitmonlee",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "jigglypuff",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "jigglypuff",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "koffing",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "koffing",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "krabby",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.07,
+    "monsterType" : "krabby",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "lickitung",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.04,
+    "monsterType" : "lickitung",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "machop",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "machop",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "magnemite",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "magnemite",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "mankey",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "mankey",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "meowth",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "meowth",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "nidoranf",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "nidoranf",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "nidoranm",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "nidoranm",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "onix",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "enclosed",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.045,
+    "monsterType" : "onix",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "paras",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.055,
+    "monsterType" : "paras",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+   {
+    "name" : "alakazam",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.055,
+    "monsterType" : "alakazam",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+   {
+    "name" : "arcanine",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.055,
+    "monsterType" : "arcanine",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+   {
+    "name" : "arbok",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.055,
+    "monsterType" : "arbok",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "pidgey",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.055,
+    "monsterType" : "pidgey",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+   {
+    "name" : "articuno",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.055,
+    "monsterType" : "articuno",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "aerodactyl",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.055,
+    "monsterType" : "aerodactyl",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "charizard",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.055,
+    "monsterType" : "charizard",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "charmeleon",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.055,
+    "monsterType" : "charmeleon",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "clefable",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.055,
+    "monsterType" : "clefable",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "dodrio",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.055,
+    "monsterType" : "dodrio",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "butterfree",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.055,
+    "monsterType" : "butterfree",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "poliwag",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.082,
+    "monsterType" : "poliwag",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+   {
+    "name" : "blastoise",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.082,
+    "monsterType" : "blastoise",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "ponyta",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.045,
+    "monsterType" : "ponyta",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "psyduck",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.035,
+    "monsterType" : "psyduck",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "rattata",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "rattata",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "rhyhorn",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "rhyhorn",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "sandshrew",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "sandshrew",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "seel",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "seel",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "slowpoke",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.07,
+    "monsterType" : "slowpoke",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "spearow",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "spearow",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "squirtle",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.04,
+    "monsterType" : "squirtle",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "venonat",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "venonat",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "vulpix",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.06,
+    "monsterType" : "vulpix",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "weedle",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "weedle",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+     {
+    "name" : "zubat",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "zubat",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "chansey",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.02,
+    "monsterType" : "chansey",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "tangela",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.03,
+    "monsterType" : "tangela",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "kangaskhan",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.035,
+    "monsterType" : "kangaskhan",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "mrmime",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.025,
+    "monsterType" : "mrmime",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "scyther",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.045,
+    "monsterType" : "scyther",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "jynx",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "jynx",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "electabuzz",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "electabuzz",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "magmar",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "magmar",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "pinsir",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "pinsir",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "tauros",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.05,
+    "monsterType" : "tauros",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "ditto",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.025,
+    "monsterType" : "ditto",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "eevee",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.025,
+    "monsterType" : "eevee",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "porygon",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.025,
+    "monsterType" : "porygon",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "snorlax",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.040,
+    "monsterType" : "snorlax",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "mew",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.025,
+    "monsterType" : "mew",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "mewtwo",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.025,
+    "monsterType" : "mewtwo",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "kingler",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.040,
+    "monsterType" : "kingler",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "magneton",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.040,
+    "monsterType" : "magneton",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "weezing",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.040,
+    "monsterType" : "weezing",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "machoke",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.040,
+    "monsterType" : "machoke",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "machamp",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.040,
+    "monsterType" : "machamp",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "primeape",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.040,
+    "monsterType" : "primeape",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "persian",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "groupSize" : [1, 1],
+    "spawnChance" : 0.040,
+    "monsterType" : "persian",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  
+  {
+    "name" : "gyarados",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "gyarados",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  }
+     
+]

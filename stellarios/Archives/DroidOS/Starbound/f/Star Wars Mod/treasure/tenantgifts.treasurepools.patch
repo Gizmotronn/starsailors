@@ -1,0 +1,55 @@
+[
+  {
+    "op": "add",
+    "path": "/swmGift",
+    "value": [[1, {
+      "pool" : [
+	    {"weight" : 0.80, "pool" : "tenantMoney"},
+        {"weight" : 0.15, "pool" : "tenantCodex"},
+        {"weight" : 0.05, "pool" : "valuableTreasure"}
+      ],
+      "poolRounds" : 1,
+      "allowDuplication" : false
+    }]
+  ]
+  },
+  
+   {
+  "op" : "add",
+  "path" : "/tenantCodex",
+  "value" :[[1, { "pool" : [
+        {"weight" : 0.1, "item" : [ "theforce1-codex", 1]},
+		{"weight" : 0.1, "item" : [ "theforce2-codex", 1]},
+		{"weight" : 0.1, "item" : [ "theforce3-codex", 1]},
+		{"weight" : 0.1, "item" : [ "theforce4-codex", 1]},
+		{"weight" : 0.1, "item" : [ "thejedi1-codex", 1]},
+		{"weight" : 0.1, "item" : [ "thejedi2-codex", 1]},
+		{"weight" : 0.1, "item" : [ "thejedi3-codex", 1]},
+		{"weight" : 0.1, "item" : [ "thejedi4-codex", 1]},
+		{"weight" : 0.1, "item" : [ "thejedi5-codex", 1]},
+		{"weight" : 0.1, "item" : [ "thejedi6-codex", 1]},
+		{"weight" : 0.1, "item" : [ "thesith1-codex", 1]},
+		{"weight" : 0.1, "item" : [ "thesith2-codex", 1]},
+		{"weight" : 0.1, "item" : [ "thesith3-codex", 1]},
+		{"weight" : 0.1, "item" : [ "thesith4-codex", 1]},
+		{"weight" : 0.1, "item" : [ "thesith5-codex", 1]},
+		{"weight" : 0.1, "item" : [ "thecodeofthesith-codex", 1]},
+		{"weight" : 0.1, "item" : [ "cassian-codex", 1]},
+		{"weight" : 0.1, "item" : [ "monmothma-codex", 1]},
+		{"weight" : 0.1, "item" : [ "nower-codex", 1]},
+		{"weight" : 0.1, "item" : [ "hansolo-codex", 1]},
+		{"weight" : 0.1, "item" : [ "anakin-codex", 1]},
+		{"weight" : 0.1, "item" : [ "bail-codex", 1]},
+		{"weight" : 0.1, "item" : [ "rex-codex", 1]},
+		{"weight" : 0.1, "item" : [ "dash-codex", 1]},
+		{"weight" : 0.1, "item" : [ "raven-codex", 1]}
+
+
+			       
+      ],
+      "poolRounds" : 1,
+      "allowDuplication" : false
+    }]
+  
+  ]
+  }]

@@ -1,0 +1,16 @@
+{
+  "projectileName" : "disarmingvoice",
+  "image" : "disarmingvoice.png",
+  "animationCycle" : 1,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 4,
+  "power" : 40,
+  "speed" : 20,
+  
+  "timeToLive" : 2,
+ 
+  "piercing" : false,
+ 
+  "damageKind" : "normal"
+  
+}

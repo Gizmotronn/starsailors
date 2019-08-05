@@ -1,0 +1,9 @@
+{
+  "name" : "rhyhorn",
+  "category" : "rhyhorn",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "rhyhorn.png"
+  }
+}

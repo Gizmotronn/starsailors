@@ -1,0 +1,9 @@
+{
+  "name" : "eevee",
+  "category" : "eevee",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "eevee.png"
+  }
+}

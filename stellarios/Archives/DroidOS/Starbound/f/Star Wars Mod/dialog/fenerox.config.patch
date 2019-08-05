@@ -1,0 +1,197 @@
+[
+	{
+		"op": "add",
+		"path": "/converse/default/wookie",
+		"value": [
+			"New person. No Smell. Quite exciting!",
+			"Odd person. Hopefully nice. Feeling cautious!",
+			"Weird person. Not Fenerox. Being polite!",
+			"Meeting stranger. Being friendly. New experience!",
+			"Odd person. Saying hello. Not Fenerox?",
+			"Friendly stranger. Feeling awkward. Cautiously optimistic!",
+			"New stranger. Not confident. Saying hello!"
+		]
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/default/togruta",
+		"value": [
+			"New person. No Smell. Quite exciting!",
+			"Odd person. Hopefully nice. Feeling cautious!",
+			"Weird person. Not Fenerox. Being polite!",
+			"Meeting stranger. Being friendly. New experience!",
+			"Odd person. Saying hello. Not Fenerox?",
+			"Friendly stranger. Feeling awkward. Cautiously optimistic!",
+			"New stranger. Not confident. Saying hello!"
+		]
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/default/diathim",
+		"value": [
+			"New person. No Smell. Quite exciting!",
+			"Odd person. Hopefully nice. Feeling cautious!",
+			"Weird person. Not Fenerox. Being polite!",
+			"Meeting stranger. Being friendly. New experience!",
+			"Odd person. Saying hello. Not Fenerox?",
+			"Friendly stranger. Feeling awkward. Cautiously optimistic!",
+			"New stranger. Not confident. Saying hello!"
+		]
+	}
+	{
+		"op": "add",
+		"path": "/converse/default/toydarian",
+		"value": [
+			"New person. No Smell. Quite exciting!",
+			"Odd person. Hopefully nice. Feeling cautious!",
+			"Weird person. Not Fenerox. Being polite!",
+			"Meeting stranger. Being friendly. New experience!",
+			"Odd person. Saying hello. Not Fenerox?",
+			"Friendly stranger. Feeling awkward. Cautiously optimistic!",
+			"New stranger. Not confident. Saying hello!"
+		]
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/default/utapaun",
+		"value": [
+			"New person. No Smell. Quite exciting!",
+			"Odd person. Hopefully nice. Feeling cautious!",
+			"Weird person. Not Fenerox. Being polite!",
+			"Meeting stranger. Being friendly. New experience!",
+			"Odd person. Saying hello. Not Fenerox?",
+			"Friendly stranger. Feeling awkward. Cautiously optimistic!",
+			"New stranger. Not confident. Saying hello!"
+		]
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/default/rodian",
+		"value": [
+			"New person. No Smell. Quite exciting!",
+			"Odd person. Hopefully nice. Feeling cautious!",
+			"Weird person. Not Fenerox. Being polite!",
+			"Meeting stranger. Being friendly. New experience!",
+			"Odd person. Saying hello. Not Fenerox?",
+			"Friendly stranger. Feeling awkward. Cautiously optimistic!",
+			"New stranger. Not confident. Saying hello!"
+		]
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/default/tuskan",
+		"value": [
+			"New person. No Smell. Quite exciting!",
+			"Odd person. Hopefully nice. Feeling cautious!",
+			"Weird person. Not Fenerox. Being polite!",
+			"Meeting stranger. Being friendly. New experience!",
+			"Odd person. Saying hello. Not Fenerox?",
+			"Friendly stranger. Feeling awkward. Cautiously optimistic!",
+			"New stranger. Not confident. Saying hello!"
+			
+		]
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/default/zabrak",
+		"value": [
+			"New person. No Smell. Quite exciting!",
+			"Odd person. Hopefully nice. Feeling cautious!",
+			"Weird person. Not Fenerox. Being polite!",
+			"Meeting stranger. Being friendly. New experience!",
+			"Odd person. Saying hello. Not Fenerox?",
+			"Friendly stranger. Feeling awkward. Cautiously optimistic!",
+			"New stranger. Not confident. Saying hello!"
+		]
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/default/ithorian",
+		"value": [
+			"New person. No Smell. Quite exciting!",
+			"Odd person. Hopefully nice. Feeling cautious!",
+			"Weird person. Not Fenerox. Being polite!",
+			"Meeting stranger. Being friendly. New experience!",
+			"Odd person. Saying hello. Not Fenerox?",
+			"Friendly stranger. Feeling awkward. Cautiously optimistic!",
+			"New stranger. Not confident. Saying hello!"
+		]
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/default/mawg",
+		"value": [
+			"New person. No Smell. Quite exciting!",
+			"Odd person. Hopefully nice. Feeling cautious!",
+			"Weird person. Not Fenerox. Being polite!",
+			"Meeting stranger. Being friendly. New experience!",
+			"Odd person. Saying hello. Not Fenerox?",
+			"Friendly stranger. Feeling awkward. Cautiously optimistic!",
+			"New stranger. Not confident. Saying hello!"
+		]
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/default/droid",
+		"value": [
+			"New person. No Smell. Quite exciting!",
+			"Odd person. Hopefully nice. Feeling cautious!",
+			"Weird person. Not Fenerox. Being polite!",
+			"Meeting stranger. Being friendly. New experience!",
+			"Odd person. Saying hello. Not Fenerox?",
+			"Friendly stranger. Feeling awkward. Cautiously optimistic!",
+			"New stranger. Not confident. Saying hello!"
+		]
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/default/bothan",
+		"value": [
+			"New person. No Smell. Quite exciting!",
+			"Odd person. Hopefully nice. Feeling cautious!",
+			"Weird person. Not Fenerox. Being polite!",
+			"Meeting stranger. Being friendly. New experience!",
+			"Odd person. Saying hello. Not Fenerox?",
+			"Friendly stranger. Feeling awkward. Cautiously optimistic!",
+			"New stranger. Not confident. Saying hello!"
+		]
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/default/twilek",
+		"value": [
+			"New person. No Smell. Quite exciting!",
+			"Odd person. Hopefully nice. Feeling cautious!",
+			"Weird person. Not Fenerox. Being polite!",
+			"Meeting stranger. Being friendly. New experience!",
+			"Odd person. Saying hello. Not Fenerox?",
+			"Friendly stranger. Feeling awkward. Cautiously optimistic!",
+			"New stranger. Not confident. Saying hello!"
+		]
+	},
+	
+	{
+		"op": "add",
+		"path": "/converse/default/sith",
+		"value": [
+			"New person. No Smell. Quite exciting!",
+			"Odd person. Hopefully nice. Feeling cautious!",
+			"Weird person. Not Fenerox. Being polite!",
+			"Meeting stranger. Being friendly. New experience!",
+			"Odd person. Saying hello. Not Fenerox?",
+			"Friendly stranger. Feeling awkward. Cautiously optimistic!",
+			"New stranger. Not confident. Saying hello!"
+		]
+	}
+]

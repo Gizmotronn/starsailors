@@ -1,0 +1,18 @@
+{
+  "itemName" : "SWM2imperialknightcape",
+  "inventoryIcon" : "imperialknighticon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "rarity" : "Uncommon",
+  "description" : "Imperial Knight Cape.",
+  "shortdescription" : "Imperial Knight Cape",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+
+  "statusEffects" : [
+    {
+      "stat" : "breathProtection",
+      "amount" : 1.0
+    }
+  ]
+}

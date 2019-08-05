@@ -1,0 +1,61 @@
+{
+  "itemName" : "SWMrodianlightsaber",
+  "price" : 460,
+  "level" : 4,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Lightsaber built for a Force-Sensitive.",
+  "shortdescription" : " Lightsaber",
+  "tooltipKind" : "sword",
+  "category" : "broadsword",
+  "twoHanded" : false,
+  "itemTags" : ["weapon", "melee", "broadsword"],
+
+  "inventoryIcon" : "rodiansabericon.png",
+
+  "animation" : "rodiansaber.animation",
+  "animationParts" : {
+    "blade" : "blade/blade.png",
+    "handle" : "handle/rodian.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/swing_lightsaber.ogg", "/sfx/melee/swing_lightsaber.ogg", "/sfx/melee/swing_lightsaber.ogg" ],
+      "fire2" : [ "/sfx/melee/swing_lightsaber.ogg", "/sfx/melee/swing_lightsaber.ogg", "/sfx/melee/swing_lightsaber.ogg" ],
+      "fire3" : [ "/sfx/melee/swing_lightsaber.ogg", "/sfx/melee/swing_lightsaber.ogg", "/sfx/melee/swing_lightsaber.ogg" ]
+    }
+  },
+
+  "scripts" : ["/items/active/weapons/melee/energymeleeweapon.lua"],
+
+  "activeTime" : 6.0,
+
+  "elementalType" : "physical",
+
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.83,
+    "baseDps" : 35.5,
+
+    "stances" : {
+      "fire1" : {
+        "duration" : 0.05
+      },
+      "wait1" : {
+        "duration" : 0.1
+      },
+      "fire2" : {
+        "duration" : 0.1
+      },
+      "wait2" : {
+        "duration" : 0.1
+      }
+    }
+  },
+
+  "altAbilityType" : "flipslash",
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+
+  
+}

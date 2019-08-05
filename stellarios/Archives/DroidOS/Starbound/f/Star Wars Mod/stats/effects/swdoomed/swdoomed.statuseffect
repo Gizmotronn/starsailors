@@ -1,0 +1,20 @@
+{
+  "name" : "SWdoomed",
+
+  "effectConfig" : {
+    "activateDelay" : 0.1,
+    "deactivateDelay" : 12.1,
+    "triggerDamageThreshold" : 1,
+    "explosionDamageAmount" : 400
+  },
+  "defaultDuration" : 20,
+
+  "scripts" : [
+    "swdoomed.lua"
+  ],
+
+  "animationConfig" : "swdoomed.animation",
+
+  "label" : "Doomed",
+  "icon" : "/interface/statuses/doomed.png"
+}

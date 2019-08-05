@@ -1,0 +1,9 @@
+{
+  "name" : "seadra",
+  "category" : "seadra",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "seadra.png"
+  }
+}

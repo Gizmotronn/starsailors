@@ -1,0 +1,9 @@
+{
+  "name" : "blastoise",
+  "category" : "blastoise",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "blastoise.png"
+  }
+}

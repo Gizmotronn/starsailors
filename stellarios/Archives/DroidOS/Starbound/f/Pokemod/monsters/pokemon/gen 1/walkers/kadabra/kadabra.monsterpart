@@ -1,0 +1,9 @@
+{
+  "name" : "kadabra",
+  "category" : "kadabra",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "kadabra.png"
+  }
+}

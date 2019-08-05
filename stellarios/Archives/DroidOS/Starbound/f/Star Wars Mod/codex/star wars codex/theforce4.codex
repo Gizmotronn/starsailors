@@ -1,0 +1,22 @@
+{
+	"id" : "theforce4",
+	"title" : "The Force Part 4",
+	"description" : "Information About The Force.",
+	"icon" : "starwarscover1.png",
+  "contentPages" : [
+  "As the schism between Jedi and Sith grew, their open hostility eventually turned to open war for both control of the galaxy and to impose their own philosophy with regards to the Force. During the days of the Old Republic, Sith and Jedi fought countless wars to destroy one another. Great battles were fought between the two warring orders and various ways of using the Force were discovered but later lost.",
+
+  "The Sith also took to sacrificing Jedi in ancient chambers on their homeworld of Moraband, places which would remain forever tainted with the darkness of the events that happened in there. The Sith also used these arts to create monsters, such as Sith snakes, which remained on Moraband until the days of the Clone Wars. ",
+  
+  "The wars between the Sith and the Jedi raged for centuries and several worlds of the galaxy were broken by their conflict, such as Moraband, which the Sith were eventually forced to abandon, and Malachor, site of an enormous battle that left the planet scorched with no survivors on either side. The Sith tombs in the Valley of the Dark Lords were also marked with the darkness of the deeds of those who had been buried there.",
+
+  "Both the Jedi and the Sith used lightsabers as their main weapons. These devices were powered by kyber crystals, special crystals with a strong connection to the Force. In addition to their study of the dark side, the Sith also took to building superweapons of power sufficient to destroy an entire planet. They would sometimes use giant kyber crystals to power these weapons.",
+  
+  "As such, gaining control of the source of the kyber crystals (which had a strong connection the Force) was vital to both sides of the conflict."
+
+  ],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

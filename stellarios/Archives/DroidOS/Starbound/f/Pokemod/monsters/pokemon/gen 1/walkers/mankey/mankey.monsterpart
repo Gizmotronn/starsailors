@@ -1,0 +1,9 @@
+{
+  "name" : "mankey",
+  "category" : "mankey",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "mankey.png"
+  }
+}

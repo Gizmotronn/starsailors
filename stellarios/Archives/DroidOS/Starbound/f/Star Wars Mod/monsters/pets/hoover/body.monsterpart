@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "pethoover",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "pethoover.png"
+  }
+}

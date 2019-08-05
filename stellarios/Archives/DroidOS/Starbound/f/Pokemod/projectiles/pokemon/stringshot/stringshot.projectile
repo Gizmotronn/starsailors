@@ -1,0 +1,18 @@
+{
+  "projectileName" : "stringshot",
+  "image" : "stringshot.png",
+  "animationCycle" : 0.25,
+  "physics" : "bullet",
+  "frameNumber" : 1,
+  "pointLight" : false,
+  "speed" : 35,
+  
+  "power" : 0.0,
+  "damageKind" : "default",
+   "statusEffects" : [
+    "pkmnslow"
+  ]
+ 
+}
+
+

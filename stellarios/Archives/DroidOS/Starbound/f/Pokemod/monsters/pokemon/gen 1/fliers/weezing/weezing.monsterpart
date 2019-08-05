@@ -1,0 +1,9 @@
+{
+  "name" : "weezing",
+  "category" : "weezing",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "weezing.png"
+  }
+}

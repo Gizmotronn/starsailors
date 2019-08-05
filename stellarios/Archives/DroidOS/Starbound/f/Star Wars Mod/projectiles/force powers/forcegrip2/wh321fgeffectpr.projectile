@@ -1,0 +1,14 @@
+{
+  "projectileName" : "wh321lfgeffectpr2",
+  "image" : "wh321invisibleweapon.png",
+  "animationCycle" : 1.0,
+  "frameNumber" : 1,
+  "damageKindImage" : "/interface/statuses/fire.png",
+  "damageKind" : "wh321invisible",
+  "power" : 0,
+  "timeToLive" : 1.1,
+  "damagePoly" : [ [0.1, 0.1], [-0.1, 0.1], [-0.1, -0.1], [0.1, -0.1] ],
+  "statusEffects" : [
+    "wh321forcegripstun", "wh321npcdrowning", "forcepoison2"
+  ]
+}

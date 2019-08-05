@@ -1,0 +1,12 @@
+{
+  "projectileName" : "pkmnember",
+  "image" : "ember.png",
+  "animationCycle" : 0.4,
+  "frameNumber" : 4,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  
+  "power" : 10.0,
+  "damageKind" : "fire",
+  "hydrophobic" : true
+}

@@ -1,0 +1,49 @@
+{
+  "objectName" : "sithbunkbed",
+  "colonyTags" : ["ithorian", "rodian", "mawg", "zabrak", "droid", "tuskan", "utapaun", "wookie", "sith", "bothan", "twilek", "diathim", "toydarian"],
+  "printable" : false,
+  "rarity" : "Uncommon",
+  "description" : "Sith Empire's barracks bed.",
+  "shortdescription" : "Bed Style 16",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 200,
+
+  "apexDescription" : "Sith Empire's barracks bed.",
+  "avianDescription" : "Sith Empire's barracks bed.",
+  "floranDescription" : "Sith Empire's barracks bed.",
+  "glitchDescription" : "Statement. Sith Empire's barracks bed.",
+  "humanDescription" : "Sith Empire's barracks bed.",
+  "hylotlDescription" : "Sith Empire's barracks bed.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 13],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/decor/beds/bed style 16/sithbunkbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "regeneration2"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "lightColor" : [255, 140, 140],
+  "flickerDistance" : 0.5,
+  "flickerStrength" : 0.1,
+  
+  "inventoryIcon" : "swtoricon3.png",
+  "orientations" : [
+    {
+      "dualImage" : "sithbunkbed.png:<color>",
+
+      "imagePosition" : [-24, 1],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

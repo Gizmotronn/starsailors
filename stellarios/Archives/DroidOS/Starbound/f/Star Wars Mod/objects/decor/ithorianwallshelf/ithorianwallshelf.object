@@ -1,0 +1,32 @@
+{
+  "objectName" : "ithorianwallshelf",
+  "colonyTags" : ["swrace", "ithorian","commerce","storage"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 70,
+
+  "description" : "A shelf used for displaying items.",
+  "shortdescription" : "Herdship Wall Shelf",
+  "race" : "ithorian",
+
+  "ithorianDescription" : "A shelf wall meant to be used in metallic-coloured settings, highly preferred by my people.",
+  "feneroxDescription" : "A shelf. Unusual material. Feeling curious!",
+  "humanDescription" : "It's a shelf, nothing more.",
+  "novakidDescription" : "It's a shelf, just like all the others I've seen before.",
+  "glitchDescription" : "Analytical. A shelf made of some unusual materials not naturally occurring in our galaxy.",
+
+  "inventoryIcon" : "ithorianwallshelficon.png",
+  "orientations" : [
+    {
+      "dualImage" : "ithorianwallshelf.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+      "collision" : "platform"
+
+    }
+  ]
+}
