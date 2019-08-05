@@ -21,3 +21,5 @@ This theme uses a plugin called [Youzer](http://youzer.kainelabs.com). The cool 
 I'd tangled with Youzer in the past when I was using the Thrive theme by Dunhakdis, however it had become a bit of an eyesore with Thrive contrasting strongly with it. I'd contemplated going back to it with Aardvark, however the Aardvark theme was fine without it.
 
 But a theme built *for* Youzer? That was something that I'd never seen before, and *definitely* something worth looking into. 
+
+The theme doesn't have many customization options available via the wordpress customizer, however there isn't really much need for the level of customization seen in the other themes I've used. The site looks perfect and definitely has a much more minimal look than the previous theme.
