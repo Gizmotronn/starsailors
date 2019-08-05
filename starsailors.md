@@ -16,10 +16,16 @@ The book is split into 10 parts - a prologue, 8 chapters, and an epilogue.
 * [Chapter 1](http://acord-robotics.github.io/starsailors/earth-ch-1)
 * [Chapter 2](http://acord-robotics.github.io/starsailors/earth-ch-2)
 * [Chapter 3](http://acord-robotics.github.io/starsailors/earth-ch-3)
+* [Chapter 4](http://acord-robotics.github.io/starsailors/earth-ch-4)
 
 ## The Game
 
 The game will be a 3D game like Starbound, starting off with following the plot of Star Sailors, and then the player forging his own path.
+
+* The development of the first Star Sailors game, a single-player game with a unique co-op function, is located at [The UnityBalls Repo](http://github.com/acord-robotics/unityballs)
+
+### Unity Balls
+* Repo is located at Github/IrisDroidology/Unityballs & Github/Acord-Robotics/Unityballs
 
 ### Game Occupations
 
