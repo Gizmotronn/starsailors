@@ -126,3 +126,20 @@ He made his way out of the square room he had woken up in and made his way throu
 There is a situation where you may be consciously thinking something, for example "I've got a doctors appointment at 3 pm", but at the *exact same time* another part of you may be thinking "I've got to leave very soon to get there." In these situations, there are 2 - and sometimes more - distinct voices that you can clearly understand. It was like this for Gilbert. His legs took him from his bunk into the mess hall, while he was thinking at the same time *Where am I going?* and *I hope I'm not late*. Gilbert would be able to take care of the fighters in his normal state of mind, but what about now?
 
 End of chapter 3
+
+# Chapter 4 Outline
+
+	• Starrix contacts Jayin
+	• Gilbert fights the mind control drug
+		○ Gilbert defeats the invading fleet (the invading fleet is captured through the ion cannons)
+		○ However, in his confusion he also accidentally shoots down Starrix's fighter
+	• Starrix rescued by Gilbert
+	• ---Cut to Senate---
+	• Jayin explains to the senate what is going on
+	• New character - scientist - comes up with explanation on what happened to Sol
+		○ Designs tool to retrieve scattered atoms - but needs mythical element (Siridium) - Unobtanium
+		○ Scientist flies to Starrix
+	• ---Cut to Opus---
+	• Opus sees his captor for the first time
+	• ---Cut to Gilbert
+Gilbert meets the scientist and plans a way to rescue Opus
